@@ -346,6 +346,7 @@ def json_to_md(filename,md_filename,
             for _,v in day_content.items():
                 if v is not None:
                     s = pretty_math(v)
+                    print(s)
                     time_str = s.split("|**")[1].split("**|")[0][:-2]
                     if dd != time_str:
                         dd = time_str
