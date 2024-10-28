@@ -3768,6 +3768,81 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
+## Adversarial attack
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**Adversarial Attacks on Large Language Models Using Regularized Relaxation**|Samuel Jacob Chacko et.al.|[2410.19160](http://arxiv.org/abs/2410.19160)|null|
+|**2024-10-24**|**GADT: Enhancing Transferable Adversarial Attacks through Gradient-guided Adversarial Data Transformation**|Yating Ma et.al.|[2410.18648](http://arxiv.org/abs/2410.18648)|null|
+|**2024-10-23**|**Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing**|Dongliang Guo et.al.|[2410.18267](http://arxiv.org/abs/2410.18267)|null|
+|**2024-10-23**|**Advancing NLP Security by Leveraging LLMs as Adversarial Engines**|Sudarshan Srinivasan et.al.|[2410.18215](http://arxiv.org/abs/2410.18215)|null|
+|**2024-10-23**|**Slot: Provenance-Driven APT Detection through Graph Reinforcement Learning**|Wei Qiao et.al.|[2410.17910](http://arxiv.org/abs/2410.17910)|null|
+|**2024-10-22**|**Detecting Adversarial Examples**|Furkan Mumcu et.al.|[2410.17442](http://arxiv.org/abs/2410.17442)|null|
+|**2024-10-22**|**Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods**|Tsachi Blau et.al.|[2410.17222](http://arxiv.org/abs/2410.17222)|null|
+|**2024-10-22**|**Test-time Adversarial Defense with Opposite Adversarial Path and High Attack Time Cost**|Cheng-Han Yeh et.al.|[2410.16805](http://arxiv.org/abs/2410.16805)|null|
+|**2024-10-23**|**IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems**|Yihuan Mao et.al.|[2410.16237](http://arxiv.org/abs/2410.16237)|null|
+|**2024-10-21**|**On the Geometry of Regularization in Adversarial Training: High-Dimensional Asymptotics and Generalization Bounds**|Matteo Vilucchio et.al.|[2410.16073](http://arxiv.org/abs/2410.16073)|null|
+
+## Poisoning attack
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Robust Thompson Sampling Algorithms Against Reward Poisoning Attacks**|Yinglun Xu et.al.|[2410.19705](http://arxiv.org/abs/2410.19705)|null|
+|**2024-10-22**|**Meta Stackelberg Game: Robust Federated Learning against Adaptive and Mixed Poisoning Attacks**|Tao Li et.al.|[2410.17431](http://arxiv.org/abs/2410.17431)|null|
+|**2024-10-21**|**Adversarial Inception for Bounded Backdoor Poisoning in Deep Reinforcement Learning**|Ethan Rathbun et.al.|[2410.13995](http://arxiv.org/abs/2410.13995)|null|
+|**2024-10-16**|**FedCAP: Robust Federated Learning via Customized Aggregation and Personalization**|Youpeng Li et.al.|[2410.13083](http://arxiv.org/abs/2410.13083)|**[link](https://github.com/youpengl/FedCAP)**|
+|**2024-10-14**|**Denial-of-Service Poisoning Attacks against Large Language Models**|Kuofeng Gao et.al.|[2410.10760](http://arxiv.org/abs/2410.10760)|**[link](https://github.com/sail-sg/p-dos)**|
+|**2024-10-14**|**Regularized Robustly Reliable Learners and Instance Targeted Attacks**|Avrim Blum et.al.|[2410.10572](http://arxiv.org/abs/2410.10572)|null|
+|**2024-10-13**|**Provably Reliable Conformal Prediction Sets in the Presence of Data Poisoning**|Yan Scholten et.al.|[2410.09878](http://arxiv.org/abs/2410.09878)|null|
+|**2024-10-11**|**Fragile Giants: Understanding the Susceptibility of Models to Subpopulation Attacks**|Isha Gupta et.al.|[2410.08872](http://arxiv.org/abs/2410.08872)|null|
+|**2024-10-11**|**PoisonBench: Assessing Large Language Model Vulnerability to Data Poisoning**|Tingchen Fu et.al.|[2410.08811](http://arxiv.org/abs/2410.08811)|**[link](https://github.com/tingchenfu/poisonbench)**|
+|**2024-10-09**|**PFAttack: Stealthy Attack Bypassing Group Fairness in Federated Learning**|Jiashi Gao et.al.|[2410.06509](http://arxiv.org/abs/2410.06509)|null|
+
+## Unlearnable example
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-13**|**UnSeg: One Universal Unlearnable Example Generator is Enough against All Image Segmentation**|Ye Sun et.al.|[2410.09909](http://arxiv.org/abs/2410.09909)|null|
+|**2024-08-15**|**Unlearnable Examples Detection via Iterative Filtering**|Yi Yu et.al.|[2408.08143](http://arxiv.org/abs/2408.08143)|null|
+|**2024-07-26**|**Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning**|Xinwei Liu et.al.|[2407.16307](http://arxiv.org/abs/2407.16307)|**[link](https://github.com/thinwayliu/multimodal-unlearnable-examples)**|
+|**2024-07-09**|**A Unified Learn-to-Distort-Data Framework for Privacy-Utility Trade-off in Trustworthy Federated Learning**|Xiaojin Zhang et.al.|[2407.04751](http://arxiv.org/abs/2407.04751)|null|
+|**2024-06-25**|**Semantic Deep Hiding for Robust Unlearnable Examples**|Ruohan Meng et.al.|[2406.17349](http://arxiv.org/abs/2406.17349)|null|
+|**2024-06-05**|**Nonlinear Transformations Against Unlearnable Datasets**|Thushari Hapuarachchi et.al.|[2406.02883](http://arxiv.org/abs/2406.02883)|null|
+|**2024-05-06**|**Provably Unlearnable Examples**|Derui Wang et.al.|[2405.03316](http://arxiv.org/abs/2405.03316)|null|
+|**2024-05-06**|**Purify Unlearnable Examples via Rate-Constrained Variational Autoencoders**|Yi Yu et.al.|[2405.01460](http://arxiv.org/abs/2405.01460)|**[link](https://github.com/yuyi-sd/d-vae)**|
+|**2024-03-21**|**Safeguarding Medical Image Segmentation Datasets against Unauthorized Training via Contour- and Texture-Aware Perturbations**|Xun Lin et.al.|[2403.14250](http://arxiv.org/abs/2403.14250)|null|
+|**2024-07-07**|**Medical Unlearnable Examples: Securing Medical Data from Unauthorized Training via Sparsity-Aware Local Masking**|Weixiang Sun et.al.|[2403.10573](http://arxiv.org/abs/2403.10573)|null|
+
+## Data privacy
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**FLiP: Privacy-Preserving Federated Learning based on the Principle of Least Privileg**|ShiMao Xu et.al.|[2410.19548](http://arxiv.org/abs/2410.19548)|null|
+|**2024-10-25**|**COMSPLIT: A Communication-Aware Split Learning Design for Heterogeneous IoT Platforms**|Vukan Ninkovic et.al.|[2410.19375](http://arxiv.org/abs/2410.19375)|null|
+|**2024-10-24**|**Knowledge-Assisted Privacy Preserving in Semantic Communication**|Xuesong Liu et.al.|[2410.18418](http://arxiv.org/abs/2410.18418)|null|
+|**2024-10-24**|**FedBaF: Federated Learning Aggregation Biased by a Foundation Model**|Jong-Ik Park et.al.|[2410.18352](http://arxiv.org/abs/2410.18352)|null|
+|**2024-10-23**|**LEGO: Language Model Building Blocks**|Shrenik Bhansali et.al.|[2410.18287](http://arxiv.org/abs/2410.18287)|null|
+|**2024-10-23**|**Towards Active Participant-Centric Vertical Federated Learning: Some Representations May Be All You Need**|Jon Irureta et.al.|[2410.17648](http://arxiv.org/abs/2410.17648)|null|
+|**2024-10-22**|**Publishing Neural Networks in Drug Discovery Might Compromise Training Data Privacy**|Fabian P. Krüger et.al.|[2410.16975](http://arxiv.org/abs/2410.16975)|null|
+|**2024-10-22**|**GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation**|Junyu Luo et.al.|[2410.16606](http://arxiv.org/abs/2410.16606)|**[link](https://github.com/luo-junyu/gala)**|
+|**2024-10-21**|**AI-Driven Innovations in Modern Cloud Computing**|Animesh Kumar et.al.|[2410.15960](http://arxiv.org/abs/2410.15960)|null|
+|**2024-10-21**|**Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation**|Yongguang Li et.al.|[2410.15811](http://arxiv.org/abs/2410.15811)|null|
+
+## Model Privacy
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**Does Differential Privacy Impact Bias in Pretrained NLP Models?**|Md. Khairul Islam et.al.|[2410.18749](http://arxiv.org/abs/2410.18749)|**[link](https://github.com/khairulislam/dp-on-nlp-bias)**|
+|**2024-10-01**|**PrivTuner with Homomorphic Encryption and LoRA: A P3EFT Scheme for Privacy-Preserving Parameter-Efficient Fine-Tuning of AI Foundation Models**|Yang Li et.al.|[2410.00433](http://arxiv.org/abs/2410.00433)|null|
+|**2024-09-10**|**A Pervasive, Efficient and Private Future: Realizing Privacy-Preserving Machine Learning Through Hybrid Homomorphic Encryption**|Khoa Nguyen et.al.|[2409.06422](http://arxiv.org/abs/2409.06422)|null|
+|**2024-08-01**|**Pathway to Secure and Trustworthy 6G for LLMs: Attacks, Defense, and Opportunities**|Sunder Ali Khowaja et.al.|[2408.00722](http://arxiv.org/abs/2408.00722)|null|
+|**2024-07-23**|**Representation Magnitude has a Liability to Privacy Vulnerability**|Xingli Fang et.al.|[2407.16164](http://arxiv.org/abs/2407.16164)|**[link](https://github.com/jekimlab/aies2024_srcm)**|
+|**2024-07-02**|**Footprints of Data in a Classifier Model: The Privacy Issues and Their Mitigation through Data Obfuscation**|Payel Sadhukhan et.al.|[2407.02268](http://arxiv.org/abs/2407.02268)|null|
+|**2024-06-26**|**Natural Language but Omitted? On the Ineffectiveness of Large Language Models' privacy policy from End-users' Perspective**|Shuning Zhang et.al.|[2406.18100](http://arxiv.org/abs/2406.18100)|null|
+|**2024-06-16**|**Promoting Data and Model Privacy in Federated Learning through Quantized LoRA**|JianHao Zhu et.al.|[2406.10976](http://arxiv.org/abs/2406.10976)|null|
+|**2024-06-21**|**A Survey on Intelligent Internet of Things: Applications, Security, Privacy, and Future Directions**|Ons Aouedi et.al.|[2406.03820](http://arxiv.org/abs/2406.03820)|null|
+|**2024-08-21**|**PrivCirNet: Efficient Private Inference via Block Circulant Transformation**|Tianshi Xu et.al.|[2405.14569](http://arxiv.org/abs/2405.14569)|**[link](https://github.com/tianshi-xu/privcirnet)**|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
