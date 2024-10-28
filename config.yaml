@@ -9,7 +9,7 @@ max_results: 20
 
 publish_readme: True
 publish_gitpage: True
-publish_wechat: False
+publish_wechat: True
 
 # file paths
 json_readme_path: './docs/adversarial-arxiv-daily.json'
@@ -24,11 +24,11 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "Adversarial attacks":
         filters: ["Adversarial attacks"]
-    "Poisoning attacks":
-        filters: ["Poisoning attacks", "Unlearnable examples", "Backdoor attacks", "Data poisoning"]
-    "Generative models":
-        filters: ["Generative models", "Poisoning attacks", "Unlearnable examples", "Backdoor attacks", "Data poisoning", "Adversarial attacks"]
-    "Data privacy":
-        filters: ["Data privacy"]
-    "Model Privacy":
-        filters: ["Model Privacy"]
+#    "Poisoning attacks":
+#        filters: ["Poisoning attacks", "Unlearnable examples", "Backdoor attacks", "Data poisoning"]
+#    "Generative models":
+#        filters: ["Generative models", "Poisoning attacks", "Unlearnable examples", "Backdoor attacks", "Data poisoning", "Adversarial attacks"]
+#    "Data privacy":
+#        filters: ["Data privacy"]
+#    "Model Privacy":
+#        filters: ["Model Privacy"]

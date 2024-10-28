@@ -343,28 +343,32 @@ def json_to_md(filename,md_filename,
             # sort papers by date
             day_content = sort_papers(day_content)
             # dd = ''
+            dic = {}
             for _,v in day_content.items():
                 if v is not None:
                     s = pretty_math(v)
-                    print(s)
-                    time_str = s.split("|**")[1].split("**|")[0][:-2]
-                    if dd != time_str:
-                        dd = time_str
-                        f.write(f"<h3>{dd}</h3>\n")
-                        flag = True
-                    if flag == True:
-                        if use_title == True:
-                            if use_b2t:
-                                top_info = f"#Updated on {DateNow}"
-                                top_info = top_info.replace(' ', '-').replace('.', '')
-                                f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
-                            if to_web == False:
-                                f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
-                            else:
-                                f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                                f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
-                        flag = False
-                    f.write(s) # make latex pretty
+                    try:
+                        time_str = s.split("|**")[1].split("**|")[0][:-2]
+                    except:
+                        time_str = s.split(",")[0][2:]
+                    try:
+                        dic[time_str] = dic[time_str] + s
+                    except:
+                        dic[time_str] = s
+
+            for key, val in dic.items():
+                f.write(f"<h3>{key}</h3>\n\n")
+                if use_title == True:
+                    if to_web == False:
+                        f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                    else:
+                        f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                        f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                f.write(val)
+                if use_b2t:
+                    top_info = f"#Updated on {DateNow}"
+                    top_info = top_info.replace(' ', '-').replace('.', '')
+                    f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
 
             f.write(f"\n")
 
