@@ -370,6 +370,8 @@ def json_to_md(filename,md_filename,
                     top_info = top_info.replace(' ', '-').replace('.', '')
                     f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
 
+                f.write(f"\n")
+                
             f.write(f"\n")
 
             #Add: back to top
