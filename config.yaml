@@ -24,11 +24,11 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "Adversarial attacks":
         filters: ["Adversarial attacks"]
-#    "Poisoning attacks":
-#        filters: ["Poisoning attacks", "Unlearnable examples", "Backdoor attacks", "Data poisoning"]
-#    "Generative models":
-#        filters: ["Generative models", "Poisoning attacks", "Unlearnable examples", "Backdoor attacks", "Data poisoning", "Adversarial attacks"]
-#    "Data privacy":
-#        filters: ["Data privacy"]
-#    "Model Privacy":
-#        filters: ["Model Privacy"]
+    "Poisoning attacks":
+        filters: ["Poisoning attacks", "Unlearnable examples", "Backdoor attacks", "Data poisoning"]
+    "Generative models":
+        filters: ["Generative models", "Poisoning attacks", "Unlearnable examples", "Backdoor attacks", "Data poisoning", "Adversarial attacks"]
+    "Data privacy":
+        filters: ["Data privacy"]
+    "Model Privacy":
+        filters: ["Model Privacy"]
