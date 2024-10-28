@@ -241,6 +241,10 @@ def update_json_file(filename,data_dict):
     with open(filename,"w") as f:
         json.dump(json_data,f)
 
+def parse_line_to_list(line):
+    # 使用split方法分割字符串，split的参数是'|'，maxsplit参数为1表示只分割一次，去除最外层的'|'
+    return [item.strip() for item in line.split('|')[1:-1]]
+
 def json_to_md(filename,md_filename,
                task = '',
                to_web = False,
@@ -361,17 +365,52 @@ def json_to_md(filename,md_filename,
                 if use_title == True:
                     if to_web == False:
                         f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                        f.write(val)
                     else:
-                        f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                        f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
-                f.write(val)
+                        # f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                        # f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                        f.write('<table>\n')
+                        f.write('   <thead>\n')
+                        f.write('       <tr>\n')
+                        f.write('           <th>Publish Date</th>\n')
+                        f.write('           <th>Title</th>\n')
+                        f.write('           <th>Authors</th>\n')
+                        f.write('           <th>PDF</th>\n')
+                        f.write('           <th>Code</th>\n')
+                        f.write('       </tr>\n')
+                        f.write('   </thead>\n')
+
+                        data_lists = [parse_line_to_list(line) for line in val.strip().split('\n') if line.strip()]
+
+                        f.write('   <tbody>\n')
+                        for row in data_lists:
+
+                            row[0] = f'<b>{row[0][2:-2]}</b>'
+                            row[1] = f'<b>{row[1][2:-2]}</b>'
+
+                            # 提取[]内的内容
+                            match_brackets = re.search(r'\[(.*?)\]', row[3])
+                            content_in_brackets = match_brackets.group(1) if match_brackets else None
+
+                            # 提取链接
+                            match_link = re.search(r'\((.*?)\)', row[3])
+                            link = match_link.group(1) if match_link else None
+
+                            row[3] = f'<a href="#{link}">{content_in_brackets}</a>'
+                            f.write('       <tr>\n')
+                            for cell in row:
+                                f.write(f'    <td>{cell}</td>\n')
+                            f.write('       </tr>\n')
+                        f.write('   </tbody>\n')
+                            # 写入表格的结束标签
+                        f.write('</table>\n')
+
                 if use_b2t:
                     top_info = f"#Updated on {DateNow}"
                     top_info = top_info.replace(' ', '-').replace('.', '')
                     f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
 
-                f.write(f"\n")
-                
+                # f.write(f"\n")
             f.write(f"\n")
 
             #Add: back to top
@@ -450,7 +489,7 @@ def demo(**config):
         else:
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
-            to_web = True, show_badge = show_badge, use_tc=False, use_b2t=False)
+            to_web = True, show_badge = show_badge) # , use_tc=False, use_b2t=False
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
