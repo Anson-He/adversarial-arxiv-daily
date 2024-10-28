@@ -23,7 +23,7 @@ This codebase is composed of the following parts:
 
 1. Fork this [repo](https://github.com/Vincentqyw/cv-arxiv-daily)
 2. Edit configs:
-    - Change `GITHUB_USER_NAME` and `GITHUB_USER_EMAIL` in [cv-arxiv-daily.yml](../.github/workflows/cv-arxiv-daily.yml) and [update_paper_links.yml](../.github/workflows/update_paper_links.yml)
+    - Change `GITHUB_USER_NAME` and `GITHUB_USER_EMAIL` in [cv-arxiv-daily.yml](../.github/workflows/adversarial-arxiv-daily.yml) and [update_paper_links.yml](../.github/workflows/update_paper_links.yml)
     - Change `user_name` in [config.yaml](../config.yaml)
     - Push changes to remote repo
 3. Config Github Actions
