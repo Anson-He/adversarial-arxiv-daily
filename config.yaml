@@ -5,16 +5,16 @@ repo_name: "adversarial-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 20
 
 publish_readme: True
 publish_gitpage: True
 publish_wechat: False
 
 # file paths
-json_readme_path: './docs/cv-arxiv-daily.json'
-json_gitpage_path: './docs/cv-arxiv-daily-web.json'
-json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+json_readme_path: './docs/adversarial-arxiv-daily.json'
+json_gitpage_path: './docs/adversarial-arxiv-daily-web.json'
+json_wechat_path: './docs/adversarial-arxiv-daily-wechat.json'
 
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
@@ -22,12 +22,12 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Adversarial attack": 
-        filters: ["Adversarial attack"]
-    "Poisoning attack":
-        filters: ["Poisoning attack"]
-    "Unlearnable example":
-        filters: ["Unlearnable example"]
+    "Adversarial attacks":
+        filters: ["Adversarial attacks"]
+    "Poisoning attacks":
+        filters: ["Poisoning attacks", "Unlearnable examples", "Backdoor attacks", "Data poisoning"]
+    "Generative models":
+        filters: ["Generative models", "Poisoning attacks", "Unlearnable examples", "Backdoor attacks", "Data poisoning", "Adversarial attacks"]
     "Data privacy":
         filters: ["Data privacy"]
     "Model Privacy":

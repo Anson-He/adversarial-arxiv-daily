@@ -84,7 +84,7 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
 
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic,query="adversarial attacks", max_results=2):
     """
     @param topic: str
     @param query: str
@@ -113,6 +113,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         update_time         = result.updated.date()
         comments            = result.comment
 
+
         logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
         # eg: 2108.09112v1 -> 2108.09112
@@ -121,40 +122,40 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id
         else:
             paper_key = paper_id[0:ver_pos]
-        paper_url = arxiv_url + 'abs/' + paper_key
+            paper_url = arxiv_url + 'abs/' + paper_key
 
-        try:
-            # source code link
-            r = requests.get(code_url).json()
-            repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-            # TODO: not found, two more chances
-            # else:
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
+            try:
+                # source code link
+                r = requests.get(code_url).json()
+                repo_url = None
+                if "official" in r and r["official"]:
+                    repo_url = r["official"]["url"]
+                # TODO: not found, two more chances
+                # else:
+                #    repo_url = get_code_link(paper_title)
+                #    if repo_url is None:
+                #        repo_url = get_code_link(paper_key)
+                if repo_url is not None:
+                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+                        update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
+                    content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
+                        update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
 
-            else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
+                else:
+                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                        update_time,paper_title,paper_first_author,paper_key,paper_url)
+                    content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+                           update_time,paper_title,paper_first_author,paper_url,paper_url)
 
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
+                # TODO: select useful comments
+                comments = None
+                if comments != None:
+                    content_to_web[paper_key] += f", {comments}\n"
+                else:
+                    content_to_web[paper_key] += f"\n"
 
-        except Exception as e:
-            logging.error(f"exception: {e} with id: {paper_key}")
+            except Exception as e:
+                logging.error(f"exception: {e} with id: {paper_key}")
 
     data = {topic:content}
     data_web = {topic:content_to_web}
@@ -282,7 +283,7 @@ def json_to_md(filename,md_filename,
         pass
 
     # write data into README.md
-    with open(md_filename,"a+") as f:
+    with open(md_filename,"a+", encoding='utf8') as f:
 
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
@@ -305,8 +306,7 @@ def json_to_md(filename,md_filename,
 
         #Add: table of contents
         if use_tc == True:
-            f.write("<details>\n")
-            f.write("  <summary>Table of Contents</summary>\n")
+            f.write("<h2>Contents</h2>\n")
             f.write("  <ol>\n")
             for keyword in data.keys():
                 day_content = data[keyword]
@@ -315,8 +315,9 @@ def json_to_md(filename,md_filename,
                 kw = keyword.replace(' ','-')
                 f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
             f.write("  </ol>\n")
-            f.write("</details>\n\n")
 
+
+        f.write("\n")
         for keyword in data.keys():
             day_content = data[keyword]
             if not day_content:
@@ -324,27 +325,53 @@ def json_to_md(filename,md_filename,
             # the head of each part
             f.write(f"## {keyword}\n\n")
 
-            if use_title == True :
-                if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
-                else:
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+            dd = ''
+            # print(day_content)
+            # time_str = s.split("|**")[1].split("**|")[0]
+            # if dd != time_str:
+            #     dd = time_str
+            # f.write(dd)
 
+            # if use_title == True :
+            #     if to_web == False:
+            #         f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+            #     else:
+            #         f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+            #         f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+
+            flag = False
             # sort papers by date
             day_content = sort_papers(day_content)
-
+            # dd = ''
             for _,v in day_content.items():
                 if v is not None:
-                    f.write(pretty_math(v)) # make latex pretty
+                    s = pretty_math(v)
+                    time_str = s.split("|**")[1].split("**|")[0][:-2]
+                    if dd != time_str:
+                        dd = time_str
+                        f.write(f"<h3>{dd}</h3>\n")
+                        flag = True
+                    if flag == True:
+                        if use_title == True:
+                            if use_b2t:
+                                top_info = f"#Updated on {DateNow}"
+                                top_info = top_info.replace(' ', '-').replace('.', '')
+                                f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
+                            if to_web == False:
+                                f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                            else:
+                                f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                                f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                        flag = False
+                    f.write(s) # make latex pretty
 
             f.write(f"\n")
 
             #Add: back to top
-            if use_b2t:
-                top_info = f"#Updated on {DateNow}"
-                top_info = top_info.replace(' ','-').replace('.','')
-                f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
+            # if use_b2t:
+            #     top_info = f"#Updated on {DateNow}"
+            #     top_info = top_info.replace(' ','-').replace('.','')
+            #     f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
 
         if show_badge == True:
             # we don't like long string, break it!
