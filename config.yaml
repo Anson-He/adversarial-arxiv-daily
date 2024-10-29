@@ -5,7 +5,7 @@ repo_name: "adversarial-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 20
+max_results: 100
 
 publish_readme: True
 publish_gitpage: True
@@ -26,9 +26,11 @@ keywords:
         filters: ["Adversarial attacks"]
     "Poisoning attacks":
         filters: ["Poisoning attacks", "Unlearnable examples", "Backdoor attacks", "Data poisoning"]
-    "Generative models":
+    "Generative models safety":
         filters: ["Generative models", "Poisoning attacks", "Unlearnable examples", "Backdoor attacks", "Data poisoning", "Adversarial attacks"]
     "Data privacy":
         filters: ["Data privacy"]
     "Model Privacy":
         filters: ["Model Privacy"]
+    "AICG":
+        filters: ["Generative models","AIGC","LLM"]

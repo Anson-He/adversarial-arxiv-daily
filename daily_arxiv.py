@@ -310,15 +310,26 @@ def json_to_md(filename,md_filename,
 
         #Add: table of contents
         if use_tc == True:
-            f.write("<h2>Contents</h2>\n")
-            f.write("  <ol>\n")
-            for keyword in data.keys():
-                day_content = data[keyword]
-                if not day_content:
-                    continue
-                kw = keyword.replace(' ','-')
-                f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
-            f.write("  </ol>\n")
+            if to_web == True:
+                f.write("<h2>Contents</h2>\n")
+                f.write("  <ol>\n")
+                for keyword in data.keys():
+                    day_content = data[keyword]
+                    if not day_content:
+                        continue
+                    kw = keyword.replace(' ', '-')
+                    f.write(f"    <li><b>{keyword}</b></li>\n")
+                f.write("  </ol>\n")
+            else:
+                f.write("<h2>Contents</h2>\n")
+                f.write("  <ol>\n")
+                for keyword in data.keys():
+                    day_content = data[keyword]
+                    if not day_content:
+                        continue
+                    kw = keyword.replace(' ','-')
+                    f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
+                f.write("  </ol>\n")
 
 
         f.write("\n")
@@ -360,6 +371,7 @@ def json_to_md(filename,md_filename,
                     except:
                         dic[time_str] = s
 
+            dic = dict(sorted(dic.items(), key=lambda x: x[0], reverse=True))
             for key, val in dic.items():
                 f.write(f"<h3>{key}</h3>\n\n")
                 if use_title == True:
@@ -404,6 +416,10 @@ def json_to_md(filename,md_filename,
                         f.write('   </tbody>\n')
                             # 写入表格的结束标签
                         f.write('</table>\n')
+                else:
+                    # f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                    # f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                    f.write(val)
 
                 if use_b2t:
                     top_info = f"#Updated on {DateNow}"
@@ -489,7 +505,7 @@ def demo(**config):
         else:
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
-            to_web = True, show_badge = show_badge) # , use_tc=False, use_b2t=False
+            to_web = True, show_badge = show_badge, use_b2t=False) # , use_tc=False, use_b2t=False
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
