@@ -99,7 +99,7 @@ layout: default
     <td><b>Transferable Adversarial Attacks on SAM and Its Downstream Models</b></td>
     <td>Song Xia et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20197">2410.20197</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/xiasong0501/grat)**</td>
        </tr>
        <tr>
     <td><b>2024-10-26</b></td>
@@ -2511,7 +2511,7 @@ layout: default
     <td><b>Uncovering Safety Risks of Large Language Models through Concept Activation Vector</b></td>
     <td>Zhihao Xu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2404.12038">2404.12038</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/sproutnan/ai-safety_scav)**</td>
        </tr>
    </tbody>
 </table>
@@ -7305,7 +7305,7 @@ layout: default
     <td><b>Mitigating Unauthorized Speech Synthesis for Voice Protection</b></td>
     <td>Zhisheng Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20742">2410.20742</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/wxzyd123/pivotal_objective_perturbation)**</td>
        </tr>
    </tbody>
 </table>
@@ -8999,7 +8999,7 @@ layout: default
     <td><b>Trajectory Flow Matching with Applications to Clinical Time Series Modeling</b></td>
     <td>Xi Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21154">2410.21154</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/nzhangx/trajectoryflowmatching)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9097,7 +9097,7 @@ layout: default
     <td><b>Geo-FuB: A Method for Constructing an Operator-Function Knowledge Base for Geospatial Code Generation Tasks Using Large Language Models</b></td>
     <td>Shuyang Hou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20975">2410.20975</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/whuhsy/geo-fub)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9118,7 +9118,7 @@ layout: default
     <td><b>Autoformalize Mathematical Statements by Symbolic Equivalence and Semantic Consistency</b></td>
     <td>Zenan Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20936">2410.20936</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/miracle-messi/isa-autoformal)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9139,7 +9139,7 @@ layout: default
     <td><b>Hacking Back the AI-Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks</b></td>
     <td>Dario Pasquini et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20911">2410.20911</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/pasquini-dario/project_mantis)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9167,7 +9167,7 @@ layout: default
     <td><b>AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline</b></td>
     <td>Dongkyu Kim et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20878">2410.20878</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/marker-inc-korea/autorag_aragog_paper)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9195,7 +9195,7 @@ layout: default
     <td><b>A Simple Yet Effective Corpus Construction Framework for Indonesian Grammatical Error Correction</b></td>
     <td>Nankai Lin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20838">2410.20838</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/gklmip/gec-construction-framework)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9209,7 +9209,7 @@ layout: default
     <td><b>NewTerm: Benchmarking Real-Time New Terms for Large Language Models with Annual Updates</b></td>
     <td>Hexuan Deng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20814">2410.20814</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/hexuandeng/newterm)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9237,7 +9237,7 @@ layout: default
     <td><b>Graph-based Uncertainty Metrics for Long-form Language Model Outputs</b></td>
     <td>Mingjian Jiang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20783">2410.20783</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mingjianjiang-1/graph-based-uncertainty)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9251,7 +9251,7 @@ layout: default
     <td><b>KD-LoRA: A Hybrid Approach to Efficient Fine-Tuning with LoRA and Knowledge Distillation</b></td>
     <td>Rambod Azimi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20777">2410.20777</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/rambodazimi/kd-lora)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9293,7 +9293,7 @@ layout: default
     <td><b>Shopping MMLU: A Massive Multi-Task Online Shopping Benchmark for Large Language Models</b></td>
     <td>Yilun Jin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20745">2410.20745</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/kl4805/shoppingmmlu)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9342,7 +9342,7 @@ layout: default
     <td><b>Segmenting Watermarked Texts From Language Models</b></td>
     <td>Xingchi Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20670">2410.20670</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/doccstat/llm-watermark-cpd)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9363,7 +9363,7 @@ layout: default
     <td><b>GenUP: Generative User Profilers as In-Context Learners for Next POI Recommender Systems</b></td>
     <td>Wilson Wongso et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20643">2410.20643</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/w11wo/genup)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9427,7 +9427,7 @@ layout: default
     <td><b>Implementation and Application of an Intelligibility Protocol for Interaction with an LLM</b></td>
     <td>Ashwin Srinivasan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20600">2410.20600</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/karannb/interact)**</td>
        </tr>
        <tr>
     <td><b>2024-10-27</b></td>
@@ -9448,7 +9448,7 @@ layout: default
     <td><b>SPICEPilot: Navigating SPICE Code Generation and Simulation with AI Guidance</b></td>
     <td>Deepak Vungarala et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20553">2410.20553</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/acadlab/spicepilot)**</td>
        </tr>
        <tr>
     <td><b>2024-10-27</b></td>
@@ -9469,7 +9469,7 @@ layout: default
     <td><b>Guiding Through Complexity: What Makes Good Supervision for Hard Reasoning Tasks?</b></td>
     <td>Xuan He et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20533">2410.20533</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/hexuan21/weak-to-strong)**</td>
        </tr>
        <tr>
     <td><b>2024-10-27</b></td>
@@ -9574,14 +9574,14 @@ layout: default
     <td><b>Sequential Large Language Model-Based Hyper-Parameter Optimization</b></td>
     <td>Kanan Mahammadli et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20302">2410.20302</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/kananmahammadli/sllmbo)**</td>
        </tr>
        <tr>
     <td><b>2024-10-27</b></td>
     <td><b>Learning from Response not Preference: A Stackelberg Approach for LLM Detoxification using Non-parallel Data</b></td>
     <td>Xinhong Xie et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20298">2410.20298</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/xxxinhong/detoxification_llm)**</td>
        </tr>
        <tr>
     <td><b>2024-10-27</b></td>
