@@ -7,9 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.28
+## Updated on 2024.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
+<h2>Contents</h2>
+  <ol>
+    <li><a href=#adversarial-attacks>Adversarial attacks</a></li>
+    <li><a href=#poisoning-attacks>Poisoning attacks</a></li>
+    <li><a href=#generative-models>Generative models</a></li>
+    <li><a href=#data-privacy>Data privacy</a></li>
+    <li><a href=#model-privacy>Model Privacy</a></li>
+  </ol>
 
 ## Adversarial attacks
 
@@ -42,7 +50,9 @@ layout: default
        </tr>
    </tbody>
 </table>
-<h3>2024-10-23</h3>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
+<h3>2024-10-25</h3>
 
 <table>
    <thead>
@@ -56,12 +66,29 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2024-10-23</b></td>
+    <td><b>2024-10-25</b></td>
     <td><b>Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing</b></td>
     <td>Dongliang Guo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.18267">2410.18267</a></td>
     <td>null</td>
        </tr>
+   </tbody>
+</table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
+<h3>2024-10-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
        <tr>
     <td><b>2024-10-23</b></td>
     <td><b>Advancing NLP Security by Leveraging LLMs as Adversarial Engines</b></td>
@@ -85,6 +112,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-22</h3>
 
 <table>
@@ -121,6 +150,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-21</h3>
 
 <table>
@@ -157,6 +188,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-20</h3>
 
 <table>
@@ -179,6 +212,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-19</h3>
 
 <table>
@@ -215,6 +250,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-18</h3>
 
 <table>
@@ -258,6 +295,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 
 ## Poisoning attacks
 
@@ -288,8 +327,17 @@ layout: default
     <td><a href="#http://arxiv.org/abs/2410.19427">2410.19427</a></td>
     <td>**[link](https://github.com/bboylyg/expose-before-you-defend)**</td>
        </tr>
+       <tr>
+    <td><b>2024-10-25</b></td>
+    <td><b>Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing</b></td>
+    <td>Dongliang Guo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.18267">2410.18267</a></td>
+    <td>null</td>
+       </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-23</h3>
 
 <table>
@@ -305,13 +353,6 @@ layout: default
    <tbody>
        <tr>
     <td><b>2024-10-23</b></td>
-    <td><b>Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing</b></td>
-    <td>Dongliang Guo et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.18267">2410.18267</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-23</b></td>
     <td><b>Securing Federated Learning Against Novel and Classic Backdoor Threats During Foundation Model Integration</b></td>
     <td>Xiaohuan Bi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.17573">2410.17573</a></td>
@@ -319,6 +360,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-22</h3>
 
 <table>
@@ -341,6 +384,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-19</h3>
 
 <table>
@@ -363,6 +408,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-15</h3>
 
 <table>
@@ -399,6 +446,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-18</h3>
 
 <table>
@@ -435,6 +484,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-21</h3>
 
 <table>
@@ -457,6 +508,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-17</h3>
 
 <table>
@@ -486,6 +539,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-16</h3>
 
 <table>
@@ -515,6 +570,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-14</h3>
 
 <table>
@@ -551,6 +608,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 
 ## Generative models
 
@@ -653,6 +712,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-24</h3>
 
 <table>
@@ -724,6 +785,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 
 ## Data privacy
 
@@ -756,6 +819,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-24</h3>
 
 <table>
@@ -785,6 +850,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-23</h3>
 
 <table>
@@ -814,6 +881,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-22</h3>
 
 <table>
@@ -843,6 +912,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-21</h3>
 
 <table>
@@ -865,13 +936,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2024-10-21</b></td>
-    <td><b>Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation</b></td>
-    <td>Yongguang Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.15811">2410.15811</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-21</b></td>
     <td><b>ZK-DPPS: A Zero-Knowledge Decentralised Data Sharing and Processing Middleware</b></td>
     <td>Amir Jabbari et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.15568">2410.15568</a></td>
@@ -886,6 +950,32 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
+<h3>2024-10-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-10-26</b></td>
+    <td><b>Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation</b></td>
+    <td>Yongguang Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.15811">2410.15811</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-20</h3>
 
 <table>
@@ -922,6 +1012,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-19</h3>
 
 <table>
@@ -944,6 +1036,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-18</h3>
 
 <table>
@@ -980,6 +1074,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-17</h3>
 
 <table>
@@ -1002,6 +1098,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 
 ## Model Privacy
 
@@ -1027,6 +1125,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-10-01</h3>
 
 <table>
@@ -1049,6 +1149,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-09-10</h3>
 
 <table>
@@ -1071,6 +1173,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-08-01</h3>
 
 <table>
@@ -1093,6 +1197,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-07-23</h3>
 
 <table>
@@ -1115,6 +1221,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-07-02</h3>
 
 <table>
@@ -1137,6 +1245,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-06-26</h3>
 
 <table>
@@ -1159,6 +1269,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-06-16</h3>
 
 <table>
@@ -1181,6 +1293,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-04-17</h3>
 
 <table>
@@ -1203,6 +1317,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-06-21</h3>
 
 <table>
@@ -1225,6 +1341,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-08-21</h3>
 
 <table>
@@ -1247,6 +1365,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-03-29</h3>
 
 <table>
@@ -1269,6 +1389,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-04-19</h3>
 
 <table>
@@ -1291,6 +1413,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-03-17</h3>
 
 <table>
@@ -1313,6 +1437,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-08-19</h3>
 
 <table>
@@ -1335,6 +1461,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-02-26</h3>
 
 <table>
@@ -1357,6 +1485,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-03-11</h3>
 
 <table>
@@ -1379,6 +1509,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-02-09</h3>
 
 <table>
@@ -1401,6 +1533,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-02-11</h3>
 
 <table>
@@ -1423,6 +1557,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 <h3>2024-01-21</h3>
 
 <table>
@@ -1445,6 +1581,8 @@ layout: default
        </tr>
    </tbody>
 </table>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
