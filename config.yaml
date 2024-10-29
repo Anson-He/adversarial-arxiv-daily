@@ -27,7 +27,7 @@ keywords:
     "Poisoning attacks":
         filters: ["Poisoning attacks", "Unlearnable examples", "Backdoor attacks", "Data poisoning"]
     "Generative models safety":
-        filters: ["Generative models", "Poisoning attacks", "Unlearnable examples", "Backdoor attacks", "Data poisoning", "Adversarial attacks"]
+        filters: ["generative model security","security of generative models","generative models and safety"]
     "Data privacy":
         filters: ["Data privacy"]
     "Model Privacy":
