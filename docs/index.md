@@ -6676,7 +6676,7 @@ layout: default
     <td><b>Counting Ability of Large Language Models and Impact of Tokenization</b></td>
     <td>Xiang Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.19730">2410.19730</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/juntaic7/impact-of-tokenization-in-the-counting-ability-of-language-models)**</td>
        </tr>
        <tr>
     <td><b>2024-10-25</b></td>
@@ -6774,7 +6774,7 @@ layout: default
     <td><b>Detection of Human and Machine-Authored Fake News in Urdu</b></td>
     <td>Muhammad Zain Ali et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.19517">2410.19517</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/zainali93/UrduHMFND2024)**</td>
        </tr>
        <tr>
     <td><b>2024-10-25</b></td>
@@ -6837,7 +6837,7 @@ layout: default
     <td><b>ShifCon: Enhancing Non-Dominant Language Capabilities with a Shift-based Contrastive Framework</b></td>
     <td>Hengyuan Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.19453">2410.19453</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/rattlesnakey/ShifCon)**</td>
        </tr>
        <tr>
     <td><b>2024-10-25</b></td>
@@ -7104,7 +7104,7 @@ layout: default
     <td><b>PDL: A Declarative Prompt Programming Language</b></td>
     <td>Mandana Vaziri et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.19135">2410.19135</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/IBM/prompt-declaration-language)**</td>
        </tr>
        <tr>
     <td><b>2024-10-24</b></td>
