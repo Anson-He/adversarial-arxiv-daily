@@ -23,14 +23,16 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Adversarial attacks":
-        filters: ["Adversarial attacks"]
+        filters: ["Adversarial attacks", "Adversarial examples"]
     "Poisoning attacks":
         filters: ["Poisoning attacks", "Unlearnable examples", "Backdoor attacks", "Data poisoning"]
     "Generative models safety":
-        filters: ["generative model security","security of generative models","generative models and safety"]
+        filters: ["LLM safety", "AIGC safety", "Diffusion models safety", "Generative models safety"]
     "Data privacy":
         filters: ["Data privacy"]
     "Model Privacy":
         filters: ["Model Privacy"]
+    "Forensics":
+        filters: ["AI Forensics", "Deepfake"]
     "AICG":
         filters: ["Generative models","AIGC","LLM"]
