@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.29
+## Updated on 2024.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2024-10-29</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-10-29</b></td>
+    <td><b>Transferable Adversarial Attacks on SAM and Its Downstream Models</b></td>
+    <td>Song Xia et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.20197">2410.20197</a></td>
+    <td>**[link](https://github.com/xiasong0501/grat)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-10-28</h3>
 
 <table>
@@ -96,13 +118,6 @@ layout: default
    <tbody>
        <tr>
     <td><b>2024-10-26</b></td>
-    <td><b>Transferable Adversarial Attacks on SAM and Its Downstream Models</b></td>
-    <td>Song Xia et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.20197">2410.20197</a></td>
-    <td>**[link](https://github.com/xiasong0501/grat)**</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-26</b></td>
     <td><b>Adversarial Attacks Against Double RIS-Assisted MIMO Systems-based Autoencoder in Finite-Scattering Environments</b></td>
     <td>Bui Duc Son et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20103">2410.20103</a></td>
@@ -157,7 +172,7 @@ layout: default
     <td><b>Adversarial Attacks on Large Language Models Using Regularized Relaxation</b></td>
     <td>Samuel Jacob Chacko et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.19160">2410.19160</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/sj21j/Regularized_Relaxation)**</td>
        </tr>
        <tr>
     <td><b>2024-10-24</b></td>
@@ -3989,6 +4004,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2024-10-29</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-10-29</b></td>
+    <td><b>Optimal Communication and Key Rate Region for Hierarchical Secure Aggregation with User Collusion</b></td>
+    <td>Xiang Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.14035">2410.14035</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-10-28</h3>
 
 <table>
@@ -4018,9 +4055,9 @@ layout: default
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
-    <td><b>Optimal Communication and Key Rate Region for Hierarchical Secure Aggregation with User Collusion</b></td>
-    <td>Xiang Zhang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.14035">2410.14035</a></td>
+    <td><b>Does Worst-Performing Agent Lead the Pack? Analyzing Agent Dynamics in Unified Distributed SGD</b></td>
+    <td>Jie Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2409.17499">2409.17499</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -5048,13 +5085,6 @@ layout: default
     <td><a href="#http://arxiv.org/abs/2409.17578">2409.17578</a></td>
     <td>null</td>
        </tr>
-       <tr>
-    <td><b>2024-09-26</b></td>
-    <td><b>Does Worst-Performing Agent Lead the Pack? Analyzing Agent Dynamics in Unified Distributed SGD</b></td>
-    <td>Jie Hu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2409.17499">2409.17499</a></td>
-    <td>null</td>
-       </tr>
    </tbody>
 </table>
 <h3>2024-09-25</h3>
@@ -5232,6 +5262,28 @@ layout: default
 
 ## Model Privacy
 
+<h3>2024-10-29</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-10-29</b></td>
+    <td><b>PrivCirNet: Efficient Private Inference via Block Circulant Transformation</b></td>
+    <td>Tianshi Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2405.14569">2405.14569</a></td>
+    <td>**[link](https://github.com/tianshi-xu/privcirnet)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-10-24</h3>
 
 <table>
@@ -5295,28 +5347,6 @@ layout: default
     <td>Khoa Nguyen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2409.06422">2409.06422</a></td>
     <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2024-08-21</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2024-08-21</b></td>
-    <td><b>PrivCirNet: Efficient Private Inference via Block Circulant Transformation</b></td>
-    <td>Tianshi Xu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2405.14569">2405.14569</a></td>
-    <td>**[link](https://github.com/tianshi-xu/privcirnet)**</td>
        </tr>
    </tbody>
 </table>
@@ -8890,6 +8920,28 @@ layout: default
 
 ## AICG
 
+<h3>2024-10-29</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-10-29</b></td>
+    <td><b>Instruction-Tuned LLMs Succeed in Document-Level MT Without Fine-Tuning -- But BLEU Turns a Blind Eye</b></td>
+    <td>Yirong Sun et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.20941">2410.20941</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-10-28</h3>
 
 <table>
@@ -9104,13 +9156,6 @@ layout: default
     <td><b>DeTeCtive: Detecting AI-generated Text via Multi-Level Contrastive Learning</b></td>
     <td>Xun Guo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20964">2410.20964</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-28</b></td>
-    <td><b>Instruction-Tuned LLMs Succeed in Document-Level MT Without Fine-Tuning -- But BLEU Turns a Blind Eye</b></td>
-    <td>Yirong Sun et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.20941">2410.20941</a></td>
     <td>null</td>
        </tr>
        <tr>
