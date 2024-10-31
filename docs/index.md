@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2024-10-30</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-10-30</b></td>
+    <td><b>Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models</b></td>
+    <td>Lu Yu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.21802">2410.21802</a></td>
+    <td>**[link](https://github.com/zhyblue424/tga-zsr)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-10-29</h3>
 
 <table>
@@ -41,21 +63,14 @@ layout: default
     <td><b>Embedding-based classifiers can detect prompt injection attacks</b></td>
     <td>Md. Ahsan Ayub et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.22284">2410.22284</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/AhsanAyub/malicious-prompt-detection)**</td>
        </tr>
        <tr>
     <td><b>2024-10-29</b></td>
     <td><b>On the Robustness of Adversarial Training Against Uncertainty Attacks</b></td>
     <td>Emanuele Ledda et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21952">2410.21952</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-29</b></td>
-    <td><b>Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models</b></td>
-    <td>Lu Yu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.21802">2410.21802</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/EmanueleLedda97/UncertaintyAdversarialRobustness)**</td>
        </tr>
        <tr>
     <td><b>2024-10-29</b></td>
@@ -134,7 +149,7 @@ layout: default
     <td><b>LLM Robustness Against Misinformation in Biomedical Question Answering</b></td>
     <td>Alexander Bondarenko et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21330">2410.21330</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/alebondarenko/llm-robustness)**</td>
        </tr>
        <tr>
     <td><b>2024-10-27</b></td>
@@ -214,7 +229,7 @@ layout: default
     <td><b>Adversarial Attacks on Large Language Models Using Regularized Relaxation</b></td>
     <td>Samuel Jacob Chacko et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.19160">2410.19160</a></td>
-    <td>**[link](https://github.com/sj21j/Regularized_Relaxation)**</td>
+    <td>null</td>
        </tr>
        <tr>
     <td><b>2024-10-24</b></td>
@@ -2598,7 +2613,7 @@ layout: default
     <td><b>SG-Bench: Evaluating LLM Safety Generalization Across Diverse Tasks and Prompt Types</b></td>
     <td>Yutao Mou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21965">2410.21965</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/MurrayTom/SG-Bench)**</td>
        </tr>
    </tbody>
 </table>
@@ -4166,14 +4181,14 @@ layout: default
     <td><b>Personalized Federated Learning with Mixture of Models for Adaptive Prediction and Model Fine-Tuning</b></td>
     <td>Pouya M. Ghari et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21547">2410.21547</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/pouyamghari/Fed-POE)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
     <td><b>A Statistical Analysis of Deep Federated Learning for Intrinsically Low-dimensional Data</b></td>
     <td>Saptarshi Chakraborty et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.20659">2410.20659</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/saptarshic27/fl)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9071,6 +9086,42 @@ layout: default
 
 ## AICG
 
+<h3>2024-10-30</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-10-30</b></td>
+    <td><b>Training LLMs for Generating IEC 61131-3 Structured Text with Online Feedback</b></td>
+    <td>Aaron Haag et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.22159">2410.22159</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-10-30</b></td>
+    <td><b>Large Language Models Based JSON Parser Fuzzing for Bug Discovery and Behavioral Analysis</b></td>
+    <td>Zhiyuan Zhong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.21806">2410.21806</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-10-30</b></td>
+    <td><b>Thank You, Stingray: Multilingual Large Language Models Can Not (Yet) Disambiguate Cross-Lingual Word Sense</b></td>
+    <td>Samuel Cahyawijaya et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.21573">2410.21573</a></td>
+    <td>**[link](https://github.com/SamuelCahyawijaya/stingraybench)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-10-29</h3>
 
 <table>
@@ -9089,7 +9140,7 @@ layout: default
     <td><b>Online Detecting LLM-Generated Texts via Sequential Hypothesis Testing by Betting</b></td>
     <td>Can Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.22318">2410.22318</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/canchen-cc/online-llm-detection)**</td>
        </tr>
        <tr>
     <td><b>2024-10-29</b></td>
@@ -9145,7 +9196,7 @@ layout: default
     <td><b>Embedding-based classifiers can detect prompt injection attacks</b></td>
     <td>Md. Ahsan Ayub et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.22284">2410.22284</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/AhsanAyub/malicious-prompt-detection)**</td>
        </tr>
        <tr>
     <td><b>2024-10-29</b></td>
@@ -9187,14 +9238,14 @@ layout: default
     <td><b>ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding</b></td>
     <td>Kimihiro Hasegawa et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.22211">2410.22211</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/kimihiroh/promqa)**</td>
        </tr>
        <tr>
     <td><b>2024-10-29</b></td>
     <td><b>Synthetic Data Generation with Large Language Models for Personalized Community Question Answering</b></td>
     <td>Marco Braga et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.22182">2410.22182</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/pkasela/SY_SE-PQA)**</td>
        </tr>
        <tr>
     <td><b>2024-10-29</b></td>
@@ -9208,13 +9259,6 @@ layout: default
     <td><b>A Gaussian Process Generative Model for QCD Equation of State</b></td>
     <td>Jiaxuan Gong et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.22160">2410.22160</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-29</b></td>
-    <td><b>Training LLMs for Generating IEC 61131-3 Structured Text with Online Feedback</b></td>
-    <td>Aaron Haag et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.22159">2410.22159</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -9257,7 +9301,7 @@ layout: default
     <td><b>Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench</b></td>
     <td>Zheyuan Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.22108">2410.22108</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/franciscoliu/MLLMU-Bench)**</td>
        </tr>
        <tr>
     <td><b>2024-10-29</b></td>
@@ -9306,14 +9350,14 @@ layout: default
     <td><b>SG-Bench: Evaluating LLM Safety Generalization Across Diverse Tasks and Prompt Types</b></td>
     <td>Yutao Mou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21965">2410.21965</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/MurrayTom/SG-Bench)**</td>
        </tr>
        <tr>
     <td><b>2024-10-29</b></td>
     <td><b>Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications</b></td>
     <td>Monica Riedler et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21943">2410.21943</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/riedlerm/multimodal_rag_for_industry)**</td>
        </tr>
        <tr>
     <td><b>2024-10-29</b></td>
@@ -9334,7 +9378,7 @@ layout: default
     <td><b>Improving In-Context Learning with Small Language Model Ensembles</b></td>
     <td>M. Mehdi Mojarradi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21868">2410.21868</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mehdimojarradi/Ensemble-SuperICL)**</td>
        </tr>
        <tr>
     <td><b>2024-10-29</b></td>
@@ -9355,13 +9399,6 @@ layout: default
     <td><b>Self-Preference Bias in LLM-as-a-Judge</b></td>
     <td>Koki Wataoka et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21819">2410.21819</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-29</b></td>
-    <td><b>Large Language Models Based JSON Parser Fuzzing for Bug Discovery and Behavioral Analysis</b></td>
-    <td>Zhiyuan Zhong et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.21806">2410.21806</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -9481,7 +9518,7 @@ layout: default
     <td><b>MCPDial: A Minecraft Persona-driven Dialogue Dataset</b></td>
     <td>Seyed Hossein Alavi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21627">2410.21627</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/salavi/MCPDial-A-Minecraft-Persona-driven-Dialogue-Dataset)**</td>
        </tr>
        <tr>
     <td><b>2024-10-29</b></td>
@@ -9538,14 +9575,7 @@ layout: default
     <td><b>A Generative Model Based Honeypot for Industrial OPC UA Communication</b></td>
     <td>Olaf Sassnick et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21574">2410.21574</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-28</b></td>
-    <td><b>Thank You, Stingray: Multilingual Large Language Models Can Not (Yet) Disambiguate Cross-Lingual Word Sense</b></td>
-    <td>Samuel Cahyawijaya et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.21573">2410.21573</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/JRC-ISIA/paper-2024-eurocast-honeypot)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9608,7 +9638,7 @@ layout: default
     <td><b>FATH: Authentication-based Test-time Defense against Indirect Prompt Injection Attacks</b></td>
     <td>Jiongxiao Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21492">2410.21492</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jayfeather1024/fath)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9622,7 +9652,7 @@ layout: default
     <td><b>SpeechQE: Estimating the Quality of Direct Speech Translation</b></td>
     <td>HyoJung Han et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21485">2410.21485</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/h-j-han/speechqe)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9699,7 +9729,7 @@ layout: default
     <td><b>Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics</b></td>
     <td>Yaniv Nikankin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21272">2410.21272</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/technion-cs-nlp/llm-arithmetic-heuristics)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9727,7 +9757,7 @@ layout: default
     <td><b>LongReward: Improving Long-context Large Language Models with AI Feedback</b></td>
     <td>Jiajie Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21252">2410.21252</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/THUDM/LongReward)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9769,7 +9799,7 @@ layout: default
     <td><b>CURATe: Benchmarking Personalised Alignment of Conversational AI Assistants</b></td>
     <td>Lize Alberts et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21159">2410.21159</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/lize-alberts/llm_prag_benchmark)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
@@ -9783,7 +9813,7 @@ layout: default
     <td><b>SciER: An Entity and Relation Extraction Dataset for Datasets, Methods, and Tasks in Scientific Documents</b></td>
     <td>Qi Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21155">2410.21155</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/edzq/SciER)**</td>
        </tr>
        <tr>
     <td><b>2024-10-28</b></td>
