@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.31
+## Updated on 2024.11.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2024-10-31</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-10-31</b></td>
+    <td><b>One Prompt to Verify Your Models: Black-Box Text-to-Image Models Verification via Non-Transferable Adversarial Attacks</b></td>
+    <td>Ji Guo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.22725">2410.22725</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-10-30</h3>
 
 <table>
@@ -63,13 +85,6 @@ layout: default
     <td>Youcheng Huang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.22888">2410.22888</a></td>
     <td>**[link](https://github.com/mob-scu/radar-nearside)**</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-30</b></td>
-    <td><b>One Prompt to Verify Your Models: Black-Box Text-to-Image Models Verification via Non-Transferable Adversarial Attacks</b></td>
-    <td>Ji Guo et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.22725">2410.22725</a></td>
-    <td>null</td>
        </tr>
        <tr>
     <td><b>2024-10-30</b></td>
@@ -2673,6 +2688,28 @@ layout: default
 
 ## Generative models safety
 
+<h3>2024-10-30</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-10-30</b></td>
+    <td><b>Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models</b></td>
+    <td>ShengYun Peng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2405.17374">2405.17374</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-10-29</h3>
 
 <table>
@@ -3752,28 +3789,6 @@ layout: default
     <td>Chujie Zheng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2401.18018">2401.18018</a></td>
     <td>**[link](https://github.com/chujiezheng/llm-safeguard)**</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2024-05-28</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2024-05-28</b></td>
-    <td><b>Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models</b></td>
-    <td>ShengYun Peng et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2405.17374">2405.17374</a></td>
-    <td>null</td>
        </tr>
    </tbody>
 </table>
@@ -9215,6 +9230,56 @@ layout: default
 
 ## AICG
 
+<h3>2024-10-31</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-10-31</b></td>
+    <td><b>Aligning Audio-Visual Joint Representations with an Agentic Workflow</b></td>
+    <td>Shentong Mo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.23230">2410.23230</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-10-31</b></td>
+    <td><b>Grounding by Trying: LLMs with Reinforcement Learning-Enhanced Retrieval</b></td>
+    <td>Sheryl Hsu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.23214">2410.23214</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-10-31</b></td>
+    <td><b>Why Gradient Subspace? Identifying and Mitigating LoRA's Bottlenecks in Federated Fine-Tuning of Large Language Models</b></td>
+    <td>Navyansh Mahla et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.23111">2410.23111</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-10-31</b></td>
+    <td><b>Long $^2$ RAG: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recall</b></td>
+    <td>Zehan Qi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.23000">2410.23000</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-10-31</b></td>
+    <td><b>Less is More: DocString Compression in Code Generation</b></td>
+    <td>Guang Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.22793">2410.22793</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-10-30</h3>
 
 <table>
@@ -9265,24 +9330,10 @@ layout: default
        </tr>
        <tr>
     <td><b>2024-10-30</b></td>
-    <td><b>Aligning Audio-Visual Joint Representations with an Agentic Workflow</b></td>
-    <td>Shentong Mo et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.23230">2410.23230</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-30</b></td>
     <td><b>COMAL: A Convergent Meta-Algorithm for Aligning LLMs with General Preferences</b></td>
     <td>Yixin Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.23223">2410.23223</a></td>
     <td>**[link](https://github.com/yale-nlp/comal)**</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-30</b></td>
-    <td><b>Grounding by Trying: LLMs with Reinforcement Learning-Enhanced Retrieval</b></td>
-    <td>Sheryl Hsu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.23214">2410.23214</a></td>
-    <td>null</td>
        </tr>
        <tr>
     <td><b>2024-10-30</b></td>
@@ -9317,13 +9368,6 @@ layout: default
     <td><b>On Memorization of Large Language Models in Logical Reasoning</b></td>
     <td>Chulin Xie et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.23123">2410.23123</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-30</b></td>
-    <td><b>Why Gradient Subspace? Identifying and Mitigating LoRA's Bottlenecks in Federated Fine-Tuning of Large Language Models</b></td>
-    <td>Navyansh Mahla et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.23111">2410.23111</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -9401,13 +9445,6 @@ layout: default
     <td><b>Online Intrinsic Rewards for Decision Making Agents from Large Language Model Feedback</b></td>
     <td>Qinqing Zheng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.23022">2410.23022</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-30</b></td>
-    <td><b>\textsc{Long $^2$ RAG}: Evaluating Long-Context \& Long-Form Retrieval-Augmented Generation with Key Point Recall</b></td>
-    <td>Zehan Qi et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.23000">2410.23000</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -9535,13 +9572,6 @@ layout: default
     <td>Yang Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.22809">2410.22809</a></td>
     <td>**[link](https://github.com/itsmeyjt/cft)**</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-30</b></td>
-    <td><b>Less is More: DocString Compression in Code Generation</b></td>
-    <td>Guang Yang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.22793">2410.22793</a></td>
-    <td>null</td>
        </tr>
        <tr>
     <td><b>2024-10-30</b></td>
