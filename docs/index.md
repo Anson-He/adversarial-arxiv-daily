@@ -1320,7 +1320,7 @@ layout: default
     <td><b>Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation</b></td>
     <td>Kaike Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.22844">2410.22844</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Kaike-Zhang/PamaCF)**</td>
        </tr>
        <tr>
     <td><b>2024-10-30</b></td>
@@ -4359,7 +4359,7 @@ layout: default
     <td><b>Secure numerical simulations using fully homomorphic encryption</b></td>
     <td>Arseniy Kholod et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.21824">2410.21824</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/hpsc-lab/paper-2024-secure_numerical_simulations)**</td>
        </tr>
        <tr>
     <td><b>2024-10-29</b></td>
@@ -9515,7 +9515,7 @@ layout: default
     <td><b>DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis</b></td>
     <td>Hamidreza Eivazi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.23893">2410.23893</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/HamidrezaEiv/DiffBatt)**</td>
        </tr>
        <tr>
     <td><b>2024-10-31</b></td>
@@ -9529,7 +9529,7 @@ layout: default
     <td><b>Failure Modes of LLMs for Causal Reasoning on Narratives</b></td>
     <td>Khurram Yamin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.23884">2410.23884</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/shantanu95/llm_causal_reasoning)**</td>
        </tr>
        <tr>
     <td><b>2024-10-31</b></td>
@@ -9585,7 +9585,7 @@ layout: default
     <td><b>Beyond Content Relevance: Evaluating Instruction Following in Retrieval Models</b></td>
     <td>Jianqun Zhou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.23841">2410.23841</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/EIT-NLP/InfoSearch)**</td>
        </tr>
        <tr>
     <td><b>2024-10-31</b></td>
@@ -9655,7 +9655,7 @@ layout: default
     <td><b>What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective</b></td>
     <td>Ming Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.23743">2410.23743</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mingliiii/layer_gradient)**</td>
        </tr>
        <tr>
     <td><b>2024-10-31</b></td>
@@ -9873,7 +9873,7 @@ layout: default
     <td><b>Collage: Decomposable Rapid Prototyping for Information Extraction on Scientific PDFs</b></td>
     <td>Sireesh Gururaja et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.23478">2410.23478</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/gsireesh/ht-max)**</td>
        </tr>
        <tr>
     <td><b>2024-10-30</b></td>
@@ -9901,7 +9901,7 @@ layout: default
     <td><b>FlowLLM: Flow Matching for Material Generation with Large Language Models as Base Distributions</b></td>
     <td>Anuroop Sriram et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.23405">2410.23405</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/facebookresearch/flowmm)**</td>
        </tr>
        <tr>
     <td><b>2024-10-30</b></td>
@@ -9929,7 +9929,7 @@ layout: default
     <td><b>Can Models Help Us Create Better Models? Evaluating LLMs as Data Scientists</b></td>
     <td>Michał Pietruszka et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.23331">2410.23331</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/FeatEng/FeatEng)**</td>
        </tr>
        <tr>
     <td><b>2024-10-30</b></td>
@@ -10020,7 +10020,7 @@ layout: default
     <td><b>CORAL: Benchmarking Multi-turn Conversational Retrieval-Augmentation Generation</b></td>
     <td>Yiruo Cheng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.23090">2410.23090</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Ariya12138/CORAL)**</td>
        </tr>
        <tr>
     <td><b>2024-10-30</b></td>
@@ -10048,7 +10048,7 @@ layout: default
     <td><b>Multi-Programming Language Sandbox for LLMs</b></td>
     <td>Shihan Dou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.23074">2410.23074</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Ablustrund/MPLSandbox)**</td>
        </tr>
        <tr>
     <td><b>2024-10-30</b></td>
