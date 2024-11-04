@@ -2741,7 +2741,7 @@ layout: default
     <td><b>Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models</b></td>
     <td>ShengYun Peng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2405.17374">2405.17374</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/shengyun-peng/llm-landscape)**</td>
        </tr>
    </tbody>
 </table>
@@ -9322,6 +9322,42 @@ layout: default
 
 ## AICG
 
+<h3>2024-11-01</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-11-01</b></td>
+    <td><b>SelfCodeAlign: Self-Alignment for Code Generation</b></td>
+    <td>Yuxiang Wei et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.24198">2410.24198</a></td>
+    <td>**[link](https://github.com/bigcode-project/selfcodealign)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-11-01</b></td>
+    <td><b>Patient-Specific CBCT Synthesis for Real-time Tumor Tracking in Surface-guided Radiotherapy</b></td>
+    <td>Shaoyan Pan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.23582">2410.23582</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-11-01</b></td>
+    <td><b>Large Language Models for Patient Comments Multi-Label Classification</b></td>
+    <td>Hajar Sakai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.23528">2410.23528</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-10-31</h3>
 
 <table>
@@ -9354,13 +9390,6 @@ layout: default
     <td><b>Multi-Attribute Linguistic Tuning for Controlled Paraphrase Generation</b></td>
     <td>Mohamed Elgaar et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.24199">2410.24199</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-31</b></td>
-    <td><b>SelfCodeAlign: Self-Alignment for Code Generation</b></td>
-    <td>Yuxiang Wei et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.24198">2410.24198</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -9743,13 +9772,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2024-10-31</b></td>
-    <td><b>Patient-Specific CBCT Synthesis for Real-time Tumor Tracking in Surface-guided Radiotherapy</b></td>
-    <td>Shaoyan Pan et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.23582">2410.23582</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-31</b></td>
     <td><b>Automating Quantum Software Maintenance: Flakiness Detection and Root Cause Analysis</b></td>
     <td>Janakan Sivaloganathan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.23578">2410.23578</a></td>
@@ -9792,16 +9814,16 @@ layout: default
        </tr>
        <tr>
     <td><b>2024-10-31</b></td>
-    <td><b>Large Language Models for Patient Comments Multi-Label Classification</b></td>
-    <td>Hajar Sakai et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.23528">2410.23528</a></td>
+    <td><b>LEAF: Learning and Evaluation Augmented by Fact-Checking to Improve Factualness in Large Language Models</b></td>
+    <td>Hieu Tran et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.23526">2410.23526</a></td>
     <td>null</td>
        </tr>
        <tr>
     <td><b>2024-10-31</b></td>
-    <td><b>LEAF: Learning and Evaluation Augmented by Fact-Checking to Improve Factualness in Large Language Models</b></td>
-    <td>Hieu Tran et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.23526">2410.23526</a></td>
+    <td><b>SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation</b></td>
+    <td>Yining Hong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.23277">2410.23277</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -9936,13 +9958,6 @@ layout: default
     <td><b>ReferEverything: Towards Segmenting Everything We Can Speak of in Videos</b></td>
     <td>Anurag Bagchi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.23287">2410.23287</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-30</b></td>
-    <td><b>SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation</b></td>
-    <td>Yining Hong et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.23277">2410.23277</a></td>
     <td>null</td>
        </tr>
        <tr>
