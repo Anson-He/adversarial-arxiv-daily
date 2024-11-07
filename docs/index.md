@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.06
+## Updated on 2024.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -10343,7 +10343,7 @@ layout: default
     <td><b>MILU: A Multi-task Indic Language Understanding Benchmark</b></td>
     <td>Sshubam Verma et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.02538">2411.02538</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/AI4Bharat/MILU)**</td>
        </tr>
        <tr>
     <td><b>2024-11-04</b></td>
