@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.07
+## Updated on 2024.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -10050,7 +10050,7 @@ layout: default
     <td><b>Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System</b></td>
     <td>David Maria Schmidt et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.03906">2411.03906</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ag-sc/neodudes)**</td>
        </tr>
        <tr>
     <td><b>2024-11-06</b></td>
