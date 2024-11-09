@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.08
+## Updated on 2024.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -41,7 +41,7 @@ layout: default
     <td><b>Attention Masks Help Adversarial Attacks to Bypass Safety Detectors</b></td>
     <td>Yunfan Shi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.04772">2411.04772</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/FrankShi9/Attention-Mask-Attack)**</td>
        </tr>
        <tr>
     <td><b>2024-11-07</b></td>
