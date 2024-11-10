@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.09
+## Updated on 2024.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -48,7 +48,7 @@ layout: default
     <td><b>Neural Fingerprints for Adversarial Attack Detection</b></td>
     <td>Haim Fisher et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.04533">2411.04533</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/HaimFisher/fingerprints-armor)**</td>
        </tr>
        <tr>
     <td><b>2024-11-07</b></td>
