@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.10
+## Updated on 2024.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -5000,7 +5000,7 @@ layout: default
     <td><b>TOPO: Time-Ordered Provable Outputs</b></td>
     <td>Santiago Casas et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.00072">2411.00072</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/santiagocasas/topo-cobaya)**</td>
        </tr>
        <tr>
     <td><b>2024-10-31</b></td>
@@ -10340,7 +10340,7 @@ layout: default
     <td><b>One fish, two fish, but not the whole sea: Alignment reduces language models' conceptual diversity</b></td>
     <td>Sonia K. Murthy et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.04427">2411.04427</a></td>
-    <td>**[link](https://github.com/skmur/onefish-twofish)**</td>
+    <td>null</td>
        </tr>
        <tr>
     <td><b>2024-11-07</b></td>
@@ -10509,7 +10509,7 @@ layout: default
     <td><b>Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding</b></td>
     <td>Haolin Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.04282">2411.04282</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/salesforceairesearch/latro)**</td>
        </tr>
        <tr>
     <td><b>2024-11-06</b></td>
