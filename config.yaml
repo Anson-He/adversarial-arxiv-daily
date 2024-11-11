@@ -34,5 +34,5 @@ keywords:
         filters: ["Model Privacy"]
     "Forensics":
         filters: ["AI Forensics", "Deepfake"]
-    "AICG":
+    "AIGC":
         filters: ["Generative models","AIGC","LLM"]
