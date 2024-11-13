@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -9236,7 +9236,7 @@ layout: default
     <td><b>Palermo: Improving the Performance of Oblivious Memory using Protocol-Hardware Co-Design</b></td>
     <td>Haojie Ye et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.05400">2411.05400</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/linestro/palermo-oram)**</td>
        </tr>
        <tr>
     <td><b>2024-11-08</b></td>
@@ -20211,7 +20211,7 @@ layout: default
     <td><b>Continual Memorization of Factoids in Large Language Models</b></td>
     <td>Howard Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.07175">2411.07175</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/princeton-nlp/continual-factoid-memorization)**</td>
        </tr>
        <tr>
     <td><b>2024-11-11</b></td>
@@ -20246,7 +20246,7 @@ layout: default
     <td><b>SCAR: Sparse Conditioned Autoencoders for Concept Detection and Steering in LLMs</b></td>
     <td>Ruben Härle et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.07122">2411.07122</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ml-research/SCAR)**</td>
        </tr>
        <tr>
     <td><b>2024-11-11</b></td>
@@ -20372,7 +20372,7 @@ layout: default
     <td><b>Generative Feature Training of Thin 2-Layer Networks</b></td>
     <td>Johannes Hertrich et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.06848">2411.06848</a></td>
-    <td>**[link](https://github.com/johertrich/generative_feature_training)**</td>
+    <td>null</td>
        </tr>
        <tr>
     <td><b>2024-11-11</b></td>
@@ -20625,7 +20625,7 @@ layout: default
     <td><b>Epistemic Integrity in Large Language Models</b></td>
     <td>Bijean Ghafouri et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.06528">2411.06528</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/complexdata-mila/epistemic-integrity)**</td>
        </tr>
        <tr>
     <td><b>2024-11-10</b></td>
@@ -20681,7 +20681,7 @@ layout: default
     <td><b>CTC-Assisted LLM-Based Contextual ASR</b></td>
     <td>Guanrou Yang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.06437">2411.06437</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/X-LANCE/SLAM-LLM)**</td>
        </tr>
        <tr>
     <td><b>2024-11-10</b></td>
@@ -20709,7 +20709,7 @@ layout: default
     <td><b>Self-Training Meets Consistency: Improving LLMs' Reasoning With Consistency-Driven Rationale Evaluation</b></td>
     <td>Jaehyeok Lee et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.06387">2411.06387</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jaehyeoklee-119/crest)**</td>
        </tr>
        <tr>
     <td><b>2024-11-10</b></td>
@@ -20899,7 +20899,7 @@ layout: default
     <td><b>ZhoBLiMP: a Systematic Assessment of Language Models with Linguistic Minimal Pairs in Chinese</b></td>
     <td>Yikang Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.06096">2411.06096</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/sjtu-compling/ZhoBLiMP)**</td>
        </tr>
        <tr>
     <td><b>2024-11-09</b></td>
@@ -21005,7 +21005,7 @@ layout: default
     <td><b>GUIDEQ: Framework for Guided Questioning for progressive informational collection and classification</b></td>
     <td>Priya Mishra et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.05991">2411.05991</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/SDRMp/DRPG)**</td>
        </tr>
        <tr>
     <td><b>2024-11-08</b></td>
@@ -21117,21 +21117,21 @@ layout: default
     <td><b>Using Language Models to Disambiguate Lexical Choices in Translation</b></td>
     <td>Josh Barua et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.05781">2411.05781</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/berkeley-nlp/lex-rules)**</td>
        </tr>
        <tr>
     <td><b>2024-11-08</b></td>
     <td><b>LLMs as Method Actors: A Model for Prompt Engineering and Architecture</b></td>
     <td>Colin Doyle et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.05778">2411.05778</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/colindoyle0000/llms-as-method-actors)**</td>
        </tr>
        <tr>
     <td><b>2024-11-08</b></td>
     <td><b>Quantitative Assessment of Intersectional Empathetic Bias and Understanding</b></td>
     <td>Vojtech Formanek et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.05777">2411.05777</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/xforman/jaem_st)**</td>
        </tr>
        <tr>
     <td><b>2024-11-08</b></td>
@@ -21250,7 +21250,7 @@ layout: default
     <td><b>Analyzing Logs of Large-Scale Software Systems using Time Curves Visualization</b></td>
     <td>Dmytro Borysenkov et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.05533">2411.05533</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/dynatrace-research/timecurves-for-logs-paper)**</td>
        </tr>
        <tr>
     <td><b>2024-11-08</b></td>
@@ -21334,7 +21334,7 @@ layout: default
     <td><b>Gap-Filling Prompting Enhances Code-Assisted Mathematical Reasoning</b></td>
     <td>Mohammad Ghiasvand Mohammadkhani et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.05407">2411.05407</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mghiasvand1/gap-filling-prompting)**</td>
        </tr>
        <tr>
     <td><b>2024-11-08</b></td>
@@ -21622,7 +21622,7 @@ layout: default
     <td><b>FineTuneBench: How well do commercial fine-tuning APIs infuse knowledge into LLMs?</b></td>
     <td>Eric Wu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.05059">2411.05059</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/kevinwu23/stanfordfinetunebench)**</td>
        </tr>
        <tr>
     <td><b>2024-11-07</b></td>
