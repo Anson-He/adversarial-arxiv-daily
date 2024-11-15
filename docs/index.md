@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.14
+## Updated on 2024.11.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -21206,7 +21206,7 @@ layout: default
     <td><b>Modeling variable guide efficiency in pooled CRISPR screens with ContrastiveVI+</b></td>
     <td>Ethan Weinberger et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.08072">2411.08072</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/insitro/contrastive_vi_plus)**</td>
        </tr>
        <tr>
     <td><b>2024-11-11</b></td>
