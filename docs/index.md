@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -9330,7 +9330,7 @@ layout: default
     <td><b>SAFES: Sequential Privacy and Fairness Enhancing Data Synthesis for Responsible AI</b></td>
     <td>Spencer Giddens et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.09178">2411.09178</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/sgiddens/SAFES)**</td>
        </tr>
        <tr>
     <td><b>2024-11-14</b></td>
@@ -15461,7 +15461,7 @@ layout: default
     <td><b>Adaptive Meta-Learning for Robust Deepfake Detection: A Multi-Agent Framework to Data Drift and Model Generalization</b></td>
     <td>Dinesh Srivasthav P et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.08148">2411.08148</a></td>
-    <td>**[link](https://github.com/dineshsrivasthav/adaptive_meta_learning_with_multi_agent_framework)**</td>
+    <td>null</td>
        </tr>
        <tr>
     <td><b>2024-11-12</b></td>
@@ -20613,7 +20613,7 @@ layout: default
     <td><b>A survey of probabilistic generative frameworks for molecular simulations</b></td>
     <td>Richard John et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.09388">2411.09388</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/shams-mehdi/aib9_openmm)**</td>
        </tr>
        <tr>
     <td><b>2024-11-14</b></td>
@@ -20662,7 +20662,7 @@ layout: default
     <td><b>DTELS: Towards Dynamic Granularity of Timeline Summarization</b></td>
     <td>Chenlong Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.09297">2411.09297</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/chenlong-clock/DTELS-Bench)**</td>
        </tr>
        <tr>
     <td><b>2024-11-14</b></td>
@@ -20711,7 +20711,7 @@ layout: default
     <td><b>DAHL: Domain-specific Automated Hallucination Evaluation of Long-Form Text through a Benchmark Dataset in Biomedicine</b></td>
     <td>Jean Seo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.09255">2411.09255</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/seemdog/DAHL)**</td>
        </tr>
        <tr>
     <td><b>2024-11-14</b></td>
@@ -20866,7 +20866,7 @@ layout: default
     <td><b>The Systems Engineering Approach in Times of Large Language Models</b></td>
     <td>Christian Cabrera et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.09050">2411.09050</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/cabrerac/semi-automatic-literature-survey)**</td>
        </tr>
        <tr>
     <td><b>2024-11-13</b></td>
@@ -21069,7 +21069,7 @@ layout: default
     <td><b>CorrectBench: Automatic Testbench Generation with Functional Self-Correction using LLMs for HDL Design</b></td>
     <td>Ruidi Qiu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.08510">2411.08510</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/autobench/correctbench)**</td>
        </tr>
        <tr>
     <td><b>2024-11-13</b></td>
@@ -21827,7 +21827,7 @@ layout: default
     <td><b>UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts</b></td>
     <td>Bo Yang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.07240">2411.07240</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/utmathgroup/utmath)**</td>
        </tr>
        <tr>
     <td><b>2024-11-11</b></td>
@@ -21911,7 +21911,7 @@ layout: default
     <td><b>ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation</b></td>
     <td>Xue Jiang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.07112">2411.07112</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jiangxxxue/ROCODE)**</td>
        </tr>
        <tr>
     <td><b>2024-11-11</b></td>
@@ -22262,7 +22262,7 @@ layout: default
     <td><b>Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents</b></td>
     <td>Yu Gu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.06559">2411.06559</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/osu-nlp-group/webdreamer)**</td>
        </tr>
        <tr>
     <td><b>2024-11-10</b></td>
@@ -22529,7 +22529,7 @@ layout: default
     <td><b>Supernotes: Driving Consensus in Crowd-Sourced Fact-Checking</b></td>
     <td>Soham De et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.06116">2411.06116</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/saveski-lab/supernotes)**</td>
        </tr>
        <tr>
     <td><b>2024-11-09</b></td>
@@ -22550,7 +22550,7 @@ layout: default
     <td><b>ZhoBLiMP: a Systematic Assessment of Language Models with Linguistic Minimal Pairs in Chinese</b></td>
     <td>Yikang Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.06096">2411.06096</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/sjtu-compling/ZhoBLiMP)**</td>
        </tr>
        <tr>
     <td><b>2024-11-09</b></td>
