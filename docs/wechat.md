@@ -4321,7 +4321,7 @@
 - 2024-11-13, **Refusal in LLMs is an Affine Function**, Thomas Marshall et.al., Paper: [http://arxiv.org/abs/2411.09003](http://arxiv.org/abs/2411.09003), Code: **[https://github.com/eleutherai/steering-llama3](https://github.com/eleutherai/steering-llama3)**
 - 2024-11-13, **CoCoP: Enhancing Text Classification with LLM through Code Completion Prompt**, Mohammad Mahdi Mohajeri et.al., Paper: [http://arxiv.org/abs/2411.08979](http://arxiv.org/abs/2411.08979)
 - 2024-11-13, **Robustness and Confounders in the Demographic Alignment of LLMs with Human Perceptions of Offensiveness**, Shayan Alipour et.al., Paper: [http://arxiv.org/abs/2411.08977](http://arxiv.org/abs/2411.08977)
-- 2024-11-13, **PyGen: A Collaborative Human-AI Approach to Python Package Creation**, Saikat Barua et.al., Paper: [http://arxiv.org/abs/2411.08932](http://arxiv.org/abs/2411.08932)
+- 2024-11-13, **PyGen: A Collaborative Human-AI Approach to Python Package Creation**, Saikat Barua et.al., Paper: [http://arxiv.org/abs/2411.08932](http://arxiv.org/abs/2411.08932), Code: **[https://github.com/GitsSaikat/Pygen](https://github.com/GitsSaikat/Pygen)**
 - 2024-11-13, **The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**, Daniel P. Jeong et.al., Paper: [http://arxiv.org/abs/2411.08870](http://arxiv.org/abs/2411.08870)
 - 2024-11-13, **LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**, Piyush Jha et.al., Paper: [http://arxiv.org/abs/2411.08862](http://arxiv.org/abs/2411.08862)
 - 2024-11-13, **Rethinking CyberSecEval: An LLM-Aided Approach to Evaluation Critique**, Suhas Hariharan et.al., Paper: [http://arxiv.org/abs/2411.08813](http://arxiv.org/abs/2411.08813)

@@ -20908,7 +20908,7 @@ layout: default
     <td><b>PyGen: A Collaborative Human-AI Approach to Python Package Creation</b></td>
     <td>Saikat Barua et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.08932">2411.08932</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/GitsSaikat/Pygen)**</td>
        </tr>
        <tr>
     <td><b>2024-11-13</b></td>
