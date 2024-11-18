@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.17
+## Updated on 2024.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2024-11-15</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-11-15</b></td>
+    <td><b>Confidence-aware Denoised Fine-tuning of Off-the-shelf Models for Certified Robustness</b></td>
+    <td>Suhyeok Jang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2411.08933">2411.08933</a></td>
+    <td>**[link](https://github.com/suhyeok24/ft-cadis)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-11-14</h3>
 
 <table>
@@ -79,13 +101,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2024-11-13</b></td>
-    <td><b>Confidence-aware Denoised Fine-tuning of Off-the-shelf Models for Certified Robustness</b></td>
-    <td>Suhyeok Jang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2411.08933">2411.08933</a></td>
-    <td>**[link](https://github.com/suhyeok24/ft-cadis)**</td>
-       </tr>
        <tr>
     <td><b>2024-11-13</b></td>
     <td><b>Robust Optimal Power Flow Against Adversarial Attacks: A Tri-Level Optimization Approach</b></td>
@@ -3498,6 +3513,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2024-11-15</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-11-15</b></td>
+    <td><b>CleanerCLIP: Fine-grained Counterfactual Semantic Augmentation for Backdoor Defense in Contrastive Learning</b></td>
+    <td>Yuan Xun et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2409.17601">2409.17601</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-11-14</h3>
 
 <table>
@@ -4462,28 +4499,6 @@ layout: default
     <td><b>PFAttack: Stealthy Attack Bypassing Group Fairness in Federated Learning</b></td>
     <td>Jiashi Gao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.06509">2410.06509</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2024-10-08</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2024-10-08</b></td>
-    <td><b>TA-Cleaner: A Fine-grained Text Alignment Backdoor Defense Strategy for Multimodal Contrastive Learning</b></td>
-    <td>Yuan Xun et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2409.17601">2409.17601</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -9339,6 +9354,13 @@ layout: default
     <td><a href="#http://arxiv.org/abs/2410.14212">2410.14212</a></td>
     <td>**[link](https://github.com/leahcimali/Comparative-Evaluation-of-Clustered-Federated-Learning-Methods)**</td>
        </tr>
+       <tr>
+    <td><b>2024-11-14</b></td>
+    <td><b>Explainable Differential Privacy-Hyperdimensional Computing for Balancing Privacy and Transparency in Additive Manufacturing Monitoring</b></td>
+    <td>Fardin Jalil Piran et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2407.07066">2407.07066</a></td>
+    <td>null</td>
+       </tr>
    </tbody>
 </table>
 <h3>2024-11-13</h3>
@@ -13012,28 +13034,6 @@ layout: default
     <td>Son Nguyen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2407.03144">2407.03144</a></td>
     <td>**[link](https://github.com/nguyenhongson1902/venomancer)**</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2024-07-10</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2024-07-10</b></td>
-    <td><b>Explainable Hyperdimensional Computing for Balancing Privacy and Transparency in Additive Manufacturing Monitoring</b></td>
-    <td>Fardin Jalil Piran et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2407.07066">2407.07066</a></td>
-    <td>null</td>
        </tr>
    </tbody>
 </table>
@@ -20462,6 +20462,42 @@ layout: default
 
 ## AIGC
 
+<h3>2024-11-15</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-11-15</b></td>
+    <td><b>LLM-assisted Explicit and Implicit Multi-interest Learning Framework for Sequential Recommendation</b></td>
+    <td>Shutong Qiao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2411.09410">2411.09410</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-11-15</b></td>
+    <td><b>DriveThru: a Document Extraction Platform and Benchmark Datasets for Indonesian Local Language Archives</b></td>
+    <td>Mohammad Rifqi Farhansyah et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2411.09318">2411.09318</a></td>
+    <td>**[link](https://github.com/ragambahasa/OCR-Correction)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-11-15</b></td>
+    <td><b>Approximate Probabilistic Inference for Time-Series Data A Robust Latent Gaussian Model With Temporal Awareness</b></td>
+    <td>Anton Johansson et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2411.09312">2411.09312</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-11-14</h3>
 
 <table>
@@ -20603,13 +20639,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2024-11-14</b></td>
-    <td><b>LLM-assisted Explicit and Implicit Multi-interest Learning Framework for Sequential Recommendation</b></td>
-    <td>Shutong Qiao et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2411.09410">2411.09410</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-11-14</b></td>
     <td><b>A survey of probabilistic generative frameworks for molecular simulations</b></td>
     <td>Richard John et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.09388">2411.09388</a></td>
@@ -20638,23 +20667,9 @@ layout: default
        </tr>
        <tr>
     <td><b>2024-11-14</b></td>
-    <td><b>DriveThru: a Document Extraction Platform and Benchmark Datasets for Indonesian Local Language Archives</b></td>
-    <td>MohammadRifqi Farhansyah et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2411.09318">2411.09318</a></td>
-    <td>**[link](https://github.com/ragambahasa/OCR-Correction)**</td>
-       </tr>
-       <tr>
-    <td><b>2024-11-14</b></td>
     <td><b>Pie: Pooling CPU Memory for LLM Inference</b></td>
     <td>Yi Xu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.09317">2411.09317</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-11-14</b></td>
-    <td><b>Approximate Probabilistic Inference forTime-Series Data A Robust Latent Gaussian Model With Temporal Awareness</b></td>
-    <td>Anton Johansson et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2411.09312">2411.09312</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -20802,6 +20817,13 @@ layout: default
     <td><b>Knowledge Bases in Support of Large Language Models for Processing Web News</b></td>
     <td>Yihe Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.08278">2411.08278</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-11-14</b></td>
+    <td><b>Exploring the Role of LLMs for Supporting Older Adults: Opportunities and Concerns</b></td>
+    <td>Sidharth Kaliappan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2411.08123">2411.08123</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -21322,13 +21344,6 @@ layout: default
     <td><b>TIPO: Text to Image with Text Presampling for Prompt Optimization</b></td>
     <td>Shih-Ying Yeh et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.08127">2411.08127</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-11-12</b></td>
-    <td><b>Exploring the Role of LLMs for Supporting Older Adults: Opportunities and Concerns</b></td>
-    <td>Sidharth Kaliappan et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2411.08123">2411.08123</a></td>
     <td>null</td>
        </tr>
        <tr>
