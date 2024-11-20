@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.19
+## Updated on 2024.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -91,7 +91,7 @@ layout: default
     <td><b>Variational Bayesian Bow tie Neural Networks with Shrinkage</b></td>
     <td>Alisa Sheinkman et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.11132">2411.11132</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/sheinkmana/V_bowtie_NN)**</td>
        </tr>
    </tbody>
 </table>
@@ -15756,7 +15756,7 @@ layout: default
     <td><b>Time Step Generating: A Universal Synthesized Deepfake Image Detector</b></td>
     <td>Ziyue Zeng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.11016">2411.11016</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/NuayHL/TimeStepGenerating)**</td>
        </tr>
    </tbody>
 </table>
@@ -21305,7 +21305,7 @@ layout: default
     <td><b>Time Step Generating: A Universal Synthesized Deepfake Image Detector</b></td>
     <td>Ziyue Zeng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.11016">2411.11016</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/NuayHL/TimeStepGenerating)**</td>
        </tr>
        <tr>
     <td><b>2024-11-17</b></td>
