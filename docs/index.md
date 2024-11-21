@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -48,7 +48,7 @@ layout: default
     <td><b>NMT-Obfuscator Attack: Ignore a sentence in translation with only one word</b></td>
     <td>Sahar Sadrizadeh et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.12473">2411.12473</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/sssadrizadeh/NMT_Obfuscator)**</td>
        </tr>
        <tr>
     <td><b>2024-11-19</b></td>
@@ -4152,7 +4152,7 @@ layout: default
     <td><b>Identify Backdoored Model in Federated Learning via Individual Unlearning</b></td>
     <td>Jiahao Xu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.01040">2411.01040</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jiiahaoxu/masa)**</td>
        </tr>
        <tr>
     <td><b>2024-11-01</b></td>
@@ -9692,6 +9692,13 @@ layout: default
     <td><a href="#http://arxiv.org/abs/2410.14035">2410.14035</a></td>
     <td>null</td>
        </tr>
+       <tr>
+    <td><b>2024-11-19</b></td>
+    <td><b>On the Implicit Relation Between Low-Rank Adaptation and Differential Privacy</b></td>
+    <td>Saber Malekmohammadi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2409.17538">2409.17538</a></td>
+    <td>null</td>
+       </tr>
    </tbody>
 </table>
 <h3>2024-11-18</h3>
@@ -10466,28 +10473,6 @@ layout: default
     <td><b>Does Worst-Performing Agent Lead the Pack? Analyzing Agent Dynamics in Unified Distributed SGD</b></td>
     <td>Jie Hu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2409.17499">2409.17499</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2024-10-27</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2024-10-27</b></td>
-    <td><b>On the Implicit Relation Between Low-Rank Adaptation and Differential Privacy</b></td>
-    <td>Saber Malekmohammadi et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2409.17538">2409.17538</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -15875,7 +15860,7 @@ layout: default
 
 ## Forensics
 
-<h3>2024-11-17</h3>
+<h3>2024-11-20</h3>
 
 <table>
    <thead>
@@ -15889,7 +15874,7 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2024-11-17</b></td>
+    <td><b>2024-11-20</b></td>
     <td><b>Time Step Generating: A Universal Synthesized Deepfake Image Detector</b></td>
     <td>Ziyue Zeng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.11016">2411.11016</a></td>
@@ -20996,6 +20981,35 @@ layout: default
 
 ## AIGC
 
+<h3>2024-11-20</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-11-20</b></td>
+    <td><b>Does Unlearning Truly Unlearn? A Black Box Evaluation of LLM Unlearning Methods</b></td>
+    <td>Jai Doshi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2411.12103">2411.12103</a></td>
+    <td>**[link](https://github.com/jaidoshi/knowledge-erasure)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-11-20</b></td>
+    <td><b>Time Step Generating: A Universal Synthesized Deepfake Image Detector</b></td>
+    <td>Ziyue Zeng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2411.11016">2411.11016</a></td>
+    <td>**[link](https://github.com/NuayHL/TimeStepGenerating)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-11-19</h3>
 
 <table>
@@ -21014,7 +21028,7 @@ layout: default
     <td><b>ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models</b></td>
     <td>Salma Kharrat et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.12736">2411.12736</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/salmakh1/ACING)**</td>
        </tr>
        <tr>
     <td><b>2024-11-19</b></td>
@@ -21084,7 +21098,7 @@ layout: default
     <td><b>Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models</b></td>
     <td>Laura Ruis et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.12580">2411.12580</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/pomonam/kronfluence)**</td>
        </tr>
        <tr>
     <td><b>2024-11-19</b></td>
@@ -21105,7 +21119,7 @@ layout: default
     <td><b>Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus</b></td>
     <td>Terufumi Morishita et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.12498">2411.12498</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/hitachi-nlp/fld)**</td>
        </tr>
        <tr>
     <td><b>2024-11-19</b></td>
@@ -21305,6 +21319,13 @@ layout: default
        </tr>
        <tr>
     <td><b>2024-11-19</b></td>
+    <td><b>A Benchmark for Long-Form Medical Question Answering</b></td>
+    <td>Pedram Hosseini et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2411.09834">2411.09834</a></td>
+    <td>**[link](https://github.com/lavita-ai/medical-eval-sphere)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-11-19</b></td>
     <td><b>Refusal in LLMs is an Affine Function</b></td>
     <td>Thomas Marshall et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.09003">2411.09003</a></td>
@@ -21338,13 +21359,6 @@ layout: default
     <td>Madhurima Khirbat et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.12121">2411.12121</a></td>
     <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-11-18</b></td>
-    <td><b>Does Unlearning Truly Unlearn? A Black Box Evaluation of LLM Unlearning Methods</b></td>
-    <td>Jai Doshi et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2411.12103">2411.12103</a></td>
-    <td>**[link](https://github.com/jaidoshi/knowledge-erasure)**</td>
        </tr>
        <tr>
     <td><b>2024-11-18</b></td>
@@ -21456,7 +21470,7 @@ layout: default
     <td><b>Moral Persuasion in Large Language Models: Evaluating Susceptibility and Ethical Alignment</b></td>
     <td>Allison Huang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.11731">2411.11731</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/acyhuang/moral-persuasion)**</td>
        </tr>
        <tr>
     <td><b>2024-11-18</b></td>
@@ -21533,7 +21547,7 @@ layout: default
     <td><b>Topology-aware Preemptive Scheduling for Co-located LLM Workloads</b></td>
     <td>Ping Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.11560">2411.11560</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/agiping/godel-scheduler)**</td>
        </tr>
        <tr>
     <td><b>2024-11-18</b></td>
@@ -21561,7 +21575,7 @@ layout: default
     <td><b>Preempting Text Sanitization Utility in Resource-Constrained Privacy-Preserving LLM Interactions</b></td>
     <td>Robin Carpentier et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.11521">2411.11521</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/inathwor/Preempting-Text-Sanitization)**</td>
        </tr>
        <tr>
     <td><b>2024-11-18</b></td>
@@ -21603,7 +21617,7 @@ layout: default
     <td><b>The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on Large Language Models</b></td>
     <td>Xikang Yang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.11407">2411.11407</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/YancyKahn/DarkCite)**</td>
        </tr>
        <tr>
     <td><b>2024-11-18</b></td>
@@ -21687,7 +21701,7 @@ layout: default
     <td><b>Efficient Transfer Learning for Video-language Foundation Models</b></td>
     <td>Haoxing Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.11223">2411.11223</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/chenhaoxing/etl4video)**</td>
        </tr>
        <tr>
     <td><b>2024-11-18</b></td>
@@ -21744,7 +21758,7 @@ layout: default
     <td><b>AIGS: Generating Science from AI-Powered Automated Falsification</b></td>
     <td>Zijun Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.11910">2411.11910</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/AgentForceTeamOfficial/Baby-AIGS)**</td>
        </tr>
        <tr>
     <td><b>2024-11-17</b></td>
@@ -21758,7 +21772,7 @@ layout: default
     <td><b>Capturing Sparks of Abstraction for the ARC Challenge</b></td>
     <td>Martin Andrews et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.11206">2411.11206</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mdda/arc-dsl-llm)**</td>
        </tr>
        <tr>
     <td><b>2024-11-17</b></td>
@@ -21815,13 +21829,6 @@ layout: default
     <td>Sibo Wei et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.11027">2411.11027</a></td>
     <td>**[link](https://github.com/qlu-nlp/biancang)**</td>
-       </tr>
-       <tr>
-    <td><b>2024-11-17</b></td>
-    <td><b>Time Step Generating: A Universal Synthesized Deepfake Image Detector</b></td>
-    <td>Ziyue Zeng et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2411.11016">2411.11016</a></td>
-    <td>**[link](https://github.com/NuayHL/TimeStepGenerating)**</td>
        </tr>
        <tr>
     <td><b>2024-11-17</b></td>
@@ -21920,14 +21927,14 @@ layout: default
     <td><b>BanglaDialecto: An End-to-End AI-Powered Regional Speech Standardization</b></td>
     <td>Md. Nazmus Sadat Samin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.10879">2411.10879</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/EncryptedBinary/BanglaDialecto)**</td>
        </tr>
        <tr>
     <td><b>2024-11-16</b></td>
     <td><b>Empowering Meta-Analysis: Leveraging Large Language Models for Scientific Synthesis</b></td>
     <td>Jawad Ibn Ahad et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.10878">2411.10878</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/EncryptedBinary/Meta_analysis)**</td>
        </tr>
        <tr>
     <td><b>2024-11-16</b></td>
@@ -22032,7 +22039,7 @@ layout: default
     <td><b>Structured Dialogue System for Mental Health: An LLM Chatbot Leveraging the PM+ Guidelines</b></td>
     <td>Yixiang Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.10681">2411.10681</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/EthanLifeGreat/SuDoSys)**</td>
        </tr>
        <tr>
     <td><b>2024-11-16</b></td>
@@ -22518,13 +22525,6 @@ layout: default
     <td>Kirill Vasilevski et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.09837">2411.09837</a></td>
     <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-11-14</b></td>
-    <td><b>A Benchmark for Long-Form Medical Question Answering</b></td>
-    <td>Pedram Hosseini et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2411.09834">2411.09834</a></td>
-    <td>**[link](https://github.com/lavita-ai/medical-eval-sphere)**</td>
        </tr>
        <tr>
     <td><b>2024-11-14</b></td>
