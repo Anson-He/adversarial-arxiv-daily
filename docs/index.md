@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.21
+## Updated on 2024.11.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -12242,7 +12242,7 @@ layout: default
     <td><b>LLM-PBE: Assessing Data Privacy in Large Language Models</b></td>
     <td>Qinbin Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2408.12787">2408.12787</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/QinbinLi/LLM-PBE)**</td>
        </tr>
    </tbody>
 </table>
@@ -17752,7 +17752,7 @@ layout: default
     <td><b>FFAA: Multimodal Large Language Model based Explainable Open-World Face Forgery Analysis Assistant</b></td>
     <td>Zhengchao Huang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2408.10072">2408.10072</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/thu-huangzc/FFAA)**</td>
        </tr>
        <tr>
     <td><b>2024-08-19</b></td>
