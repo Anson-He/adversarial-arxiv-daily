@@ -4536,7 +4536,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-15**|**Towards General Deepfake Detection with Dynamic Curriculum**|Wentang Song et.al.|[2410.11162](http://arxiv.org/abs/2410.11162)|null|
-|**2024-10-15**|**Capture Artifacts via Progressive Disentangling and Purifying Blended Identities for Deepfake Detection**|Weijie Zhou et.al.|[2410.10244](http://arxiv.org/abs/2410.10244)|**[link](https://github.com/BigWhiteBearZWJ/PDP-Official-Code)**|
+|**2024-10-15**|**Capture Artifacts via Progressive Disentangling and Purifying Blended Identities for Deepfake Detection**|Weijie Zhou et.al.|[2410.10244](http://arxiv.org/abs/2410.10244)|null|
 <p align=right>(<a href=#updated-on-20241124>back to top</a>)</p>
 
 <h3>2024-10-14</h3>
@@ -5907,7 +5907,7 @@
 |**2024-11-21**|**A Hierarchical Poisson Generator for Universal Graphs under Limited Resources**|Xiaorui Qi et.al.|[2411.13888](http://arxiv.org/abs/2411.13888)|null|
 |**2024-11-21**|**When Online Algorithms Influence the Environment: A Dynamical Systems Analysis of the Unintended Consequences**|Prabhat Lankireddy et.al.|[2411.13883](http://arxiv.org/abs/2411.13883)|null|
 |**2024-11-21**|**Next-Generation Phishing: How LLM Agents Empower Cyber Attackers**|Khalifa Afane et.al.|[2411.13874](http://arxiv.org/abs/2411.13874)|null|
-|**2024-11-21**|**Robust Detection of Watermarks for Large Language Models Under Human Edits**|Xiang Li et.al.|[2411.13868](http://arxiv.org/abs/2411.13868)|null|
+|**2024-11-21**|**Robust Detection of Watermarks for Large Language Models Under Human Edits**|Xiang Li et.al.|[2411.13868](http://arxiv.org/abs/2411.13868)|**[link](https://github.com/lx10077/TrGoF)**|
 |**2024-11-21**|**Generative Fuzzy System for Sequence Generation**|Hailong Yang et.al.|[2411.13867](http://arxiv.org/abs/2411.13867)|null|
 |**2024-11-21**|**HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems**|Qiyao Ma et.al.|[2411.13865](http://arxiv.org/abs/2411.13865)|null|
 |**2024-11-21**|**A Multimodal Approach to The Detection and Classification of Skin Diseases**|Allen Yang et.al.|[2411.13855](http://arxiv.org/abs/2411.13855)|null|
@@ -5940,7 +5940,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-20**|**DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback**|Mahsa Sheikholeslami et.al.|[2411.14157](http://arxiv.org/abs/2411.14157)|**[link](https://huggingface.co/alimotahharynia/DrugGen)**|
+|**2024-11-20**|**DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback**|Mahsa Sheikholeslami et.al.|[2411.14157](http://arxiv.org/abs/2411.14157)|**[link](https://github.com/mahsasheikh/DrugGen)**|
 |**2024-11-20**|**Assessing Gender Bias in LLMs: Comparing LLM Outputs with Human Perceptions and Official Statistics**|Tetiana Bas et.al.|[2411.13738](http://arxiv.org/abs/2411.13738)|**[link](https://github.com/tetianabas/llm_biases)**|
 |**2024-11-20**|**Exploring Large Language Models for Climate Forecasting**|Yang Wang et.al.|[2411.13724](http://arxiv.org/abs/2411.13724)|null|
 |**2024-11-20**|**Using AI Large Language Models for Grading in Education: A Hands-On Test for Physics**|Ryan Mok et.al.|[2411.13685](http://arxiv.org/abs/2411.13685)|null|

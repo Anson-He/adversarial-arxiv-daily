@@ -16747,7 +16747,7 @@ layout: default
     <td><b>Capture Artifacts via Progressive Disentangling and Purifying Blended Identities for Deepfake Detection</b></td>
     <td>Weijie Zhou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.10244">2410.10244</a></td>
-    <td>**[link](https://github.com/BigWhiteBearZWJ/PDP-Official-Code)**</td>
+    <td>null</td>
        </tr>
    </tbody>
 </table>
@@ -21574,7 +21574,7 @@ layout: default
     <td><b>Robust Detection of Watermarks for Large Language Models Under Human Edits</b></td>
     <td>Xiang Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.13868">2411.13868</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/lx10077/TrGoF)**</td>
        </tr>
        <tr>
     <td><b>2024-11-21</b></td>
@@ -21778,7 +21778,7 @@ layout: default
     <td><b>DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback</b></td>
     <td>Mahsa Sheikholeslami et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.14157">2411.14157</a></td>
-    <td>**[link](https://huggingface.co/alimotahharynia/DrugGen)**</td>
+    <td>**[link](https://github.com/mahsasheikh/DrugGen)**</td>
        </tr>
        <tr>
     <td><b>2024-11-20</b></td>
