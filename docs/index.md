@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.23
+## Updated on 2024.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -21469,7 +21469,7 @@ layout: default
     <td><b>Repository-level Code Translation Benchmark Targeting Rust</b></td>
     <td>Guangsheng Ou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.13990">2411.13990</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/trustedgpt/rustrepotrans)**</td>
        </tr>
        <tr>
     <td><b>2024-11-21</b></td>
@@ -21609,7 +21609,7 @@ layout: default
     <td><b>Detecting Human Artifacts from Text-to-Image Models</b></td>
     <td>Kaihong Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.13842">2411.13842</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/wangkaihong/hadm)**</td>
        </tr>
        <tr>
     <td><b>2024-11-21</b></td>
@@ -21946,7 +21946,7 @@ layout: default
     <td><b>Energy-based generative models for monoclonal antibodies</b></td>
     <td>Paul Pereira et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.13390">2411.13390</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/statbiophys/abgen)**</td>
        </tr>
        <tr>
     <td><b>2024-11-20</b></td>
@@ -21960,7 +21960,7 @@ layout: default
     <td><b>Fact-Level Confidence Calibration and Self-Correction</b></td>
     <td>Yige Yuan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.13343">2411.13343</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yuanyige/fact-calibration)**</td>
        </tr>
        <tr>
     <td><b>2024-11-20</b></td>
@@ -22451,7 +22451,7 @@ layout: default
     <td><b>A general modeling and simulation framework for dynamic vehicle routing</b></td>
     <td>Markó Horváth et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.12406">2411.12406</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/sztaki-hu/dvrpsim)**</td>
        </tr>
        <tr>
     <td><b>2024-11-19</b></td>
@@ -22591,7 +22591,7 @@ layout: default
     <td><b>Multilingual Large Language Models: A Systematic Survey</b></td>
     <td>Shaolin Zhu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.11072">2411.11072</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/tjunlp-lab/awesome-multilingual-llms-papers)**</td>
        </tr>
        <tr>
     <td><b>2024-11-19</b></td>
@@ -23421,7 +23421,7 @@ layout: default
     <td><b>An exploration of the effect of quantisation on energy consumption and inference time of StarCoder2</b></td>
     <td>Pepijn de Reus et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.12758">2411.12758</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ana-oprescu/greenllms)**</td>
        </tr>
        <tr>
     <td><b>2024-11-15</b></td>
