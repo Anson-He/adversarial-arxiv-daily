@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.24
+## Updated on 2024.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2024-11-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-11-22</b></td>
+    <td><b>Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics</b></td>
+    <td>Taowen Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2411.13587">2411.13587</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-11-21</h3>
 
 <table>
@@ -158,13 +180,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2024-11-18</b></td>
-    <td><b>Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics</b></td>
-    <td>Taowen Wang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2411.13587">2411.13587</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2024-11-18</b></td>
     <td><b>Theoretical Corrections and the Leveraging of Reinforcement Learning to Enhance Triangle Attack</b></td>
@@ -3785,7 +3800,7 @@ layout: default
 
 ## Poisoning attacks
 
-<h3>2024-11-21</h3>
+<h3>2024-11-22</h3>
 
 <table>
    <thead>
@@ -3799,12 +3814,27 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2024-11-21</b></td>
+    <td><b>2024-11-22</b></td>
     <td><b>Adversarial Poisoning Attack on Quantum Machine Learning Models</b></td>
     <td>Satwik Kundu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.14412">2411.14412</a></td>
     <td>null</td>
        </tr>
+   </tbody>
+</table>
+<h3>2024-11-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
        <tr>
     <td><b>2024-11-21</b></td>
     <td><b>AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection</b></td>
@@ -21241,6 +21271,35 @@ layout: default
 
 ## AIGC
 
+<h3>2024-11-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-11-22</b></td>
+    <td><b>SemiKong: Curating, Training, and Evaluating A Semiconductor Industry-Specific Large Language Model</b></td>
+    <td>Christopher Nguyen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2411.13802">2411.13802</a></td>
+    <td>**[link](https://github.com/aitomatic/semikong)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-11-22</b></td>
+    <td><b>Large Language Models for Lossless Image Compression: Next-Pixel Prediction in Language Space is All You Need</b></td>
+    <td>Kecheng Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2411.12448">2411.12448</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-11-21</h3>
 
 <table>
@@ -21631,13 +21690,6 @@ layout: default
     <td>Changhai Zhou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.13814">2411.13814</a></td>
     <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-11-21</b></td>
-    <td><b>SemiKong: Curating, Training, and Evaluating A Semiconductor Industry-Specific Large Language Model</b></td>
-    <td>Christopher Nguyen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2411.13802">2411.13802</a></td>
-    <td>**[link](https://github.com/aitomatic/semikong)**</td>
        </tr>
        <tr>
     <td><b>2024-11-21</b></td>
@@ -22437,13 +22489,6 @@ layout: default
     <td><b>Empirical Privacy Evaluations of Generative and Predictive Machine Learning Models -- A review and challenges for practice</b></td>
     <td>Flavio Hafner et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.12451">2411.12451</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-11-19</b></td>
-    <td><b>Large Language Models for Lossless Image Compression: Next-Pixel Prediction in Language Space is All You Need</b></td>
-    <td>Kecheng Chen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2411.12448">2411.12448</a></td>
     <td>null</td>
        </tr>
        <tr>
