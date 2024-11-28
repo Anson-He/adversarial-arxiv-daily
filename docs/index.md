@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.27
+## Updated on 2024.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -14731,7 +14731,7 @@ layout: default
     <td><b>A Pervasive, Efficient and Private Future: Realizing Privacy-Preserving Machine Learning Through Hybrid Homomorphic Encryption</b></td>
     <td>Khoa Nguyen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2409.06422">2409.06422</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/khoaguin/pockethhe)**</td>
        </tr>
    </tbody>
 </table>
