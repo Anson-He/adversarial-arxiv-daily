@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.28
+## Updated on 2024.11.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -4435,7 +4435,7 @@ layout: default
     <td><b>BackdoorMBTI: A Backdoor Learning Multimodal Benchmark Tool Kit for Backdoor Defense Evaluation</b></td>
     <td>Haiyang Yu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.11006">2411.11006</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/SJTUHaiyangYu/BackdoorMBTI)**</td>
        </tr>
        <tr>
     <td><b>2024-11-17</b></td>
@@ -22794,7 +22794,7 @@ layout: default
     <td><b>DRiVE: Diffusion-based Rigging Empowers Generation of Versatile and Expressive Characters</b></td>
     <td>Mingze Sun et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.17423">2411.17423</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/DRiVEAvatar/DRiVEAvatar.github.io)**</td>
        </tr>
        <tr>
     <td><b>2024-11-26</b></td>
