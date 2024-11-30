@@ -22780,7 +22780,7 @@ layout: default
     <td><b>Identity-Preserving Text-to-Video Generation by Frequency Decomposition</b></td>
     <td>Shenghai Yuan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.17440">2411.17440</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/PKU-YuanGroup/ConsisID)**</td>
        </tr>
        <tr>
     <td><b>2024-11-26</b></td>
