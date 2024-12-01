@@ -5010,7 +5010,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-30**|**AASIST3: KAN-Enhanced AASIST Speech Deepfake Detection using SSL Features and Additional Regularization for the ASVspoof 2024 Challenge**|Kirill Borodin et.al.|[2408.17352](http://arxiv.org/abs/2408.17352)|null|
-|**2024-08-30**|**Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning**|Zhiyuan Yan et.al.|[2408.17065](http://arxiv.org/abs/2408.17065)|**[link](https://github.com/yzy-stack/sta4deepfake)**|
+|**2024-08-30**|**Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning**|Zhiyuan Yan et.al.|[2408.17065](http://arxiv.org/abs/2408.17065)|null|
 |**2024-08-30**|**Can We Leave Deepfake Data Behind in Training Deepfake Detector?**|Jikang Cheng et.al.|[2408.17052](http://arxiv.org/abs/2408.17052)|null|
 |**2024-08-30**|**DeepSpeak Dataset v1.0**|Sarah Barrington et.al.|[2408.05366](http://arxiv.org/abs/2408.05366)|null|
 <p align=right>(<a href=#updated-on-20241201>back to top</a>)</p>
@@ -6064,7 +6064,7 @@
 |**2024-11-27**|**Bit symmetry entails the symmetry of the quantum transition probability**|Gerd Niestegge et.al.|[2411.18589](http://arxiv.org/abs/2411.18589)|null|
 |**2024-11-27**|**Automated Literature Review Using NLP Techniques and LLM-Based Retrieval-Augmented Generation**|Nurshat Fateh Ali et.al.|[2411.18583](http://arxiv.org/abs/2411.18583)|null|
 |**2024-11-27**|**Challenges in Adapting Multilingual LLMs to Low-Resource Languages using LoRA PEFT Tuning**|Omkar Khade et.al.|[2411.18571](http://arxiv.org/abs/2411.18571)|null|
-|**2024-11-27**|**Building Confidence in Deep Generative Protein Design**|Tianyuan Zheng et.al.|[2411.18568](http://arxiv.org/abs/2411.18568)|null|
+|**2024-11-27**|**Building Confidence in Deep Generative Protein Design**|Tianyuan Zheng et.al.|[2411.18568](http://arxiv.org/abs/2411.18568)|**[link](https://github.com/ecburx/proteval)**|
 |**2024-11-27**|**A Pipeline of Neural-Symbolic Integration to Enhance Spatial Reasoning in Large Language Models**|Rong Wang et.al.|[2411.18564](http://arxiv.org/abs/2411.18564)|null|
 |**2024-11-27**|**LLM-ABBA: Understand time series via symbolic approximation**|Erin Carson et.al.|[2411.18506](http://arxiv.org/abs/2411.18506)|null|
 |**2024-11-27**|**GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation**|Pengfei Zhou et.al.|[2411.18499](http://arxiv.org/abs/2411.18499)|null|
@@ -6133,7 +6133,7 @@
 |**2024-11-26**|**DECODE: Domain-aware Continual Domain Expansion for Motion Prediction**|Boqi Li et.al.|[2411.17917](http://arxiv.org/abs/2411.17917)|null|
 |**2024-11-26**|**Can LLMs plan paths in the real world?**|Wanyi Chen et.al.|[2411.17912](http://arxiv.org/abs/2411.17912)|null|
 |**2024-11-26**|**Passive Deepfake Detection Across Multi-modalities: A Comprehensive Survey**|Hong-Hanh Nguyen-Le et.al.|[2411.17911](http://arxiv.org/abs/2411.17911)|null|
-|**2024-11-26**|**Pretrained LLM Adapted with LoRA as a Decision Transformer for Offline RL in Quantitative Trading**|Suyeol Yun et.al.|[2411.17900](http://arxiv.org/abs/2411.17900)|null|
+|**2024-11-26**|**Pretrained LLM Adapted with LoRA as a Decision Transformer for Offline RL in Quantitative Trading**|Suyeol Yun et.al.|[2411.17900](http://arxiv.org/abs/2411.17900)|**[link](https://github.com/syyunn/finrl-dt)**|
 |**2024-11-26**|**Generative Image Layer Decomposition with Visual Effects**|Jinrui Yang et.al.|[2411.17864](http://arxiv.org/abs/2411.17864)|null|
 |**2024-11-26**|**"Give me the code" -- Log Analysis of First-Year CS Students' Interactions With GPT**|Pedro Alves et.al.|[2411.17855](http://arxiv.org/abs/2411.17855)|null|
 |**2024-11-26**|**SoftmAP: Software-Hardware Co-design for Integer-Only Softmax on Associative Processors**|Mariam Rakka et.al.|[2411.17847](http://arxiv.org/abs/2411.17847)|null|
@@ -6360,7 +6360,7 @@
 |**2024-11-23**|**Ontology-Constrained Generation of Domain-Specific Clinical Summaries**|Gaya Mehenni et.al.|[2411.15666](http://arxiv.org/abs/2411.15666)|**[link](https://github.com/lama-west/ontology-based-decoding_ekaw2024)**|
 |**2024-11-23**|**Enabling Efficient Serverless Inference Serving for LLM (Large Language Model) in the Cloud**|Himel Ghosh et.al.|[2411.15664](http://arxiv.org/abs/2411.15664)|null|
 |**2024-11-23**|**Gaps Between Research and Practice When Measuring Representational Harms Caused by LLM-Based Systems**|Emma Harvey et.al.|[2411.15662](http://arxiv.org/abs/2411.15662)|null|
-|**2024-11-23**|**MC-NEST -- Enhancing Mathematical Reasoning in Large Language Models with a Monte Carlo Nash Equilibrium Self-Refine Tree**|Gollam Rabby et.al.|[2411.15645](http://arxiv.org/abs/2411.15645)|null|
+|**2024-11-23**|**MC-NEST -- Enhancing Mathematical Reasoning in Large Language Models with a Monte Carlo Nash Equilibrium Self-Refine Tree**|Gollam Rabby et.al.|[2411.15645](http://arxiv.org/abs/2411.15645)|**[link](https://github.com/corei5/MC_NEST_GPT)**|
 |**2024-11-23**|**"All that Glitters": Approaches to Evaluations with Unreliable Model and Human Annotations**|Michael Hardy et.al.|[2411.15634](http://arxiv.org/abs/2411.15634)|null|
 |**2024-11-23**|**Multi-label Sequential Sentence Classification via Large Language Model**|Mengfei Lan et.al.|[2411.15623](http://arxiv.org/abs/2411.15623)|**[link](https://github.com/sciencenlp-lab/llm-ssc)**|
 |**2024-11-23**|**On extracting coherent seismic wavefield using variational symmetric autoencoders**|Pawan Bharadwaj et.al.|[2411.15613](http://arxiv.org/abs/2411.15613)|null|

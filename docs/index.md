@@ -18499,7 +18499,7 @@ layout: default
     <td><b>Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning</b></td>
     <td>Zhiyuan Yan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2408.17065">2408.17065</a></td>
-    <td>**[link](https://github.com/yzy-stack/sta4deepfake)**</td>
+    <td>null</td>
        </tr>
        <tr>
     <td><b>2024-08-30</b></td>
@@ -22079,7 +22079,7 @@ layout: default
     <td><b>Building Confidence in Deep Generative Protein Design</b></td>
     <td>Tianyuan Zheng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.18568">2411.18568</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ecburx/proteval)**</td>
        </tr>
        <tr>
     <td><b>2024-11-27</b></td>
@@ -22535,7 +22535,7 @@ layout: default
     <td><b>Pretrained LLM Adapted with LoRA as a Decision Transformer for Offline RL in Quantitative Trading</b></td>
     <td>Suyeol Yun et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.17900">2411.17900</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/syyunn/finrl-dt)**</td>
        </tr>
        <tr>
     <td><b>2024-11-26</b></td>
@@ -24043,7 +24043,7 @@ layout: default
     <td><b>MC-NEST -- Enhancing Mathematical Reasoning in Large Language Models with a Monte Carlo Nash Equilibrium Self-Refine Tree</b></td>
     <td>Gollam Rabby et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.15645">2411.15645</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/corei5/MC_NEST_GPT)**</td>
        </tr>
        <tr>
     <td><b>2024-11-23</b></td>
