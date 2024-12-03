@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.02
+## Updated on 2024.12.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -22794,7 +22794,7 @@ layout: default
     <td><b>I Dream My Painting: Connecting MLLMs and Diffusion Models via Prompt Generation for Text-Guided Multi-Mask Inpainting</b></td>
     <td>Nicola Fanelli et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.19050">2411.19050</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/cilabuniba/i-dream-my-painting)**</td>
        </tr>
        <tr>
     <td><b>2024-11-28</b></td>
