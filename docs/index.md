@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.03
+## Updated on 2024.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23360,7 +23360,7 @@ layout: default
     <td><b>TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models</b></td>
     <td>Riza Velioglu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.18350">2411.18350</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/rizavelioglu/tryoffdiff)**</td>
        </tr>
        <tr>
     <td><b>2024-11-27</b></td>
