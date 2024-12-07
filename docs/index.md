@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.06
+## Updated on 2024.12.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -670,7 +670,7 @@ layout: default
     <td><b>Gradient Masking All-at-Once: Ensemble Everything Everywhere Is Not Robust</b></td>
     <td>Jie Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.14834">2411.14834</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/zj-jayzhang/attack_ens)**</td>
        </tr>
        <tr>
     <td><b>2024-11-22</b></td>
