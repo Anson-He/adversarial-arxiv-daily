@@ -169,21 +169,21 @@ layout: default
     <td><b>Defending Against Diverse Attacks in Federated Learning Through Consensus-Based Bi-Level Optimization</b></td>
     <td>Nicolás García Trillos et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.02535">2412.02535</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/SixuLi/FedCB2O)**</td>
        </tr>
        <tr>
     <td><b>2024-12-03</b></td>
     <td><b>TSCheater: Generating High-Quality Tibetan Adversarial Texts via Visual Similarity</b></td>
     <td>Xi Cao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.02371">2412.02371</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/metaphors/TSAttack)**</td>
        </tr>
        <tr>
     <td><b>2024-12-03</b></td>
     <td><b>Multi-Granularity Tibetan Textual Adversarial Attack Method Based on Masked Language Model</b></td>
     <td>Xi Cao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.02343">2412.02343</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/UTibetNLP/TSTricker)**</td>
        </tr>
        <tr>
     <td><b>2024-12-03</b></td>
@@ -4440,7 +4440,7 @@ layout: default
     <td><b>Can Targeted Clean-Label Poisoning Attacks Generalize?</b></td>
     <td>Zhizhen Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.03908">2412.03908</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jiaangk/generalizable_tcpa)**</td>
        </tr>
        <tr>
     <td><b>2024-12-05</b></td>
@@ -4520,7 +4520,7 @@ layout: default
     <td><b>Development and Application of a Decentralized Domain Name Service</b></td>
     <td>Guang Yang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.01959">2412.01959</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/GY19A/ddns)**</td>
        </tr>
        <tr>
     <td><b>2024-12-02</b></td>
@@ -4909,7 +4909,7 @@ layout: default
     <td><b>AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection</b></td>
     <td>Jialin Lu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.14243">2411.14243</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/hku-tasr/anywheredoor)**</td>
        </tr>
    </tbody>
 </table>
@@ -11100,7 +11100,7 @@ layout: default
     <td><b>Federated Motor Imagery Classification for Privacy-Preserving Brain-Computer Interfaces</b></td>
     <td>Tianwang Jia et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.01079">2412.01079</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/TianwangJia/FedBS)**</td>
        </tr>
        <tr>
     <td><b>2024-12-02</b></td>
@@ -11158,7 +11158,7 @@ layout: default
     <td><b>DroidCall: A Dataset for LLM-powered Android Intent Invocation</b></td>
     <td>Weikai Xie et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.00402">2412.00402</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ubiquitouslearning/droidcall)**</td>
        </tr>
        <tr>
     <td><b>2024-11-30</b></td>
@@ -23130,14 +23130,14 @@ layout: default
     <td><b>Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation</b></td>
     <td>Yuying Ge et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.04432">2412.04432</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/tencentarc/divot)**</td>
        </tr>
        <tr>
     <td><b>2024-12-05</b></td>
     <td><b>Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion</b></td>
     <td>Jiuhai Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.04424">2412.04424</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jiuhaichen/florence-vl)**</td>
        </tr>
        <tr>
     <td><b>2024-12-05</b></td>
@@ -23298,7 +23298,7 @@ layout: default
     <td><b>Bench-CoE: a Framework for Collaboration of Experts from Benchmark</b></td>
     <td>Yuanshuai Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.04167">2412.04167</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/zhangxj199/bench-coe)**</td>
        </tr>
        <tr>
     <td><b>2024-12-05</b></td>
@@ -23319,7 +23319,7 @@ layout: default
     <td><b>Monet: Mixture of Monosemantic Experts for Transformers</b></td>
     <td>Jungwoo Park et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.04139">2412.04139</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/dmis-lab/monet)**</td>
        </tr>
        <tr>
     <td><b>2024-12-05</b></td>
@@ -23452,14 +23452,14 @@ layout: default
     <td><b>Integrating Various Software Artifacts for Better LLM-based Bug Localization and Program Repair</b></td>
     <td>Qiong Feng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.03905">2412.03905</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/xyzboom/devlore)**</td>
        </tr>
        <tr>
     <td><b>2024-12-05</b></td>
     <td><b>MISR: Measuring Instrumental Self-Reasoning in Frontier Models</b></td>
     <td>Kai Fronsdal et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.03904">2412.03904</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/kaifronsdal/self-reasoning-evals)**</td>
        </tr>
        <tr>
     <td><b>2024-12-05</b></td>
@@ -23473,7 +23473,7 @@ layout: default
     <td><b>DiffSign: AI-Assisted Generation of Customizable Sign Language Videos With Enhanced Realism</b></td>
     <td>Sudha Krishnamurthy et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.03878">2412.03878</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/athenas-lab/diffsign)**</td>
        </tr>
        <tr>
     <td><b>2024-12-05</b></td>
@@ -23607,7 +23607,7 @@ layout: default
     <td><b>Diffusion in Zero-Shot Learning for Environmental Audio</b></td>
     <td>Ysobel Sims et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.03771">2412.03771</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ysims/zerodiffusion)**</td>
        </tr>
        <tr>
     <td><b>2024-12-04</b></td>
@@ -23691,7 +23691,7 @@ layout: default
     <td><b>From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents</b></td>
     <td>Xinyi Mou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.03563">2412.03563</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/fudandisc/socialagent)**</td>
        </tr>
        <tr>
     <td><b>2024-12-04</b></td>
@@ -23936,7 +23936,7 @@ layout: default
     <td><b>CredID: Credible Multi-Bit Watermark for Large Language Models Identification</b></td>
     <td>Haoyu Jiang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.03107">2412.03107</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jhy549/credible_LLM_watermarking)**</td>
        </tr>
        <tr>
     <td><b>2024-12-04</b></td>
@@ -23957,7 +23957,7 @@ layout: default
     <td><b>TOOL-ED: Enhancing Empathetic Response Generation with the Tool Calling Capability of LLM</b></td>
     <td>Huiying Cao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.03096">2412.03096</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/caohy123/EKTC)**</td>
        </tr>
        <tr>
     <td><b>2024-12-04</b></td>
@@ -24119,7 +24119,7 @@ layout: default
     <td><b>HunyuanVideo: A Systematic Framework For Large Video Generative Models</b></td>
     <td>Weijie Kong et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.03603">2412.03603</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/tencent/hunyuanvideo)**</td>
        </tr>
        <tr>
     <td><b>2024-12-03</b></td>
@@ -24168,7 +24168,7 @@ layout: default
     <td><b>TDD-Bench Verified: Can LLMs Generate Tests for Issues Before They Get Resolved?</b></td>
     <td>Toufique Ahmed et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.02883">2412.02883</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/IBM/TDD-Bench-Verified)**</td>
        </tr>
        <tr>
     <td><b>2024-12-03</b></td>
@@ -24217,7 +24217,7 @@ layout: default
     <td><b>Hacking CTFs with Plain Agents</b></td>
     <td>Rustem Turtayev et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.02776">2412.02776</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/palisaderesearch/intercode)**</td>
        </tr>
        <tr>
     <td><b>2024-12-03</b></td>
@@ -24322,7 +24322,7 @@ layout: default
     <td><b>OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation</b></td>
     <td>Junyuan Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.02592">2412.02592</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/opendatalab/OHR-Bench)**</td>
        </tr>
        <tr>
     <td><b>2024-12-03</b></td>
@@ -24659,7 +24659,7 @@ layout: default
     <td><b>Free Process Rewards without Process Labels</b></td>
     <td>Lifan Yuan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.01981">2412.01981</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/lifan-yuan/implicitprm)**</td>
        </tr>
        <tr>
     <td><b>2024-12-02</b></td>
@@ -24799,7 +24799,7 @@ layout: default
     <td><b>R-Bot: An LLM-based Query Rewrite System</b></td>
     <td>Zhaoyan Sun et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.01661">2412.01661</a></td>
-    <td>**[link](https://github.com/curtis-sun/LLM4Rewrite)**</td>
+    <td>null</td>
        </tr>
        <tr>
     <td><b>2024-12-02</b></td>
@@ -24820,7 +24820,7 @@ layout: default
     <td><b>Using Large Language Models in Automatic Hint Ranking and Generation Tasks</b></td>
     <td>Jamshid Mozafari et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.01626">2412.01626</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/DataScienceUIBK/WikiHint)**</td>
        </tr>
        <tr>
     <td><b>2024-12-02</b></td>
@@ -24834,7 +24834,7 @@ layout: default
     <td><b>If Eleanor Rigby Had Met ChatGPT: A Study on Loneliness in a Post-LLM World</b></td>
     <td>Adrian de Wynter et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.01617">2412.01617</a></td>
-    <td>**[link](https://github.com/adewynter/EleanorRigby)**</td>
+    <td>null</td>
        </tr>
        <tr>
     <td><b>2024-12-02</b></td>
@@ -24918,7 +24918,7 @@ layout: default
     <td><b>RaD: A Metric for Medical Image Distribution Comparison in Out-of-Domain Detection and Other Applications</b></td>
     <td>Nicholas Konz et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.01496">2412.01496</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mazurowski-lab/RaD)**</td>
        </tr>
        <tr>
     <td><b>2024-12-02</b></td>
@@ -24960,7 +24960,7 @@ layout: default
     <td><b>Learning Elementary Cellular Automata with Transformers</b></td>
     <td>Mikhail Burtsev et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.01417">2412.01417</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/burtsev/TransformerECA)**</td>
        </tr>
        <tr>
     <td><b>2024-12-02</b></td>
@@ -24981,7 +24981,7 @@ layout: default
     <td><b>Hierarchical VAE with a Diffusion-based VampPrior</b></td>
     <td>Anna Kuzina et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.01373">2412.01373</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/akuzina/dvp_vae)**</td>
        </tr>
        <tr>
     <td><b>2024-12-02</b></td>
@@ -25009,7 +25009,7 @@ layout: default
     <td><b>Can Large Language Models Serve as Evaluators for Code Summarization?</b></td>
     <td>Yang Wu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.01333">2412.01333</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/CGCL-codes/naturalcc)**</td>
        </tr>
        <tr>
     <td><b>2024-12-02</b></td>
@@ -25065,7 +25065,7 @@ layout: default
     <td><b>Embryo 2.0: Merging Synthetic and Real Data for Advanced AI Predictions</b></td>
     <td>Oriana Presacan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.01255">2412.01255</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/orianapresacan/EmbryoStageGen)**</td>
        </tr>
        <tr>
     <td><b>2024-12-02</b></td>
@@ -25177,7 +25177,7 @@ layout: default
     <td><b>FreeCodec: A disentangled neural speech codec with fewer tokens</b></td>
     <td>Youqiang Zheng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.01053">2412.01053</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/exercise-book-yq/FreeCodec)**</td>
        </tr>
        <tr>
     <td><b>2024-12-02</b></td>
