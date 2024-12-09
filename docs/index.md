@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -62,7 +62,7 @@ layout: default
     <td><b>Safeguarding Text-to-Image Generation via Inference-Time Prompt-Noise Optimization</b></td>
     <td>Jiangweizhi Peng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.03876">2412.03876</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/JonP07/Diffusion-PNO)**</td>
        </tr>
        <tr>
     <td><b>2024-12-05</b></td>
@@ -4433,7 +4433,7 @@ layout: default
     <td><b>LaserGuider: A Laser Based Physical Backdoor Attack against Deep Neural Networks</b></td>
     <td>Yongjie Xu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.03993">2412.03993</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/S3L-official/LaserGuider)**</td>
        </tr>
        <tr>
     <td><b>2024-12-05</b></td>
@@ -10950,7 +10950,7 @@ layout: default
     <td><b>FedDUAL: A Dual-Strategy with Adaptive Loss and Dynamic Aggregation for Mitigating Data Heterogeneity in Federated Learning</b></td>
     <td>Pranab Sahoo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.04416">2412.04416</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Pranabiitp/FedDUAL)**</td>
        </tr>
        <tr>
     <td><b>2024-12-05</b></td>
@@ -23172,7 +23172,7 @@ layout: default
     <td><b>Retrieval-Augmented Machine Translation with Unstructured Knowledge</b></td>
     <td>Jiaan Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.04342">2412.04342</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/krystalan/RAGtrans)**</td>
        </tr>
        <tr>
     <td><b>2024-12-05</b></td>
@@ -23635,7 +23635,7 @@ layout: default
     <td><b>ParetoFlow: Guided Flows in Multi-Objective Optimization</b></td>
     <td>Ye Yuan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.03718">2412.03718</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/StevenYuan666/ParetoFlow)**</td>
        </tr>
        <tr>
     <td><b>2024-12-04</b></td>
@@ -23670,7 +23670,7 @@ layout: default
     <td><b>Chatting with Logs: An exploratory study on Finetuning LLMs for LogQL</b></td>
     <td>Vishwanath Seshagiri et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.03612">2412.03612</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/nl2logql/LogQLLM)**</td>
        </tr>
        <tr>
     <td><b>2024-12-04</b></td>
@@ -24203,7 +24203,7 @@ layout: default
     <td><b>Unleashing GHOST: An LLM-Powered Framework for Automated Hardware Trojan Design</b></td>
     <td>Md Omar Faruque et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.02816">2412.02816</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/HSTRG1/GHOST_benchmarks)**</td>
        </tr>
        <tr>
     <td><b>2024-12-03</b></td>
@@ -24497,7 +24497,7 @@ layout: default
     <td><b>CausalMob: Causal Human Mobility Prediction with LLMs-derived Human Intentions toward Public Events</b></td>
     <td>Xiaojie Yang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.02155">2412.02155</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/YangXiaojie1998/CausalMob)**</td>
        </tr>
        <tr>
     <td><b>2024-12-03</b></td>
