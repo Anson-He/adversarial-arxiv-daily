@@ -23,6 +23,70 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2024-12-10</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Quantifying the Prediction Uncertainty of Machine Learning Models for Individual Data</b></td>
+    <td>Koby Bibas et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07520">2412.07520</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>AHSG: Adversarial Attacks on High-level Semantics in Graph Neural Networks</b></td>
+    <td>Kai Yuan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07468">2412.07468</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Addressing Key Challenges of Adversarial Attacks and Defenses in the Tabular Domain: A Methodological Framework for Coherence and Consistency</b></td>
+    <td>Yael Itzhakev et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07326">2412.07326</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Backdoor Attacks against No-Reference Image Quality Assessment Models via A Scalable Trigger</b></td>
+    <td>Yi Yu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07277">2412.07277</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>A Generative Victim Model for Segmentation</b></td>
+    <td>Aixuan Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07274">2412.07274</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Adversarial Filtering Based Evasion and Backdoor Attacks to EEG-Based Brain-Computer Interfaces</b></td>
+    <td>Lubin Meng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07231">2412.07231</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Defensive Dual Masking for Robust Adversarial Defense</b></td>
+    <td>Wangli Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07078">2412.07078</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-12-09</h3>
 
 <table>
@@ -36,6 +100,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2024-12-09</b></td>
+    <td><b>Dense Cross-Connected Ensemble Convolutional Neural Networks for Enhanced Model Robustness</b></td>
+    <td>Longwei Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07022">2412.07022</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2024-12-09</b></td>
     <td><b>Take Fake as Real: Realistic-like Robust Black-box Adversarial Attack to Evade AIGC Detection</b></td>
@@ -1541,6 +1612,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2024-11-03</b></td>
+    <td><b>Poison Attacks and Adversarial Prompts Against an Informed University Virtual Assistant</b></td>
+    <td>Ivan A. Fernandez et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06788">2412.06788</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2024-11-03</b></td>
     <td><b>Designing Robust Quantum Neural Networks: Exploring Expressibility, Entanglement, and Control Rotation Gate Selection for Enhanced Quantum Models</b></td>
@@ -4545,6 +4623,63 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2024-12-10</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Defending Against Neural Network Model Inversion Attacks via Data Poisoning</b></td>
+    <td>Shuai Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07575">2412.07575</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Stealthy and Robust Backdoor Attack against 3D Point Clouds through Additional Point Features</b></td>
+    <td>Xiaoyang Ning et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07511">2412.07511</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Tazza: Shuffling Neural Network Parameters for Secure and Private Federated Learning</b></td>
+    <td>Kichang Lee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07454">2412.07454</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Backdoor Attacks against No-Reference Image Quality Assessment Models via A Scalable Trigger</b></td>
+    <td>Yi Yu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07277">2412.07277</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Buster: Incorporating Backdoor Attacks into Text Encoder to Mitigate NSFW Content Generation</b></td>
+    <td>Xin Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07249">2412.07249</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Adversarial Filtering Based Evasion and Backdoor Attacks to EEG-Based Brain-Computer Interfaces</b></td>
+    <td>Lubin Meng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07231">2412.07231</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-12-09</h3>
 
 <table>
@@ -5583,6 +5718,28 @@ layout: default
     <td>Dohyun Kim et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.01742">2411.01742</a></td>
     <td>**[link](https://github.com/aseriesof-tubes/RSK)**</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2024-11-03</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-11-03</b></td>
+    <td><b>Poison Attacks and Adversarial Prompts Against an Informed University Virtual Assistant</b></td>
+    <td>Ivan A. Fernandez et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06788">2412.06788</a></td>
+    <td>null</td>
        </tr>
    </tbody>
 </table>
@@ -9498,6 +9655,50 @@ layout: default
 
 ## Generative models safety
 
+<h3>2024-12-09</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-12-09</b></td>
+    <td><b>WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs</b></td>
+    <td>Seungju Han et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2406.18495">2406.18495</a></td>
+    <td>**[link](https://github.com/allenai/wildguard)**</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2024-12-08</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-12-08</b></td>
+    <td><b>Classifier-free guidance in LLMs Safety</b></td>
+    <td>Roman Smirnov et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06846">2412.06846</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-12-05</h3>
 
 <table>
@@ -10442,28 +10643,6 @@ layout: default
        </tr>
    </tbody>
 </table>
-<h3>2024-07-09</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2024-07-09</b></td>
-    <td><b>WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs</b></td>
-    <td>Seungju Han et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2406.18495">2406.18495</a></td>
-    <td>**[link](https://github.com/allenai/wildguard)**</td>
-       </tr>
-   </tbody>
-</table>
 <h3>2024-07-05</h3>
 
 <table>
@@ -11170,6 +11349,63 @@ layout: default
 
 ## Data privacy
 
+<h3>2024-12-10</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Zero-Shot ATC Coding with Large Language Models for Clinical Assessments</b></td>
+    <td>Zijian Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07743">2412.07743</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Tazza: Shuffling Neural Network Parameters for Secure and Private Federated Learning</b></td>
+    <td>Kichang Lee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07454">2412.07454</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Filling Memory Gaps: Enhancing Continual Semantic Parsing via SQL Syntax Variance-Guided LLMs without Real Data Replay</b></td>
+    <td>Ruiheng Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07246">2412.07246</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>A New Federated Learning Framework Against Gradient Inversion Attacks</b></td>
+    <td>Pengxin Guo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07187">2412.07187</a></td>
+    <td>**[link](https://github.com/pengxin-guo/hyperfl)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Unlocking TriLevel Learning with Level-Wise Zeroth Order Constraints: Distributed Algorithms and Provable Non-Asymptotic Convergence</b></td>
+    <td>Yang Jiao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07138">2412.07138</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>TT-MPD: Test Time Model Pruning and Distillation</b></td>
+    <td>Haihang Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07114">2412.07114</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-12-09</h3>
 
 <table>
@@ -11435,6 +11671,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2024-12-02</b></td>
+    <td><b>Federated Block-Term Tensor Regression for decentralised data analysis in healthcare</b></td>
+    <td>Axel Faes et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06815">2412.06815</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2024-12-02</b></td>
     <td><b>The Future of Document Verification: Leveraging Blockchain and Self-Sovereign Identity for Enhanced Security and Transparency</b></td>
@@ -18086,6 +18329,56 @@ layout: default
 
 ## Forensics
 
+<h3>2024-12-10</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>BENet: A Cross-domain Robust Network for Detecting Face Forgeries via Bias Expansion and Latent-space Attention</b></td>
+    <td>Weihua Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07431">2412.07431</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>DFREC: DeepFake Identity Recovery Based on Identity-aware Masked Autoencoder</b></td>
+    <td>Peipeng Yu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07260">2412.07260</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>From Audio Deepfake Detection to AI-Generated Music Detection -- A Pathway and Overview</b></td>
+    <td>Yupei Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.00571">2412.00571</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Which LLMs are Difficult to Detect? A Detailed Analysis of Potential Factors Contributing to Difficulties in LLM Text Detection</b></td>
+    <td>Shantanu Thorat et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.14875">2410.14875</a></td>
+    <td>**[link](https://github.com/ShantanuT01/which-llms-are-difficult-to-detect)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>DeCLIP: Decoding CLIP representations for deepfake localization</b></td>
+    <td>Stefan Smeu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2409.08849">2409.08849</a></td>
+    <td>**[link](https://github.com/bit-ml/DeCLIP)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-12-07</h3>
 
 <table>
@@ -18258,13 +18551,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2024-11-30</b></td>
-    <td><b>From Audio Deepfake Detection to AI-Generated Music Detection -- A Pathway and Overview</b></td>
-    <td>Yupei Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.00571">2412.00571</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2024-11-30</b></td>
     <td><b>Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning</b></td>
@@ -19055,13 +19341,6 @@ layout: default
     <td><a href="#http://arxiv.org/abs/2411.02405">2411.02405</a></td>
     <td>null</td>
        </tr>
-       <tr>
-    <td><b>2024-10-18</b></td>
-    <td><b>Which LLMs are Difficult to Detect? A Detailed Analysis of Potential Factors Contributing to Difficulties in LLM Text Detection</b></td>
-    <td>Shantanu Thorat et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.14875">2410.14875</a></td>
-    <td>**[link](https://github.com/ShantanuT01/which-llms-are-difficult-to-detect)**</td>
-       </tr>
    </tbody>
 </table>
 <h3>2024-10-16</h3>
@@ -19760,13 +20039,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2024-09-12</b></td>
-    <td><b>DeCLIP: Decoding CLIP representations for deepfake localization</b></td>
-    <td>Stefan Smeu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2409.08849">2409.08849</a></td>
-    <td>**[link](https://github.com/bit-ml/DeCLIP)**</td>
-       </tr>
        <tr>
     <td><b>2024-09-12</b></td>
     <td><b>ADD 2023: Towards Audio Deepfake Detection and Analysis in the Wild</b></td>
@@ -23496,6 +23768,518 @@ layout: default
 
 ## AIGC
 
+<h3>2024-12-10</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics</b></td>
+    <td>Xi Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07774">2412.07774</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>BiMediX2: Bio-Medical EXpert LMM for Diverse Medical Modalities</b></td>
+    <td>Sahal Shaji Mullappilly et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07769">2412.07769</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Make-A-Texture: Fast Shape-Aware Texture Generation in 3 Seconds</b></td>
+    <td>Xiaoyu Xiang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07766">2412.07766</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Bayesian Optimization of Antibodies Informed by a Generative Model of Evolving Sequences</b></td>
+    <td>Alan Nawzad Amin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07763">2412.07763</a></td>
+    <td>**[link](https://github.com/alannawzadamin/clonebo)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>StyleMaster: Stylize Your Video with Artistic Generation and Translation</b></td>
+    <td>Zixuan Ye et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07744">2412.07744</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Zero-Shot ATC Coding with Large Language Models for Clinical Assessments</b></td>
+    <td>Zijian Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07743">2412.07743</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>STIV: Scalable Text and Image Conditioned Video Generation</b></td>
+    <td>Zongyu Lin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07730">2412.07730</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Granite Guardian</b></td>
+    <td>Inkit Padhi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07724">2412.07724</a></td>
+    <td>**[link](https://github.com/ibm-granite/granite-guardian)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>ObjCtrl-2.5D: Training-free Object Control with Camera Poses</b></td>
+    <td>Zhouxia Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07721">2412.07721</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion Transformer</b></td>
+    <td>Jinyi Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07720">2412.07720</a></td>
+    <td>**[link](https://github.com/thunlp/acdit)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Privacy-Preserving Customer Support: A Framework for Secure and Scalable Interactions</b></td>
+    <td>Anant Prakash Awasthi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07687">2412.07687</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>TRIM: Token Reduction and Inference Modeling for Cost-Effective Language Generation</b></td>
+    <td>Alfredo Garrachón Ruiz et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07682">2412.07682</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>RAZOR: Sharpening Knowledge by Cutting Bias with Unsupervised Text Rewriting</b></td>
+    <td>Shuo Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07675">2412.07675</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Ask Humans or AI? Exploring Their Roles in Visualization Troubleshooting</b></td>
+    <td>Shuyu Shen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07673">2412.07673</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>FlexLLM: Exploring LLM Customization for Moving Target Defense on Black-Box LLMs Against Jailbreak Attacks</b></td>
+    <td>Bocheng Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07672">2412.07672</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Automating Business Intelligence Requirements with Generative AI and Semantic Search</b></td>
+    <td>Nimrod Busany et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07668">2412.07668</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Proc-GS: Procedural Building Generation for City Assembly with 3D Gaussians</b></td>
+    <td>Yixuan Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07660">2412.07660</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Searching for Structure: Investigating Emergent Communication with Large Language Models</b></td>
+    <td>Tom Kouwenhoven et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07646">2412.07646</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>TrojanWhisper: Evaluating Pre-trained LLMs to Detect and Localize Hardware Trojans</b></td>
+    <td>Md Omar Faruque et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07636">2412.07636</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>ChocoLlama: Lessons Learned From Teaching Llamas Dutch</b></td>
+    <td>Matthieu Meeus et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07633">2412.07633</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>OmniDocBench: Benchmarking Diverse PDF Document Parsing with Comprehensive Annotations</b></td>
+    <td>Linke Ouyang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07626">2412.07626</a></td>
+    <td>**[link](https://github.com/opendatalab/OmniDocBench)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>DRUM: Learning Demonstration Retriever for Large MUlti-modal Models</b></td>
+    <td>Ellen Yi-Ge et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07619">2412.07619</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Adapting to Non-Stationary Environments: Multi-Armed Bandit Enhanced Retrieval-Augmented Generation on Knowledge Graphs</b></td>
+    <td>Xiaqiang Tang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07618">2412.07618</a></td>
+    <td>**[link](https://github.com/futureeeeee/dynamic-rag)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation</b></td>
+    <td>Jianzong Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07589">2412.07589</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Automatic Database Configuration Debugging using Retrieval-Augmented Language Models</b></td>
+    <td>Sibei Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07548">2412.07548</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Statistical Precoder Design in Multi-User Systems via Graph Neural Networks and Generative Modeling</b></td>
+    <td>Nurettin Turan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07519">2412.07519</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>CoPrUS: Consistency Preserving Utterance Synthesis towards more realistic benchmark dialogues</b></td>
+    <td>Sebastian Steindl et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07515">2412.07515</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Ontology-driven Prompt Tuning for LLM-based Task and Motion Planning</b></td>
+    <td>Muhayy Ud Din et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07493">2412.07493</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Dynamic Ensemble Reasoning for LLM Experts</b></td>
+    <td>Jinwu Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07448">2412.07448</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Optimizing Alignment with Less: Leveraging Data Augmentation for Personalized Evaluation</b></td>
+    <td>Javad Seraj et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07429">2412.07429</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Beyond Search Engines: Can Large Language Models Improve Curriculum Development?</b></td>
+    <td>Mohammad Moein et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07422">2412.07422</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Generating Knowledge Graphs from Large Language Models: A Comparative Study of GPT-4, LLaMA 2, and BERT</b></td>
+    <td>Ahan Bhatt et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07412">2412.07412</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>MoDULA: Mixture of Domain-Specific and Universal LoRA for Multi-Task Learning</b></td>
+    <td>Yufei Ma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07405">2412.07405</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>CMT: A Memory Compression Method for Continual Knowledge Learning of Large Language Models</b></td>
+    <td>Dongfang Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07393">2412.07393</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>SpecFuse: Ensembling Large Language Models via Next-Segment Prediction</b></td>
+    <td>Bo Lv et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07380">2412.07380</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Towards Predictive Communication with Brain-Computer Interfaces integrating Large Language Models</b></td>
+    <td>Andrea Caria et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07355">2412.07355</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Frame Representation Hypothesis: Multi-Token LLM Interpretability and Concept-Guided Text Generation</b></td>
+    <td>Pedro H. V. Valois et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07334">2412.07334</a></td>
+    <td>**[link](https://github.com/phvv-me/frame-representation-hypothesis)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Fusion Embedding for Pose-Guided Person Image Synthesis with Diffusion Model</b></td>
+    <td>Donghwna Lee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07333">2412.07333</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>ConceptSearch: Towards Efficient Program Search Using LLMs for Abstraction and Reasoning Corpus (ARC)</b></td>
+    <td>Kartik Singhal et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07322">2412.07322</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>The Rise and Down of Babel Tower: Investigating the Evolution Process of Multilingual Code Large Language Model</b></td>
+    <td>Jiawei Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07298">2412.07298</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Enhancing Relation Extraction via Supervised Rationale Verification and Feedback</b></td>
+    <td>Yongqi Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07289">2412.07289</a></td>
+    <td>**[link](https://github.com/nlpgm/srvf)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>AppGen: Mobility-aware App Usage Behavior Generation for Mobile Users</b></td>
+    <td>Zihan Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07267">2412.07267</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>MemHunter: Automated and Verifiable Memorization Detection at Dataset-scale in LLMs</b></td>
+    <td>Zhenpeng Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07261">2412.07261</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Label-Confidence-Aware Uncertainty Estimation in Natural Language Generation</b></td>
+    <td>Qinhong Lin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07255">2412.07255</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Filling Memory Gaps: Enhancing Continual Semantic Parsing via SQL Syntax Variance-Guided LLMs without Real Data Replay</b></td>
+    <td>Ruiheng Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07246">2412.07246</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Moderating the Generalization of Score-based Generative Model</b></td>
+    <td>Wan Jiang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07229">2412.07229</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Towards Automated Cross-domain Exploratory Data Analysis through Large Language Models</b></td>
+    <td>Jun-Peng Zhu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07214">2412.07214</a></td>
+    <td>**[link](https://github.com/tidbcloud/tiinsight)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>IntellectSeeker: A Personalized Literature Management System with the Probabilistic Model and Large Language Model</b></td>
+    <td>Weizhen Bian et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07213">2412.07213</a></td>
+    <td>**[link](https://github.com/luckybian/isy5001)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>EDiT: A Local-SGD-Based Efficient Distributed Training Method for Large Language Models</b></td>
+    <td>Jialiang Cheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07210">2412.07210</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>MAPLE: A Framework for Active Preference Learning Guided by Large Language Models</b></td>
+    <td>Saaduddin Mahmud et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07207">2412.07207</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>When Graph Meets Retrieval Augmented Generation for Wireless Networks: A Tutorial and Case Study</b></td>
+    <td>Yang Xiong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07189">2412.07189</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Post-Training Statistical Calibration for Higher Activation Sparsity</b></td>
+    <td>Vui Seng Chua et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07174">2412.07174</a></td>
+    <td>**[link](https://github.com/intellabs/scap)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Breaking the Stage Barrier: A Novel Single-Stage Approach to Long Context Extension for Large Language Models</b></td>
+    <td>Haoran Lian et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07171">2412.07171</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Quantum oscillation in Hopf-link semimetals</b></td>
+    <td>Lei Shi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07122">2412.07122</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>A Review of Human Emotion Synthesis Based on Generative Technology</b></td>
+    <td>Fei Ma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07116">2412.07116</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Exploring Coding Spot: Understanding Parametric Contributions to LLM Coding Performance</b></td>
+    <td>Dongjun Kim et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07113">2412.07113</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Predictable Emergent Abilities of LLMs: Proxy Tasks Are All You Need</b></td>
+    <td>Bo-Wen Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07111">2412.07111</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>On Evaluating the Durability of Safeguards for Open-Weight LLMs</b></td>
+    <td>Xiangyu Qi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07097">2412.07097</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Defensive Dual Masking for Robust Adversarial Defense</b></td>
+    <td>Wangli Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07078">2412.07078</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>MoE-CAP: Cost-Accuracy-Performance Benchmarking for Mixture-of-Experts Systems</b></td>
+    <td>Yao Fu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07067">2412.07067</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>[MASK] is All You Need</b></td>
+    <td>Vincent Tao Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06787">2412.06787</a></td>
+    <td>**[link](https://github.com/CompVis/mask)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Chatbots im Schulunterricht: Wir testen das Fobizz-Tool zur automatischen Bewertung von Hausaufgaben</b></td>
+    <td>Rainer Muehlhoff et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06651">2412.06651</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Data Quality Enhancement on the Basis of Diversity with Large Language Models for Text Classification: Uncovered, Difficult, and Noisy</b></td>
+    <td>Min Zeng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06575">2412.06575</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Applications and Implications of Large Language Models in Qualitative Analysis: A New Frontier for Empirical Software Engineering</b></td>
+    <td>Matheus de Morais Leça et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06564">2412.06564</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Normalizing Flows are Capable Generative Models</b></td>
+    <td>Shuangfei Zhai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06329">2412.06329</a></td>
+    <td>**[link](https://github.com/apple/ml-tarflow)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>S $^{2}$ FT: Efficient, Scalable and Generalizable LLM Fine-tuning by Structured Sparsity</b></td>
+    <td>Xinyu Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06289">2412.06289</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>An Entailment Tree Generation Approach for Multimodal Multi-Hop Question Answering with Mixture-of-Experts and Iterative Feedback Mechanism</b></td>
+    <td>Qing Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.05821">2412.05821</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>BudgetFusion: Perceptually-Guided Adaptive Diffusion Models</b></td>
+    <td>Qinchan Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.05780">2412.05780</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods</b></td>
+    <td>Haitao Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.05579">2412.05579</a></td>
+    <td>**[link](https://github.com/cshaitao/awesome-llms-as-judges)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>The BrowserGym Ecosystem for Web Agent Research</b></td>
+    <td>Thibault Le Sellier De Chezelles et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.05467">2412.05467</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-10</b></td>
+    <td><b>Argumentative Experience: Reducing Confirmation Bias on Controversial Issues through LLM-Generated Multi-Persona Debates</b></td>
+    <td>Li Shi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.04629">2412.04629</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2024-12-09</h3>
 
 <table>
@@ -23511,10 +24295,115 @@ layout: default
    <tbody>
        <tr>
     <td><b>2024-12-09</b></td>
-    <td><b>[MASK] is All You Need</b></td>
-    <td>Vincent Tao Hu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.06787">2412.06787</a></td>
-    <td>**[link](https://github.com/CompVis/mask)**</td>
+    <td><b>Large Language Models: An Applied Econometric Framework</b></td>
+    <td>Jens Ludwig et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07031">2412.07031</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-09</b></td>
+    <td><b>GenAI4UQ: A Software for Inverse Uncertainty Quantification Using Conditional Generative Models</b></td>
+    <td>Ming Fan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07026">2412.07026</a></td>
+    <td>**[link](https://github.com/patrickfan/genai4uq)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-09</b></td>
+    <td><b>Sequential Compression Layers for Efficient Federated Learning in Foundational Models</b></td>
+    <td>Navyansh Mahla et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07021">2412.07021</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-09</b></td>
+    <td><b>Assessing the Impact of Conspiracy Theories Using Large Language Models</b></td>
+    <td>Bohan Jiang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07019">2412.07019</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-09</b></td>
+    <td><b>Asynchronous LLM Function Calling</b></td>
+    <td>In Gim et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07017">2412.07017</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-09</b></td>
+    <td><b>ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models</b></td>
+    <td>Jieyu Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07012">2412.07012</a></td>
+    <td>**[link](https://github.com/jieyuz2/provision)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-09</b></td>
+    <td><b>Phaedrus: Exploring Dynamic Application Behavior with Lightweight Generative Models and Large-Language Models</b></td>
+    <td>Bodhisatwa Chatterjee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06994">2412.06994</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-09</b></td>
+    <td><b>AutoReason: Automatic Few-Shot Reasoning Decomposition</b></td>
+    <td>Arda Sevinc et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06975">2412.06975</a></td>
+    <td>**[link](https://github.com/miralab-ai/autoreason)**</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-09</b></td>
+    <td><b>Effective Text Adaptation for LLM-based ASR through Soft Prompt Fine-Tuning</b></td>
+    <td>Yingyi Ma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06967">2412.06967</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-09</b></td>
+    <td><b>Bridging Conversational and Collaborative Signals for Conversational Recommendation</b></td>
+    <td>Ahmad Bin Rabiah et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06949">2412.06949</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-09</b></td>
+    <td><b>Creating a Cooperative AI Policymaking Platform through Open Source Collaboration</b></td>
+    <td>Aiden Lewington et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06936">2412.06936</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-09</b></td>
+    <td><b>Non-Prehensile Tool-Object Manipulation by Integrating LLM-Based Planning and Manoeuvrability-Driven Controls</b></td>
+    <td>Hoi-Yin Lee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06931">2412.06931</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-09</b></td>
+    <td><b>SafeWatch: An Efficient Safety-Policy Following Video Guardrail Model with Transparent Explanations</b></td>
+    <td>Zhaorun Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06878">2412.06878</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-09</b></td>
+    <td><b>LLMs for Generalizable Language-Conditioned Policy Learning under Minimal Data Requirements</b></td>
+    <td>Thomas Pouplin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06877">2412.06877</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-09</b></td>
+    <td><b>Political-LLM: Large Language Models in Political Science</b></td>
+    <td>Lincan Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06864">2412.06864</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-09</b></td>
+    <td><b>Balancing Efficiency and Effectiveness: An LLM-Infused Approach for Optimized CTR Prediction</b></td>
+    <td>Guoxiao Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06860">2412.06860</a></td>
+    <td>null</td>
        </tr>
        <tr>
     <td><b>2024-12-09</b></td>
@@ -23602,13 +24491,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2024-12-09</b></td>
-    <td><b>Chatbots im Schulunterricht: Wir testen das Fobizz-Tool zur automatischen Bewertung von Hausaufgaben</b></td>
-    <td>Rainer Mühlhoff et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.06651">2412.06651</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-12-09</b></td>
     <td><b>AI TrackMate: Finally, Someone Who Will Give Your Music More Than Just "Sounds Great!"</b></td>
     <td>Yi-Lin Jiang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.06617">2412.06617</a></td>
@@ -23633,20 +24515,6 @@ layout: default
     <td><b>EmoSpeech: A Corpus of Emotionally Rich and Contextually Detailed Speech Annotations</b></td>
     <td>Weizhen Bian et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.06581">2412.06581</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-12-09</b></td>
-    <td><b>Data Quality Enhancement on the Basis of Diversity with Large Language Models for Text Classification: Uncovered, Difficult, and Noisy</b></td>
-    <td>Min Zeng et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.06575">2412.06575</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-12-09</b></td>
-    <td><b>Applications and Implications of Large Language Models in Qualitative Analysis: A New Frontier for Empirical Software Engineering</b></td>
-    <td>Matheus de Morais Leça et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.06564">2412.06564</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -23749,13 +24617,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2024-12-09</b></td>
-    <td><b>Normalizing Flows are Capable Generative Models</b></td>
-    <td>Shuangfei Zhai et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.06329">2412.06329</a></td>
-    <td>**[link](https://github.com/apple/ml-tarflow)**</td>
-       </tr>
-       <tr>
-    <td><b>2024-12-09</b></td>
     <td><b>HAIFAI: Human-AI Collaboration for Mental Face Reconstruction</b></td>
     <td>Florian Strohm et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.06323">2412.06323</a></td>
@@ -23780,13 +24641,6 @@ layout: default
     <td><b>Beyond pip install: Evaluating LLM Agents for the Automated Installation of Python Projects</b></td>
     <td>Louis Milliken et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.06294">2412.06294</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-12-09</b></td>
-    <td><b>S $^{2}$ FT: Efficient, Scalable and Generalizable LLM Fine-tuning by Structured Sparsity</b></td>
-    <td>Xinyu Yang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.06289">2412.06289</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -23951,6 +24805,41 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2024-12-08</b></td>
+    <td><b>Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization</b></td>
+    <td>Dongwei Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06858">2412.06858</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-08</b></td>
+    <td><b>Comb Tensor Networks vs. Matrix Product States: Enhanced Efficiency in High-Dimensional Spaces</b></td>
+    <td>Danylo Kolesnyk et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06857">2412.06857</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-08</b></td>
+    <td><b>GL-Fusion: Rethinking the Combination of Graph Neural Network and Large Language model</b></td>
+    <td>Haotong Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06849">2412.06849</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-08</b></td>
+    <td><b>Classifier-free guidance in LLMs Safety</b></td>
+    <td>Roman Smirnov et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06846">2412.06846</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-08</b></td>
+    <td><b>Fully Open Source Moxin-7B Technical Report</b></td>
+    <td>Pu Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06845">2412.06845</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2024-12-08</b></td>
     <td><b>Enhanced Computationally Efficient Long LoRA Inspired Perceiver Architectures for Auto-Regressive Language Modeling</b></td>
@@ -24121,20 +25010,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2024-12-08</b></td>
-    <td><b>An Entailment Tree Generation Approach for Multimodal Multi-Hop Question Answering with Mixture-of-Experts and Iterative Feedback Mechanism</b></td>
-    <td>Qing Zhang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.05821">2412.05821</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-12-08</b></td>
-    <td><b>BudgetFusion: Perceptually-Guided Adaptive Diffusion Models</b></td>
-    <td>Qinchan et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.05780">2412.05780</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-12-08</b></td>
     <td><b>Discriminative Fine-tuning of LVLMs</b></td>
     <td>Yassine Ouali et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.04378">2412.04378</a></td>
@@ -24155,6 +25030,27 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2024-12-07</b></td>
+    <td><b>Semantic loss guided data efficient supervised fine tuning for Safe Responses in LLMs</b></td>
+    <td>Yuxiao Lu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06843">2412.06843</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-07</b></td>
+    <td><b>SLA Management in Reconfigurable Multi-Agent RAG: A Systems Approach to Question Answering</b></td>
+    <td>Michael Iannelli et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06832">2412.06832</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-07</b></td>
+    <td><b>TransitGPT: A Generative AI-based framework for interacting with GTFS data using Large Language Models</b></td>
+    <td>Saipraneeth Devunuri et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06831">2412.06831</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2024-12-07</b></td>
     <td><b>Simultaneous Reconstruction of Spatial Frequency Fields and Sample Locations via Bayesian Semi-Modular Inference</b></td>
@@ -24255,13 +25151,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2024-12-07</b></td>
-    <td><b>LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods</b></td>
-    <td>Haitao Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.05579">2412.05579</a></td>
-    <td>**[link](https://github.com/cshaitao/awesome-llms-as-judges)**</td>
-       </tr>
-       <tr>
-    <td><b>2024-12-07</b></td>
     <td><b>A polar coordinate system represents syntax in large language models</b></td>
     <td>Pablo Diego-Simón et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.05571">2412.05571</a></td>
@@ -24347,16 +25236,23 @@ layout: default
    <tbody>
        <tr>
     <td><b>2024-12-06</b></td>
-    <td><b>Multi-Objective Alignment of Large Language Models Through Hypervolume Maximization</b></td>
-    <td>Subhojyoti Mukherjee et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.05469">2412.05469</a></td>
+    <td><b>Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System</b></td>
+    <td>Fang Zeng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06828">2412.06828</a></td>
     <td>null</td>
        </tr>
        <tr>
     <td><b>2024-12-06</b></td>
-    <td><b>The BrowserGym Ecosystem for Web Agent Research</b></td>
-    <td>Thibault Le Sellier De Chezelles et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.05467">2412.05467</a></td>
+    <td><b>Enhancing LLMs for Physics Problem-Solving using Reinforcement Learning with Human-AI Feedback</b></td>
+    <td>Avinash Anand et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.06827">2412.06827</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2024-12-06</b></td>
+    <td><b>Multi-Objective Alignment of Large Language Models Through Hypervolume Maximization</b></td>
+    <td>Subhojyoti Mukherjee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.05469">2412.05469</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -24939,13 +25835,6 @@ layout: default
     <td><b>Improving LLM Group Fairness on Tabular Data via In-Context Learning</b></td>
     <td>Valeriia Cherepanova et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.04642">2412.04642</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-12-05</b></td>
-    <td><b>Argumentative Experience: Reducing Confirmation Bias on Controversial Issues through LLM-Generated Multi-Persona Debates</b></td>
-    <td>Li Shi et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.04629">2412.04629</a></td>
     <td>null</td>
        </tr>
        <tr>
