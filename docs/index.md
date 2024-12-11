@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.10
+## Updated on 2024.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23514,7 +23514,7 @@ layout: default
     <td><b>[MASK] is All You Need</b></td>
     <td>Vincent Tao Hu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.06787">2412.06787</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/CompVis/mask)**</td>
        </tr>
        <tr>
     <td><b>2024-12-09</b></td>
