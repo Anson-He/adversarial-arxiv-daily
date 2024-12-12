@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.11
+## Updated on 2024.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -24445,7 +24445,7 @@ layout: default
     <td><b>AutoDCWorkflow: LLM-based Data Cleaning Workflow Auto-Generation and Benchmark</b></td>
     <td>Lan Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.06724">2412.06724</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/LanLi2017/LLM4DC)**</td>
        </tr>
        <tr>
     <td><b>2024-12-09</b></td>
