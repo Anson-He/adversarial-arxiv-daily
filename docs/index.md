@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.12
+## Updated on 2024.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -62,7 +62,7 @@ layout: default
     <td><b>DG-Mamba: Robust and Efficient Dynamic Graph Structure Learning with Selective State Space Models</b></td>
     <td>Haonan Yuan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.08160">2412.08160</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/RingBDStack/DG-Mamba)**</td>
        </tr>
        <tr>
     <td><b>2024-12-11</b></td>
@@ -97,7 +97,7 @@ layout: default
     <td><b>GLL: A Differentiable Graph Learning Layer for Neural Networks</b></td>
     <td>Jason Brown et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.08016">2412.08016</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jwcalder/GraphLearningLayer)**</td>
        </tr>
        <tr>
     <td><b>2024-12-11</b></td>
@@ -168,7 +168,7 @@ layout: default
     <td><b>Adversarial Filtering Based Evasion and Backdoor Attacks to EEG-Based Brain-Computer Interfaces</b></td>
     <td>Lubin Meng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.07231">2412.07231</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/lbinmeng/adversarial_filter)**</td>
        </tr>
        <tr>
     <td><b>2024-12-10</b></td>
@@ -283,7 +283,7 @@ layout: default
     <td><b>REGE: A Method for Incorporating Uncertainty in Graph Embeddings</b></td>
     <td>Zohair Shafi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.05735">2412.05735</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/zohairshafi/REGE)**</td>
        </tr>
        <tr>
     <td><b>2024-12-07</b></td>
@@ -4797,7 +4797,7 @@ layout: default
     <td><b>Adversarial Filtering Based Evasion and Backdoor Attacks to EEG-Based Brain-Computer Interfaces</b></td>
     <td>Lubin Meng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.07231">2412.07231</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/lbinmeng/adversarial_filter)**</td>
        </tr>
        <tr>
     <td><b>2024-12-10</b></td>
@@ -4941,7 +4941,7 @@ layout: default
     <td><b>LaserGuider: A Laser Based Physical Backdoor Attack against Deep Neural Networks</b></td>
     <td>Yongjie Xu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.03993">2412.03993</a></td>
-    <td>**[link](https://github.com/S3L-official/LaserGuider)**</td>
+    <td>null</td>
        </tr>
        <tr>
     <td><b>2024-12-05</b></td>
@@ -9794,7 +9794,7 @@ layout: default
     <td><b>Classifier-free guidance in LLMs Safety</b></td>
     <td>Roman Smirnov et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.06846">2412.06846</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/rgsmirnov/cfg_safety_llm)**</td>
        </tr>
    </tbody>
 </table>
@@ -12048,7 +12048,7 @@ layout: default
     <td><b>Privacy Preserving Federated Unsupervised Domain Adaptation with Application to Age Prediction from DNA Methylation Data</b></td>
     <td>Cem Ata Baykara et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.17287">2411.17287</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mdppml/FREDA)**</td>
        </tr>
        <tr>
     <td><b>2024-11-26</b></td>
@@ -19074,7 +19074,7 @@ layout: default
     <td><b>Adaptive Meta-Learning for Robust Deepfake Detection: A Multi-Agent Framework to Data Drift and Model Generalization</b></td>
     <td>Dinesh Srivasthav P et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.08148">2411.08148</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/dineshsrivasthav/adaptive_meta_learning_with_multi_agent_framework)**</td>
        </tr>
        <tr>
     <td><b>2024-11-12</b></td>
@@ -24179,7 +24179,7 @@ layout: default
     <td><b>Large Language Models for Scholarly Ontology Generation: An Extensive Analysis in the Engineering Field</b></td>
     <td>Tanay Aggarwal et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.08258">2412.08258</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ImTanay/LLM-Automatic-Ontology-Generation)**</td>
        </tr>
        <tr>
     <td><b>2024-12-11</b></td>
@@ -24200,7 +24200,7 @@ layout: default
     <td><b>Magneto: Combining Small and Large Language Models for Schema Matching</b></td>
     <td>Yurong Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.08194">2412.08194</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/VIDA-NYU/data-integration-eval)**</td>
        </tr>
        <tr>
     <td><b>2024-12-11</b></td>
@@ -24382,7 +24382,7 @@ layout: default
     <td><b>ConceptSearch: Towards Efficient Program Search Using LLMs for Abstraction and Reasoning Corpus (ARC)</b></td>
     <td>Kartik Singhal et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.07322">2412.07322</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/kksinghal/concept-search)**</td>
        </tr>
        <tr>
     <td><b>2024-12-11</b></td>
@@ -24474,7 +24474,7 @@ layout: default
     <td><b>Phase-aware Training Schedule Simplifies Learning in Flow-Based Generative Models</b></td>
     <td>Santiago Aranguri et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.07972">2412.07972</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/submissioniclr12263/submission)**</td>
        </tr>
        <tr>
     <td><b>2024-12-10</b></td>
@@ -24509,7 +24509,7 @@ layout: default
     <td><b>Asking Again and Again: Exploring LLM Robustness to Repeated Questions</b></td>
     <td>Sagi Shaier et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.07923">2412.07923</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Shaier/question_repeat)**</td>
        </tr>
        <tr>
     <td><b>2024-12-10</b></td>
@@ -24530,7 +24530,7 @@ layout: default
     <td><b>MAGE: A Multi-Agent Engine for Automated RTL Code Generation</b></td>
     <td>Yujie Zhao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.07822">2412.07822</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/stable-lab/MAGE-A-Multi-Agent-Engine-for-Automated-RTL-Code-Generation)**</td>
        </tr>
        <tr>
     <td><b>2024-12-10</b></td>
@@ -24558,7 +24558,7 @@ layout: default
     <td><b>BiMediX2: Bio-Medical EXpert LMM for Diverse Medical Modalities</b></td>
     <td>Sahal Shaji Mullappilly et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.07769">2412.07769</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mbzuai-oryx/bimedix2)**</td>
        </tr>
        <tr>
     <td><b>2024-12-10</b></td>
@@ -24726,7 +24726,7 @@ layout: default
     <td><b>CoPrUS: Consistency Preserving Utterance Synthesis towards more realistic benchmark dialogues</b></td>
     <td>Sebastian Steindl et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.07515">2412.07515</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/sebastian-steindl/CoPrUS_data)**</td>
        </tr>
        <tr>
     <td><b>2024-12-10</b></td>
@@ -24929,7 +24929,7 @@ layout: default
     <td><b>On Evaluating the Durability of Safeguards for Open-Weight LLMs</b></td>
     <td>Xiangyu Qi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.07097">2412.07097</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ai-law-society-lab/evaluating-durable-safeguards)**</td>
        </tr>
        <tr>
     <td><b>2024-12-10</b></td>
@@ -25224,7 +25224,7 @@ layout: default
     <td><b>GEAR: A Simple GENERATE, EMBED, AVERAGE AND RANK Approach for Unsupervised Reverse Dictionary</b></td>
     <td>Fatemah Almeman et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.06654">2412.06654</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/F-Almeman/GEAR_RD)**</td>
        </tr>
        <tr>
     <td><b>2024-12-09</b></td>
@@ -25273,14 +25273,14 @@ layout: default
     <td><b>Improving text-conditioned latent diffusion for cancer pathology</b></td>
     <td>Aakash Madhav Rao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.06487">2412.06487</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mraoaakash/mraoaakash-capstone-thesis)**</td>
        </tr>
        <tr>
     <td><b>2024-12-09</b></td>
     <td><b>SafeWorld: Geo-Diverse Safety Alignment</b></td>
     <td>Da Yin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.06483">2412.06483</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/pluslabnlp/safeworld)**</td>
        </tr>
        <tr>
     <td><b>2024-12-09</b></td>
@@ -25547,7 +25547,7 @@ layout: default
     <td><b>Comb Tensor Networks vs. Matrix Product States: Enhanced Efficiency in High-Dimensional Spaces</b></td>
     <td>Danylo Kolesnyk et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.06857">2412.06857</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/DanyloKolesnyk/QuantumMLChronicles)**</td>
        </tr>
        <tr>
     <td><b>2024-12-08</b></td>
@@ -25561,7 +25561,7 @@ layout: default
     <td><b>Classifier-free guidance in LLMs Safety</b></td>
     <td>Roman Smirnov et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.06846">2412.06846</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/rgsmirnov/cfg_safety_llm)**</td>
        </tr>
        <tr>
     <td><b>2024-12-08</b></td>
@@ -25638,7 +25638,7 @@ layout: default
     <td><b>Anti-Reference: Universal and Immediate Defense Against Reference-Based Generation</b></td>
     <td>Yiren Song et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.05980">2412.05980</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/songyiren725/AntiReference)**</td>
        </tr>
        <tr>
     <td><b>2024-12-08</b></td>
@@ -25708,7 +25708,7 @@ layout: default
     <td><b>Are Clinical T5 Models Better for Clinical Text?</b></td>
     <td>Yahan Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.05845">2412.05845</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yli-z/ml4h_are_clinical_t5_models_better_for_clinical_text)**</td>
        </tr>
        <tr>
     <td><b>2024-12-08</b></td>
@@ -25772,7 +25772,7 @@ layout: default
     <td><b>TransitGPT: A Generative AI-based framework for interacting with GTFS data using Large Language Models</b></td>
     <td>Saipraneeth Devunuri et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.06831">2412.06831</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/UTEL-UIUC/TransitGPT)**</td>
        </tr>
        <tr>
     <td><b>2024-12-07</b></td>
@@ -25842,7 +25842,7 @@ layout: default
     <td><b>CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds</b></td>
     <td>Lei Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.05631">2412.05631</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/paitesanshi/characterbox)**</td>
        </tr>
        <tr>
     <td><b>2024-12-07</b></td>
@@ -25919,7 +25919,7 @@ layout: default
     <td><b>Video2Reward: Generating Reward Function from Videos for Legged Robot Behavior Learning</b></td>
     <td>Runhao Zeng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.05515">2412.05515</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Alvin-Zeng/Video2Reward)**</td>
        </tr>
        <tr>
     <td><b>2024-12-07</b></td>
@@ -25990,7 +25990,7 @@ layout: default
     <td><b>Towards Effective GenAI Multi-Agent Collaboration: Design and Evaluation for Enterprise Applications</b></td>
     <td>Raphael Shu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.05449">2412.05449</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/aws-samples/multiagent-collab-scenario-benchmark)**</td>
        </tr>
        <tr>
     <td><b>2024-12-06</b></td>
@@ -26011,7 +26011,7 @@ layout: default
     <td><b>Tabular data generation with tensor contraction layers and transformers</b></td>
     <td>Aníbal Silva et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.05390">2412.05390</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/anibalsilva1/TabGenwithTCL)**</td>
        </tr>
        <tr>
     <td><b>2024-12-06</b></td>
@@ -26074,7 +26074,7 @@ layout: default
     <td><b>100% Hallucination Elimination Using Acurai</b></td>
     <td>Michael C. Wood et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.05223">2412.05223</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/AcuChat/acurai-RAGTruth-conflict-resolution)**</td>
        </tr>
        <tr>
     <td><b>2024-12-06</b></td>
