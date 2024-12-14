@@ -4260,7 +4260,7 @@
 <h3>2024-08-14</h3>
 
 - 2024-08-14, **WavLM model ensemble for audio deepfake detection**, David Combei et.al., Paper: [http://arxiv.org/abs/2408.07414](http://arxiv.org/abs/2408.07414)
-- 2024-08-14, **Evolving from Single-modal to Multi-modal Facial Deepfake Detection: A Survey**, Ping Liu et.al., Paper: [http://arxiv.org/abs/2406.06965](http://arxiv.org/abs/2406.06965), Code: **[https://github.com/qiqitao77/awesome-comprehensive-deepfake-detection](https://github.com/qiqitao77/awesome-comprehensive-deepfake-detection)**
+- 2024-08-14, **Evolving from Single-modal to Multi-modal Facial Deepfake Detection: A Survey**, Ping Liu et.al., Paper: [http://arxiv.org/abs/2406.06965](http://arxiv.org/abs/2406.06965), Code: **[https://github.com/qiqitao77/comprehensive-advances-in-deepfake-detection-spanning-diverse-modalities](https://github.com/qiqitao77/comprehensive-advances-in-deepfake-detection-spanning-diverse-modalities)**
 <p align=right>(<a href=#updated-on-20241214>back to top</a>)</p>
 
 <h3>2024-08-13</h3>

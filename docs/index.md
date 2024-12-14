@@ -20876,7 +20876,7 @@ layout: default
     <td><b>Evolving from Single-modal to Multi-modal Facial Deepfake Detection: A Survey</b></td>
     <td>Ping Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2406.06965">2406.06965</a></td>
-    <td>**[link](https://github.com/qiqitao77/awesome-comprehensive-deepfake-detection)**</td>
+    <td>**[link](https://github.com/qiqitao77/comprehensive-advances-in-deepfake-detection-spanning-diverse-modalities)**</td>
        </tr>
    </tbody>
 </table>
