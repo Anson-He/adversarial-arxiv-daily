@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -77,7 +77,7 @@ layout: default
     <td><b>Exploiting the Index Gradients for Optimization-Based Jailbreaking on Large Language Models</b></td>
     <td>Jiahui Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.08615">2412.08615</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jiah-li/magic)**</td>
        </tr>
        <tr>
     <td><b>2024-12-11</b></td>
@@ -240,7 +240,7 @@ layout: default
     <td><b>Take Fake as Real: Realistic-like Robust Black-box Adversarial Attack to Evade AIGC Detection</b></td>
     <td>Caiyun Xie et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.06727">2412.06727</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/xcy-github/R2BA_Evade_AIGC_Detection)**</td>
        </tr>
        <tr>
     <td><b>2024-12-09</b></td>
@@ -24043,7 +24043,7 @@ layout: default
     <td><b>Olympus: A Universal Task Router for Computer Vision Tasks</b></td>
     <td>Yuanze Lin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.09612">2412.09612</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yuanze-lin/olympus_page)**</td>
        </tr>
        <tr>
     <td><b>2024-12-12</b></td>
@@ -24162,7 +24162,7 @@ layout: default
     <td><b>Unifying AI Tutor Evaluation: An Evaluation Taxonomy for Pedagogical Ability Assessment of LLM-Powered AI Tutors</b></td>
     <td>Kaushal Kumar Maurya et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.09416">2412.09416</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/kaushal0494/UnifyingAITutorEvaluation)**</td>
        </tr>
        <tr>
     <td><b>2024-12-12</b></td>
@@ -24176,7 +24176,7 @@ layout: default
     <td><b>Imitate, Explore, and Self-Improve: A Reproduction Report on Slow-thinking Reasoning Systems</b></td>
     <td>Yingqian Min et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.09413">2412.09413</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs)**</td>
        </tr>
        <tr>
     <td><b>2024-12-12</b></td>
@@ -24260,7 +24260,7 @@ layout: default
     <td><b>Make Satire Boring Again: Reducing Stylistic Bias of Satirical Corpus by Utilizing Generative LLMs</b></td>
     <td>Asli Umay Ozturk et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.09247">2412.09247</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/auotomaton/satiretr)**</td>
        </tr>
        <tr>
     <td><b>2024-12-12</b></td>
@@ -24435,7 +24435,7 @@ layout: default
     <td><b>MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation</b></td>
     <td>Zheyuan Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.08847">2412.08847</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Anonymous-Be3fb6/MOPI-HFRS)**</td>
        </tr>
        <tr>
     <td><b>2024-12-12</b></td>
@@ -24449,7 +24449,7 @@ layout: default
     <td><b>Kajal: Extracting Grammar of a Source Code Using Large Language Models</b></td>
     <td>Mohammad Jalili Torkamani et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.08842">2412.08842</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mohammadJaliliTorkamani/Kajal)**</td>
        </tr>
        <tr>
     <td><b>2024-12-12</b></td>
@@ -24519,7 +24519,7 @@ layout: default
     <td><b>Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension</b></td>
     <td>Adem Ait et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.05958">2412.05958</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/besser-pearl/agentic-bpmn)**</td>
        </tr>
    </tbody>
 </table>
@@ -24562,7 +24562,7 @@ layout: default
     <td><b>Generative Modeling with Explicit Memory</b></td>
     <td>Yi Tang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.08781">2412.08781</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/lins-lab/gmem)**</td>
        </tr>
        <tr>
     <td><b>2024-12-11</b></td>
@@ -24632,7 +24632,7 @@ layout: default
     <td><b>Multimodal Latent Language Modeling with Next-Token Diffusion</b></td>
     <td>Yutao Sun et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.08635">2412.08635</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/microsoft/unilm/tree/master/LatentLM)**</td>
        </tr>
        <tr>
     <td><b>2024-12-11</b></td>
@@ -24646,7 +24646,7 @@ layout: default
     <td><b>Exploiting the Index Gradients for Optimization-Based Jailbreaking on Large Language Models</b></td>
     <td>Jiahui Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.08615">2412.08615</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jiah-li/magic)**</td>
        </tr>
        <tr>
     <td><b>2024-12-11</b></td>
@@ -25824,14 +25824,14 @@ layout: default
     <td><b>JAPAGEN: Efficient Few/Zero-shot Learning via Japanese Training Dataset Generation with LLM</b></td>
     <td>Takuro Fujii et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.06738">2412.06738</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/retrieva/japagen)**</td>
        </tr>
        <tr>
     <td><b>2024-12-09</b></td>
     <td><b>Take Fake as Real: Realistic-like Robust Black-box Adversarial Attack to Evade AIGC Detection</b></td>
     <td>Caiyun Xie et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.06727">2412.06727</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/xcy-github/R2BA_Evade_AIGC_Detection)**</td>
        </tr>
        <tr>
     <td><b>2024-12-09</b></td>
@@ -25845,7 +25845,7 @@ layout: default
     <td><b>You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale</b></td>
     <td>Baorui Ma et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.06699">2412.06699</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/baaivision/See3D)**</td>
        </tr>
        <tr>
     <td><b>2024-12-09</b></td>
