@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -11610,7 +11610,7 @@ layout: default
     <td><b>Temporal Causal Discovery in Dynamic Bayesian Networks Using Federated Learning</b></td>
     <td>Jianhong Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.09814">2412.09814</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/pechen123/2dbn_learning)**</td>
        </tr>
        <tr>
     <td><b>2024-12-13</b></td>
@@ -11697,7 +11697,7 @@ layout: default
     <td><b>MOFHEI: Model Optimizing Framework for Fast and Efficient Homomorphically Encrypted Neural Network Inference</b></td>
     <td>Parsa Ghazvinian et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.07954">2412.07954</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/inspire-lab/mofhei)**</td>
        </tr>
        <tr>
     <td><b>2024-12-10</b></td>
@@ -24412,7 +24412,7 @@ layout: default
     <td><b>Llama 3 Meets MoE: Efficient Upcycling</b></td>
     <td>Aditya Vavre et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.09952">2412.09952</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/NVIDIA/NeMo)**</td>
        </tr>
        <tr>
     <td><b>2024-12-13</b></td>
@@ -24468,7 +24468,7 @@ layout: default
     <td><b>On the Limit of Language Models as Planning Formalizers</b></td>
     <td>Cassie Huang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.09879">2412.09879</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/cassiehuang22/llm-as-pddl-formalizer)**</td>
        </tr>
        <tr>
     <td><b>2024-12-13</b></td>
@@ -24496,7 +24496,7 @@ layout: default
     <td><b>FDM-Bench: A Comprehensive Benchmark for Evaluating Large Language Models in Additive Manufacturing Tasks</b></td>
     <td>Ahmadreza Eslaminia et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.09819">2412.09819</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ahmadrezania/fdm-bench)**</td>
        </tr>
        <tr>
     <td><b>2024-12-13</b></td>
@@ -24623,7 +24623,7 @@ layout: default
     <td><b>Diffusion-Enhanced Test-time Adaptation with Text and Image Augmentation</b></td>
     <td>Chun-Mei Feng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.09706">2412.09706</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/chunmeifeng/difftpt)**</td>
        </tr>
        <tr>
     <td><b>2024-12-12</b></td>
@@ -24889,7 +24889,7 @@ layout: default
     <td><b>ReFF: Reinforcing Format Faithfulness in Language Models across Varied Tasks</b></td>
     <td>Jiashu Yao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.09173">2412.09173</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/BITHLP/ReFF)**</td>
        </tr>
        <tr>
     <td><b>2024-12-12</b></td>
