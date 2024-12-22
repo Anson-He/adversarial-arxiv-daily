@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -41,7 +41,7 @@ layout: default
     <td><b>AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving</b></td>
     <td>Shuo Xing et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.15206">2412.15206</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/taco-group/autotrust)**</td>
        </tr>
        <tr>
     <td><b>2024-12-19</b></td>
@@ -24917,14 +24917,14 @@ layout: default
     <td><b>LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks</b></td>
     <td>Yushi Bai et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.15204">2412.15204</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/thudm/longbench)**</td>
        </tr>
        <tr>
     <td><b>2024-12-19</b></td>
     <td><b>MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark</b></td>
     <td>Qihao Zhao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.15194">2412.15194</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/microsoft/mmlu-cf)**</td>
        </tr>
        <tr>
     <td><b>2024-12-19</b></td>
@@ -24966,7 +24966,7 @@ layout: default
     <td><b>Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying</b></td>
     <td>Federico Castagna et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.15177">2412.15177</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/fcast07/cqot)**</td>
        </tr>
        <tr>
     <td><b>2024-12-19</b></td>
@@ -25022,7 +25022,7 @@ layout: default
     <td><b>Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation</b></td>
     <td>Yang Tian et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.15109">2412.15109</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/openrobotlab/seer)**</td>
        </tr>
        <tr>
     <td><b>2024-12-19</b></td>
@@ -25036,7 +25036,7 @@ layout: default
     <td><b>Nano-ESG: Extracting Corporate Sustainability Information from News Articles</b></td>
     <td>Fabian Billert et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.15093">2412.15093</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/bailefan/nano-esg)**</td>
        </tr>
        <tr>
     <td><b>2024-12-19</b></td>
@@ -25218,7 +25218,7 @@ layout: default
     <td><b>CodeRepoQA: A Large-scale Benchmark for Software Engineering Question Answering</b></td>
     <td>Ruida Hu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.14764">2412.14764</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/kinesiatricssxilm14/coderepoqa)**</td>
        </tr>
        <tr>
     <td><b>2024-12-19</b></td>
@@ -25239,7 +25239,7 @@ layout: default
     <td><b>On Verbalized Confidence Scores for LLMs</b></td>
     <td>Daniel Yang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.14737">2412.14737</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/danielyxyang/llm-verbalized-uq)**</td>
        </tr>
        <tr>
     <td><b>2024-12-19</b></td>
@@ -25407,7 +25407,7 @@ layout: default
     <td><b>FaultExplainer: Leveraging Large Language Models for Interpretable Fault Detection and Diagnosis</b></td>
     <td>Abdullah Khan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.14492">2412.14492</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/li-group/faultexplainer)**</td>
        </tr>
        <tr>
     <td><b>2024-12-19</b></td>
@@ -25569,7 +25569,7 @@ layout: default
     <td><b>Surrealistic-like Image Generation with Vision-Language Models</b></td>
     <td>Elif Ayten et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.14366">2412.14366</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/elifayten/elifaytenthesis2023)**</td>
        </tr>
        <tr>
     <td><b>2024-12-18</b></td>
@@ -25611,7 +25611,7 @@ layout: default
     <td><b>Fake News Detection: Comparative Evaluation of BERT-like Models and Large Language Models with Generative AI-Annotated Data</b></td>
     <td>haina Raza et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.14276">2412.14276</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/draip96/fakenewsclassification)**</td>
        </tr>
        <tr>
     <td><b>2024-12-18</b></td>
@@ -25884,7 +25884,7 @@ layout: default
     <td><b>RACQUET: Unveiling the Dangers of Overlooked Referential Ambiguity in Visual LLMs</b></td>
     <td>Alberto Testoni et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.13835">2412.13835</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/albertotestoni/racquet)**</td>
        </tr>
        <tr>
     <td><b>2024-12-18</b></td>
@@ -25912,7 +25912,7 @@ layout: default
     <td><b>A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Method-Level Code Smell Detection</b></td>
     <td>Beiqi Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.13801">2412.13801</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mabelqi/peft4csd)**</td>
        </tr>
        <tr>
     <td><b>2024-12-18</b></td>
@@ -26157,7 +26157,7 @@ layout: default
     <td><b>ROMAS: A Role-Based Multi-Agent System for Database monitoring and Planning</b></td>
     <td>Yi Huang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.13520">2412.13520</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/eosphoros-ai/db-gpt)**</td>
        </tr>
        <tr>
     <td><b>2024-12-18</b></td>
@@ -26171,7 +26171,7 @@ layout: default
     <td><b>Efficient Language-instructed Skill Acquisition via Reward-Policy Co-Evolution</b></td>
     <td>Changxin Huang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.13492">2412.13492</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/nextmylove/roska)**</td>
        </tr>
        <tr>
     <td><b>2024-12-18</b></td>
@@ -26248,7 +26248,7 @@ layout: default
     <td><b>BotSim: LLM-Powered Malicious Social Botnet Simulation</b></td>
     <td>Boyu Qiao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.13420">2412.13420</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/qqqqqqby/botsim)**</td>
        </tr>
        <tr>
     <td><b>2024-12-18</b></td>
@@ -26977,7 +26977,7 @@ layout: default
     <td><b>Neural Canonical Transformations for Quantum Anharmonic Solids of Lithium</b></td>
     <td>Qi Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.12451">2412.12451</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/zhangqi94/lithium)**</td>
        </tr>
        <tr>
     <td><b>2024-12-17</b></td>
