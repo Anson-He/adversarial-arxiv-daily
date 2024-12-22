@@ -26185,7 +26185,7 @@ layout: default
     <td><b>Real-time One-Step Diffusion-based Expressive Portrait Videos Generation</b></td>
     <td>Hanzhong Guo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.13479">2412.13479</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Guohanzhong/OSA-LCM)**</td>
        </tr>
        <tr>
     <td><b>2024-12-18</b></td>
