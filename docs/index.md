@@ -20930,7 +20930,7 @@ layout: default
     <td><b>Bileve: Securing Text Provenance in Large Language Models Against Spoofing with Bi-level Signature</b></td>
     <td>Tong Zhou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2406.01946">2406.01946</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/tongzhou0101/bileve-official)**</td>
        </tr>
    </tbody>
 </table>
@@ -25697,7 +25697,7 @@ layout: default
     <td><b>ChaI-TeA: A Benchmark for Evaluating Autocompletion of Interactions with LLM-based Chatbots</b></td>
     <td>Shani Goren et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.18377">2412.18377</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/amazon-science/chaitea-chat-interaction-autocomplete)**</td>
        </tr>
        <tr>
     <td><b>2024-12-24</b></td>
@@ -26286,7 +26286,7 @@ layout: default
     <td><b>Chumor 2.0: Towards Benchmarking Chinese Humor Understanding</b></td>
     <td>Ruiqi He et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.17729">2412.17729</a></td>
-    <td>**[link](https://github.com/dnaihao/chumor-dataset)**</td>
+    <td>null</td>
        </tr>
        <tr>
     <td><b>2024-12-23</b></td>
@@ -26370,7 +26370,7 @@ layout: default
     <td><b>SBS Figures: Pre-training Figure QA from Stage-by-Stage Synthesized Images</b></td>
     <td>Risa Shinoda et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.17606">2412.17606</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/omron-sinicx/sbsfigures)**</td>
        </tr>
        <tr>
     <td><b>2024-12-23</b></td>
@@ -26461,7 +26461,7 @@ layout: default
     <td><b>A Survey on Multi-Generative Agent System: Recent Advances and New Frontiers</b></td>
     <td>Shuaihang Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.17481">2412.17481</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/bianhua-12/multi-generative_agent_system_survey)**</td>
        </tr>
        <tr>
     <td><b>2024-12-23</b></td>
@@ -26489,7 +26489,7 @@ layout: default
     <td><b>Condor: A Code Discriminator Integrating General Semantics with Code Details</b></td>
     <td>Qingyuan Liang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.17429">2412.17429</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/liangqingyuan/condor)**</td>
        </tr>
        <tr>
     <td><b>2024-12-23</b></td>
@@ -26721,7 +26721,7 @@ layout: default
     <td><b>Hate Speech Detection and Target Identification in Devanagari Languages via Parameter Efficient Fine-Tuning of LLMs</b></td>
     <td>Rushendra Sidibomma et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.17131">2412.17131</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/rushendra10/hate-speech-detection-and-target-identification-in-devanagari-languages)**</td>
        </tr>
        <tr>
     <td><b>2024-12-22</b></td>
@@ -27086,7 +27086,7 @@ layout: default
     <td><b>Optoelectronic generative adversarial networks</b></td>
     <td>Jumin Qiu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.16672">2412.16672</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/qiujumin/OE-GAN)**</td>
        </tr>
        <tr>
     <td><b>2024-12-21</b></td>
@@ -27282,7 +27282,7 @@ layout: default
     <td><b>Amortising Variational Bayesian Inference over prior hyperparameters with a Normalising Flow</b></td>
     <td>Laura Battaglia et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.16419">2412.16419</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/llaurabatt/amortised-variational-flows)**</td>
        </tr>
        <tr>
     <td><b>2024-12-21</b></td>
@@ -27675,7 +27675,7 @@ layout: default
     <td><b>Darkit: A User-Friendly Software Toolkit for Spiking Large Language Model</b></td>
     <td>Xin Du et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.15634">2412.15634</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/zju-bmi-lab/DarwinKit)**</td>
        </tr>
        <tr>
     <td><b>2024-12-20</b></td>
