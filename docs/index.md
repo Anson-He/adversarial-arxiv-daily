@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.27
+## Updated on 2024.12.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -25739,7 +25739,7 @@ layout: default
     <td><b>Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight</b></td>
     <td>Xi Ding et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.18298">2412.18298</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Darcyddx/VAD-LLM)**</td>
        </tr>
        <tr>
     <td><b>2024-12-24</b></td>
