@@ -5401,7 +5401,7 @@ layout: default
     <td><b>Meme Trojan: Backdoor Attacks Against Hateful Meme Detection via Cross-Modal Triggers</b></td>
     <td>Ruofei Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.15503">2412.15503</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/rfww/cmtmeme)**</td>
        </tr>
        <tr>
     <td><b>2024-12-20</b></td>
@@ -12611,7 +12611,7 @@ layout: default
     <td><b>SplitFedZip: Learned Compression for Data Transfer Reduction in Split-Federated Learning</b></td>
     <td>Chamani Shiranthika et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.17150">2412.17150</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/chamanis/splitfedzip)**</td>
        </tr>
        <tr>
     <td><b>2024-12-18</b></td>
@@ -25704,7 +25704,7 @@ layout: default
     <td><b>Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents</b></td>
     <td>Kaiwen Ning et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.18371">2412.18371</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/KevinHeiwa/Agentable)**</td>
        </tr>
        <tr>
     <td><b>2024-12-24</b></td>
@@ -26026,7 +26026,7 @@ layout: default
     <td><b>LMRPA: Large Language Model-Driven Efficient Robotic Process Automation for OCR</b></td>
     <td>Osama Hosam Abdellaif et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.18063">2412.18063</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mad-sam22/erpa-ocr)**</td>
        </tr>
        <tr>
     <td><b>2024-12-24</b></td>
@@ -26061,7 +26061,7 @@ layout: default
     <td><b>Singular Value Scaling: Efficient Generative Model Compression via Pruned Weights Refinement</b></td>
     <td>Hyeonjin Kim et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.17387">2412.17387</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/lait-cvlab/singular-value-scaling)**</td>
        </tr>
        <tr>
     <td><b>2024-12-24</b></td>
@@ -26721,7 +26721,7 @@ layout: default
     <td><b>Hate Speech Detection and Target Identification in Devanagari Languages via Parameter Efficient Fine-Tuning of LLMs</b></td>
     <td>Rushendra Sidibomma et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.17131">2412.17131</a></td>
-    <td>**[link](https://github.com/rushendra10/hate-speech-detection-and-target-identification-in-devanagari-languages)**</td>
+    <td>null</td>
        </tr>
        <tr>
     <td><b>2024-12-22</b></td>
@@ -27114,7 +27114,7 @@ layout: default
     <td><b>A Large-scale Empirical Study on Fine-tuning Large Language Models for Unit Testing</b></td>
     <td>Ye Shang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.16620">2412.16620</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/iSEngLab/LLM4UT_Empirical)**</td>
        </tr>
        <tr>
     <td><b>2024-12-21</b></td>

@@ -1285,7 +1285,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-20**|**PoisonCatcher: Revealing and Identifying LDP Poisoning Attacks in IIoT**|Lisha Shuai et.al.|[2412.15704](http://arxiv.org/abs/2412.15704)|null|
-|**2024-12-20**|**Meme Trojan: Backdoor Attacks Against Hateful Meme Detection via Cross-Modal Triggers**|Ruofei Wang et.al.|[2412.15503](http://arxiv.org/abs/2412.15503)|null|
+|**2024-12-20**|**Meme Trojan: Backdoor Attacks Against Hateful Meme Detection via Cross-Modal Triggers**|Ruofei Wang et.al.|[2412.15503](http://arxiv.org/abs/2412.15503)|**[link](https://github.com/rfww/cmtmeme)**|
 |**2024-12-20**|**Client-Side Patching against Backdoor Attacks in Federated Learning**|Borja Molina-Coronado et.al.|[2412.10605](http://arxiv.org/abs/2412.10605)|null|
 <p align=right>(<a href=#updated-on-20241229>back to top</a>)</p>
 
@@ -3292,7 +3292,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-18**|**SplitFedZip: Learned Compression for Data Transfer Reduction in Split-Federated Learning**|Chamani Shiranthika et.al.|[2412.17150](http://arxiv.org/abs/2412.17150)|null|
+|**2024-12-18**|**SplitFedZip: Learned Compression for Data Transfer Reduction in Split-Federated Learning**|Chamani Shiranthika et.al.|[2412.17150](http://arxiv.org/abs/2412.17150)|**[link](https://github.com/chamanis/splitfedzip)**|
 |**2024-12-18**|**Rehearsal-Free Continual Federated Learning with Synergistic Regularization**|Yichen Li et.al.|[2412.13779](http://arxiv.org/abs/2412.13779)|null|
 |**2024-12-18**|**Federated Learning and RAG Integration: A Scalable Approach for Medical Large Language Models**|Jincheol Jung et.al.|[2412.13720](http://arxiv.org/abs/2412.13720)|null|
 |**2024-12-18**|**On Enhancing Root Cause Analysis with SQL Summaries for Failures in Database Workload Replays at SAP HANA**|Neetha Jambigi et.al.|[2412.13679](http://arxiv.org/abs/2412.13679)|null|
@@ -6956,7 +6956,7 @@
 |**2024-12-24**|**Extract Free Dense Misalignment from CLIP**|JeongYeon Nam et.al.|[2412.18404](http://arxiv.org/abs/2412.18404)|null|
 |**2024-12-24**|**RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction**|Wu Xiaoping et.al.|[2412.18390](http://arxiv.org/abs/2412.18390)|null|
 |**2024-12-24**|**ChaI-TeA: A Benchmark for Evaluating Autocompletion of Interactions with LLM-based Chatbots**|Shani Goren et.al.|[2412.18377](http://arxiv.org/abs/2412.18377)|**[link](https://github.com/amazon-science/chaitea-chat-interaction-autocomplete)**|
-|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|null|
+|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|**[link](https://github.com/KevinHeiwa/Agentable)**|
 |**2024-12-24**|**Towards Global AI Inclusivity: A Large-Scale Multilingual Terminology Dataset**|Jiarui Liu et.al.|[2412.18367](http://arxiv.org/abs/2412.18367)|null|
 |**2024-12-24**|**Multi-Agents Based on Large Language Models for Knowledge-based Visual Question Answering**|Zhongjian Hu et.al.|[2412.18351](http://arxiv.org/abs/2412.18351)|null|
 |**2024-12-24**|**The Value of AI-Generated Metadata for UGC Platforms: Evidence from a Large-scale Field Experiment**|Xinyi Zhang et.al.|[2412.18337](http://arxiv.org/abs/2412.18337)|null|
@@ -7002,12 +7002,12 @@
 |**2024-12-24**|**Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner**|Aizierjiang Aiersilan et.al.|[2412.18086](http://arxiv.org/abs/2412.18086)|**[link](https://github.com/Ezharjan/AutoSceneGen)**|
 |**2024-12-24**|**Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models**|Xuan Lin et.al.|[2412.18084](http://arxiv.org/abs/2412.18084)|**[link](https://github.com/chenlong164/peit)**|
 |**2024-12-24**|**MMFactory: A Universal Solution Search Engine for Vision-Language Tasks**|Wan-Cyuan Fan et.al.|[2412.18072](http://arxiv.org/abs/2412.18072)|null|
-|**2024-12-24**|**LMRPA: Large Language Model-Driven Efficient Robotic Process Automation for OCR**|Osama Hosam Abdellaif et.al.|[2412.18063](http://arxiv.org/abs/2412.18063)|null|
+|**2024-12-24**|**LMRPA: Large Language Model-Driven Efficient Robotic Process Automation for OCR**|Osama Hosam Abdellaif et.al.|[2412.18063](http://arxiv.org/abs/2412.18063)|**[link](https://github.com/mad-sam22/erpa-ocr)**|
 |**2024-12-24**|**Lla-VAP: LSTM Ensemble of Llama and VAP for Turn-Taking Prediction**|Hyunbae Jeon et.al.|[2412.18061](http://arxiv.org/abs/2412.18061)|null|
 |**2024-12-24**|**An Ensemble Approach to Short-form Video Quality Assessment Using Multimodal LLM**|Wen Wen et.al.|[2412.18060](http://arxiv.org/abs/2412.18060)|null|
 |**2024-12-24**|**YuLan-Mini: An Open Data-efficient Language Model**|Yiwen Hu et.al.|[2412.17743](http://arxiv.org/abs/2412.17743)|**[link](https://github.com/ruc-gsai/yulan-mini)**|
 |**2024-12-24**|**RAGONITE: Iterative Retrieval on Induced Databases and Verbalized RDF for Conversational QA over KGs with RAG**|Rishiraj Saha Roy et.al.|[2412.17690](http://arxiv.org/abs/2412.17690)|null|
-|**2024-12-24**|**Singular Value Scaling: Efficient Generative Model Compression via Pruned Weights Refinement**|Hyeonjin Kim et.al.|[2412.17387](http://arxiv.org/abs/2412.17387)|null|
+|**2024-12-24**|**Singular Value Scaling: Efficient Generative Model Compression via Pruned Weights Refinement**|Hyeonjin Kim et.al.|[2412.17387](http://arxiv.org/abs/2412.17387)|**[link](https://github.com/lait-cvlab/singular-value-scaling)**|
 |**2024-12-24**|**System-2 Mathematical Reasoning via Enriched Instruction Tuning**|Huanqia Cai et.al.|[2412.16964](http://arxiv.org/abs/2412.16964)|null|
 |**2024-12-24**|**Sim911: Towards Effective and Equitable 9-1-1 Dispatcher Training with an LLM-Enabled Simulation**|Zirong Chen et.al.|[2412.16844](http://arxiv.org/abs/2412.16844)|null|
 |**2024-12-24**|**Human-Guided Image Generation for Expanding Small-Scale Training Image Datasets**|Changjian Chen et.al.|[2412.16839](http://arxiv.org/abs/2412.16839)|**[link](https://github.com/hnu-vis/datacrafter)**|
@@ -7109,7 +7109,7 @@
 |**2024-12-22**|**LLM-based relevance assessment still can't replace human relevance assessment**|Charles L. A. Clarke et.al.|[2412.17156](http://arxiv.org/abs/2412.17156)|null|
 |**2024-12-22**|**A Multi-AI Agent System for Autonomous Optimization of Agentic AI Solutions via Iterative Refinement and LLM-Driven Feedback Loops**|Kamer Ali Yuksel et.al.|[2412.17149](http://arxiv.org/abs/2412.17149)|null|
 |**2024-12-22**|**LLM Agent for Fire Dynamics Simulations**|Leidong Xu et.al.|[2412.17146](http://arxiv.org/abs/2412.17146)|null|
-|**2024-12-22**|**Hate Speech Detection and Target Identification in Devanagari Languages via Parameter Efficient Fine-Tuning of LLMs**|Rushendra Sidibomma et.al.|[2412.17131](http://arxiv.org/abs/2412.17131)|**[link](https://github.com/rushendra10/hate-speech-detection-and-target-identification-in-devanagari-languages)**|
+|**2024-12-22**|**Hate Speech Detection and Target Identification in Devanagari Languages via Parameter Efficient Fine-Tuning of LLMs**|Rushendra Sidibomma et.al.|[2412.17131](http://arxiv.org/abs/2412.17131)|null|
 |**2024-12-22**|**Lies, Damned Lies, and Distributional Language Statistics: Persuasion and Deception with Large Language Models**|Cameron R. Jones et.al.|[2412.17128](http://arxiv.org/abs/2412.17128)|null|
 |**2024-12-22**|**Learning to Adapt to Low-Resource Paraphrase Generation**|Zhigen Li et.al.|[2412.17111](http://arxiv.org/abs/2412.17111)|null|
 |**2024-12-22**|**DreamOmni: Unified Image Generation and Editing**|Bin Xia et.al.|[2412.17098](http://arxiv.org/abs/2412.17098)|null|
@@ -7169,7 +7169,7 @@
 |**2024-12-21**|**Internalized Self-Correction for Large Language Models**|Nishanth Upadhyaya et.al.|[2412.16653](http://arxiv.org/abs/2412.16653)|null|
 |**2024-12-21**|**TimeRAG: BOOSTING LLM Time Series Forecasting via Retrieval-Augmented Generation**|Silin Yang et.al.|[2412.16643](http://arxiv.org/abs/2412.16643)|null|
 |**2024-12-21**|**POEX: Policy Executable Embodied AI Jailbreak Attacks**|Xuancun Lu et.al.|[2412.16633](http://arxiv.org/abs/2412.16633)|null|
-|**2024-12-21**|**A Large-scale Empirical Study on Fine-tuning Large Language Models for Unit Testing**|Ye Shang et.al.|[2412.16620](http://arxiv.org/abs/2412.16620)|null|
+|**2024-12-21**|**A Large-scale Empirical Study on Fine-tuning Large Language Models for Unit Testing**|Ye Shang et.al.|[2412.16620](http://arxiv.org/abs/2412.16620)|**[link](https://github.com/iSEngLab/LLM4UT_Empirical)**|
 |**2024-12-21**|**Large Language Model Can Be a Foundation for Hidden Rationale-Based Retrieval**|Luo Ji et.al.|[2412.16615](http://arxiv.org/abs/2412.16615)|null|
 |**2024-12-21**|**AIGCodeSet: A New Annotated Dataset for AI Generated Code Detection**|Basak Demirok et.al.|[2412.16594](http://arxiv.org/abs/2412.16594)|null|
 |**2024-12-21**|**Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models**|Yanxu Mao et.al.|[2412.16555](http://arxiv.org/abs/2412.16555)|null|
