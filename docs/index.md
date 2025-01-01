@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.31
+## Updated on 2025.01.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -26241,14 +26241,14 @@ layout: default
     <td><b>TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization</b></td>
     <td>Chia-Yu Hung et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.21037">2412.21037</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/declare-lab/TangoFlux)**</td>
        </tr>
        <tr>
     <td><b>2024-12-30</b></td>
     <td><b>Plancraft: an evaluation dataset for planning with LLM agents</b></td>
     <td>Gautier Dagan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.21033">2412.21033</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/gautierdag/plancraft)**</td>
        </tr>
        <tr>
     <td><b>2024-12-30</b></td>
