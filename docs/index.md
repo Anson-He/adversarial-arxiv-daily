@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.01
+## Updated on 2025.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -220,7 +220,7 @@ layout: default
     <td><b>xSRL: Safety-Aware Explainable Reinforcement Learning -- Safety as a Product of Explainability</b></td>
     <td>Risal Shahriar Shefin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.19311">2412.19311</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/risal-shefin/xsrl)**</td>
        </tr>
        <tr>
     <td><b>2024-12-26</b></td>
@@ -263,7 +263,7 @@ layout: default
     <td><b>Improving Integrated Gradient-based Transferable Adversarial Examples by Refining the Integration Path</b></td>
     <td>Yuchen Ren et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.18844">2412.18844</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ryc-98/mumodig)**</td>
        </tr>
        <tr>
     <td><b>2024-12-25</b></td>
@@ -284,7 +284,7 @@ layout: default
     <td><b>Attack-in-the-Chain: Bootstrapping Large Language Models for Attacks Against Black-box Neural Ranking Models</b></td>
     <td>Yu-An Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.18770">2412.18770</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Davion-Liu/AttChain)**</td>
        </tr>
        <tr>
     <td><b>2024-12-25</b></td>
@@ -5623,7 +5623,7 @@ layout: default
     <td><b>CL-attack: Textual Backdoor Attacks via Cross-Lingual Triggers</b></td>
     <td>Jingyi Zheng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.19037">2412.19037</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/TenneyHu/CrossLingualAttack)**</td>
        </tr>
    </tbody>
 </table>
@@ -18315,7 +18315,7 @@ layout: default
     <td><b>Multi-P $^2$ A: A Multi-perspective Benchmark on Privacy Assessment for Large Vision-Language Models</b></td>
     <td>Jie Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.19496">2412.19496</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Xiangkui-Cao/Multi-P2A)**</td>
        </tr>
    </tbody>
 </table>
@@ -26150,7 +26150,7 @@ layout: default
     <td><b>HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation</b></td>
     <td>Zhaojian Yu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.21199">2412.21199</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/CodeEval-Pro/CodeEval-Pro)**</td>
        </tr>
        <tr>
     <td><b>2024-12-30</b></td>
@@ -26178,7 +26178,7 @@ layout: default
     <td><b>Facilitating large language model Russian adaptation with Learned Embedding Propagation</b></td>
     <td>Mikhail Tikhomirov et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.21140">2412.21140</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/RefalMachine/llmtf_open)**</td>
        </tr>
        <tr>
     <td><b>2024-12-30</b></td>
@@ -26206,7 +26206,7 @@ layout: default
     <td><b>Varformer: Adapting VAR's Generative Prior for Image Restoration</b></td>
     <td>Siyang Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.21063">2412.21063</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/siywang541/Varformer)**</td>
        </tr>
        <tr>
     <td><b>2024-12-30</b></td>
@@ -26353,7 +26353,7 @@ layout: default
     <td><b>Disentangling Preference Representation and Text Generation for Efficient Individual Preference Alignment</b></td>
     <td>Jianfei Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.20834">2412.20834</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/zhangjf-nlp/LatentDPO)**</td>
        </tr>
        <tr>
     <td><b>2024-12-30</b></td>
@@ -26381,7 +26381,7 @@ layout: default
     <td><b>M $^3$ oralBench: A MultiModal Moral Benchmark for LVLMs</b></td>
     <td>Bei Yan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.20718">2412.20718</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/BeiiiY/M3oralBench)**</td>
        </tr>
        <tr>
     <td><b>2024-12-30</b></td>
@@ -26458,7 +26458,7 @@ layout: default
     <td><b>From Interests to Insights: An LLM Approach to Course Recommendations Using Natural Language Queries</b></td>
     <td>Hugh Van Deventer et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.19312">2412.19312</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/hughvd/um-cai-fellowship)**</td>
        </tr>
        <tr>
     <td><b>2024-12-30</b></td>
@@ -26529,7 +26529,7 @@ layout: default
     <td><b>Controlling Out-of-Domain Gaps in LLMs for Genre Classification and Generated Text Detection</b></td>
     <td>Dmitri Roussinov et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.20595">2412.20595</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/dminus1/LLM-OOD-control)**</td>
        </tr>
        <tr>
     <td><b>2024-12-29</b></td>
@@ -26683,7 +26683,7 @@ layout: default
     <td><b>LLM2: Let Large Language Models Harness System 2 Reasoning</b></td>
     <td>Cheng Yang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.20372">2412.20372</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yc1999/LLM2)**</td>
        </tr>
        <tr>
     <td><b>2024-12-29</b></td>
@@ -26768,14 +26768,14 @@ layout: default
     <td><b>Scoring with Large Language Models: A Study on Measuring Empathy of Responses in Dialogues</b></td>
     <td>Henry J. Xie et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.20264">2412.20264</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/henryjxie/Scoring-with-Large-Language-Models)**</td>
        </tr>
        <tr>
     <td><b>2024-12-28</b></td>
     <td><b>ComparisonQA: Evaluating Factuality Robustness of LLMs Through Knowledge Frequency Control and Uncertainty</b></td>
     <td>Qing Zong et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.20251">2412.20251</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/HKUST-KnowComp/ComparisonQA)**</td>
        </tr>
        <tr>
     <td><b>2024-12-28</b></td>
@@ -26964,14 +26964,14 @@ layout: default
     <td><b>From Generalist to Specialist: A Survey of Large Language Models for Chemistry</b></td>
     <td>Yang Han et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.19994">2412.19994</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/opendfm/llm4chemistry)**</td>
        </tr>
        <tr>
     <td><b>2024-12-28</b></td>
     <td><b>Bridging Context Gaps: Enhancing Comprehension in Long-Form Social Conversations Through Contextualized Excerpts</b></td>
     <td>Shrestha Mohanty et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.19966">2412.19966</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/shresh02/bridging_context_gaps)**</td>
        </tr>
        <tr>
     <td><b>2024-12-28</b></td>
@@ -27112,7 +27112,7 @@ layout: default
     <td><b>Gradient Weight-normalized Low-rank Projection for Efficient LLM Training</b></td>
     <td>Jia-Hong Huang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.19616">2412.19616</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jhhuangkay/gradient-weight-normalized-low-rank-projection-for-efficient-llm-training)**</td>
        </tr>
        <tr>
     <td><b>2024-12-27</b></td>
@@ -27140,7 +27140,7 @@ layout: default
     <td><b>Diverse Rare Sample Generation with Pretrained GANs</b></td>
     <td>Subeen Lee et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.19543">2412.19543</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/sbrblee/DivRareGen)**</td>
        </tr>
        <tr>
     <td><b>2024-12-27</b></td>
@@ -27161,7 +27161,7 @@ layout: default
     <td><b>Confidence v.s. Critique: A Decomposition of Self-Correction Capability for LLMs</b></td>
     <td>Zhe Yang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.19513">2412.19513</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Zhe-Young/SelfCorrectDecompose)**</td>
        </tr>
        <tr>
     <td><b>2024-12-27</b></td>
@@ -27182,14 +27182,14 @@ layout: default
     <td><b>Casevo: A Cognitive Agents and Social Evolution Simulator</b></td>
     <td>Zexun Jiang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.19498">2412.19498</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/rgcass/casevo)**</td>
        </tr>
        <tr>
     <td><b>2024-12-27</b></td>
     <td><b>Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation</b></td>
     <td>Chengyang Ye et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.19492">2412.19492</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yecy749/gsnet)**</td>
        </tr>
        <tr>
     <td><b>2024-12-27</b></td>
@@ -27210,7 +27210,7 @@ layout: default
     <td><b>A Survey on Large Language Model Acceleration based on KV Cache Management</b></td>
     <td>Haoyang Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.19442">2412.19442</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/treeai-lab/awesome-kv-cache-management)**</td>
        </tr>
        <tr>
     <td><b>2024-12-27</b></td>
@@ -27231,7 +27231,7 @@ layout: default
     <td><b>An Engorgio Prompt Makes Large Language Model Babble on</b></td>
     <td>Jianshuo Dong et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.19394">2412.19394</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jianshuod/engorgio-prompt)**</td>
        </tr>
    </tbody>
 </table>
@@ -27400,7 +27400,7 @@ layout: default
     <td><b>CL-attack: Textual Backdoor Attacks via Cross-Lingual Triggers</b></td>
     <td>Jingyi Zheng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.19037">2412.19037</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/TenneyHu/CrossLingualAttack)**</td>
        </tr>
        <tr>
     <td><b>2024-12-26</b></td>
@@ -27576,7 +27576,7 @@ layout: default
     <td><b>CausalTAD: Causal Implicit Generative Model for Debiased Online Trajectory Anomaly Detection</b></td>
     <td>Wenbin Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.18820">2412.18820</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/LwbXc/CausalTAD)**</td>
        </tr>
        <tr>
     <td><b>2024-12-25</b></td>
@@ -27597,7 +27597,7 @@ layout: default
     <td><b>Attack-in-the-Chain: Bootstrapping Large Language Models for Attacks Against Black-box Neural Ranking Models</b></td>
     <td>Yu-An Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.18770">2412.18770</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Davion-Liu/AttChain)**</td>
        </tr>
        <tr>
     <td><b>2024-12-25</b></td>
@@ -27667,7 +27667,7 @@ layout: default
     <td><b>Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents</b></td>
     <td>Kaiwen Ning et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.18371">2412.18371</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/KevinHeiwa/Agentable)**</td>
        </tr>
        <tr>
     <td><b>2024-12-25</b></td>
@@ -27752,7 +27752,7 @@ layout: default
     <td><b>AgreeMate: Teaching LLMs to Haggle</b></td>
     <td>Ainesh Chatterjee et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.18690">2412.18690</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/GeneralCoder365/agreemate)**</td>
        </tr>
        <tr>
     <td><b>2024-12-24</b></td>
@@ -27934,7 +27934,7 @@ layout: default
     <td><b>Extract Free Dense Misalignment from CLIP</b></td>
     <td>JeongYeon Nam et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.18404">2412.18404</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/naver-ai/clip4dm)**</td>
        </tr>
        <tr>
     <td><b>2024-12-24</b></td>
