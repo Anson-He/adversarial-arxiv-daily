@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.02
+## Updated on 2025.01.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -27688,7 +27688,7 @@ layout: default
     <td><b>EvalMuse-40K: A Reliable and Fine-Grained Benchmark with Comprehensive Human Annotations for Text-to-Image Generation Model Evaluation</b></td>
     <td>Shuhao Han et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.18150">2412.18150</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/DYEvaLab/EvalMuse)**</td>
        </tr>
    </tbody>
 </table>
