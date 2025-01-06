@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.05
+## Updated on 2025.01.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -5666,7 +5666,7 @@ layout: default
     <td><b>TrustRAG: Enhancing Robustness and Trustworthiness in RAG</b></td>
     <td>Huichi Zhou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00879">2501.00879</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/huichizhou/trustrag)**</td>
        </tr>
        <tr>
     <td><b>2025-01-01</b></td>
@@ -26861,7 +26861,7 @@ layout: default
     <td><b>TrustRAG: Enhancing Robustness and Trustworthiness in RAG</b></td>
     <td>Huichi Zhou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00879">2501.00879</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/huichizhou/trustrag)**</td>
        </tr>
        <tr>
     <td><b>2025-01-01</b></td>
