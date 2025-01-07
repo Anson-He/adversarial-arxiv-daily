@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.06
+## Updated on 2025.01.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -1107,7 +1107,7 @@ layout: default
     <td><b>Adversarial Vulnerabilities in Large Language Models for Time Series Forecasting</b></td>
     <td>Fuqiang Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.08099">2412.08099</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/JohnsonJiang1996/AdvAttack_LLM4TS)**</td>
        </tr>
        <tr>
     <td><b>2024-12-11</b></td>
@@ -20776,7 +20776,7 @@ layout: default
     <td><b>Towards Interactive Deepfake Analysis</b></td>
     <td>Lixiong Qin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.01164">2501.01164</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/lxq1000/dfa-instruct)**</td>
        </tr>
        <tr>
     <td><b>2025-01-02</b></td>
@@ -26541,7 +26541,7 @@ layout: default
     <td><b>VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction</b></td>
     <td>Chaoyou Fu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.01957">2501.01957</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/VITA-MLLM/VITA)**</td>
        </tr>
        <tr>
     <td><b>2025-01-03</b></td>
@@ -26611,7 +26611,7 @@ layout: default
     <td><b>SDPO: Segment-Level Direct Preference Optimization for Social Agents</b></td>
     <td>Aobo Kong et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.01821">2501.01821</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/alibabaresearch/damo-convai)**</td>
        </tr>
        <tr>
     <td><b>2025-01-03</b></td>
@@ -26913,7 +26913,7 @@ layout: default
     <td><b>Unifying Specialized Visual Encoders for Video Language Models</b></td>
     <td>Jihoon Chung et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.01426">2501.01426</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/princetonvisualai/merv)**</td>
        </tr>
        <tr>
     <td><b>2025-01-02</b></td>
@@ -26948,14 +26948,14 @@ layout: default
     <td><b>Aligning Large Language Models for Faithful Integrity Against Opposing Argument</b></td>
     <td>Yong Zhao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.01336">2501.01336</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/zhaoy777/afice)**</td>
        </tr>
        <tr>
     <td><b>2025-01-02</b></td>
     <td><b>CySecBench: Generative AI-based CyberSecurity-focused Prompt Dataset for Benchmarking Large Language Models</b></td>
     <td>Johan Wahréus et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.01335">2501.01335</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/cysecbench/dataset)**</td>
        </tr>
        <tr>
     <td><b>2025-01-02</b></td>
@@ -27018,14 +27018,14 @@ layout: default
     <td><b>SeFAR: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization</b></td>
     <td>Yongle Huang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.01245">2501.01245</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/kylehuang9/sefar)**</td>
        </tr>
        <tr>
     <td><b>2025-01-02</b></td>
     <td><b>Automated Self-Refinement and Self-Correction for LLM-based Product Attribute Value Extraction</b></td>
     <td>Alexander Brinkmann et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.01237">2501.01237</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/wbsg-uni-mannheim/selfrefinement4extractgpt)**</td>
        </tr>
        <tr>
     <td><b>2025-01-02</b></td>
@@ -27130,7 +27130,7 @@ layout: default
     <td><b>FED: Fast and Efficient Dataset Deduplication Framework with GPU Acceleration</b></td>
     <td>Youngjun Son et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.01046">2501.01046</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mcrl/fed)**</td>
        </tr>
        <tr>
     <td><b>2025-01-02</b></td>
@@ -27179,7 +27179,7 @@ layout: default
     <td><b>Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice</b></td>
     <td>Federico Ravenda et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00982">2501.00982</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/fede-stack/adaptive-rag-for-psychological-assessment)**</td>
        </tr>
        <tr>
     <td><b>2025-01-02</b></td>
@@ -27257,7 +27257,7 @@ layout: default
     <td><b>Aligning LLMs with Domain Invariant Reward Models</b></td>
     <td>David Wu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00911">2501.00911</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/portal-cornell/dial)**</td>
        </tr>
        <tr>
     <td><b>2025-01-01</b></td>
@@ -27271,7 +27271,7 @@ layout: default
     <td><b>Unfolding the Headline: Iterative Self-Questioning for News Retrieval and Timeline Summarization</b></td>
     <td>Weiqi Wu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00888">2501.00888</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Alibaba-NLP/CHRONOS)**</td>
        </tr>
        <tr>
     <td><b>2025-01-01</b></td>
@@ -27306,21 +27306,21 @@ layout: default
     <td><b>LUSIFER: Language Universal Space Integration for Enhanced Multilingual Embeddings with Large Language Models</b></td>
     <td>Hieu Man et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00874">2501.00874</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/hieum98/lusifer)**</td>
        </tr>
        <tr>
     <td><b>2025-01-01</b></td>
     <td><b>Exploring Structured Semantic Priors Underlying Diffusion Score for Test-time Adaptation</b></td>
     <td>Mingjia Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00873">2501.00873</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/bit-da/dusa)**</td>
        </tr>
        <tr>
     <td><b>2025-01-01</b></td>
     <td><b>Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation</b></td>
     <td>Shoutao Guo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00868">2501.00868</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ictnlp/LSG)**</td>
        </tr>
        <tr>
     <td><b>2025-01-01</b></td>
@@ -27362,7 +27362,7 @@ layout: default
     <td><b>Multimodal Large Models Are Effective Action Anticipators</b></td>
     <td>Binglu Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00795">2501.00795</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/2tianyao1/actionllm)**</td>
        </tr>
        <tr>
     <td><b>2025-01-01</b></td>
@@ -27383,7 +27383,7 @@ layout: default
     <td><b>REM: A Scalable Reinforced Multi-Expert Framework for Multiplex Influence Maximization</b></td>
     <td>Huyen Nguyen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00779">2501.00779</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/huyenxam/REM)**</td>
        </tr>
        <tr>
     <td><b>2025-01-01</b></td>
@@ -27411,7 +27411,7 @@ layout: default
     <td><b>DIVE: Diversified Iterative Self-Improvement</b></td>
     <td>Yiwei Qin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00747">2501.00747</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/qinyiwei/dive)**</td>
        </tr>
        <tr>
     <td><b>2025-01-01</b></td>
@@ -27573,7 +27573,7 @@ layout: default
     <td><b>Re-evaluating Automatic LLM System Ranking for Alignment with Human Preference</b></td>
     <td>Mingqi Gao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00560">2501.00560</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yale-nlp/RealRank)**</td>
        </tr>
        <tr>
     <td><b>2024-12-31</b></td>
@@ -27629,7 +27629,7 @@ layout: default
     <td><b>RAG-Instruct: Boosting LLMs with Diverse Retrieval-Augmented Instructions</b></td>
     <td>Wanlong Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00353">2501.00353</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/freedomintelligence/rag-instruct)**</td>
        </tr>
        <tr>
     <td><b>2024-12-31</b></td>
@@ -27685,7 +27685,7 @@ layout: default
     <td><b>LLM-Rubric: A Multidimensional, Calibrated Approach to Automated Evaluation of Natural Language Texts</b></td>
     <td>Helia Hashemi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00274">2501.00274</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/microsoft/llm-rubric)**</td>
        </tr>
        <tr>
     <td><b>2024-12-31</b></td>
@@ -27840,7 +27840,7 @@ layout: default
     <td><b>TrajLearn: Trajectory Prediction Learning using Deep Generative Models</b></td>
     <td>Amirhossein Nadiri et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00184">2501.00184</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/amir-ni/trajectory-prediction)**</td>
        </tr>
        <tr>
     <td><b>2024-12-30</b></td>
@@ -28268,7 +28268,7 @@ layout: default
     <td><b>ELECTRA and GPT-4o: Cost-Effective Partners for Sentiment Analysis</b></td>
     <td>James P. Beno et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00062">2501.00062</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jbeno/sentiment)**</td>
        </tr>
        <tr>
     <td><b>2024-12-29</b></td>
@@ -28507,14 +28507,14 @@ layout: default
     <td><b>Large Language Models for Mathematical Analysis</b></td>
     <td>Ziye Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00059">2501.00059</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ziye2chen/LLMs-for-Mathematical-Analysis)**</td>
        </tr>
        <tr>
     <td><b>2024-12-28</b></td>
     <td><b>LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models</b></td>
     <td>Miao Yu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.00055">2501.00055</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Ymm-cll/LLM-Virus)**</td>
        </tr>
        <tr>
     <td><b>2024-12-28</b></td>
