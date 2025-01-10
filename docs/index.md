@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.09
+## Updated on 2025.01.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -27073,7 +27073,7 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-01-08</b></td>
-    <td><b>Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though</b></td>
+    <td><b>Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought</b></td>
     <td>Violet Xiang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.04682">2501.04682</a></td>
     <td>null</td>
@@ -27925,7 +27925,7 @@ layout: default
     <td><b>TransPixar: Advancing Text-to-Video Generation with Transparency</b></td>
     <td>Luozhou Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.03006">2501.03006</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/wileewang/TransPixar)**</td>
        </tr>
        <tr>
     <td><b>2025-01-06</b></td>
