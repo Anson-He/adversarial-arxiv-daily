@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.11
+## Updated on 2025.01.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -1408,7 +1408,7 @@ layout: default
     <td><b>Backdoor Attacks against No-Reference Image Quality Assessment Models via A Scalable Trigger</b></td>
     <td>Yi Yu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.07277">2412.07277</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yuyi-sd/baiqa)**</td>
        </tr>
        <tr>
     <td><b>2024-12-10</b></td>
@@ -6649,7 +6649,7 @@ layout: default
     <td><b>Backdoor Attacks against No-Reference Image Quality Assessment Models via A Scalable Trigger</b></td>
     <td>Yi Yu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.07277">2412.07277</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yuyi-sd/baiqa)**</td>
        </tr>
        <tr>
     <td><b>2024-12-10</b></td>
