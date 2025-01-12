@@ -27486,7 +27486,7 @@ layout: default
     <td><b>DoubleDiffusion: Combining Heat Diffusion with Denoising Diffusion for Generative Learning on 3D Meshes</b></td>
     <td>Xuyang Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.03397">2501.03397</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Wxyxixixi/DoubleDiffusion_3D_Mesh)**</td>
        </tr>
        <tr>
     <td><b>2025-01-09</b></td>

@@ -5621,7 +5621,7 @@
 - 2025-01-09, **SUGAR: Leveraging Contextual Confidence for Smarter Retrieval**, Hanna Zubkova et.al., Paper: [http://arxiv.org/abs/2501.04899](http://arxiv.org/abs/2501.04899)
 - 2025-01-09, **Navigating the Designs of Privacy-Preserving Fine-tuning for Large Language Models**, Haonan Shi et.al., Paper: [http://arxiv.org/abs/2501.04323](http://arxiv.org/abs/2501.04323)
 - 2025-01-09, **More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives**, Xiaoqing Zhang et.al., Paper: [http://arxiv.org/abs/2501.04070](http://arxiv.org/abs/2501.04070), Code: **[https://github.com/xiaoqzhwhu/dr-icl](https://github.com/xiaoqzhwhu/dr-icl)**
-- 2025-01-09, **DoubleDiffusion: Combining Heat Diffusion with Denoising Diffusion for Generative Learning on 3D Meshes**, Xuyang Wang et.al., Paper: [http://arxiv.org/abs/2501.03397](http://arxiv.org/abs/2501.03397)
+- 2025-01-09, **DoubleDiffusion: Combining Heat Diffusion with Denoising Diffusion for Generative Learning on 3D Meshes**, Xuyang Wang et.al., Paper: [http://arxiv.org/abs/2501.03397](http://arxiv.org/abs/2501.03397), Code: **[https://github.com/Wxyxixixi/DoubleDiffusion_3D_Mesh](https://github.com/Wxyxixixi/DoubleDiffusion_3D_Mesh)**
 - 2025-01-09, **InfiFusion: A Unified Framework for Enhanced Cross-Model Reasoning via LLM Fusion**, Zhaoyi Yan et.al., Paper: [http://arxiv.org/abs/2501.02795](http://arxiv.org/abs/2501.02795)
 <p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
 
