@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -55,7 +55,7 @@ layout: default
     <td><b>On Measuring Unnoticeability of Graph Adversarial Attacks: Observations, New Measure, and Applications</b></td>
     <td>Hyeonsoo Jo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.05015">2501.05015</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/hyeonsoojo/resources-for-hidenseek)**</td>
        </tr>
        <tr>
     <td><b>2025-01-09</b></td>
@@ -27213,7 +27213,7 @@ layout: default
     <td><b>FairCode: Evaluating Social Bias of LLMs in Code Generation</b></td>
     <td>Yongkang Du et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.05396">2501.05396</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yongkdu/faircode)**</td>
        </tr>
        <tr>
     <td><b>2025-01-09</b></td>
@@ -27227,7 +27227,7 @@ layout: default
     <td><b>Stream Aligner: Efficient Sentence-Level Alignment via Distribution Induction</b></td>
     <td>Hantao Lou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.05336">2501.05336</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/htlou/stream-aligner)**</td>
        </tr>
        <tr>
     <td><b>2025-01-09</b></td>
@@ -27423,7 +27423,7 @@ layout: default
     <td><b>Step-by-Step Mastery: Enhancing Soft Constraint Following Ability of Large Language Models</b></td>
     <td>Qingyu Ren et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.04945">2501.04945</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/rainier-rq/followsoftconstraints)**</td>
        </tr>
        <tr>
     <td><b>2025-01-09</b></td>
@@ -27522,7 +27522,7 @@ layout: default
     <td><b>Real-Time Textless Dialogue Generation</b></td>
     <td>Long Mai et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.04877">2501.04877</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mailong25/rts2s-dg)**</td>
        </tr>
        <tr>
     <td><b>2025-01-08</b></td>
