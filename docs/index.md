@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.22
+## Updated on 2025.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -14074,7 +14074,7 @@ layout: default
     <td><b>MyDigiTwin: A Privacy-Preserving Framework for Personalized Cardiovascular Risk Prediction and Scenario Exploration</b></td>
     <td>Héctor Cadavid et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.12193">2501.12193</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mydigitwinnl/fedavg_vantage6)**</td>
        </tr>
        <tr>
     <td><b>2025-01-21</b></td>
@@ -28539,7 +28539,7 @@ layout: default
     <td><b>ALoFTRAG: Automatic Local Fine Tuning for Retrieval Augmented Generation</b></td>
     <td>Peter Devine et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.11929">2501.11929</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/lightblue-tech/aloftrag)**</td>
        </tr>
        <tr>
     <td><b>2025-01-21</b></td>
