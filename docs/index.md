@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -155,7 +155,7 @@ layout: default
     <td><b>Cross-Entropy Attacks to Language Models via Rare Event Simulation</b></td>
     <td>Mingze Ni et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.11852">2501.11852</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mingzelucasni/ce-attack)**</td>
        </tr>
    </tbody>
 </table>
@@ -299,7 +299,7 @@ layout: default
     <td><b>CaFA: Cost-aware, Feasible Attacks With Database Constraints Against Neural Tabular Classifiers</b></td>
     <td>Matan Ben-Tov et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.10013">2501.10013</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/matanbt/attack-tabular)**</td>
        </tr>
        <tr>
     <td><b>2025-01-17</b></td>
@@ -1640,7 +1640,7 @@ layout: default
     <td><b>Towards Adversarial Robustness of Model-Level Mixture-of-Experts Architectures for Semantic Segmentation</b></td>
     <td>Svetlana Pavlitska et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.11608">2412.11608</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/kastel-mobilitylab/mixtures-of-experts)**</td>
        </tr>
        <tr>
     <td><b>2024-12-16</b></td>
@@ -1805,7 +1805,7 @@ layout: default
     <td><b>Evaluating Adversarial Attacks on Traffic Sign Classifiers beyond Standard Baselines</b></td>
     <td>Svetlana Pavlitska et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.09150">2412.09150</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/kastel-mobilitylab/attacks-on-traffic-sign-recognition)**</td>
        </tr>
    </tbody>
 </table>
@@ -12334,7 +12334,7 @@ layout: default
     <td><b>HumorReject: Decoupling LLM Safety from Refusal Prefix via A Little Humor</b></td>
     <td>Zihui Wu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.13677">2501.13677</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/wooozihui/HumorReject)**</td>
        </tr>
    </tbody>
 </table>
@@ -14652,7 +14652,7 @@ layout: default
     <td><b>A Unified Framework for Foreground and Anonymization Area Segmentation in CT and MRI Data</b></td>
     <td>Michal Nohel et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.04361">2501.04361</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mic-dkfz/foreground-and-anonymization-area-segmentation)**</td>
        </tr>
        <tr>
     <td><b>2025-01-08</b></td>
@@ -14818,7 +14818,7 @@ layout: default
     <td><b>Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification</b></td>
     <td>Xiangxiang Dai et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.01849">2501.01849</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/tarfersoul/maco)**</td>
        </tr>
        <tr>
     <td><b>2025-01-03</b></td>
@@ -16437,7 +16437,7 @@ layout: default
     <td><b>TS-ACL: A Time Series Analytic Continual Learning Framework for Privacy-Preserving and Class-Incremental Pattern Recognition</b></td>
     <td>Kejia Fan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.15954">2410.15954</a></td>
-    <td>**[link](https://github.com/asdasdczxczq/ts-acl)**</td>
+    <td>null</td>
        </tr>
    </tbody>
 </table>
@@ -28659,7 +28659,7 @@ layout: default
     <td><b>Do Large Language Models Truly Understand Geometric Structures?</b></td>
     <td>Xiaofeng Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.13773">2501.13773</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/banyedy/geomrel)**</td>
        </tr>
        <tr>
     <td><b>2025-01-23</b></td>
@@ -28736,7 +28736,7 @@ layout: default
     <td><b>HumorReject: Decoupling LLM Safety from Refusal Prefix via A Little Humor</b></td>
     <td>Zihui Wu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.13677">2501.13677</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/wooozihui/HumorReject)**</td>
        </tr>
        <tr>
     <td><b>2025-01-23</b></td>
@@ -28750,7 +28750,7 @@ layout: default
     <td><b>FedPref: Federated Learning Across Heterogeneous Multi-objective Preferences</b></td>
     <td>Maria Hartmann et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.13604">2501.13604</a></td>
-    <td>null</td>
+    <td>**[link](https://gitlab.com/maria.hartmann/FedPref)**</td>
        </tr>
        <tr>
     <td><b>2025-01-23</b></td>
@@ -28813,7 +28813,7 @@ layout: default
     <td><b>Spurious Forgetting in Continual Learning of Language Models</b></td>
     <td>Junhao Zheng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.13453">2501.13453</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/zzz47zzz/spurious-forgetting)**</td>
        </tr>
        <tr>
     <td><b>2025-01-23</b></td>
@@ -28918,7 +28918,7 @@ layout: default
     <td><b>Watching the AI Watchdogs: A Fairness and Robustness Analysis of AI Safety Moderation Classifiers</b></td>
     <td>Akshit Achara et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.13302">2501.13302</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/acharaakshit/fairmod)**</td>
        </tr>
        <tr>
     <td><b>2025-01-23</b></td>
@@ -29234,7 +29234,7 @@ layout: default
     <td><b>Open or Closed LLM for Lesser-Resourced Languages? Lessons from Greek</b></td>
     <td>John Pavlopoulos et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.12826">2501.12826</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/greek-nlp/benchmark)**</td>
        </tr>
        <tr>
     <td><b>2025-01-22</b></td>
@@ -29269,7 +29269,7 @@ layout: default
     <td><b>NExtLong: Toward Effective Long-Context Training without Long Documents</b></td>
     <td>Chaochen Gao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.12766">2501.12766</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/caskcsg/longcontext)**</td>
        </tr>
        <tr>
     <td><b>2025-01-22</b></td>
@@ -29550,7 +29550,7 @@ layout: default
     <td><b>Condor: Enhance LLM Alignment with Knowledge-Driven Data Synthesis and Refinement</b></td>
     <td>Maosong Cao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.12273">2501.12273</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/internlm/condor)**</td>
        </tr>
        <tr>
     <td><b>2025-01-21</b></td>
@@ -29655,7 +29655,7 @@ layout: default
     <td><b>Leveraging Graph Structures and Large Language Models for End-to-End Synthetic Task-Oriented Dialogues</b></td>
     <td>Maya Medjad et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.11977">2501.11977</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/reecall/graphtod)**</td>
        </tr>
        <tr>
     <td><b>2025-01-21</b></td>
@@ -29796,7 +29796,7 @@ layout: default
     <td><b>MyGO Multiplex CoT: A Method for Self-Reflection in Large Language Models via Double Chain of Thought Thinking</b></td>
     <td>Shihao Ji et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.13117">2501.13117</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/data-dream-gdsp/Multiplex-CoT)**</td>
        </tr>
        <tr>
     <td><b>2025-01-20</b></td>
@@ -29894,7 +29894,7 @@ layout: default
     <td><b>SR-FoT: A Syllogistic-Reasoning Framework of Thought for Large Language Models Tackling Knowledge-based Reasoning Tasks</b></td>
     <td>Wentao Wan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.11599">2501.11599</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/rodewayne/sr-fot)**</td>
        </tr>
        <tr>
     <td><b>2025-01-20</b></td>
@@ -29943,7 +29943,7 @@ layout: default
     <td><b>Curiosity-Driven Reinforcement Learning from Human Feedback</b></td>
     <td>Haoran Sun et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.11463">2501.11463</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ernie-research/cd-rlhf)**</td>
        </tr>
        <tr>
     <td><b>2025-01-20</b></td>
@@ -30147,7 +30147,7 @@ layout: default
     <td><b>Conditional Feature Importance with Generative Modeling Using Adversarial Random Forests</b></td>
     <td>Kristin Blesch et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.11178">2501.11178</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/bips-hb/carfi_paper)**</td>
        </tr>
        <tr>
     <td><b>2025-01-19</b></td>
@@ -30259,7 +30259,7 @@ layout: default
     <td><b>The Alternative Annotator Test for LLM-as-a-Judge: How to Statistically Justify Replacing Human Annotators with LLMs</b></td>
     <td>Nitay Calderon et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.10970">2501.10970</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/nitaytech/alttest)**</td>
        </tr>
        <tr>
     <td><b>2025-01-19</b></td>
@@ -30280,7 +30280,7 @@ layout: default
     <td><b>InsQABench: Benchmarking Chinese Insurance Domain Question Answering with Large Language Models</b></td>
     <td>Jing Ding et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.10943">2501.10943</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/haileyfamo/insqabench)**</td>
        </tr>
        <tr>
     <td><b>2025-01-19</b></td>
@@ -30646,7 +30646,7 @@ layout: default
     <td><b>PaSa: An LLM Agent for Comprehensive Academic Paper Search</b></td>
     <td>Yichen He et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.10120">2501.10120</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/bytedance/pasa)**</td>
        </tr>
        <tr>
     <td><b>2025-01-17</b></td>
@@ -30702,7 +30702,7 @@ layout: default
     <td><b>Agent-as-Judge for Factual Summarization of Long Narratives</b></td>
     <td>Yeonseok Jeong et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.09993">2501.09993</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yeonseokjeong/narrativefactscore)**</td>
        </tr>
        <tr>
     <td><b>2025-01-17</b></td>
@@ -30786,7 +30786,7 @@ layout: default
     <td><b>Understanding the Effectiveness of LLMs in Automated Self-Admitted Technical Debt Repayment</b></td>
     <td>Mohammad Sadegh Sheikhaei et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.09888">2501.09888</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/riselabqueens/satd-auto-repayment)**</td>
        </tr>
        <tr>
     <td><b>2025-01-17</b></td>
