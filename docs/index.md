@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.01
+## Updated on 2025.02.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -29446,7 +29446,7 @@ layout: default
     <td><b>How to Select Datapoints for Efficient Human Evaluation of NLG Models?</b></td>
     <td>Vilém Zouhar et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.18251">2501.18251</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/zouharvi/subset2evaluate)**</td>
        </tr>
        <tr>
     <td><b>2025-01-30</b></td>
