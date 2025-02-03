@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.02
+## Updated on 2025.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -149,7 +149,7 @@ layout: default
     <td><b>A general, flexible and harmonious framework to construct interpretable functions in regression analysis</b></td>
     <td>Tianyu Zhan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.15526">2501.15526</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/tian-yu-zhan/dnn_interpretation)**</td>
        </tr>
        <tr>
     <td><b>2025-01-26</b></td>
@@ -6594,7 +6594,7 @@ layout: default
     <td><b>Document Screenshot Retrievers are Vulnerable to Pixel Poisoning Attacks</b></td>
     <td>Shengyao Zhuang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.16902">2501.16902</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ielab/dsr-poisoning)**</td>
        </tr>
        <tr>
     <td><b>2025-01-28</b></td>
@@ -29334,7 +29334,7 @@ layout: default
     <td><b>GuardReasoner: Towards Reasoning-based LLM Safeguards</b></td>
     <td>Yue Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.18492">2501.18492</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yueliu1999/guardreasoner)**</td>
        </tr>
        <tr>
     <td><b>2025-01-30</b></td>
@@ -29348,7 +29348,7 @@ layout: default
     <td><b>CLoQ: Enhancing Fine-Tuning of Quantized LLMs via Calibrated LoRA Initialization</b></td>
     <td>Yanxia Deng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.18475">2501.18475</a></td>
-    <td>**[link](https://github.com/AozhongZhang/CLoQ)**</td>
+    <td>null</td>
        </tr>
        <tr>
     <td><b>2025-01-30</b></td>
@@ -29362,7 +29362,7 @@ layout: default
     <td><b>CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering</b></td>
     <td>Yumeng Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.18457">2501.18457</a></td>
-    <td>**[link](https://github.com/Alexwwwwww/CALM)**</td>
+    <td>null</td>
        </tr>
        <tr>
     <td><b>2025-01-30</b></td>
@@ -29404,7 +29404,7 @@ layout: default
     <td><b>Leveraging LLM Agents for Automated Optimization Modeling for SASP Problems: A Graph-RAG based Approach</b></td>
     <td>Tianpeng Pan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.18320">2501.18320</a></td>
-    <td>**[link](https://github.com/advantages/MAG-RAG-for-SASP)**</td>
+    <td>null</td>
        </tr>
        <tr>
     <td><b>2025-01-30</b></td>
@@ -29664,7 +29664,7 @@ layout: default
     <td><b>Can Generative LLMs Create Query Variants for Test Collections? An Exploratory Study</b></td>
     <td>Marwah Alaofi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.17981">2501.17981</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/MarwahAlaofi/SIGIR-23-SRP-UQV100-GPT-Query-Variants)**</td>
        </tr>
        <tr>
     <td><b>2025-01-29</b></td>
@@ -30141,7 +30141,7 @@ layout: default
     <td><b>Large Language Models for Code Generation: The Practitioners Perspective</b></td>
     <td>Zeeshan Rasheed et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.16998">2501.16998</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/gpt-laboratory/llm-evaluation)**</td>
        </tr>
        <tr>
     <td><b>2025-01-28</b></td>
