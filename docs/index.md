@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.03
+## Updated on 2025.02.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,57 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-02-03</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-02-03</b></td>
+    <td><b>The TIP of the Iceberg: Revealing a Hidden Class of Task-In-Prompt Adversarial Attacks on LLMs</b></td>
+    <td>Sergey Berezin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2501.18626">2501.18626</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-02-03</b></td>
+    <td><b>DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning</b></td>
+    <td>Kichang Lee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2411.12220">2411.12220</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-02-02</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-02-02</b></td>
+    <td><b>Transferable Adversarial Face Attack with Text Controlled Attribute</b></td>
+    <td>Wenyun Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.11735">2412.11735</a></td>
+    <td>**[link](https://github.com/phd-research-ai/tca2)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-01-31</h3>
 
 <table>
@@ -97,7 +148,7 @@ layout: default
     <td><b>SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders</b></td>
     <td>Bartosz Cywiński et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.18052">2501.18052</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/cywinski/saeuron)**</td>
        </tr>
    </tbody>
 </table>
@@ -227,13 +278,6 @@ layout: default
     <td><b>The Relationship Between Network Similarity and Transferability of Adversarial Attacks</b></td>
     <td>Gerrit Klause et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.18629">2501.18629</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-01-27</b></td>
-    <td><b>The TIP of the Iceberg: Revealing a Hidden Class of Task-In-Prompt Adversarial Attacks on LLMs</b></td>
-    <td>Sergey Berezin et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2501.18626">2501.18626</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -1967,13 +2011,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2024-12-16</b></td>
-    <td><b>Transferable Adversarial Face Attack with Text Controlled Attribute</b></td>
-    <td>Wenyun Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.11735">2412.11735</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-12-16</b></td>
     <td><b>Towards Adversarial Robustness of Model-Level Mixture-of-Experts Architectures for Semantic Segmentation</b></td>
     <td>Svetlana Pavlitska et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.11608">2412.11608</a></td>
@@ -3124,13 +3161,6 @@ layout: default
     <td>Sahar Sadrizadeh et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.12473">2411.12473</a></td>
     <td>**[link](https://github.com/sssadrizadeh/NMT_Obfuscator)**</td>
-       </tr>
-       <tr>
-    <td><b>2024-11-19</b></td>
-    <td><b>DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning</b></td>
-    <td>Kichang Lee et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2411.12220">2411.12220</a></td>
-    <td>null</td>
        </tr>
        <tr>
     <td><b>2024-11-19</b></td>
@@ -6640,7 +6670,7 @@ layout: default
 
 ## Poisoning attacks
 
-<h3>2025-01-31</h3>
+<h3>2025-02-03</h3>
 
 <table>
    <thead>
@@ -6654,10 +6684,24 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-01-31</b></td>
+    <td><b>2025-02-03</b></td>
     <td><b>Improving the Robustness of Representation Misdirection for Large Language Model Unlearning</b></td>
     <td>Dang Huu-Tien et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.19202">2501.19202</a></td>
+    <td>**[link](https://github.com/rebelsnlu-jaist/llmu-robustness)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-02-03</b></td>
+    <td><b>Tazza: Shuffling Neural Network Parameters for Secure and Private Federated Learning</b></td>
+    <td>Kichang Lee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07454">2412.07454</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-02-03</b></td>
+    <td><b>DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning</b></td>
+    <td>Kichang Lee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2411.12220">2411.12220</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -8003,13 +8047,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2024-12-10</b></td>
-    <td><b>Tazza: Shuffling Neural Network Parameters for Secure and Private Federated Learning</b></td>
-    <td>Kichang Lee et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.07454">2412.07454</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-12-10</b></td>
     <td><b>Buster: Incorporating Backdoor Attacks into Text Encoder to Mitigate NSFW Content Generation</b></td>
     <td>Xin Zhao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.07249">2412.07249</a></td>
@@ -8634,28 +8671,6 @@ layout: default
     <td><b>Bounding-box Watermarking: Defense against Model Extraction Attacks on Object Detectors</b></td>
     <td>Satoru Koda et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.13047">2411.13047</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2024-11-19</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2024-11-19</b></td>
-    <td><b>DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning</b></td>
-    <td>Kichang Lee et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2411.12220">2411.12220</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -12835,6 +12850,28 @@ layout: default
 
 ## Generative models safety
 
+<h3>2025-02-03</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-02-03</b></td>
+    <td><b>The TIP of the Iceberg: Revealing a Hidden Class of Task-In-Prompt Adversarial Attacks on LLMs</b></td>
+    <td>Sergey Berezin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2501.18626">2501.18626</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-01-31</h3>
 
 <table>
@@ -12875,13 +12912,6 @@ layout: default
     <td><b>Towards Safe AI Clinicians: A Comprehensive Study on Large Language Model Jailbreaking in Healthcare</b></td>
     <td>Hang Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.18632">2501.18632</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-01-27</b></td>
-    <td><b>The TIP of the Iceberg: Revealing a Hidden Class of Task-In-Prompt Adversarial Attacks on LLMs</b></td>
-    <td>Sergey Berezin et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2501.18626">2501.18626</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -14764,6 +14794,42 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-02-03</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-02-03</b></td>
+    <td><b>Tazza: Shuffling Neural Network Parameters for Secure and Private Federated Learning</b></td>
+    <td>Kichang Lee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.07454">2412.07454</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-02-03</b></td>
+    <td><b>DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning</b></td>
+    <td>Kichang Lee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2411.12220">2411.12220</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-02-03</b></td>
+    <td><b>P4GCN: Vertical Federated Social Recommendation with Privacy-Preserving Two-Party Graph Convolution Network</b></td>
+    <td>Zheng Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.13905">2410.13905</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-01-31</h3>
 
 <table>
@@ -16415,13 +16481,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2024-12-10</b></td>
-    <td><b>Tazza: Shuffling Neural Network Parameters for Secure and Private Federated Learning</b></td>
-    <td>Kichang Lee et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.07454">2412.07454</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-12-10</b></td>
     <td><b>Filling Memory Gaps: Enhancing Continual Semantic Parsing via SQL Syntax Variance-Guided LLMs without Real Data Replay</b></td>
     <td>Ruiheng Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.07246">2412.07246</a></td>
@@ -17162,13 +17221,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2024-11-19</b></td>
-    <td><b>DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning</b></td>
-    <td>Kichang Lee et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2411.12220">2411.12220</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2024-11-19</b></td>
     <td><b>Optimal Communication and Key Rate Region for Hierarchical Secure Aggregation with User Collusion</b></td>
@@ -18264,13 +18316,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2024-10-16</b></td>
-    <td><b>P4GCN: Vertical Federated Social Recommendation with Privacy-Preserving Two-Party Graph Convolution Networks</b></td>
-    <td>Zheng Wang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.13905">2410.13905</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2024-10-16</b></td>
     <td><b>Federated Learning and Free-riding in a Competitive Market</b></td>
@@ -23334,6 +23379,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-02-01</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-02-01</b></td>
+    <td><b>Hidden in the Noise: Two-Stage Robust Watermarking for Images</b></td>
+    <td>Kasra Arabi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.04653">2412.04653</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-01-31</h3>
 
 <table>
@@ -24139,13 +24206,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2024-12-11</b></td>
-    <td><b>Hidden in the Noise: Two-Stage Robust Watermarking for Images</b></td>
-    <td>Kasra Arabi et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.04653">2412.04653</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2024-12-11</b></td>
     <td><b>ADD 2023: Towards Audio Deepfake Detection and Analysis in the Wild</b></td>
@@ -29448,6 +29508,56 @@ layout: default
 
 ## AIGC
 
+<h3>2025-02-03</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-02-03</b></td>
+    <td><b>SELMA: A Speech-Enabled Language Model for Virtual Assistant Interactions</b></td>
+    <td>Dominik Wagner et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2501.19377">2501.19377</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-02-03</b></td>
+    <td><b>SETS: Leveraging Self-Verification and Self-Correction for Improved Test-Time Scaling</b></td>
+    <td>Jiefeng Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2501.19306">2501.19306</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-02-03</b></td>
+    <td><b>Improving the Robustness of Representation Misdirection for Large Language Model Unlearning</b></td>
+    <td>Dang Huu-Tien et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2501.19202">2501.19202</a></td>
+    <td>**[link](https://github.com/rebelsnlu-jaist/llmu-robustness)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-02-03</b></td>
+    <td><b>Invisible Traces: Using Hybrid Fingerprinting to identify underlying LLMs in GenAI Apps</b></td>
+    <td>Devansh Bhardwaj et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2501.18712">2501.18712</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-02-03</b></td>
+    <td><b>Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin Case Study</b></td>
+    <td>Yuchen Lei et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2501.18158">2501.18158</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-01-31</h3>
 
 <table>
@@ -29466,7 +29576,7 @@ layout: default
     <td><b>Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game</b></td>
     <td>Mustafa O. Karabag et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.19398">2501.19398</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mustafakarabag/llmchameleon)**</td>
        </tr>
        <tr>
     <td><b>2025-01-31</b></td>
@@ -29480,13 +29590,6 @@ layout: default
     <td><b>Federated Sketching LoRA: On-Device Collaborative Fine-Tuning of Large Language Models</b></td>
     <td>Wenzhi Fang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.19389">2501.19389</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-01-31</b></td>
-    <td><b>SELMA: A Speech-Enabled Language Model for Virtual Assistant Interactions</b></td>
-    <td>Dominik Wagner et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2501.19377">2501.19377</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -29564,13 +29667,6 @@ layout: default
     <td><b>Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment</b></td>
     <td>Gregor Bachmann et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.19309">2501.19309</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-01-31</b></td>
-    <td><b>SETS: Leveraging Self-Verification and Self-Correction for Improved Test-Time Scaling</b></td>
-    <td>Jiefeng Chen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2501.19306">2501.19306</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -29655,13 +29751,6 @@ layout: default
     <td><b>Autonomous Legacy Web Application Upgrades Using a Multi-Agent System</b></td>
     <td>Valtteri Ala-Salmi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.19204">2501.19204</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-01-31</b></td>
-    <td><b>Improving the Robustness of Representation Misdirection for Large Language Model Unlearning</b></td>
-    <td>Dang Huu-Tien et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2501.19202">2501.19202</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -29900,7 +29989,7 @@ layout: default
     <td><b>Partially Rewriting a Transformer in Natural Language</b></td>
     <td>Gonçalo Paulo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.18838">2501.18838</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/eleutherai/sae-auto-interp)**</td>
        </tr>
        <tr>
     <td><b>2025-01-31</b></td>
@@ -29949,7 +30038,7 @@ layout: default
     <td><b>o3-mini vs DeepSeek-R1: Which One is Safer?</b></td>
     <td>Aitor Arrieta et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.18438">2501.18438</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/trust4ai/astral)**</td>
        </tr>
        <tr>
     <td><b>2025-01-31</b></td>
@@ -30087,13 +30176,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-01-30</b></td>
-    <td><b>Invisible Traces: Using Hybrid Fingerprinting to identify underlying LLMs in GenAI Apps</b></td>
-    <td>Devansh Bhardwaj et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2501.18712">2501.18712</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-01-30</b></td>
     <td><b>Regularized second-order optimization of tensor-network Born machines</b></td>
     <td>Matan Ben-Dov et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.18691">2501.18691</a></td>
@@ -30111,7 +30193,7 @@ layout: default
     <td><b>Simulation Streams: A Programming Paradigm for Controlling Large Language Models and Building Complex Systems with Generative AI</b></td>
     <td>Peter Sunehag et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.18668">2501.18668</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/google-deepmind/simulation_streams)**</td>
        </tr>
        <tr>
     <td><b>2025-01-30</b></td>
@@ -30335,13 +30417,6 @@ layout: default
     <td><b>Statistical multi-metric evaluation and visualization of LLM system predictive performance</b></td>
     <td>Samuel Ackerman et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.18243">2501.18243</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-01-30</b></td>
-    <td><b>Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin Case Study</b></td>
-    <td>Yuchen Lei et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2501.18158">2501.18158</a></td>
     <td>null</td>
        </tr>
        <tr>
