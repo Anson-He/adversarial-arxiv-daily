@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.10
+## Updated on 2025.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -31739,7 +31739,7 @@ layout: default
     <td><b>Do Large Language Model Benchmarks Test Reliability?</b></td>
     <td>Joshua Vendrow et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.03461">2502.03461</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/MadryLab/platinum-benchmarks)**</td>
        </tr>
        <tr>
     <td><b>2025-02-05</b></td>
