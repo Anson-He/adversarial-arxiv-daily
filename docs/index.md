@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -126,7 +126,7 @@ layout: default
     <td><b>CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models</b></td>
     <td>Sen Peng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07225">2502.07225</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/senp98/cat)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -219,7 +219,7 @@ layout: default
     <td><b>Protecting Intellectual Property of EEG-based Neural Networks with Watermarking</b></td>
     <td>Ahmed Abdelaziz et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.05931">2502.05931</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Prog-Jacob/watermarking-eeg-models)**</td>
        </tr>
        <tr>
     <td><b>2025-02-09</b></td>
@@ -7188,7 +7188,7 @@ layout: default
     <td><b>Revisiting the Auxiliary Data in Backdoor Purification</b></td>
     <td>Shaokui Wei et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07231">2502.07231</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/shawkui/backdoorbencher)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -7375,7 +7375,7 @@ layout: default
     <td><b>SoK: Benchmarking Poisoning Attacks and Defenses in Federated Learning</b></td>
     <td>Heyi Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.03801">2502.03801</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/vio1etus/flpoison)**</td>
        </tr>
        <tr>
     <td><b>2025-02-06</b></td>
@@ -13736,7 +13736,7 @@ layout: default
     <td><b>DuoGuard: A Two-Player RL-Driven Framework for Multilingual LLM Guardrails</b></td>
     <td>Yihe Deng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.05163">2502.05163</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yihedeng9/duoguard)**</td>
        </tr>
        <tr>
     <td><b>2025-02-07</b></td>
@@ -15836,7 +15836,7 @@ layout: default
     <td><b>Mitigating Unintended Memorization with LoRA in Federated Learning for LLMs</b></td>
     <td>Thierry Bossy et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.05087">2502.05087</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/tuneinsight/federated-llms)**</td>
        </tr>
    </tbody>
 </table>
@@ -15865,7 +15865,7 @@ layout: default
     <td><b>SoK: Benchmarking Poisoning Attacks and Defenses in Federated Learning</b></td>
     <td>Heyi Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.03801">2502.03801</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/vio1etus/flpoison)**</td>
        </tr>
    </tbody>
 </table>
@@ -24697,7 +24697,7 @@ layout: default
     <td><b>Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection</b></td>
     <td>Yassine El Kheir et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.03559">2502.03559</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yaselley/ssl_layerwise_deepfake)**</td>
        </tr>
    </tbody>
 </table>
@@ -24719,7 +24719,7 @@ layout: default
     <td><b>Improving the Perturbation-Based Explanation of Deepfake Detectors Through the Use of Adversarially-Generated Samples</b></td>
     <td>Konstantinos Tsigos et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.03957">2502.03957</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/IDT-ITI/Adv-XAI-Deepfakes)**</td>
        </tr>
    </tbody>
 </table>
@@ -31575,7 +31575,7 @@ layout: default
     <td><b>TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation</b></td>
     <td>Alex Jinpeng Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07870">2502.07870</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/CSU-JPG/TextAtlas)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -31715,7 +31715,7 @@ layout: default
     <td><b>Magic 1-For-1: Generating One Minute Video Clips within One Minute</b></td>
     <td>Hongwei Yi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07701">2502.07701</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/da-group-pku/magic-1-for-1)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -31813,7 +31813,7 @@ layout: default
     <td><b>PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference</b></td>
     <td>Yufeng Gu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07578">2502.07578</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Yufeng98/CENT)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -31911,7 +31911,7 @@ layout: default
     <td><b>RusCode: Russian Cultural Code Benchmark for Text-to-Image Generation</b></td>
     <td>Viacheslav Vasilev et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07455">2502.07455</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ai-forever/ruscode)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -31946,14 +31946,14 @@ layout: default
     <td><b>On Iterative Evaluation and Enhancement of Code Quality Using GPT-4o</b></td>
     <td>Rundong Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07399">2502.07399</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jpmorganchase/codequest)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
     <td><b>FinRL-DeepSeek: LLM-Infused Risk-Sensitive Reinforcement Learning for Trading Agents</b></td>
     <td>Mostapha Benhenda et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07393">2502.07393</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/benstaf/finrl_deepseek)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -31967,7 +31967,7 @@ layout: default
     <td><b>LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!</b></td>
     <td>Dacheng Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07374">2502.07374</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/novasky-ai/skythought)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -31995,7 +31995,7 @@ layout: default
     <td><b>BenchMAX: A Comprehensive Multilingual Evaluation Suite for Large Language Models</b></td>
     <td>Xu Huang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07346">2502.07346</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/cone-mt/benchmax)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -32037,7 +32037,7 @@ layout: default
     <td><b>CreAgent: Towards Long-Term Evaluation of Recommender System under Platform-Creator Information Asymmetry</b></td>
     <td>Xiaopeng Ye et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07307">2502.07307</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/shawnye2000/creagent)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -32065,7 +32065,7 @@ layout: default
     <td><b>Small Language Model Makes an Effective Long Text Extractor</b></td>
     <td>Yelin Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07286">2502.07286</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/thudm/scholar-profiling)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -32107,7 +32107,7 @@ layout: default
     <td><b>Graph RAG-Tool Fusion</b></td>
     <td>Elias Lumer et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07223">2502.07223</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/eliaslumer/graph-rag-tool-fusion-toollinkos)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -32142,7 +32142,7 @@ layout: default
     <td><b>Provably Efficient RLHF Pipeline: A Unified View from Contextual Bandits</b></td>
     <td>Long-Fei Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07193">2502.07193</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/zinyy/rlhf_pipeline)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -32156,7 +32156,7 @@ layout: default
     <td><b>A Large-Scale Benchmark for Vietnamese Sentence Paraphrases</b></td>
     <td>Sang Quang Nguyen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07188">2502.07188</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ngwgsang/visp)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -32191,7 +32191,7 @@ layout: default
     <td><b>Rethinking Fine-Tuning when Scaling Test-Time Compute: Limiting Confidence Improves Mathematical Reasoning</b></td>
     <td>Feng Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07154">2502.07154</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/allanraventos/refine)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -32226,7 +32226,7 @@ layout: default
     <td><b>Calibrating LLMs with Information-Theoretic Evidential Deep Learning</b></td>
     <td>Yawei Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.06351">2502.06351</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/sandylaker/ib-edl)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -32247,14 +32247,14 @@ layout: default
     <td><b>RALLRec: Improving Retrieval Augmented Large Language Model Recommendation with Representation Learning</b></td>
     <td>Jian Xu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.06101">2502.06101</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jianxu95/rallrec)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
     <td><b>ConMeC: A Dataset for Metonymy Resolution with Common Nouns</b></td>
     <td>Saptarshi Ghosh et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.06087">2502.06087</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/saptghosh/conmec)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -32934,7 +32934,7 @@ layout: default
     <td><b>Is a Peeled Apple Still Red? Evaluating LLMs' Ability for Conceptual Combination with Property Type</b></td>
     <td>Seokwon Song et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.06086">2502.06086</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/seokwon99/CCPT)**</td>
        </tr>
        <tr>
     <td><b>2025-02-10</b></td>
