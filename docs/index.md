@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -226,7 +226,7 @@ layout: default
     <td><b>Krum Federated Chain (KFC): Using blockchain to defend against adversarial attacks in Federated Learning</b></td>
     <td>Mario García-Márquez et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.06917">2502.06917</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ari-dasci/S-kfc)**</td>
        </tr>
        <tr>
     <td><b>2025-02-10</b></td>
@@ -269,7 +269,7 @@ layout: default
     <td><b>Optimization under Attack: Resilience, Vulnerability, and the Path to Collapse</b></td>
     <td>Amal Aldawsari et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.05954">2502.05954</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/epournaras/EPOS)**</td>
        </tr>
        <tr>
     <td><b>2025-02-09</b></td>
@@ -398,7 +398,7 @@ layout: default
     <td><b>BitAbuse: A Dataset of Visually Perturbed Texts for Defending Phishing Attacks</b></td>
     <td>Hanyong Lee et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.05225">2502.05225</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/CAU-AutoML/Bitabuse)**</td>
        </tr>
        <tr>
     <td><b>2025-02-06</b></td>
@@ -7281,7 +7281,7 @@ layout: default
     <td><b>Krum Federated Chain (KFC): Using blockchain to defend against adversarial attacks in Federated Learning</b></td>
     <td>Mario García-Márquez et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.06917">2502.06917</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ari-dasci/S-kfc)**</td>
        </tr>
        <tr>
     <td><b>2025-02-10</b></td>
@@ -7367,7 +7367,7 @@ layout: default
     <td><b>Dual Defense: Enhancing Privacy and Mitigating Poisoning Attacks in Federated Learning</b></td>
     <td>Runhua Xu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.05547">2502.05547</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/irxyzzz/DualDefense)**</td>
        </tr>
    </tbody>
 </table>
@@ -8119,7 +8119,7 @@ layout: default
     <td><b>Scale-up Unlearnable Examples Learning with High-Performance Computing</b></td>
     <td>Yanfan Zhu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.06080">2501.06080</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/hrlblab/ue_hpc)**</td>
        </tr>
        <tr>
     <td><b>2025-01-10</b></td>
@@ -15821,7 +15821,7 @@ layout: default
     <td><b>Krum Federated Chain (KFC): Using blockchain to defend against adversarial attacks in Federated Learning</b></td>
     <td>Mario García-Márquez et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.06917">2502.06917</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ari-dasci/S-kfc)**</td>
        </tr>
        <tr>
     <td><b>2025-02-10</b></td>
@@ -15907,7 +15907,7 @@ layout: default
     <td><b>Dual Defense: Enhancing Privacy and Mitigating Poisoning Attacks in Federated Learning</b></td>
     <td>Runhua Xu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.05547">2502.05547</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/irxyzzz/DualDefense)**</td>
        </tr>
        <tr>
     <td><b>2025-02-08</b></td>
@@ -22567,7 +22567,7 @@ layout: default
     <td><b>Dual Defense: Enhancing Privacy and Mitigating Poisoning Attacks in Federated Learning</b></td>
     <td>Runhua Xu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.05547">2502.05547</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/irxyzzz/DualDefense)**</td>
        </tr>
    </tbody>
 </table>
@@ -31745,7 +31745,7 @@ layout: default
     <td><b>Enhance-A-Video: Better Generated Video for Free</b></td>
     <td>Yang Luo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07508">2502.07508</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/NUS-HPC-AI-Lab/Enhance-A-Video)**</td>
        </tr>
        <tr>
     <td><b>2025-02-13</b></td>
@@ -32271,7 +32271,7 @@ layout: default
     <td><b>MAGELLAN: Metacognitive predictions of learning progress guide autotelic LLM agents in large goal spaces</b></td>
     <td>Loris Gaven et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07709">2502.07709</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/LorisGaven/MAGELLAN)**</td>
        </tr>
        <tr>
     <td><b>2025-02-12</b></td>
@@ -32306,7 +32306,7 @@ layout: default
     <td><b>Music for All: Exploring Multicultural Representations in Music Generation Models</b></td>
     <td>Atharva Mehta et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07328">2502.07328</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/atharva20038/music4all)**</td>
        </tr>
        <tr>
     <td><b>2025-02-12</b></td>
@@ -32538,7 +32538,7 @@ layout: default
     <td><b>Auditing Prompt Caching in Language Model APIs</b></td>
     <td>Chenchen Gu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07776">2502.07776</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/chenchenygu/auditing-prompt-caching)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -32573,7 +32573,7 @@ layout: default
     <td><b>WHODUNIT: Evaluation benchmark for culprit detection in mystery stories</b></td>
     <td>Kshitij Gupta et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07747">2502.07747</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/kjgpta/WhoDunIt-Evaluation_benchmark_for_culprit_detection_in_mystery_stories)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -32587,7 +32587,7 @@ layout: default
     <td><b>Revisiting Non-Acyclic GFlowNets in Discrete Environments</b></td>
     <td>Nikita Morozov et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07735">2502.07735</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/GreatDrake/non-acyclic-gfn)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -32650,14 +32650,14 @@ layout: default
     <td><b>Distributional Instrumental Variable Method</b></td>
     <td>Anastasiia Holovchak et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07641">2502.07641</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/aholovchak/DIV)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
     <td><b>Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving</b></td>
     <td>Yong Lin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07640">2502.07640</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Goedel-LM/Goedel-Prover)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -32720,7 +32720,7 @@ layout: default
     <td><b>Grammar Control in Dialogue Response Generation for Language Learning Chatbots</b></td>
     <td>Dominik Glandorf et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07544">2502.07544</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/dominikglandorf/grammarctg)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -32804,7 +32804,7 @@ layout: default
     <td><b>Forget What You Know about LLMs Evaluations - LLMs are Like a Chameleon</b></td>
     <td>Nurit Cohen-Inger et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07445">2502.07445</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/SeffiCohen/CBOD)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -32846,7 +32846,7 @@ layout: default
     <td><b>Target-Augmented Shared Fusion-based Multimodal Sarcasm Explanation Generation</b></td>
     <td>Palaash Goel et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07391">2502.07391</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/flamenlp/TURBO)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -32888,7 +32888,7 @@ layout: default
     <td><b>Aligning Large Language Models to Follow Instructions and Hallucinate Less via Effective Data Filtering</b></td>
     <td>Shuzheng Si et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07340">2502.07340</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/S1s-Z/NOVA)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -32937,7 +32937,7 @@ layout: default
     <td><b>Flow Matching for Collaborative Filtering</b></td>
     <td>Chengkai Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07303">2502.07303</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/chengkai-liu/FlowCF)**</td>
        </tr>
        <tr>
     <td><b>2025-02-11</b></td>
@@ -33211,7 +33211,7 @@ layout: default
     <td><b>Evaluating the Systematic Reasoning Abilities of Large Language Models through Graph Coloring</b></td>
     <td>Alex Heyman et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07087">2502.07087</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/AlexHeyman/LLMGraphColoring)**</td>
        </tr>
        <tr>
     <td><b>2025-02-10</b></td>
@@ -33225,14 +33225,14 @@ layout: default
     <td><b>Specializing Large Language Models to Simulate Survey Response Distributions for Global Populations</b></td>
     <td>Yong Cao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07068">2502.07068</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yongcaoplus/SimLLMCultureDist)**</td>
        </tr>
        <tr>
     <td><b>2025-02-10</b></td>
     <td><b>Repository-level Code Search with Neural Retrieval Methods</b></td>
     <td>Siddharth Gandhi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.07067">2502.07067</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Siddharth-Gandhi/ds)**</td>
        </tr>
        <tr>
     <td><b>2025-02-10</b></td>
