@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.21
+## Updated on 2025.02.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -32551,7 +32551,7 @@ layout: default
     <td><b>PredictaBoard: Benchmarking LLM Score Predictability</b></td>
     <td>Lorenzo Pacchiardi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.14445">2502.14445</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Kinds-of-Intelligence-CFI/PredictaBoard)**</td>
        </tr>
        <tr>
     <td><b>2025-02-20</b></td>
