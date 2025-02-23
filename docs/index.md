@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.22
+## Updated on 2025.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -14168,7 +14168,7 @@ layout: default
     <td><b>Exploiting Prefix-Tree in Structured Output Interfaces for Enhancing Jailbreak Attacking</b></td>
     <td>Yanzeng Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13527">2502.13527</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/lsvih/attackPrefixTree)**</td>
        </tr>
    </tbody>
 </table>
@@ -14204,7 +14204,7 @@ layout: default
     <td><b>LLM Safety for Children</b></td>
     <td>Prasanjit Rath et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.12552">2502.12552</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Avenge-PRC777/LLM-Safety-For-Children-Code)**</td>
        </tr>
    </tbody>
 </table>
@@ -16327,7 +16327,7 @@ layout: default
     <td><b>Does Training with Synthetic Data Truly Protect Privacy?</b></td>
     <td>Yunpeng Zhao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.12976">2502.12976</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yunpeng-zhao/syndata-privacy)**</td>
        </tr>
        <tr>
     <td><b>2025-02-18</b></td>
@@ -32124,7 +32124,7 @@ layout: default
     <td><b>From RAG to Memory: Non-Parametric Continual Learning for Large Language Models</b></td>
     <td>Bernal Jiménez Gutiérrez et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.14802">2502.14802</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/osu-nlp-group/hipporag)**</td>
        </tr>
        <tr>
     <td><b>2025-02-20</b></td>
@@ -32621,7 +32621,7 @@ layout: default
     <td><b>S*: Test Time Scaling for Code Generation</b></td>
     <td>Dacheng Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.14382">2502.14382</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/novasky-ai/skythought)**</td>
        </tr>
        <tr>
     <td><b>2025-02-20</b></td>
@@ -33154,7 +33154,7 @@ layout: default
     <td><b>MuDAF: Long-Context Multi-Document Attention Focusing through Contrastive Learning on Attention Heads</b></td>
     <td>Weihao Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13963">2502.13963</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/NeosKnight233/MuDAF)**</td>
        </tr>
        <tr>
     <td><b>2025-02-19</b></td>
@@ -33224,14 +33224,14 @@ layout: default
     <td><b>Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?</b></td>
     <td>Sein Kim et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13909">2502.13909</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/sein-kim/llm-srec)**</td>
        </tr>
        <tr>
     <td><b>2025-02-19</b></td>
     <td><b>Judging the Judges: A Collection of LLM-Generated Relevance Judgements</b></td>
     <td>Hossein A. Rahmani et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13908">2502.13908</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/chuanmeng/qpp-genre)**</td>
        </tr>
        <tr>
     <td><b>2025-02-19</b></td>
@@ -33413,7 +33413,7 @@ layout: default
     <td><b>Refining Sentence Embedding Model through Ranking Sentences Generation with Large Language Models</b></td>
     <td>Liyang He et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13656">2502.13656</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/hly1998/RankingSentenceGeneration)**</td>
        </tr>
        <tr>
     <td><b>2025-02-19</b></td>
@@ -33539,7 +33539,7 @@ layout: default
     <td><b>Democratizing Large Language Model-Based Graph Data Augmentation via Latent Knowledge Graphs</b></td>
     <td>Yushi Feng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13555">2502.13555</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ys-feng/DemoGraph)**</td>
        </tr>
        <tr>
     <td><b>2025-02-19</b></td>
@@ -33574,14 +33574,14 @@ layout: default
     <td><b>Train Small, Infer Large: Memory-Efficient LoRA Training for Large Language Models</b></td>
     <td>Jun Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13533">2502.13533</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/junzhang-zj/LoRAM)**</td>
        </tr>
        <tr>
     <td><b>2025-02-19</b></td>
     <td><b>Exploiting Prefix-Tree in Structured Output Interfaces for Enhancing Jailbreak Attacking</b></td>
     <td>Yanzeng Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13527">2502.13527</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/lsvih/attackPrefixTree)**</td>
        </tr>
        <tr>
     <td><b>2025-02-19</b></td>
@@ -33609,7 +33609,7 @@ layout: default
     <td><b>PLDR-LLMs Learn A Generalizable Tensor Operator That Can Replace Its Own Deep Neural Net At Inference</b></td>
     <td>Burc Gokden et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13502">2502.13502</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/burcgokden/PLDR-LLM-with-KVG-cache)**</td>
        </tr>
        <tr>
     <td><b>2025-02-19</b></td>
@@ -33770,7 +33770,7 @@ layout: default
     <td><b>MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification</b></td>
     <td>Linzhuang Sun et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13383">2502.13383</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/aurora-slz/mm-verify)**</td>
        </tr>
        <tr>
     <td><b>2025-02-19</b></td>
@@ -33862,7 +33862,7 @@ layout: default
     <td><b>K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug Interaction Prediction</b></td>
     <td>Tassallah Abdullahi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13344">2502.13344</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/rsinghlab/K-Paths)**</td>
        </tr>
        <tr>
     <td><b>2025-02-18</b></td>
@@ -33897,7 +33897,7 @@ layout: default
     <td><b>Training Turn-by-Turn Verifiers for Dialogue Tutoring Agents: The Curious Case of LLMs as Your Coding Tutors</b></td>
     <td>Jian Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13311">2502.13311</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/iwangjian/Coding-Tutor)**</td>
        </tr>
        <tr>
     <td><b>2025-02-18</b></td>
@@ -33925,7 +33925,7 @@ layout: default
     <td><b>REALTALK: A 21-Day Real-World Dataset for Long-Term Conversation</b></td>
     <td>Dong-Ho Lee et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13270">2502.13270</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/danny911kr/REALTALK)**</td>
        </tr>
        <tr>
     <td><b>2025-02-18</b></td>
@@ -33981,14 +33981,14 @@ layout: default
     <td><b>Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization</b></td>
     <td>Shuo Xing et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13146">2502.13146</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/taco-group/re-align)**</td>
        </tr>
        <tr>
     <td><b>2025-02-18</b></td>
     <td><b>Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation</b></td>
     <td>Bencheng Liao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13145">2502.13145</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/hustvl/mmmamba)**</td>
        </tr>
        <tr>
     <td><b>2025-02-18</b></td>
@@ -34058,7 +34058,7 @@ layout: default
     <td><b>Performance Evaluation of Large Language Models in Statistical Programming</b></td>
     <td>Xinyi Song et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13117">2502.13117</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yili-hong/StatLLM)**</td>
        </tr>
        <tr>
     <td><b>2025-02-18</b></td>
@@ -34093,14 +34093,14 @@ layout: default
     <td><b>Personalized Image Generation with Deep Generative Models: A Decade Survey</b></td>
     <td>Yuxiang Wei et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13081">2502.13081</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/csyxwei/awesome-personalized-image-generation)**</td>
        </tr>
        <tr>
     <td><b>2025-02-18</b></td>
     <td><b>Interactive Agents to Overcome Ambiguity in Software Engineering</b></td>
     <td>Sanidhya Vijayvargiya et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.13069">2502.13069</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/sani903/interactivesweagents)**</td>
        </tr>
        <tr>
     <td><b>2025-02-18</b></td>
