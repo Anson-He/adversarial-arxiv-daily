@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -32681,7 +32681,7 @@ layout: default
     <td><b>GLEAN: Generalized Category Discovery with Diverse and Quality-Enhanced LLM Feedback</b></td>
     <td>Henry Peng Zou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.18414">2502.18414</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/amazon-science/Glean)**</td>
        </tr>
        <tr>
     <td><b>2025-02-25</b></td>
