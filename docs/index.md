@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.01
+## Updated on 2025.03.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -248,7 +248,7 @@ layout: default
     <td><b>Towards Optimal Adversarial Robust Reinforcement Learning with Infinity Measurement Error</b></td>
     <td>Haoran Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.16734">2502.16734</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/RyanHaoranLi/CAR-RL)**</td>
        </tr>
        <tr>
     <td><b>2025-02-23</b></td>
@@ -7977,7 +7977,7 @@ layout: default
     <td><b>REFINE: Inversion-Free Backdoor Defense via Model Reprogramming</b></td>
     <td>Yukun Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.18508">2502.18508</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/thuyimingli/backdoorbox)**</td>
        </tr>
        <tr>
     <td><b>2025-02-22</b></td>
@@ -33258,7 +33258,7 @@ layout: default
     <td><b>LongRoPE2: Near-Lossless LLM Context Window Scaling</b></td>
     <td>Ning Shang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.20082">2502.20082</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/microsoft/longrope)**</td>
        </tr>
        <tr>
     <td><b>2025-02-27</b></td>
@@ -33629,7 +33629,7 @@ layout: default
     <td><b>Reward Shaping to Mitigate Reward Hacking in RLHF</b></td>
     <td>Jiayi Fu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.18770">2502.18770</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/poruna-byte/par)**</td>
        </tr>
        <tr>
     <td><b>2025-02-27</b></td>
@@ -34786,7 +34786,7 @@ layout: default
     <td><b>DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers</b></td>
     <td>Xueguang Ma et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.18460">2502.18460</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/facebookresearch/dpr-scale)**</td>
        </tr>
        <tr>
     <td><b>2025-02-25</b></td>
@@ -34814,7 +34814,7 @@ layout: default
     <td><b>Disambiguate First Parse Later: Generating Interpretations for Ambiguity Resolution in Semantic Parsing</b></td>
     <td>Irina Saparina et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.18448">2502.18448</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/saparina/disambiguate-then-parse)**</td>
        </tr>
        <tr>
     <td><b>2025-02-25</b></td>
@@ -34835,7 +34835,7 @@ layout: default
     <td><b>TextGames: Learning to Self-Play Text-Based Puzzle Games via Language Model Reasoning</b></td>
     <td>Frederikus Hudi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.18431">2502.18431</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/fhudi/textgames)**</td>
        </tr>
        <tr>
     <td><b>2025-02-25</b></td>
@@ -35031,7 +35031,7 @@ layout: default
     <td><b>LevelRAG: Enhancing Retrieval-Augmented Generation with Multi-hop Logic Planning over Rewriting Augmented Searchers</b></td>
     <td>Zhuocheng Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.18139">2502.18139</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ictnlp/LevelRAG)**</td>
        </tr>
        <tr>
     <td><b>2025-02-25</b></td>
@@ -35045,7 +35045,7 @@ layout: default
     <td><b>Inverse Materials Design by Large Language Model-Assisted Generative Framework</b></td>
     <td>Yun Hao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.18127">2502.18127</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/photon-git/AlloyGAN)**</td>
        </tr>
        <tr>
     <td><b>2025-02-25</b></td>
@@ -35101,7 +35101,7 @@ layout: default
     <td><b>Verdict: A Library for Scaling Judge-Time Compute</b></td>
     <td>Nimit Kalra et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.18018">2502.18018</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/haizelabs/verdict)**</td>
        </tr>
        <tr>
     <td><b>2025-02-25</b></td>
