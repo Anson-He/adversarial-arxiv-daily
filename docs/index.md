@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.03
+## Updated on 2025.03.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -1630,7 +1630,7 @@ layout: default
     <td><b>Crossfire: An Elastic Defense Framework for Graph Neural Networks Under Bit Flip Attacks</b></td>
     <td>Lorenz Kummer et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.13776">2501.13776</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/lorenz0890/crossfireaaai2025)**</td>
        </tr>
        <tr>
     <td><b>2025-01-23</b></td>
@@ -33738,7 +33738,7 @@ layout: default
     <td><b>NutriGen: Personalized Meal Plan Generator Leveraging Large Language Models to Enhance Dietary and Nutritional Adherence</b></td>
     <td>Saman Khamesian et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.20601">2502.20601</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/SamanKhamesian/NutriGen)**</td>
        </tr>
        <tr>
     <td><b>2025-02-28</b></td>
