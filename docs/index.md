@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.06
+## Updated on 2025.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -41,7 +41,7 @@ layout: default
     <td><b>CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP</b></td>
     <td>Songlong Xing et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.03613">2503.03613</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Sxing2/CLIP-Test-time-Counterattacks)**</td>
        </tr>
        <tr>
     <td><b>2025-03-05</b></td>
@@ -34315,7 +34315,7 @@ layout: default
     <td><b>Can Diffusion Models Provide Rigorous Uncertainty Quantification for Bayesian Inverse Problems?</b></td>
     <td>Evan Scope Crafts et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.03007">2503.03007</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Evan1578/BIPSDA)**</td>
        </tr>
        <tr>
     <td><b>2025-03-04</b></td>
