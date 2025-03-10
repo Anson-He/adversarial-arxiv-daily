@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.09
+## Updated on 2025.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -33795,6 +33795,91 @@ layout: default
 
 ## AIGC
 
+<h3>2025-03-07</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-07</b></td>
+    <td><b>Shifting Long-Context LLMs Research from Input to Output</b></td>
+    <td>Yuhao Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.04723">2503.04723</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-07</b></td>
+    <td><b>DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module</b></td>
+    <td>Krish Sharma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.04685">2503.04685</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-07</b></td>
+    <td><b>Towards Autonomous Reinforcement Learning for Real-World Robotic Manipulation with Large Language Models</b></td>
+    <td>Niccolò Turcato et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.04280">2503.04280</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-07</b></td>
+    <td><b>Ticktack : Long Span Temporal Alignment of Large Language Models Leveraging Sexagenary Cycle Time Expression</b></td>
+    <td>Xue Han et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.04150">2503.04150</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-07</b></td>
+    <td><b>Chart-HQA: A Benchmark for Hypothetical Question Answering in Charts</b></td>
+    <td>Xiangnan Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.04095">2503.04095</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-07</b></td>
+    <td><b>Human Implicit Preference-Based Policy Fine-tuning for Multi-Agent Reinforcement Learning in USV Swarm</b></td>
+    <td>Hyeonjun Kim et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.03796">2503.03796</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-07</b></td>
+    <td><b>A Practical Memory Injection Attack against LLM Agents</b></td>
+    <td>Shen Dong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.03704">2503.03704</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-07</b></td>
+    <td><b>LINGOLY-TOO: Disentangling Memorisation from Reasoning with Linguistic Templatisation and Orthographic Obfuscation</b></td>
+    <td>Jude Khouja et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.02972">2503.02972</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-07</b></td>
+    <td><b>Wyckoff Transformer: Generation of Symmetric Crystals</b></td>
+    <td>Nikita Kazeev et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.02407">2503.02407</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-07</b></td>
+    <td><b>ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks</b></td>
+    <td>Heng Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.02390">2503.02390</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-06</h3>
 
 <table>
@@ -33813,13 +33898,6 @@ layout: default
     <td><b>LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM</b></td>
     <td>Sambal Shikhar et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.04724">2503.04724</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-06</b></td>
-    <td><b>Shifting Long-Context LLMs Research from Input to Output</b></td>
-    <td>Yuhao Wu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.04723">2503.04723</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -33855,13 +33933,6 @@ layout: default
     <td><b>Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases</b></td>
     <td>Pengcheng Qiu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.04691">2503.04691</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-06</b></td>
-    <td><b>DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module</b></td>
-    <td>Krish Sharma et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.04685">2503.04685</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -34230,13 +34301,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-03-06</b></td>
-    <td><b>Towards Autonomous Reinforcement Learning for Real-World Robotic Manipulation with Large Language Models</b></td>
-    <td>Niccolò Turcato et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.04280">2503.04280</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-06</b></td>
     <td><b>On Fact and Frequency: LLM Responses to Misinformation Expressed with Uncertainty</b></td>
     <td>Yana van de Sande et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.04271">2503.04271</a></td>
@@ -34335,13 +34399,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-03-06</b></td>
-    <td><b>Ticktack : Long Span Temporal Alignment of Large Language Models Leveraging Sexagenary Cycle Time Expression</b></td>
-    <td>Xue Han et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.04150">2503.04150</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-06</b></td>
     <td><b>Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination</b></td>
     <td>Simin Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.04149">2503.04149</a></td>
@@ -34394,13 +34451,6 @@ layout: default
     <td><b>Disparities in LLM Reasoning Accuracy and Explanations: A Case Study on African American English</b></td>
     <td>Runtao Zhou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.04099">2503.04099</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-06</b></td>
-    <td><b>Chart-HQA: A Benchmark for Hypothetical Question Answering in Charts</b></td>
-    <td>Xiangnan Chen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.04095">2503.04095</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -34499,13 +34549,6 @@ layout: default
     <td><b>Dango: A Mixed-Initiative Data Wrangling System using Large Language Model</b></td>
     <td>Wei-Hao Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.03154">2503.03154</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-06</b></td>
-    <td><b>LINGOLY-TOO: Disentangling Memorisation from Reasoning with Linguistic Templatisation and Orthographic Obfuscation</b></td>
-    <td>Jude Khouja et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.02972">2503.02972</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -34637,13 +34680,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-03-05</b></td>
-    <td><b>Human Implicit Preference-Based Policy Fine-tuning for Multi-Agent Reinforcement Learning in USV Swarm</b></td>
-    <td>Hyeonjun Kim et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.03796">2503.03796</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-05</b></td>
     <td><b>Positive-Unlabeled Diffusion Models for Preventing Sensitive Data Generation</b></td>
     <td>Hiroshi Takahashi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.03789">2503.03789</a></td>
@@ -34689,13 +34725,6 @@ layout: default
     <td><b>Effective LLM Knowledge Learning via Model Generalization</b></td>
     <td>Mingkang Zhu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.03705">2503.03705</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-05</b></td>
-    <td><b>A Practical Memory Injection Attack against LLM Agents</b></td>
-    <td>Shen Dong et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.03704">2503.03704</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -35702,13 +35731,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-03-04</b></td>
-    <td><b>Wyckoff Transformer: Generation of Symmetric Crystals</b></td>
-    <td>Nikita Kazeev et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.02407">2503.02407</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-04</b></td>
     <td><b>Hierarchical Re-ranker Retriever (HRR)</b></td>
     <td>Ashish Singh et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.02401">2503.02401</a></td>
@@ -35726,13 +35748,6 @@ layout: default
     <td><b>PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence</b></td>
     <td>Yunxiao Shi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.02398">2503.02398</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-04</b></td>
-    <td><b>ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks</b></td>
-    <td>Heng Zhou et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.02390">2503.02390</a></td>
     <td>null</td>
        </tr>
        <tr>
