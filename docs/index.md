@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-03-08</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-08</b></td>
+    <td><b>Reproducing HotFlip for Corpus Poisoning Attacks in Dense Retrieval</b></td>
+    <td>Yongkang Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2501.04802">2501.04802</a></td>
+    <td>**[link](https://github.com/liyongkang123/hotflip_corpus_poisoning)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-07</h3>
 
 <table>
@@ -119,7 +141,7 @@ layout: default
     <td><b>Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients</b></td>
     <td>Li Lun et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.03272">2503.03272</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ryime/pdsg-sda)**</td>
        </tr>
        <tr>
     <td><b>2025-03-06</b></td>
@@ -255,7 +277,7 @@ layout: default
     <td><b>AutoAdvExBench: Benchmarking autonomous exploitation of adversarial example defenses</b></td>
     <td>Nicholas Carlini et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.01811">2503.01811</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ethz-spylab/autoadvexbench)**</td>
        </tr>
        <tr>
     <td><b>2025-03-03</b></td>
@@ -855,7 +877,7 @@ layout: default
     <td><b>Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking</b></td>
     <td>Junda Zhu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.12970">2502.12970</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/chuhac/Reasoning-to-Defend)**</td>
        </tr>
        <tr>
     <td><b>2025-02-18</b></td>
@@ -2486,13 +2508,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-01-08</b></td>
-    <td><b>Reproducing HotFlip for Corpus Poisoning Attacks in Dense Retrieval</b></td>
-    <td>Yongkang Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2501.04802">2501.04802</a></td>
-    <td>**[link](https://github.com/liyongkang123/hotflip_corpus_poisoning)**</td>
-       </tr>
        <tr>
     <td><b>2025-01-08</b></td>
     <td><b>Towards Fair Class-wise Robustness: Class Optimal Distribution Adversarial Training</b></td>
@@ -8094,6 +8109,35 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-03-08</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-08</b></td>
+    <td><b>Reproducing HotFlip for Corpus Poisoning Attacks in Dense Retrieval</b></td>
+    <td>Yongkang Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2501.04802">2501.04802</a></td>
+    <td>**[link](https://github.com/liyongkang123/hotflip_corpus_poisoning)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-08</b></td>
+    <td><b>Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents</b></td>
+    <td>Hanrong Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.02644">2410.02644</a></td>
+    <td>**[link](https://github.com/agiresearch/asb)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-07</h3>
 
 <table>
@@ -9720,28 +9764,6 @@ layout: default
     <td>Kyle Stein et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.08755">2412.08755</a></td>
     <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-01-08</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-01-08</b></td>
-    <td><b>Reproducing HotFlip for Corpus Poisoning Attacks in Dense Retrieval</b></td>
-    <td>Yongkang Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2501.04802">2501.04802</a></td>
-    <td>**[link](https://github.com/liyongkang123/hotflip_corpus_poisoning)**</td>
        </tr>
    </tbody>
 </table>
@@ -12156,13 +12178,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2024-10-03</b></td>
-    <td><b>Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents</b></td>
-    <td>Hanrong Zhang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.02644">2410.02644</a></td>
-    <td>**[link](https://github.com/agiresearch/asb)**</td>
-       </tr>
        <tr>
     <td><b>2024-10-03</b></td>
     <td><b>BACKTIME: Backdoor Attacks on Multivariate Time Series Forecasting</b></td>
@@ -15229,7 +15244,7 @@ layout: default
     <td><b>Improving LLM Safety Alignment with Dual-Objective Optimization</b></td>
     <td>Xuandong Zhao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.03710">2503.03710</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/wicai24/door-alignment)**</td>
        </tr>
    </tbody>
 </table>
@@ -15548,7 +15563,7 @@ layout: default
     <td><b>Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking</b></td>
     <td>Junda Zhu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.12970">2502.12970</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/chuhac/Reasoning-to-Defend)**</td>
        </tr>
        <tr>
     <td><b>2025-02-18</b></td>
@@ -16139,7 +16154,7 @@ layout: default
     <td><b>ChemSafetyBench: Benchmarking LLM Safety on Chemistry Domain</b></td>
     <td>Haochen Zhao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.16736">2411.16736</a></td>
-    <td>**[link](https://github.com/haochenzhao/safeagent4chem)**</td>
+    <td>null</td>
        </tr>
    </tbody>
 </table>
@@ -27265,7 +27280,7 @@ layout: default
     <td><b>Deepfake-Eval-2024: A Multi-Modal In-the-Wild Benchmark of Deepfakes Circulated in 2024</b></td>
     <td>Nuria Alina Chandra et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.02857">2503.02857</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/nuriachandra/deepfake-eval-2024)**</td>
        </tr>
        <tr>
     <td><b>2025-03-05</b></td>
@@ -27396,7 +27411,7 @@ layout: default
     <td><b>Recent Advances on Generalizable Diffusion-generated Image Detection</b></td>
     <td>Qijie Xu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.19716">2502.19716</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/zju-pi/awesome-diffusion-generated-image-detection)**</td>
        </tr>
    </tbody>
 </table>
@@ -33960,6 +33975,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-03-08</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-08</b></td>
+    <td><b>Rethinking Video Tokenization: A Conditioned Diffusion-based Approach</b></td>
+    <td>Nianzu Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.03708">2503.03708</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-07</h3>
 
 <table>
@@ -34412,7 +34449,7 @@ layout: default
     <td><b>PromptPex: Automatic Test Generation for Language Model Prompts</b></td>
     <td>Reshabh K Sharma et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.05070">2503.05070</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/microsoft/promptpex)**</td>
        </tr>
        <tr>
     <td><b>2025-03-07</b></td>
@@ -34475,6 +34512,13 @@ layout: default
     <td><b>Chart-HQA: A Benchmark for Hypothetical Question Answering in Charts</b></td>
     <td>Xiangnan Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.04095">2503.04095</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-07</b></td>
+    <td><b>LEWIS (LayEr WIse Sparsity) -- A Training Free Guided Model Merging Approach</b></td>
+    <td>Hetarth Chopra et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.03874">2503.03874</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -34609,7 +34653,7 @@ layout: default
     <td><b>Balcony: A Lightweight Approach to Dynamic Inference of Generative Language Models</b></td>
     <td>Benyamin Jamialahmadi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.05005">2503.05005</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/benyaminjami/Balcony-LLaMA)**</td>
        </tr>
        <tr>
     <td><b>2025-03-06</b></td>
@@ -35573,13 +35617,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-03-05</b></td>
-    <td><b>LEWIS (LayEr WIse Sparsity) -- A Training Free Guided Model Merging Approach</b></td>
-    <td>Hetarth Chopra et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.03874">2503.03874</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-05</b></td>
     <td><b>RiskAgent: Autonomous Medical AI Copilot for Generalist Risk Prediction</b></td>
     <td>Fenglin Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.03802">2503.03802</a></td>
@@ -35625,14 +35662,7 @@ layout: default
     <td><b>Improving LLM Safety Alignment with Dual-Objective Optimization</b></td>
     <td>Xuandong Zhao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.03710">2503.03710</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-05</b></td>
-    <td><b>Rethinking Video Tokenization: A Conditioned Diffusion-based Approach</b></td>
-    <td>Nianzu Yang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.03708">2503.03708</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/wicai24/door-alignment)**</td>
        </tr>
        <tr>
     <td><b>2025-03-05</b></td>
@@ -35667,7 +35697,7 @@ layout: default
     <td><b>Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models</b></td>
     <td>Bar Karov et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.03669">2503.03669</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/emcie-co/parlant)**</td>
        </tr>
        <tr>
     <td><b>2025-03-05</b></td>
@@ -35695,7 +35725,7 @@ layout: default
     <td><b>DoraCycle: Domain-Oriented Adaptation of Unified Generative Model in Multimodal Cycles</b></td>
     <td>Rui Zhao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.03651">2503.03651</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/showlab/doracycle)**</td>
        </tr>
        <tr>
     <td><b>2025-03-05</b></td>
@@ -35793,7 +35823,7 @@ layout: default
     <td><b>CURVALID: Geometrically-guided Adversarial Prompt Detection</b></td>
     <td>Canaan Yung et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.03502">2503.03502</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/cancanxxx/curvalid)**</td>
        </tr>
        <tr>
     <td><b>2025-03-05</b></td>
@@ -35814,7 +35844,7 @@ layout: default
     <td><b>Visualising Policy-Reward Interplay to Inform Zeroth-Order Preference Optimisation of Large Language Models</b></td>
     <td>Alessio Galatolo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.03460">2503.03460</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/alessiogalatolo/viszopro)**</td>
        </tr>
        <tr>
     <td><b>2025-03-05</b></td>
@@ -35947,7 +35977,7 @@ layout: default
     <td><b>MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving</b></td>
     <td>Ruida Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.03205">2503.03205</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/rickyskywalker/leanofthought-official)**</td>
        </tr>
        <tr>
     <td><b>2025-03-05</b></td>
@@ -36052,7 +36082,7 @@ layout: default
     <td><b>BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving</b></td>
     <td>Katharina Winter et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.03074">2503.03074</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/intelligent-vehicles/bevdriver)**</td>
        </tr>
        <tr>
     <td><b>2025-03-05</b></td>
