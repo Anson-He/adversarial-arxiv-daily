@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,35 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-03-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-11</b></td>
+    <td><b>MIGA: Mutual Information-Guided Attack on Denoising Models for Semantic Manipulation</b></td>
+    <td>Guanghao Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.06966">2503.06966</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-11</b></td>
+    <td><b>Human-in-the-Loop Generation of Adversarial Texts: A Case Study on Tibetan Script</b></td>
+    <td>Xi Cao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.12478">2412.12478</a></td>
+    <td>**[link](https://github.com/CMLI-NLP/HITL-GAT)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-10</h3>
 
 <table>
@@ -38,16 +67,16 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-03-10</b></td>
-    <td><b>Breaking the Limits of Quantization-Aware Defenses: QADT-R for Robustness Against Patch-Based Adversarial Attacks in QNNs</b></td>
-    <td>Amira Guesmi et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.07058">2503.07058</a></td>
+    <td><b>Runtime Detection of Adversarial Attacks in AI Accelerators Using Performance Counters</b></td>
+    <td>Habibur Rahaman et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.07568">2503.07568</a></td>
     <td>null</td>
        </tr>
        <tr>
     <td><b>2025-03-10</b></td>
-    <td><b>MIGA: Mutual Information-Guided Attack on Denoising Models for Semantic Manipulation</b></td>
-    <td>Guanghao Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.06966">2503.06966</a></td>
+    <td><b>Breaking the Limits of Quantization-Aware Defenses: QADT-R for Robustness Against Patch-Based Adversarial Attacks in QNNs</b></td>
+    <td>Amira Guesmi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.07058">2503.07058</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -3490,13 +3519,6 @@ layout: default
     <td>Shiyu Hu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.12626">2412.12626</a></td>
     <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-12-17</b></td>
-    <td><b>Human-in-the-Loop Generation of Adversarial Texts: A Case Study on Tibetan Script</b></td>
-    <td>Xi Cao et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.12478">2412.12478</a></td>
-    <td>**[link](https://github.com/CMLI-NLP/HITL-GAT)**</td>
        </tr>
        <tr>
     <td><b>2024-12-17</b></td>
@@ -17637,6 +17659,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-03-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-11</b></td>
+    <td><b>Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning</b></td>
+    <td>Dayong Ye et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2501.16663">2501.16663</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-10</h3>
 
 <table>
@@ -19072,28 +19116,6 @@ layout: default
     <td><b>Boosting Federated Learning with FedEntOpt: Mitigating Label Skew by Entropy-Based Client Selection</b></td>
     <td>Andreas Lutz et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.01240">2411.01240</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-01-28</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-01-28</b></td>
-    <td><b>Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning</b></td>
-    <td>Dayong Ye et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2501.16663">2501.16663</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -25311,6 +25333,28 @@ layout: default
 
 ## Model Privacy
 
+<h3>2025-03-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-11</b></td>
+    <td><b>Multi-P $^2$ A: A Multi-perspective Benchmark on Privacy Assessment for Large Vision-Language Models</b></td>
+    <td>Jie Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.19496">2412.19496</a></td>
+    <td>**[link](https://github.com/Xiangkui-Cao/Multi-P2A)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-01</h3>
 
 <table>
@@ -25484,28 +25528,6 @@ layout: default
     <td>Ying Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.02182">2501.02182</a></td>
     <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2024-12-27</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2024-12-27</b></td>
-    <td><b>Multi-P $^2$ A: A Multi-perspective Benchmark on Privacy Assessment for Large Vision-Language Models</b></td>
-    <td>Jie Zhang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.19496">2412.19496</a></td>
-    <td>**[link](https://github.com/Xiangkui-Cao/Multi-P2A)**</td>
        </tr>
    </tbody>
 </table>
@@ -34350,6 +34372,42 @@ layout: default
 
 ## AIGC
 
+<h3>2025-03-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-11</b></td>
+    <td><b>Inductive Moment Matching</b></td>
+    <td>Linqi Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.07565">2503.07565</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-11</b></td>
+    <td><b>LexPro-1.0 Technical Report</b></td>
+    <td>Haotian Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.06949">2503.06949</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-11</b></td>
+    <td><b>Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models</b></td>
+    <td>Wenxuan Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.06749">2503.06749</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-10</h3>
 
 <table>
@@ -34382,13 +34440,6 @@ layout: default
     <td><b>Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning</b></td>
     <td>Yuxiao Qu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.07572">2503.07572</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-10</b></td>
-    <td><b>Inductive Moment Matching</b></td>
-    <td>Linqi Zhou et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.07565">2503.07565</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -34634,7 +34685,7 @@ layout: default
     <td><b>Effective and Efficient Masked Image Generation Models</b></td>
     <td>Zebin You et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.07197">2503.07197</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ML-GSAI/eMIGM)**</td>
        </tr>
        <tr>
     <td><b>2025-03-10</b></td>
@@ -34813,13 +34864,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-03-10</b></td>
-    <td><b>Lshan-1.0 Technical Report</b></td>
-    <td>Haotian Chen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.06949">2503.06949</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-10</b></td>
     <td><b>Large Language Model Guided Progressive Feature Alignment for Multimodal UAV Object Detection</b></td>
     <td>Wentao Wu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.06948">2503.06948</a></td>
@@ -34946,6 +34990,13 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-03-10</b></td>
+    <td><b>Balcony: A Lightweight Approach to Dynamic Inference of Generative Language Models</b></td>
+    <td>Benyamin Jamialahmadi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.05005">2503.05005</a></td>
+    <td>**[link](https://github.com/benyaminjami/Balcony-LLaMA)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-10</b></td>
     <td><b>Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases</b></td>
     <td>Pengcheng Qiu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.04691">2503.04691</a></td>
@@ -35034,13 +35085,6 @@ layout: default
     <td><b>Primal-Dual Sample Complexity Bounds for Constrained Markov Decision Processes with Multiple Constraints</b></td>
     <td>Max Buckley et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.06751">2503.06751</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-09</b></td>
-    <td><b>Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models</b></td>
-    <td>Wenxuan Huang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.06749">2503.06749</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -35167,7 +35211,7 @@ layout: default
     <td><b>WildIFEval: Instruction Following in the Wild</b></td>
     <td>Gili Lior et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.06573">2503.06573</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/gililior/wild-if-eval-code)**</td>
        </tr>
        <tr>
     <td><b>2025-03-09</b></td>
@@ -36431,13 +36475,6 @@ layout: default
     <td>Bryan Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.05010">2503.05010</a></td>
     <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-06</b></td>
-    <td><b>Balcony: A Lightweight Approach to Dynamic Inference of Generative Language Models</b></td>
-    <td>Benyamin Jamialahmadi et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.05005">2503.05005</a></td>
-    <td>**[link](https://github.com/benyaminjami/Balcony-LLaMA)**</td>
        </tr>
        <tr>
     <td><b>2025-03-06</b></td>
