@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -69,6 +69,13 @@ layout: default
     <td><b>Quantitative Analysis of Deeply Quantized Tiny Neural Networks Robust to Adversarial Attacks</b></td>
     <td>Idris Zakariyya et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.08973">2503.08973</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-12</b></td>
+    <td><b>Scale-Invariant Adversarial Attack against Arbitrary-scale Super-resolution</b></td>
+    <td>Yihao Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.04385">2503.04385</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -306,13 +313,6 @@ layout: default
     <td><b>Know Thy Judge: On the Robustness Meta-Evaluation of LLM Safety Judges</b></td>
     <td>Francisco Eiras et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.04474">2503.04474</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-06</b></td>
-    <td><b>Scale-Invariant Adversarial Attack against Arbitrary-scale Super-resolution</b></td>
-    <td>Yihao Huang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.04385">2503.04385</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -8288,6 +8288,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-03-13</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-13</b></td>
+    <td><b>AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection</b></td>
+    <td>Jialin Lu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.06529">2503.06529</a></td>
+    <td>**[link](https://github.com/hku-tasr/anywheredoor)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-12</h3>
 
 <table>
@@ -8436,13 +8458,6 @@ layout: default
     <td>Chengcheng Zhu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.06554">2503.06554</a></td>
     <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-09</b></td>
-    <td><b>AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection</b></td>
-    <td>Jialin Lu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.06529">2503.06529</a></td>
-    <td>**[link](https://github.com/hku-tasr/anywheredoor)**</td>
        </tr>
        <tr>
     <td><b>2025-03-09</b></td>
@@ -27842,7 +27857,7 @@ layout: default
 
 ## Forensics
 
-<h3>2025-03-12</h3>
+<h3>2025-03-13</h3>
 
 <table>
    <thead>
@@ -27856,11 +27871,18 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-03-12</b></td>
+    <td><b>2025-03-13</b></td>
     <td><b>Audio-Visual Deepfake Detection With Local Temporal Inconsistencies</b></td>
     <td>Marcella Astrid et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.08137">2501.08137</a></td>
     <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-13</b></td>
+    <td><b>Hidden in the Noise: Two-Stage Robust Watermarking for Images</b></td>
+    <td>Kasra Arabi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2412.04653">2412.04653</a></td>
+    <td>**[link](https://github.com/Kasraarabi/Hidden-in-the-Noise)**</td>
        </tr>
    </tbody>
 </table>
@@ -28647,28 +28669,6 @@ layout: default
     <td>Sheng Lyu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.00702">2502.00702</a></td>
     <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-02-01</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-02-01</b></td>
-    <td><b>Hidden in the Noise: Two-Stage Robust Watermarking for Images</b></td>
-    <td>Kasra Arabi et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2412.04653">2412.04653</a></td>
-    <td>**[link](https://github.com/Kasraarabi/Hidden-in-the-Noise)**</td>
        </tr>
    </tbody>
 </table>
@@ -34694,6 +34694,49 @@ layout: default
 
 ## AIGC
 
+<h3>2025-03-13</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-13</b></td>
+    <td><b>Large Language Models for Multi-Facility Location Mechanism Design</b></td>
+    <td>Nguyen Thach et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.09533">2503.09533</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-13</b></td>
+    <td><b>FaVChat: Unlocking Fine-Grained Facial Video Understanding with Multimodal Large Language Models</b></td>
+    <td>Fufangchen Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.09158">2503.09158</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-13</b></td>
+    <td><b>Prompt Inversion Attack against Collaborative Inference of Large Language Models</b></td>
+    <td>Wenjie Qu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.09022">2503.09022</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-13</b></td>
+    <td><b>TH-Bench: Evaluating Evading Attacks via Humanizing AI Text on Machine-Generated Text Detectors</b></td>
+    <td>Jingyi Zheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.08708">2503.08708</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-12</h3>
 
 <table>
@@ -34768,13 +34811,6 @@ layout: default
     <td><b>GenHPE: Generative Counterfactuals for 3D Human Pose Estimation with Radio Frequency Signals</b></td>
     <td>Shuokang Huang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.09537">2503.09537</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-12</b></td>
-    <td><b>Large Language Models for Multi-Facility Location Mechanism Design</b></td>
-    <td>Nguyen Thach et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.09533">2503.09533</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -35003,13 +35039,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-03-12</b></td>
-    <td><b>FaVChat: Unlocking Fine-Grained Facail Video Understanding with Multimodal Large Language Models</b></td>
-    <td>Fufangchen Zhao et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.09158">2503.09158</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-12</b></td>
     <td><b>Is LLMs Hallucination Usable? LLM-based Negative Reasoning for Fake News Detection</b></td>
     <td>Chaowei Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.09153">2503.09153</a></td>
@@ -35111,13 +35140,6 @@ layout: default
     <td><b>Aligning to What? Limits to RLHF Based Alignment</b></td>
     <td>Logan Barnhart et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.09025">2503.09025</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-12</b></td>
-    <td><b>Prompt Inversion Attack against Collaborative Inference of Large Language Models</b></td>
-    <td>Wenjie Qu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.09022">2503.09022</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -36086,13 +36108,6 @@ layout: default
     <td><b>Simulating Influence Dynamics with LLM Agents</b></td>
     <td>Mehwish Nasim et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.08709">2503.08709</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-10</b></td>
-    <td><b>TH-Bench: Evaluating Evading Attacks via Humanizing AI Text on Machine-Generated Text Detectors</b></td>
-    <td>Jingyi Zheng et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.08708">2503.08708</a></td>
     <td>null</td>
        </tr>
        <tr>
