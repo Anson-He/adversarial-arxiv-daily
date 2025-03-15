@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.14
+## Updated on 2025.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -270,7 +270,7 @@ layout: default
     <td><b>Using Mechanistic Interpretability to Craft Adversarial Attacks against Large Language Models</b></td>
     <td>Thomas Winninger et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.06269">2503.06269</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/sckathach/subspace-rerouting)**</td>
        </tr>
        <tr>
     <td><b>2025-03-08</b></td>
@@ -363,7 +363,7 @@ layout: default
     <td><b>Provable Robust Overfitting Mitigation in Wasserstein Distributionally Robust Optimization</b></td>
     <td>Shuang Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.04315">2503.04315</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/hong-xian/SR-WDRO)**</td>
        </tr>
        <tr>
     <td><b>2025-03-06</b></td>
@@ -413,7 +413,7 @@ layout: default
     <td><b>Task-Agnostic Attacks Against Vision Foundation Models</b></td>
     <td>Brian Pulfer et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.03842">2503.03842</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/BrianPulfer/fsaa)**</td>
        </tr>
        <tr>
     <td><b>2025-03-05</b></td>
@@ -8477,7 +8477,7 @@ layout: default
     <td><b>Detecting Backdoor Attacks in Federated Learning via Direction Alignment Inspection</b></td>
     <td>Jiahao Xu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.07978">2503.07978</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jiiahaoxu/alignins)**</td>
        </tr>
    </tbody>
 </table>
@@ -15704,7 +15704,7 @@ layout: default
     <td><b>Graphormer-Guided Task Planning: Beyond Static Rules with LLM Safety Perception</b></td>
     <td>Wanjing Huang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.06866">2503.06866</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/hwj20/ggtp)**</td>
        </tr>
        <tr>
     <td><b>2025-03-10</b></td>
@@ -18128,7 +18128,7 @@ layout: default
     <td><b>SHAP-Integrated Convolutional Diagnostic Networks for Feature-Selective Medical Analysis</b></td>
     <td>Yan Hu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.08712">2503.08712</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/aipmlab/sicdn)**</td>
        </tr>
        <tr>
     <td><b>2025-03-10</b></td>
@@ -18164,7 +18164,7 @@ layout: default
     <td><b>BTFL: A Bayesian-based Test-Time Generalization Method for Internal and External Data Distributions in Federated learning</b></td>
     <td>Yu Zhou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.06633">2503.06633</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/zhouyucs/btfl)**</td>
        </tr>
        <tr>
     <td><b>2025-03-09</b></td>
@@ -18193,7 +18193,7 @@ layout: default
     <td><b>Secure On-Device Video OOD Detection Without Backpropagation</b></td>
     <td>Li Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.06166">2503.06166</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/dystopians/secdood)**</td>
        </tr>
        <tr>
     <td><b>2025-03-08</b></td>
@@ -18229,7 +18229,7 @@ layout: default
     <td><b>Practical Federated Learning without a Server</b></td>
     <td>Akash Dhasade et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.05509">2503.05509</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/sacs-epfl/plexus)**</td>
        </tr>
        <tr>
     <td><b>2025-03-07</b></td>
@@ -28055,7 +28055,7 @@ layout: default
     <td><b>VoD: Learning Volume of Differences for Video-Based Deepfake Detection</b></td>
     <td>Ying Xu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.07607">2503.07607</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/xuyingzhongguo/vod)**</td>
        </tr>
        <tr>
     <td><b>2025-03-10</b></td>
@@ -29699,7 +29699,7 @@ layout: default
     <td><b>Is JPEG AI going to change image forensics?</b></td>
     <td>Edoardo Daniele Cannas et.al.</td>
     <td><a href="#http://arxiv.org/abs/2412.03261">2412.03261</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/polimi-ispl/jpeg-ai-antifor)**</td>
        </tr>
    </tbody>
 </table>
@@ -35668,7 +35668,7 @@ layout: default
     <td><b>PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop</b></td>
     <td>Chenyu Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.09595">2503.09595</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/vision-x-nyu/pisa-experiments)**</td>
        </tr>
        <tr>
     <td><b>2025-03-12</b></td>
@@ -35710,7 +35710,7 @@ layout: default
     <td><b>Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning</b></td>
     <td>Bowen Jin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.09516">2503.09516</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/petergriffinjin/search-r1)**</td>
        </tr>
        <tr>
     <td><b>2025-03-12</b></td>
@@ -35745,7 +35745,7 @@ layout: default
     <td><b>How Well Does Your Tabular Generator Learn the Structure of Tabular Data?</b></td>
     <td>Xiangjian Jiang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.09453">2503.09453</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/silencex12138/tabstruct)**</td>
        </tr>
        <tr>
     <td><b>2025-03-12</b></td>
@@ -35773,7 +35773,7 @@ layout: default
     <td><b>VLog: Video-Language Models by Generative Retrieval of Narration Vocabulary</b></td>
     <td>Kevin Qinghong Lin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.09402">2503.09402</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/showlab/vlog)**</td>
        </tr>
        <tr>
     <td><b>2025-03-12</b></td>
@@ -35787,7 +35787,7 @@ layout: default
     <td><b>Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs</b></td>
     <td>Jiani Huang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.09382">2503.09382</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jiani-huang/recbench)**</td>
        </tr>
        <tr>
     <td><b>2025-03-12</b></td>
@@ -35843,7 +35843,7 @@ layout: default
     <td><b>Adaptive political surveys and GPT-4: Tackling the cold start problem with simulated user interactions</b></td>
     <td>Fynn Bachmann et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.09311">2503.09311</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/fsvbach/coldstart-paper)**</td>
        </tr>
        <tr>
     <td><b>2025-03-12</b></td>
@@ -35871,7 +35871,7 @@ layout: default
     <td><b>COLA: A Scalable Multi-Agent Framework For Windows UI Task Automation</b></td>
     <td>Di Zhao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.09263">2503.09263</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/alokia/cola-demo)**</td>
        </tr>
        <tr>
     <td><b>2025-03-12</b></td>
@@ -35920,7 +35920,7 @@ layout: default
     <td><b>Token Weighting for Long-Range Language Modeling</b></td>
     <td>Falko Helm et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.09202">2503.09202</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ukplab/naacl2025-token-weighting)**</td>
        </tr>
        <tr>
     <td><b>2025-03-12</b></td>
@@ -35948,7 +35948,7 @@ layout: default
     <td><b>Training Data Provenance Verification: Did Your Model Use Synthetic Data from My Generative Model for Training?</b></td>
     <td>Yuechen Xie et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.09122">2503.09122</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/xieyc99/trainprove)**</td>
        </tr>
        <tr>
     <td><b>2025-03-12</b></td>
@@ -35976,7 +35976,7 @@ layout: default
     <td><b>LocAgent: Graph-Guided LLM Agents for Code Localization</b></td>
     <td>Zhaoling Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.09089">2503.09089</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/gersteinlab/locagent)**</td>
        </tr>
        <tr>
     <td><b>2025-03-12</b></td>
@@ -36313,7 +36313,7 @@ layout: default
     <td><b>CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving</b></td>
     <td>Changxing Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.08683">2503.08683</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/cxliu0314/colmdriver)**</td>
        </tr>
        <tr>
     <td><b>2025-03-11</b></td>
@@ -36355,7 +36355,7 @@ layout: default
     <td><b>LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization</b></td>
     <td>Xianfeng Wu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.08619">2503.08619</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/xianfengwu01/lightgen)**</td>
        </tr>
        <tr>
     <td><b>2025-03-11</b></td>
@@ -36439,7 +36439,7 @@ layout: default
     <td><b>Mellow: a small audio language model for reasoning</b></td>
     <td>Soham Deshmukh et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.08540">2503.08540</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/soham97/mellow)**</td>
        </tr>
        <tr>
     <td><b>2025-03-11</b></td>
@@ -36558,7 +36558,7 @@ layout: default
     <td><b>Robust Latent Matters: Boosting Image Generation with Sampling Error</b></td>
     <td>Kai Qiu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.08354">2503.08354</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/lxa9867/imagefolder)**</td>
        </tr>
        <tr>
     <td><b>2025-03-11</b></td>
