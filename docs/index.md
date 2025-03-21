@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,35 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-03-20</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-20</b></td>
+    <td><b>SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders</b></td>
+    <td>Qing Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.14530">2503.14530</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-20</b></td>
+    <td><b>Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data</b></td>
+    <td>Lilin Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.11032">2503.11032</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-19</h3>
 
 <table>
@@ -167,13 +196,6 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-03-16</b></td>
-    <td><b>SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders</b></td>
-    <td>Qing Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.14530">2503.14530</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-16</b></td>
     <td><b>Towards Privacy-Preserving Data-Driven Education: The Potential of Federated Learning</b></td>
     <td>Mohammad Khalil et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.13550">2503.13550</a></td>
@@ -234,28 +256,6 @@ layout: default
     <td><b>Training-Free Mitigation of Adversarial Attacks on Deep Learning-Based MRI Reconstruction</b></td>
     <td>Mahdi Saberi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.01908">2501.01908</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-03-14</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-03-14</b></td>
-    <td><b>Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data</b></td>
-    <td>Lilin Zhang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.11032">2503.11032</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -8547,6 +8547,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-03-20</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-20</b></td>
+    <td><b>DeDe: Detecting Backdoor Samples for SSL Encoders via Decoders</b></td>
+    <td>Sizai Hou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2411.16154">2411.16154</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-19</h3>
 
 <table>
@@ -8579,6 +8601,13 @@ layout: default
     <td><b>A Semantic and Clean-label Backdoor Attack against Graph Convolutional Networks</b></td>
     <td>Jiazhu Dai et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.14922">2503.14922</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-19</b></td>
+    <td><b>No, of course I can! Refusal Mechanisms Can Be Exploited Using Harmless Fine-Tuning Data</b></td>
+    <td>Joshua Kazdan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2502.19537">2502.19537</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -9291,13 +9320,6 @@ layout: default
     <td><b>Atlas: A Framework for ML Lifecycle Provenance & Transparency</b></td>
     <td>Marcin Spoczynski et.al.</td>
     <td><a href="#http://arxiv.org/abs/2502.19567">2502.19567</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-02-26</b></td>
-    <td><b>No, of course I can! Refusal Mechanisms Can Be Exploited Using Harmless Fine-Tuning Data</b></td>
-    <td>Joshua Kazdan et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2502.19537">2502.19537</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -11692,13 +11714,6 @@ layout: default
     <td><b>Guarding the Gate: ConceptGuard Battles Concept-Level Backdoors in Concept Bottleneck Models</b></td>
     <td>Songning Lai et.al.</td>
     <td><a href="#http://arxiv.org/abs/2411.16512">2411.16512</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-11-25</b></td>
-    <td><b>DeDe: Detecting Backdoor Samples for SSL Encoders via Decoders</b></td>
-    <td>Sizai Hou et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2411.16154">2411.16154</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -35544,6 +35559,42 @@ layout: default
 
 ## AIGC
 
+<h3>2025-03-20</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-20</b></td>
+    <td><b>VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention</b></td>
+    <td>Mingzhe Zheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.15138">2503.15138</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-20</b></td>
+    <td><b>SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders</b></td>
+    <td>Qing Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.14530">2503.14530</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-20</b></td>
+    <td><b>DangerMaps: Personalized Safety Advice for Travel in Urban Environments using a Retrieval-Augmented Language Model</b></td>
+    <td>Jonas Oppenlaender et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.14103">2503.14103</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-19</h3>
 
 <table>
@@ -35786,13 +35837,6 @@ layout: default
     <td><b>Comparing Llama3 and DeepSeekR1 on Biomedical Text Classification Tasks</b></td>
     <td>Yuting Guo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.15169">2503.15169</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-19</b></td>
-    <td><b>VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention</b></td>
-    <td>Mingzhe Zheng et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.15138">2503.15138</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -36477,13 +36521,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-03-18</b></td>
-    <td><b>DangerMaps: Personalized Safety Advice for Travel in Urban Environments using a Retrieval-Augmented Language Model</b></td>
-    <td>Jonas Oppenlaender et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.14103">2503.14103</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-18</b></td>
     <td><b>GenPara: Enhancing the 3D Design Editing Process by Inferring Users' Regions of Interest with Text-Conditional Shape Parameters</b></td>
     <td>Jiin Choi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.14096">2503.14096</a></td>
@@ -36810,7 +36847,7 @@ layout: default
     <td><b>Atyaephyra at SemEval-2025 Task 4: Low-Rank NPO</b></td>
     <td>Jan Bronec et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.13690">2503.13690</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/XelfXendr/peft_unlearning)**</td>
        </tr>
        <tr>
     <td><b>2025-03-17</b></td>
@@ -37422,13 +37459,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-03-16</b></td>
-    <td><b>SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders</b></td>
-    <td>Qing Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.14530">2503.14530</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2025-03-16</b></td>
     <td><b>Feasibility study for reconstruction of knee MRI from one corresponding X-ray via CNN</b></td>
