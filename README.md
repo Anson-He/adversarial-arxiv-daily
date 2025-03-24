@@ -19,10 +19,20 @@
 
 ## Adversarial attacks
 
+<h3>2025-03-21</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-03-21**|**Robustness of deep learning classification to adversarial input on GPUs: asynchronous parallel accumulation is a source of vulnerability**|Sanjif Shanmugavelu et.al.|[2503.17173](http://arxiv.org/abs/2503.17173)|null|
+|**2025-03-21**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[2503.17168](http://arxiv.org/abs/2503.17168)|null|
+|**2025-03-21**|**EasyRobust: A Comprehensive and Easy-to-use Toolkit for Robust and Generalized Vision**|Xiaofeng Mao et.al.|[2503.16975](http://arxiv.org/abs/2503.16975)|null|
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
+
 <h3>2025-03-20</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**REVAL: A Comprehension Evaluation on Reliability and Values of Large Vision-Language Models**|Jie Zhang et.al.|[2503.16566](http://arxiv.org/abs/2503.16566)|null|
 |**2025-03-20**|**Narrowing Class-Wise Robustness Gaps in Adversarial Training**|Fatemeh Amerehi et.al.|[2503.16179](http://arxiv.org/abs/2503.16179)|null|
 |**2025-03-20**|**SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders**|Qing Li et.al.|[2503.14530](http://arxiv.org/abs/2503.14530)|null|
 |**2025-03-20**|**Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data**|Lilin Zhang et.al.|[2503.11032](http://arxiv.org/abs/2503.11032)|null|
@@ -32,7 +42,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-19**|**Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement**|Yuchen Ren et.al.|[2503.15404](http://arxiv.org/abs/2503.15404)|null|
+|**2025-03-19**|**Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement**|Yuchen Ren et.al.|[2503.15404](http://arxiv.org/abs/2503.15404)|**[link](https://github.com/ryc-98/fpr)**|
 |**2025-03-19**|**Improving Generalization of Universal Adversarial Perturbation via Dynamic Maximin Optimization**|Yechao Zhang et.al.|[2503.12793](http://arxiv.org/abs/2503.12793)|**[link](https://github.com/yechao-zhang/dm-uap)**|
 |**2025-03-19**|**Safety at Scale: A Comprehensive Survey of Large Model Safety**|Xingjun Ma et.al.|[2502.05206](http://arxiv.org/abs/2502.05206)|**[link](https://github.com/xingjunm/awesome-large-model-safety)**|
 <p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
@@ -4752,6 +4762,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**A Thorough Assessment of the Non-IID Data Impact in Federated Learning**|Daniel M. Jimenez-Gutierrez et.al.|[2503.17070](http://arxiv.org/abs/2503.17070)|null|
 |**2025-03-21**|**Survey of City-Wide Homelessness Detection Through Environmental Sensing**|Julia Gersey et.al.|[2503.11727](http://arxiv.org/abs/2503.11727)|null|
 <p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
@@ -4767,7 +4778,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-19**|**Distributed Generalized Linear Models: A Privacy-Preserving Approach**|Daniel Tinoco et.al.|[2503.15287](http://arxiv.org/abs/2503.15287)|null|
+|**2025-03-19**|**Distributed Generalized Linear Models: A Privacy-Preserving Approach**|Daniel Tinoco et.al.|[2503.15287](http://arxiv.org/abs/2503.15287)|**[link](https://github.com/dbtnc/distributed_glm)**|
 |**2025-03-19**|**Online federated learning framework for classification**|Wenxing Guo et.al.|[2503.15210](http://arxiv.org/abs/2503.15210)|null|
 |**2025-03-19**|**Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices**|Ziyao Wang et.al.|[2503.14932](http://arxiv.org/abs/2503.14932)|null|
 <p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
@@ -4778,7 +4789,7 @@
 |---|---|---|---|---|
 |**2025-03-18**|**Advanced Relay-Based Collaborative Framework for Optimizing Synchronization in Split Federated Learning over Wireless Networks**|Haoran Gao et.al.|[2503.15559](http://arxiv.org/abs/2503.15559)|null|
 |**2025-03-18**|**Zero-Knowledge Federated Learning: A New Trustworthy and Privacy-Preserving Distributed Learning Paradigm**|Yuxin Jin et.al.|[2503.15550](http://arxiv.org/abs/2503.15550)|null|
-|**2025-03-18**|**Anomaly-Flow: A Multi-domain Federated Generative Adversarial Network for Distributed Denial-of-Service Detection**|Leonardo Henrique de Melo et.al.|[2503.14618](http://arxiv.org/abs/2503.14618)|null|
+|**2025-03-18**|**Anomaly-Flow: A Multi-domain Federated Generative Adversarial Network for Distributed Denial-of-Service Detection**|Leonardo Henrique de Melo et.al.|[2503.14618](http://arxiv.org/abs/2503.14618)|**[link](https://github.com/c2dc/anomaly-flow)**|
 |**2025-03-18**|**Robust Machine Unlearning for Quantized Neural Networks via Adaptive Gradient Reweighting with Similar Labels**|Yujia Tong et.al.|[2503.13917](http://arxiv.org/abs/2503.13917)|null|
 |**2025-03-18**|**Automatic MILP Model Construction for Multi-Robot Task Allocation and Scheduling Based on Large Language Models**|Mingming Peng et.al.|[2503.13813](http://arxiv.org/abs/2503.13813)|null|
 <p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
@@ -7537,6 +7548,13 @@
 
 ## Forensics
 
+<h3>2025-03-21</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-03-21**|**D2Fusion: Dual-domain Fusion with Feature Superposition for Deepfake Detection**|Xueqi Qiu et.al.|[2503.17184](http://arxiv.org/abs/2503.17184)|null|
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
+
 <h3>2025-03-20</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -9566,14 +9584,65 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**Dancing with Critiques: Enhancing LLM Reasoning with Stepwise Natural Language Self-Critique**|Yansi Li et.al.|[2503.17363](http://arxiv.org/abs/2503.17363)|null|
+|**2025-03-21**|**Position: Interactive Generative Video as Next-Generation Game Engine**|Jiwen Yu et.al.|[2503.17359](http://arxiv.org/abs/2503.17359)|null|
+|**2025-03-21**|**OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement**|Yihe Deng et.al.|[2503.17352](http://arxiv.org/abs/2503.17352)|null|
+|**2025-03-21**|**Efficient Intent-Based Filtering for Multi-Party Conversations Using Knowledge Distillation from LLMs**|Reem Gody et.al.|[2503.17336](http://arxiv.org/abs/2503.17336)|null|
+|**2025-03-21**|**CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities**|Yuxuan Zhu et.al.|[2503.17332](http://arxiv.org/abs/2503.17332)|**[link](https://github.com/uiuc-kang-lab/cve-bench)**|
+|**2025-03-21**|**LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language**|Kun Chu et.al.|[2503.17309](http://arxiv.org/abs/2503.17309)|null|
+|**2025-03-21**|**Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requests**|John Naulty et.al.|[2503.17302](http://arxiv.org/abs/2503.17302)|null|
+|**2025-03-21**|**Offline Model-Based Optimization: Comprehensive Review**|Minsu Kim et.al.|[2503.17286](http://arxiv.org/abs/2503.17286)|null|
+|**2025-03-21**|**CASE -- Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement**|Gaifan Zhang et.al.|[2503.17279](http://arxiv.org/abs/2503.17279)|null|
+|**2025-03-21**|**Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras**|Shuang Guo et.al.|[2503.17262](http://arxiv.org/abs/2503.17262)|null|
+|**2025-03-21**|**SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging**|Aladin Djuhera et.al.|[2503.17239](http://arxiv.org/abs/2503.17239)|null|
+|**2025-03-21**|**FactSelfCheck: Fact-Level Black-Box Hallucination Detection for LLMs**|Albert Sawczyn et.al.|[2503.17229](http://arxiv.org/abs/2503.17229)|null|
+|**2025-03-21**|**Neuro-Symbolic Scene Graph Conditioning for Synthetic Image Dataset Generation**|Giacomo Savazzi et.al.|[2503.17224](http://arxiv.org/abs/2503.17224)|null|
+|**2025-03-21**|**Automating Adjudication of Cardiovascular Events Using Large Language Models**|Sonish Sivarajkumar et.al.|[2503.17222](http://arxiv.org/abs/2503.17222)|null|
+|**2025-03-21**|**TreeSynth: Synthesizing Diverse Data from Scratch via Tree-Guided Subspace Partitioning**|Sheng Wang et.al.|[2503.17195](http://arxiv.org/abs/2503.17195)|null|
+|**2025-03-21**|**LLMs Love Python: A Study of LLMs' Bias for Programming Languages and Libraries**|Lukas Twist et.al.|[2503.17181](http://arxiv.org/abs/2503.17181)|null|
+|**2025-03-21**|**D2C: Unlocking the Potential of Continuous Autoregressive Image Generation with Discrete Tokens**|Panpan Wang et.al.|[2503.17155](http://arxiv.org/abs/2503.17155)|null|
+|**2025-03-21**|**Modifying Large Language Model Post-Training for Diverse Creative Writing**|John Joon Young Chung et.al.|[2503.17126](http://arxiv.org/abs/2503.17126)|null|
+|**2025-03-21**|**Large Language Model Compression via the Nested Activation-Aware Decomposition**|Jun Lu et.al.|[2503.17101](http://arxiv.org/abs/2503.17101)|null|
+|**2025-03-21**|**A Study into Investigating Temporal Robustness of LLMs**|Jonas Wallat et.al.|[2503.17073](http://arxiv.org/abs/2503.17073)|null|
+|**2025-03-21**|**Problem Framing in the AI era: a new model**|Matteo Tuveri et.al.|[2503.17040](http://arxiv.org/abs/2503.17040)|null|
+|**2025-03-21**|**Summarization Metrics for Spanish and Basque: Do Automatic Scores and LLM-Judges Correlate with Humans?**|Jeremy Barnes et.al.|[2503.17039](http://arxiv.org/abs/2503.17039)|null|
+|**2025-03-21**|**AnimatePainter: A Self-Supervised Rendering Framework for Reconstructing Painting Process**|Junjie Hu et.al.|[2503.17029](http://arxiv.org/abs/2503.17029)|null|
+|**2025-03-21**|**RiboFlow: Conditional De Novo RNA Sequence-Structure Co-Design via Synergistic Flow Matching**|Runze Ma et.al.|[2503.17007](http://arxiv.org/abs/2503.17007)|null|
+|**2025-03-21**|**Text2Model: Generating dynamic chemical reactor models using large language models (LLMs)**|Sophia Rupprecht et.al.|[2503.17004](http://arxiv.org/abs/2503.17004)|null|
+|**2025-03-21**|**A Survey on Personalized Alignment -- The Missing Piece for Large Language Models in Real-World Applications**|Jian Guan et.al.|[2503.17003](http://arxiv.org/abs/2503.17003)|null|
+|**2025-03-21**|**Token Dynamics: Towards Efficient and Dynamic Video Token Representation for Video Large Language Models**|Haichao Zhang et.al.|[2503.16980](http://arxiv.org/abs/2503.16980)|null|
+|**2025-03-21**|**Assessing Consistency and Reproducibility in the Outputs of Large Language Models: Evidence Across Diverse Finance and Accounting Tasks**|Julian Junyan Wang et.al.|[2503.16974](http://arxiv.org/abs/2503.16974)|null|
+|**2025-03-21**|**When Words Outperform Vision: VLMs Can Self-Improve Via Text-Only Training For Human-Centered Decision Making**|Zhe Hu et.al.|[2503.16965](http://arxiv.org/abs/2503.16965)|null|
+|**2025-03-21**|**TEMPO: Temporal Preference Optimization of Video LLMs via Difficulty Scheduling and Pre-SFT Alignment**|Shicheng Li et.al.|[2503.16929](http://arxiv.org/abs/2503.16929)|null|
+|**2025-03-21**|**RustEvo^2: An Evolving Benchmark for API Evolution in LLM-based Rust Code Generation**|Linxi Liang et.al.|[2503.16922](http://arxiv.org/abs/2503.16922)|null|
+|**2025-03-21**|**Malliavin-Bismut Score-based Diffusion Models**|Ehsan Mirafzali et.al.|[2503.16917](http://arxiv.org/abs/2503.16917)|null|
+|**2025-03-21**|**FAIT: Fault-Aware Fine-Tuning for Better Code Generation**|Lishui Fan et.al.|[2503.16913](http://arxiv.org/abs/2503.16913)|null|
+|**2025-03-21**|**Improving the End-to-End Efficiency of Offline Inference for Multi-LLM Applications Based on Sampling and Simulation**|Jingzhi Fang et.al.|[2503.16893](http://arxiv.org/abs/2503.16893)|null|
+|**2025-03-21**|**Assessing the Reliability and Validity of GPT-4 in Annotating Emotion Appraisal Ratings**|Deniss Ruder et.al.|[2503.16883](http://arxiv.org/abs/2503.16883)|null|
+|**2025-03-21**|**Sparse Logit Sampling: Accelerating Knowledge Distillation in LLMs**|Anshumann et.al.|[2503.16870](http://arxiv.org/abs/2503.16870)|null|
+|**2025-03-21**|**ETVA: Evaluation of Text-to-Video Alignment via Fine-grained Question Generation and Answering**|Kaisi Guan et.al.|[2503.16867](http://arxiv.org/abs/2503.16867)|null|
+|**2025-03-21**|**Nonparametric Factor Analysis and Beyond**|Yujia Zheng et.al.|[2503.16865](http://arxiv.org/abs/2503.16865)|null|
+|**2025-03-21**|**MTBench: A Multimodal Time Series Benchmark for Temporal Reasoning and Question Answering**|Jialin Chen et.al.|[2503.16858](http://arxiv.org/abs/2503.16858)|null|
+|**2025-03-21**|**Generative Compositor for Few-Shot Visual Information Extraction**|Zhibo Yang et.al.|[2503.16854](http://arxiv.org/abs/2503.16854)|null|
+|**2025-03-21**|**Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**|Suho Yoo et.al.|[2503.16853](http://arxiv.org/abs/2503.16853)|null|
+|**2025-03-21**|**Towards LLM Guardrails via Sparse Representation Steering**|Zeqing He et.al.|[2503.16851](http://arxiv.org/abs/2503.16851)|null|
+|**2025-03-21**|**When Debate Fails: Bias Reinforcement in Large Language Models**|Jihwan Oh et.al.|[2503.16814](http://arxiv.org/abs/2503.16814)|null|
+|**2025-03-21**|**Conversational User-AI Intervention: A Study on Prompt Rewriting for Improved LLM Response Generation**|Rupak Sarkar et.al.|[2503.16789](http://arxiv.org/abs/2503.16789)|null|
+|**2025-03-21**|**A-IDE : Agent-Integrated Denoising Experts**|Uihyun Cho et.al.|[2503.16780](http://arxiv.org/abs/2503.16780)|null|
+|**2025-03-21**|**Chain-of-Tools: Utilizing Massive Unseen Tools in the CoT Reasoning of Frozen Language Models**|Mengsong Wu et.al.|[2503.16779](http://arxiv.org/abs/2503.16779)|null|
+|**2025-03-21**|**Current and Future Use of Large Language Models for Knowledge Work**|Michelle Brachman et.al.|[2503.16774](http://arxiv.org/abs/2503.16774)|null|
+|**2025-03-21**|**On Explaining (Large) Language Models For Code Using Global Code-Based Explanations**|David N. Palacio et.al.|[2503.16771](http://arxiv.org/abs/2503.16771)|null|
+|**2025-03-21**|**Bridging Technology and Humanities: Evaluating the Impact of Large Language Models on Social Sciences Research with DeepSeek-R1**|Peiran Gu et.al.|[2503.16304](http://arxiv.org/abs/2503.16304)|null|
 |**2025-03-21**|**Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning**|Zhaowei Liu et.al.|[2503.16252](http://arxiv.org/abs/2503.16252)|null|
-|**2025-03-21**|**Affective Polarization Amongst Swedish Politicians**|François t'Serstevens et.al.|[2503.16193](http://arxiv.org/abs/2503.16193)|null|
+|**2025-03-21**|**Affective Polarization Amongst Swedish Politicians**|François t'Serstevens et.al.|[2503.16193](http://arxiv.org/abs/2503.16193)|**[link](https://github.com/ftserstevens/Sweden)**|
 |**2025-03-21**|**MKG-Rank: Enhancing Large Language Models with Knowledge Graph for Multilingual Medical Question Answering**|Feiyang Li et.al.|[2503.16131](http://arxiv.org/abs/2503.16131)|null|
+|**2025-03-21**|**GreenIQ: A Deep Search Platform for Comprehensive Carbon Market Analysis and Automated Report Generation**|Oluwole Fagbohun et.al.|[2503.16041](http://arxiv.org/abs/2503.16041)|null|
 |**2025-03-21**|**Autonomous AI imitators increase diversity in homogeneous information ecosystems**|Emil Bakkensen Johansen et.al.|[2503.16021](http://arxiv.org/abs/2503.16021)|null|
 |**2025-03-21**|**Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment**|Gaole Dai et.al.|[2503.15937](http://arxiv.org/abs/2503.15937)|null|
 |**2025-03-21**|**Enhancing Zero-Shot Image Recognition in Vision-Language Models through Human-like Concept Guidance**|Hui Liu et.al.|[2503.15886](http://arxiv.org/abs/2503.15886)|null|
 |**2025-03-21**|**Leveraging MoE-based Large Language Model for Zero-Shot Multi-Task Semantic Communication**|Sin-Yu Huang et.al.|[2503.15722](http://arxiv.org/abs/2503.15722)|null|
-|**2025-03-21**|**From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment**|Jia-Nan Li et.al.|[2503.15463](http://arxiv.org/abs/2503.15463)|null|
+|**2025-03-21**|**From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment**|Jia-Nan Li et.al.|[2503.15463](http://arxiv.org/abs/2503.15463)|**[link](https://github.com/jinaleejnl/alignx)**|
+|**2025-03-21**|**RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving**|Wenqi Jiang et.al.|[2503.14649](http://arxiv.org/abs/2503.14649)|null|
 |**2025-03-21**|**Bridging Social Psychology and LLM Reasoning: Conflict-Aware Meta-Review Generation via Cognitive Alignment**|Wei Chen et.al.|[2503.13879](http://arxiv.org/abs/2503.13879)|null|
 <p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
@@ -9581,45 +9650,60 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**SuperARC: A Test for General and Super Intelligence Based on First Principles of Recursion Theory and Algorithmic Probability**|Alberto Hernández-Espinosa et.al.|[2503.16743](http://arxiv.org/abs/2503.16743)|null|
+|**2025-03-20**|**Automated Harmfulness Testing for Code Large Language Models**|Honghao Tan et.al.|[2503.16740](http://arxiv.org/abs/2503.16740)|null|
+|**2025-03-20**|**Since U Been Gone: Augmenting Context-Aware Transcriptions for Re-engaging in Immersive VR Meetings**|Geonsun Lee et.al.|[2503.16739](http://arxiv.org/abs/2503.16739)|null|
+|**2025-03-20**|**Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**|Chengkai Huang et.al.|[2503.16734](http://arxiv.org/abs/2503.16734)|null|
+|**2025-03-20**|**Design and Implementation of an FPGA-Based Tiled Matrix Multiplication Accelerator for Transformer Self-Attention on the Xilinx KV260 SoM**|Zhaoqin "Richie" Li et.al.|[2503.16731](http://arxiv.org/abs/2503.16731)|**[link](https://github.com/Richielee630/TMMA)**|
+|**2025-03-20**|**Natural Language Generation**|Emiel van Miltenburg et.al.|[2503.16728](http://arxiv.org/abs/2503.16728)|null|
+|**2025-03-20**|**Echoes of Power: Investigating Geopolitical Bias in US and China Large Language Models**|Andre G. C. Pacheco et.al.|[2503.16679](http://arxiv.org/abs/2503.16679)|null|
+|**2025-03-20**|**Through the LLM Looking Glass: A Socratic Self-Assessment of Donkeys, Elephants, and Markets**|Molly Kennedy et.al.|[2503.16674](http://arxiv.org/abs/2503.16674)|null|
+|**2025-03-20**|**Code Evolution Graphs: Understanding Large Language Model Driven Design of Algorithms**|Niki van Stein et.al.|[2503.16668](http://arxiv.org/abs/2503.16668)|null|
+|**2025-03-20**|**Accelerating Antibiotic Discovery with Large Language Models and Knowledge Graphs**|Maxime Delmas et.al.|[2503.16655](http://arxiv.org/abs/2503.16655)|null|
+|**2025-03-20**|**Leveraging Large Language Models for Explainable Activity Recognition in Smart Homes: A Critical Evaluation**|Michele Fiori et.al.|[2503.16622](http://arxiv.org/abs/2503.16622)|null|
+|**2025-03-20**|**A Recipe for Generating 3D Worlds From a Single Image**|Katja Schwarz et.al.|[2503.16611](http://arxiv.org/abs/2503.16611)|null|
+|**2025-03-20**|**Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions**|Hadi Amini et.al.|[2503.16585](http://arxiv.org/abs/2503.16585)|null|
+|**2025-03-20**|**Investigating Retrieval-Augmented Generation in Quranic Studies: A Study of 13 Open-Source Large Language Models**|Zahra Khalila et.al.|[2503.16581](http://arxiv.org/abs/2503.16581)|null|
+|**2025-03-20**|**Extract, Match, and Score: An Evaluation Paradigm for Long Question-context-answer Triplets in Financial Analysis**|Bo Hu et.al.|[2503.16575](http://arxiv.org/abs/2503.16575)|null|
+|**2025-03-20**|**Chem42: a Family of chemical Language Models for Target-aware Ligand Generation**|Aahan Singh et.al.|[2503.16563](http://arxiv.org/abs/2503.16563)|null|
+|**2025-03-20**|**FutureGen: LLM-RAG Approach to Generate the Future Work of Scientific Article**|Ibrahim Al Azher et.al.|[2503.16561](http://arxiv.org/abs/2503.16561)|null|
 |**2025-03-20**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430](http://arxiv.org/abs/2503.16430)|null|
 |**2025-03-20**|**SynCity: Training-Free Generation of 3D Worlds**|Paul Engstler et.al.|[2503.16420](http://arxiv.org/abs/2503.16420)|null|
-|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/abs/2503.16419)|null|
+|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/abs/2503.16419)|**[link](https://github.com/eclipsess/awesome-efficient-reasoning-llms)**|
 |**2025-03-20**|**Survey on Evaluation of LLM-based Agents**|Asaf Yehudai et.al.|[2503.16416](http://arxiv.org/abs/2503.16416)|null|
-|**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|null|
+|**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|**[link](https://github.com/maureenzou/m3-spatial)**|
 |**2025-03-20**|**DreamTexture: Shape from Virtual Texture with Analysis by Augmentation**|Ananta R. Bhattarai et.al.|[2503.16412](http://arxiv.org/abs/2503.16412)|null|
-|**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406](http://arxiv.org/abs/2503.16406)|null|
-|**2025-03-20**|**The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination**|Yifan Sun et.al.|[2503.16402](http://arxiv.org/abs/2503.16402)|null|
+|**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406](http://arxiv.org/abs/2503.16406)|**[link](https://github.com/seungjucha/verbdiff)**|
+|**2025-03-20**|**The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination**|Yifan Sun et.al.|[2503.16402](http://arxiv.org/abs/2503.16402)|**[link](https://github.com/astral-group/bdc_mitigation_assessment)**|
 |**2025-03-20**|**Exploring the Hidden Reasoning Process of Large Language Models by Misleading Them**|Guanyu Chen et.al.|[2503.16401](http://arxiv.org/abs/2503.16401)|null|
-|**2025-03-20**|**Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation**|Yijia Luo et.al.|[2503.16385](http://arxiv.org/abs/2503.16385)|null|
+|**2025-03-20**|**Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation**|Yijia Luo et.al.|[2503.16385](http://arxiv.org/abs/2503.16385)|**[link](https://github.com/elena-luo/SODE)**|
 |**2025-03-20**|**LaPIG: Cross-Modal Generation of Paired Thermal and Visible Facial Images**|Leyang Wang et.al.|[2503.16376](http://arxiv.org/abs/2503.16376)|null|
-|**2025-03-20**|**CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners**|Yunzhi Yao et.al.|[2503.16356](http://arxiv.org/abs/2503.16356)|null|
+|**2025-03-20**|**CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners**|Yunzhi Yao et.al.|[2503.16356](http://arxiv.org/abs/2503.16356)|**[link](https://github.com/zjunlp/cake)**|
 |**2025-03-20**|**LLM Braces: Straightening Out LLM Predictions with Relevant Sub-Updates**|Ying Shen et.al.|[2503.16334](http://arxiv.org/abs/2503.16334)|null|
 |**2025-03-20**|**OmniGeo: Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence**|Long Yuan et.al.|[2503.16326](http://arxiv.org/abs/2503.16326)|null|
 |**2025-03-20**|**Issue2Test: Generating Reproducing Test Cases from Issue Reports**|Noor Nashid et.al.|[2503.16320](http://arxiv.org/abs/2503.16320)|null|
-|**2025-03-20**|**Bridging Technology and Humanities: Evaluating the Impact of Large Language Models on Social Sciences Research with DeepSeek-R1**|Peiran Gu et.al.|[2503.16304](http://arxiv.org/abs/2503.16304)|null|
 |**2025-03-20**|**SceneMI: Motion In-betweening for Modeling Human-Scene Interactions**|Inwoo Hwang et.al.|[2503.16289](http://arxiv.org/abs/2503.16289)|null|
 |**2025-03-20**|**Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data**|Zijian Li et.al.|[2503.16260](http://arxiv.org/abs/2503.16260)|null|
 |**2025-03-20**|**Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models**|Keda Tao et.al.|[2503.16257](http://arxiv.org/abs/2503.16257)|null|
-|**2025-03-20**|**Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't**|Quy-Anh Dang et.al.|[2503.16219](http://arxiv.org/abs/2503.16219)|null|
-|**2025-03-20**|**MathFusion: Enhancing Mathematic Problem-solving of LLM through Instruction Fusion**|Qizhi Pei et.al.|[2503.16212](http://arxiv.org/abs/2503.16212)|null|
+|**2025-03-20**|**Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't**|Quy-Anh Dang et.al.|[2503.16219](http://arxiv.org/abs/2503.16219)|**[link](https://github.com/knoveleng/open-rs)**|
+|**2025-03-20**|**MathFusion: Enhancing Mathematic Problem-solving of LLM through Instruction Fusion**|Qizhi Pei et.al.|[2503.16212](http://arxiv.org/abs/2503.16212)|**[link](https://github.com/qizhipei/mathfusion)**|
 |**2025-03-20**|**VP-NTK: Exploring the Benefits of Visual Prompting in Differentially Private Data Synthesis**|Chia-Yi Hsu et.al.|[2503.16195](http://arxiv.org/abs/2503.16195)|null|
 |**2025-03-20**|**Large Language Models for Water Distribution Systems Modeling and Decision-Making**|Yinon Goldshtein et.al.|[2503.16191](http://arxiv.org/abs/2503.16191)|null|
 |**2025-03-20**|**CodeReviewQA: The Code Review Comprehension Assessment for Large Language Models**|Hong Yi Lin et.al.|[2503.16167](http://arxiv.org/abs/2503.16167)|null|
 |**2025-03-20**|**SpeCache: Speculative Key-Value Caching for Efficient Generation of LLMs**|Shibo Jie et.al.|[2503.16163](http://arxiv.org/abs/2503.16163)|null|
-|**2025-03-20**|**Towards Lighter and Robust Evaluation for Retrieval Augmented Generation**|Alex-Razvan Ispas et.al.|[2503.16161](http://arxiv.org/abs/2503.16161)|null|
-|**2025-03-20**|**Automatically Generating Chinese Homophone Words to Probe Machine Translation Estimation Systems**|Shenbin Qian et.al.|[2503.16158](http://arxiv.org/abs/2503.16158)|null|
+|**2025-03-20**|**Towards Lighter and Robust Evaluation for Retrieval Augmented Generation**|Alex-Razvan Ispas et.al.|[2503.16161](http://arxiv.org/abs/2503.16161)|**[link](https://github.com/razvanip13/towards_lighter_and_robust_evaluation)**|
+|**2025-03-20**|**Automatically Generating Chinese Homophone Words to Probe Machine Translation Estimation Systems**|Shenbin Qian et.al.|[2503.16158](http://arxiv.org/abs/2503.16158)|**[link](https://github.com/surrey-nlp/homo_gen)**|
 |**2025-03-20**|**Unify and Triumph: Polyglot, Diverse, and Self-Consistent Generation of Unit Tests with LLMs**|Djamel Eddine Khelladi et.al.|[2503.16144](http://arxiv.org/abs/2503.16144)|null|
 |**2025-03-20**|**The Impact of Revealing Large Language Model Stochasticity on Trust, Reliability, and Anthropomorphization**|Chelse Swoopes et.al.|[2503.16114](http://arxiv.org/abs/2503.16114)|null|
 |**2025-03-20**|**Cultural Alignment in Large Language Models Using Soft Prompt Tuning**|Reem I. Masoud et.al.|[2503.16094](http://arxiv.org/abs/2503.16094)|null|
 |**2025-03-20**|**Quantum Chebyshev Probabilistic Models for Fragmentation Functions**|Jorge J. Martínez de Lejarza et.al.|[2503.16073](http://arxiv.org/abs/2503.16073)|null|
-|**2025-03-20**|**Tuning LLMs by RAG Principles: Towards LLM-native Memory**|Jiale Wei et.al.|[2503.16071](http://arxiv.org/abs/2503.16071)|null|
+|**2025-03-20**|**Tuning LLMs by RAG Principles: Towards LLM-native Memory**|Jiale Wei et.al.|[2503.16071](http://arxiv.org/abs/2503.16071)|**[link](https://github.com/mindverse/rag-tuned-llm)**|
 |**2025-03-20**|**Incomplete Utterance Rewriting with Editing Operation Guidance and Utterance Augmentation**|Zhiyu Cao et.al.|[2503.16043](http://arxiv.org/abs/2503.16043)|null|
-|**2025-03-20**|**GreenIQ: A Deep Search Platform for Comprehensive Carbon Market Analysis and Automated Report Generation**|Bisola Faith Kayode et.al.|[2503.16041](http://arxiv.org/abs/2503.16041)|null|
 |**2025-03-20**|**Evaluating Test-Time Scaling LLMs for Legal Reasoning: OpenAI o1, DeepSeek-R1, and Beyond**|Yaoyao Yu et.al.|[2503.16040](http://arxiv.org/abs/2503.16040)|null|
 |**2025-03-20**|**Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models**|Zhihang Liu et.al.|[2503.16036](http://arxiv.org/abs/2503.16036)|null|
 |**2025-03-20**|**The Lighthouse of Language: Enhancing LLM Agents via Critique-Guided Improvement**|Ruihan Yang et.al.|[2503.16024](http://arxiv.org/abs/2503.16024)|null|
 |**2025-03-20**|**BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models**|Zenghui Yuan et.al.|[2503.16023](http://arxiv.org/abs/2503.16023)|null|
-|**2025-03-20**|**Corrective In-Context Learning: Evaluating Self-Correction in Large Language Models**|Mario Sanz-Guerrero et.al.|[2503.16022](http://arxiv.org/abs/2503.16022)|null|
+|**2025-03-20**|**Corrective In-Context Learning: Evaluating Self-Correction in Large Language Models**|Mario Sanz-Guerrero et.al.|[2503.16022](http://arxiv.org/abs/2503.16022)|**[link](https://github.com/mario-sanz/cicl)**|
 |**2025-03-20**|**GraspCoT: Integrating Physical Property Reasoning for 6-DoF Grasping under Flexible Language Instructions**|Xiaomeng Chu et.al.|[2503.16013](http://arxiv.org/abs/2503.16013)|null|
 |**2025-03-20**|**"This could save us months of work" -- Use Cases of AI and Automation Support in Investigative Journalism**|Besjon Cifliku et.al.|[2503.16011](http://arxiv.org/abs/2503.16011)|null|
 |**2025-03-20**|**ECKGBench: Benchmarking Large Language Models in E-commerce Leveraging Knowledge Graph**|Langming Liu et.al.|[2503.15990](http://arxiv.org/abs/2503.15990)|null|
@@ -9630,7 +9714,7 @@
 |**2025-03-20**|**Towards Automatic Continual Learning: A Self-Adaptive Framework for Continual Instruction Tuning**|Peiyi Lin et.al.|[2503.15924](http://arxiv.org/abs/2503.15924)|null|
 |**2025-03-20**|**SPIN: Accelerating Large Language Model Inference with Heterogeneous Speculative Models**|Fahao Chen et.al.|[2503.15921](http://arxiv.org/abs/2503.15921)|null|
 |**2025-03-20**|**From Structured Prompts to Open Narratives: Measuring Gender Bias in LLMs Through Open-Ended Storytelling**|Evan Chen et.al.|[2503.15904](http://arxiv.org/abs/2503.15904)|null|
-|**2025-03-20**|**Parameters vs. Context: Fine-Grained Control of Knowledge Reliance in Language Models**|Baolong Bi et.al.|[2503.15888](http://arxiv.org/abs/2503.15888)|null|
+|**2025-03-20**|**Parameters vs. Context: Fine-Grained Control of Knowledge Reliance in Language Models**|Baolong Bi et.al.|[2503.15888](http://arxiv.org/abs/2503.15888)|**[link](https://github.com/byronbbl/ck-plug)**|
 |**2025-03-20**|**DocVideoQA: Towards Comprehensive Understanding of Document-Centric Videos through Question Answering**|Haochen Wang et.al.|[2503.15887](http://arxiv.org/abs/2503.15887)|null|
 |**2025-03-20**|**Human or LLM? A Comparative Study on Accessible Code Generation Capability**|Hyunjae Suh et.al.|[2503.15885](http://arxiv.org/abs/2503.15885)|null|
 |**2025-03-20**|**DeepPsy-Agent: A Stage-Aware and Deep-Thinking Emotional Support Agent System**|Kai Chen et.al.|[2503.15876](http://arxiv.org/abs/2503.15876)|null|
@@ -9649,10 +9733,10 @@
 |**2025-03-20**|**DNA Bench: When Silence is Smarter -- Benchmarking Over-Reasoning in Reasoning LLMs**|Masoud Hashemi et.al.|[2503.15793](http://arxiv.org/abs/2503.15793)|null|
 |**2025-03-20**|**Grammar and Gameplay-aligned RL for Game Description Generation with LLMs**|Tsunehiko Tanaka et.al.|[2503.15783](http://arxiv.org/abs/2503.15783)|null|
 |**2025-03-20**|**AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**|Boshra Khalili et.al.|[2503.15778](http://arxiv.org/abs/2503.15778)|null|
-|**2025-03-20**|**Detecting LLM-Written Peer Reviews**|Vishisht Rao et.al.|[2503.15772](http://arxiv.org/abs/2503.15772)|null|
+|**2025-03-20**|**Detecting LLM-Written Peer Reviews**|Vishisht Rao et.al.|[2503.15772](http://arxiv.org/abs/2503.15772)|**[link](https://github.com/vishisht-rao/detecting-llm-written-reviews)**|
 |**2025-03-20**|**Dialogic Learning in Child-Robot Interaction: A Hybrid Approach to Personalized Educational Content Generation**|Elena Malnatsky et.al.|[2503.15762](http://arxiv.org/abs/2503.15762)|null|
 |**2025-03-20**|**AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration**|Andy Zhou et.al.|[2503.15754](http://arxiv.org/abs/2503.15754)|null|
-|**2025-03-20**|**BigO(Bench) -- Can LLMs Generate Code with Controlled Time and Space Complexity?**|Pierre Chambon et.al.|[2503.15242](http://arxiv.org/abs/2503.15242)|null|
+|**2025-03-20**|**BigO(Bench) -- Can LLMs Generate Code with Controlled Time and Space Complexity?**|Pierre Chambon et.al.|[2503.15242](http://arxiv.org/abs/2503.15242)|**[link](https://github.com/facebookresearch/bigobench)**|
 |**2025-03-20**|**Benchmarking Large Language Models for Handwritten Text Recognition**|Giorgia Crosilla et.al.|[2503.15195](http://arxiv.org/abs/2503.15195)|null|
 |**2025-03-20**|**VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention**|Mingzhe Zheng et.al.|[2503.15138](http://arxiv.org/abs/2503.15138)|null|
 |**2025-03-20**|**Conjuring Positive Pairs for Efficient Unification of Representation Learning and Image Synthesis**|Imanol G. Estepa et.al.|[2503.15060](http://arxiv.org/abs/2503.15060)|null|
@@ -9665,6 +9749,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**A Foundational individual Mobility Prediction Model based on Open-Source Large Language Models**|Zhenlin Qin et.al.|[2503.16553](http://arxiv.org/abs/2503.16553)|null|
+|**2025-03-19**|**A Vehicle-Infrastructure Multi-layer Cooperative Decision-making Framework**|Yiming Cui et.al.|[2503.16552](http://arxiv.org/abs/2503.16552)|null|
+|**2025-03-19**|**SemanticScanpath: Combining Gaze and Speech for Situated Human-Robot Interaction Using LLMs**|Elisabeth Menendez et.al.|[2503.16548](http://arxiv.org/abs/2503.16548)|null|
+|**2025-03-19**|**Poly-FEVER: A Multilingual Fact Verification Benchmark for Hallucination Detection in Large Language Models**|Hanzhi Zhang et.al.|[2503.16541](http://arxiv.org/abs/2503.16541)|null|
 |**2025-03-19**|**Guardians of Generation: Dynamic Inference-Time Copyright Shielding with Adaptive Guidance for AI Image Generation**|Soham Roy et.al.|[2503.16171](http://arxiv.org/abs/2503.16171)|null|
 |**2025-03-19**|**KoGNER: A Novel Framework for Knowledge Graph Distillation on Biomedical Named Entity Recognition**|Heming Zhang et.al.|[2503.15737](http://arxiv.org/abs/2503.15737)|null|
 |**2025-03-19**|**Reinforcement Learning Environment with LLM-Controlled Adversary in D&D 5th Edition Combat**|Joseph Emmanuel DL Dayo et.al.|[2503.15726](http://arxiv.org/abs/2503.15726)|null|
@@ -9672,32 +9760,32 @@
 |**2025-03-19**|**ECO: An LLM-Driven Efficient Code Optimizer for Warehouse Scale Computers**|Hannah Lin et.al.|[2503.15669](http://arxiv.org/abs/2503.15669)|null|
 |**2025-03-19**|**Enhancing Pancreatic Cancer Staging with Large Language Models: The Role of Retrieval-Augmented Generation**|Hisashi Johno et.al.|[2503.15664](http://arxiv.org/abs/2503.15664)|null|
 |**2025-03-19**|**R $^2$ : A LLM Based Novel-to-Screenplay Generation Framework with Causal Plot Graphs**|Zefeng Lin et.al.|[2503.15655](http://arxiv.org/abs/2503.15655)|null|
-|**2025-03-19**|**Vision-Speech Models: Teaching Speech Models to Converse about Images**|Amélie Royer et.al.|[2503.15633](http://arxiv.org/abs/2503.15633)|null|
+|**2025-03-19**|**Vision-Speech Models: Teaching Speech Models to Converse about Images**|Amélie Royer et.al.|[2503.15633](http://arxiv.org/abs/2503.15633)|**[link](https://github.com/kyutai-labs/moshivis)**|
 |**2025-03-19**|**LLaVA-MORE: A Comparative Study of LLMs and Visual Backbones for Enhanced Visual Instruction Tuning**|Federico Cocchi et.al.|[2503.15621](http://arxiv.org/abs/2503.15621)|**[link](https://github.com/aimagelab/LLaVA-MORE)**|
-|**2025-03-19**|**Does Context Matter? ContextualJudgeBench for Evaluating LLM-based Judges in Contextual Settings**|Austin Xu et.al.|[2503.15620](http://arxiv.org/abs/2503.15620)|null|
+|**2025-03-19**|**Does Context Matter? ContextualJudgeBench for Evaluating LLM-based Judges in Contextual Settings**|Austin Xu et.al.|[2503.15620](http://arxiv.org/abs/2503.15620)|**[link](https://github.com/salesforceairesearch/contextualjudgebench)**|
 |**2025-03-19**|**How Well Can AI Build SD Models?**|William Schoenberg et.al.|[2503.15580](http://arxiv.org/abs/2503.15580)|null|
-|**2025-03-19**|**Understanding the Generalization of In-Context Learning in Transformers: An Empirical Study**|Xingxuan Zhang et.al.|[2503.15579](http://arxiv.org/abs/2503.15579)|null|
+|**2025-03-19**|**Understanding the Generalization of In-Context Learning in Transformers: An Empirical Study**|Xingxuan Zhang et.al.|[2503.15579](http://arxiv.org/abs/2503.15579)|**[link](https://github.com/ubecc/generalization-of-transformers)**|
 |**2025-03-19**|**Neuronal Activation States as Sample Embeddings for Data Selection in Task-Specific Instruction Tuning**|Da Ma et.al.|[2503.15573](http://arxiv.org/abs/2503.15573)|null|
 |**2025-03-19**|**LLM-Aided Customizable Profiling of Code Data Based On Programming Language Concepts**|Pankaj Thorat et.al.|[2503.15571](http://arxiv.org/abs/2503.15571)|null|
 |**2025-03-19**|**RAG-based User Profiling for Precision Planning in Mixed-precision Over-the-Air Federated Learning**|Jinsheng Yuan et.al.|[2503.15569](http://arxiv.org/abs/2503.15569)|null|
 |**2025-03-19**|**Enforcing Consistency and Fairness in Multi-level Hierarchical Classification with a Mask-based Output Layer**|Shijing Chen et.al.|[2503.15566](http://arxiv.org/abs/2503.15566)|null|
 |**2025-03-19**|**GReaTER: Generate Realistic Tabular data after data Enhancement and Reduction**|Tung Sum Thomas Kwok et.al.|[2503.15564](http://arxiv.org/abs/2503.15564)|null|
 |**2025-03-19**|**Shap-MeD**|Nicolás Laverde et.al.|[2503.15562](http://arxiv.org/abs/2503.15562)|null|
-|**2025-03-19**|**SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks**|Yifei Zhou et.al.|[2503.15478](http://arxiv.org/abs/2503.15478)|null|
-|**2025-03-19**|**Cube: A Roblox View of 3D Intelligence**|Foundation AI Team et.al.|[2503.15475](http://arxiv.org/abs/2503.15475)|null|
+|**2025-03-19**|**SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks**|Yifei Zhou et.al.|[2503.15478](http://arxiv.org/abs/2503.15478)|**[link](https://github.com/facebookresearch/sweet_rl)**|
+|**2025-03-19**|**Cube: A Roblox View of 3D Intelligence**|Foundation AI Team et.al.|[2503.15475](http://arxiv.org/abs/2503.15475)|**[link](https://github.com/roblox/cube)**|
 |**2025-03-19**|**Di $\mathtt{[M]}$ O: Distilling Masked Diffusion Models into One-step Generator**|Yuanzhi Zhu et.al.|[2503.15457](http://arxiv.org/abs/2503.15457)|null|
 |**2025-03-19**|**Evaluating Bias in Retrieval-Augmented Medical Question-Answering Systems**|Yuelyu Ji et.al.|[2503.15454](http://arxiv.org/abs/2503.15454)|null|
-|**2025-03-19**|**SkyLadder: Better and Faster Pretraining via Context Window Scheduling**|Tongyao Zhu et.al.|[2503.15450](http://arxiv.org/abs/2503.15450)|null|
+|**2025-03-19**|**SkyLadder: Better and Faster Pretraining via Context Window Scheduling**|Tongyao Zhu et.al.|[2503.15450](http://arxiv.org/abs/2503.15450)|**[link](https://github.com/sail-sg/skyladder)**|
 |**2025-03-19**|**Probing the topology of the space of tokens with structured prompts**|Michael Robinson et.al.|[2503.15421](http://arxiv.org/abs/2503.15421)|null|
 |**2025-03-19**|**LIFT: Latent Implicit Functions for Task- and Data-Agnostic Encoding**|Amirhossein Kazerouni et.al.|[2503.15420](http://arxiv.org/abs/2503.15420)|null|
 |**2025-03-19**|**Temporal Regularization Makes Your Video Generator Stronger**|Harold Haodong Chen et.al.|[2503.15417](http://arxiv.org/abs/2503.15417)|null|
 |**2025-03-19**|**Material Decomposition in Photon-Counting Computed Tomography with Diffusion Models: Comparative Study and Hybridization with Variational Regularizers**|Corentin Vazia et.al.|[2503.15383](http://arxiv.org/abs/2503.15383)|null|
-|**2025-03-19**|**Real-world validation of a multimodal LLM-powered pipeline for High-Accuracy Clinical Trial Patient Matching leveraging EHR data**|Anatole Callies et.al.|[2503.15374](http://arxiv.org/abs/2503.15374)|null|
+|**2025-03-19**|**Real-world validation of a multimodal LLM-powered pipeline for High-Accuracy Clinical Trial Patient Matching leveraging EHR data**|Anatole Callies et.al.|[2503.15374](http://arxiv.org/abs/2503.15374)|**[link](https://github.com/inato/ai_trial_eligibility_assessment)**|
 |**2025-03-19**|**SemEval-2025 Task 1: AdMIRe -- Advancing Multimodal Idiomaticity Representation**|Thomas Pickard et.al.|[2503.15358](http://arxiv.org/abs/2503.15358)|null|
 |**2025-03-19**|**SPILL: Domain-Adaptive Intent Clustering based on Selection and Pooling with Large Language Models**|I-Fan Lin et.al.|[2503.15351](http://arxiv.org/abs/2503.15351)|null|
 |**2025-03-19**|**TruthLens:A Training-Free Paradigm for DeepFake Detection**|Ritabrata Chakraborty et.al.|[2503.15342](http://arxiv.org/abs/2503.15342)|null|
 |**2025-03-19**|**Uncertainty-Guided Chain-of-Thought for Code Generation with LLMs**|Yuqi Zhu et.al.|[2503.15341](http://arxiv.org/abs/2503.15341)|null|
-|**2025-03-19**|**Solla: Towards a Speech-Oriented LLM That Hears Acoustic Context**|Junyi Ao et.al.|[2503.15338](http://arxiv.org/abs/2503.15338)|null|
+|**2025-03-19**|**Solla: Towards a Speech-Oriented LLM That Hears Acoustic Context**|Junyi Ao et.al.|[2503.15338](http://arxiv.org/abs/2503.15338)|**[link](https://github.com/amphionspace/SA-Eval)**|
 |**2025-03-19**|**aiXcoder-7B-v2: Training LLMs to Fully Utilize the Long Context in Repository-level Code Completion**|Jia Li et.al.|[2503.15301](http://arxiv.org/abs/2503.15301)|null|
 |**2025-03-19**|**Inside-Out: Hidden Factual Knowledge in LLMs**|Zorik Gekhman et.al.|[2503.15299](http://arxiv.org/abs/2503.15299)|null|
 |**2025-03-19**|**TROVE: A Challenge for Fine-Grained Text Provenance via Source Sentence Tracing and Relationship Classification**|Junnan Zhu et.al.|[2503.15289](http://arxiv.org/abs/2503.15289)|null|
@@ -9706,11 +9794,11 @@
 |**2025-03-19**|**Do Chains-of-Thoughts of Large Language Models Suffer from Hallucinations, Cognitive Biases, or Phobias in Bayesian Reasoning?**|Roberto Araya et.al.|[2503.15268](http://arxiv.org/abs/2503.15268)|null|
 |**2025-03-19**|**Efficient allocation of image recognition and LLM tasks on multi-GPU system**|Marcin Lawenda et.al.|[2503.15252](http://arxiv.org/abs/2503.15252)|null|
 |**2025-03-19**|**Automated Non-Functional Requirements Generation in Software Engineering with Large Language Models: A Comparative Study**|Jomar Thomas Almonte et.al.|[2503.15248](http://arxiv.org/abs/2503.15248)|null|
-|**2025-03-19**|**Exploring Large Language Models for Word Games:Who is the Spy?**|Chentian Wei et.al.|[2503.15235](http://arxiv.org/abs/2503.15235)|null|
+|**2025-03-19**|**Exploring Large Language Models for Word Games:Who is the Spy?**|Chentian Wei et.al.|[2503.15235](http://arxiv.org/abs/2503.15235)|**[link](https://github.com/ct-wei/who-is-the-spy)**|
 |**2025-03-19**|**When LLMs Meet API Documentation: Can Retrieval Augmentation Aid Code Generation Just as It Helps Developers?**|Jingyi Chen et.al.|[2503.15231](http://arxiv.org/abs/2503.15231)|null|
 |**2025-03-19**|**A Personalized Data-Driven Generative Model of Human Motion**|Angelo Di Porzio et.al.|[2503.15225](http://arxiv.org/abs/2503.15225)|null|
 |**2025-03-19**|**DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation**|Jiazhe Guo et.al.|[2503.15208](http://arxiv.org/abs/2503.15208)|null|
-|**2025-03-19**|**Optimizing Retrieval Strategies for Financial Question Answering Documents in Retrieval-Augmented Generation Systems**|Sejong Kim et.al.|[2503.15191](http://arxiv.org/abs/2503.15191)|null|
+|**2025-03-19**|**Optimizing Retrieval Strategies for Financial Question Answering Documents in Retrieval-Augmented Generation Systems**|Sejong Kim et.al.|[2503.15191](http://arxiv.org/abs/2503.15191)|**[link](https://github.com/seohyunwoo-0407/gar)**|
 |**2025-03-19**|**A Review on Large Language Models for Visual Analytics**|Navya Sonal Agarwal et.al.|[2503.15176](http://arxiv.org/abs/2503.15176)|null|
 |**2025-03-19**|**Comparing Llama3 and DeepSeekR1 on Biomedical Text Classification Tasks**|Yuting Guo et.al.|[2503.15169](http://arxiv.org/abs/2503.15169)|null|
 |**2025-03-19**|**Aligning Crowd-sourced Human Feedback for Reinforcement Learning on Code Generation by Large Language Models**|Man Fai Wong et.al.|[2503.15129](http://arxiv.org/abs/2503.15129)|null|
@@ -9719,7 +9807,7 @@
 |**2025-03-19**|**Exploring Model Editing for LLM-based Aspect-Based Sentiment Classification**|Shichen Li et.al.|[2503.15117](http://arxiv.org/abs/2503.15117)|null|
 |**2025-03-19**|**DeCaFlow: A Deconfounding Causal Generative Model**|Alejandro Almodóvar et.al.|[2503.15114](http://arxiv.org/abs/2503.15114)|null|
 |**2025-03-19**|**Reasoning Effort and Problem Complexity: A Scaling Analysis in LLMs**|Benjamin Estermann et.al.|[2503.15113](http://arxiv.org/abs/2503.15113)|null|
-|**2025-03-19**|**OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generation**|Shang Liu et.al.|[2503.15112](http://arxiv.org/abs/2503.15112)|null|
+|**2025-03-19**|**OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generation**|Shang Liu et.al.|[2503.15112](http://arxiv.org/abs/2503.15112)|**[link](https://github.com/hkust-zhiyao/rtl-coder)**|
 |**2025-03-19**|**VIPER: Visual Perception and Explainable Reasoning for Sequential Decision-Making**|Mohamed Salim Aissi et.al.|[2503.15108](http://arxiv.org/abs/2503.15108)|null|
 |**2025-03-19**|**Intelligent Spatial Perception by Building Hierarchical 3D Scene Graphs for Indoor Scenarios with the Help of LLMs**|Yao Cheng et.al.|[2503.15091](http://arxiv.org/abs/2503.15091)|null|
 |**2025-03-19**|**LogiAgent: Automated Logical Testing for REST Systems with LLM-Based Multi-Agents**|Ke Zhang et.al.|[2503.15079](http://arxiv.org/abs/2503.15079)|null|
@@ -9741,7 +9829,7 @@
 |**2025-03-19**|**UTFix: Change Aware Unit Test Repairing using LLM**|Shanto Rahman et.al.|[2503.14924](http://arxiv.org/abs/2503.14924)|null|
 |**2025-03-19**|**MASS: Mathematical Data Selection via Skill Graphs for Pretraining Large Language Models**|Jiazheng Li et.al.|[2503.14917](http://arxiv.org/abs/2503.14917)|null|
 |**2025-03-19**|**Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation**|Siwei Wen et.al.|[2503.14905](http://arxiv.org/abs/2503.14905)|null|
-|**2025-03-19**|**MetaLadder: Ascending Mathematical Solution Quality via Analogical-Problem Reasoning Transfer**|Honglin Lin et.al.|[2503.14891](http://arxiv.org/abs/2503.14891)|null|
+|**2025-03-19**|**MetaLadder: Ascending Mathematical Solution Quality via Analogical-Problem Reasoning Transfer**|Honglin Lin et.al.|[2503.14891](http://arxiv.org/abs/2503.14891)|**[link](https://github.com/lhl3341/metaladder)**|
 |**2025-03-19**|**Pseudo-Relevance Feedback Can Improve Zero-Shot LLM-Based Dense Retrieval**|Hang Li et.al.|[2503.14887](http://arxiv.org/abs/2503.14887)|null|
 |**2025-03-19**|**Envisioning an AI-Enhanced Mental Health Ecosystem**|Kellie Yu Hui Sim et.al.|[2503.14883](http://arxiv.org/abs/2503.14883)|null|
 |**2025-03-19**|**Communication-Efficient Distributed On-Device LLM Inference Over Wireless Networks**|Kai Zhang et.al.|[2503.14882](http://arxiv.org/abs/2503.14882)|null|
@@ -9762,7 +9850,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-18**|**Temporal Context Awareness: A Defense Framework Against Multi-turn Manipulation Attacks on Large Language Models**|Prashant Kulkarni et.al.|[2503.15560](http://arxiv.org/abs/2503.15560)|null|
+|**2025-03-18**|**Do Multimodal Large Language Models Understand Welding?**|Grigorii Khvatskii et.al.|[2503.16537](http://arxiv.org/abs/2503.16537)|null|
+|**2025-03-18**|**Gender and content bias in Large Language Models: a case study on Google Gemini 2.0 Flash Experimental**|Roberto Balestri et.al.|[2503.16534](http://arxiv.org/abs/2503.16534)|null|
+|**2025-03-18**|**From Patient Consultations to Graphs: Leveraging LLMs for Patient Journey Knowledge Graph Construction**|Hassan S. Al Khatib et.al.|[2503.16533](http://arxiv.org/abs/2503.16533)|null|
+|**2025-03-18**|**Temporal Context Awareness: A Defense Framework Against Multi-turn Manipulation Attacks on Large Language Models**|Prashant Kulkarni et.al.|[2503.15560](http://arxiv.org/abs/2503.15560)|**[link](https://github.com/prashantkul/multi-turn-attack-defenses)**|
 |**2025-03-18**|**Fully Automated Generation of Combinatorial Optimisation Systems Using Large Language Models**|Daniel Karapetyan et.al.|[2503.15556](http://arxiv.org/abs/2503.15556)|null|
 |**2025-03-18**|**Whole-Body Image-to-Image Translation for a Virtual Scanner in a Healthcare Digital Twin**|Valerio Guarrasi et.al.|[2503.15555](http://arxiv.org/abs/2503.15555)|null|
 |**2025-03-18**|**A Comprehensive Study of LLM Secure Code Generation**|Shih-Chieh Dai et.al.|[2503.15554](http://arxiv.org/abs/2503.15554)|null|
@@ -9770,14 +9861,13 @@
 |**2025-03-18**|**Efficient but Vulnerable: Benchmarking and Defending LLM Batch Prompting Attack**|Murong Yue et.al.|[2503.15551](http://arxiv.org/abs/2503.15551)|null|
 |**2025-03-18**|**Fake Runs, Real Fixes -- Analyzing xPU Performance Through Simulation**|Ioannis Zarkadas et.al.|[2503.14781](http://arxiv.org/abs/2503.14781)|null|
 |**2025-03-18**|**Uncertainty Distillation: Teaching Language Models to Express Semantic Confidence**|Sophia Hager et.al.|[2503.14749](http://arxiv.org/abs/2503.14749)|null|
-|**2025-03-18**|**CodingGenie: A Proactive LLM-Powered Programming Assistant**|Sebastian Zhao et.al.|[2503.14724](http://arxiv.org/abs/2503.14724)|null|
+|**2025-03-18**|**CodingGenie: A Proactive LLM-Powered Programming Assistant**|Sebastian Zhao et.al.|[2503.14724](http://arxiv.org/abs/2503.14724)|**[link](https://github.com/sebzhao/codinggenie)**|
 |**2025-03-18**|**TestForge: Feedback-Driven, Agentic Test Suite Generation**|Kush Jain et.al.|[2503.14713](http://arxiv.org/abs/2503.14713)|null|
 |**2025-03-18**|**Generating Medically-Informed Explanations for Depression Detection using LLMs**|Xiangyong Chen et.al.|[2503.14671](http://arxiv.org/abs/2503.14671)|null|
-|**2025-03-18**|**ConQuer: A Framework for Concept-Based Quiz Generation**|Yicheng Fu et.al.|[2503.14662](http://arxiv.org/abs/2503.14662)|null|
-|**2025-03-18**|**RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving**|Wenqi Jiang et.al.|[2503.14649](http://arxiv.org/abs/2503.14649)|null|
+|**2025-03-18**|**ConQuer: A Framework for Concept-Based Quiz Generation**|Yicheng Fu et.al.|[2503.14662](http://arxiv.org/abs/2503.14662)|**[link](https://github.com/sofyc/conquer)**|
 |**2025-03-18**|**Towards More Economical Context-Augmented LLM Generation by Reusing Stored KV Cache**|Hanchen Li et.al.|[2503.14647](http://arxiv.org/abs/2503.14647)|null|
-|**2025-03-18**|**Reinforcement learning-based motion imitation for physiologically plausible musculoskeletal motor control**|Merkourios Simos et.al.|[2503.14637](http://arxiv.org/abs/2503.14637)|null|
-|**2025-03-18**|**Assessing Large Language Models for Automated Feedback Generation in Learning Programming Problem Solving**|Priscylla Silva et.al.|[2503.14630](http://arxiv.org/abs/2503.14630)|null|
+|**2025-03-18**|**Reinforcement learning-based motion imitation for physiologically plausible musculoskeletal motor control**|Merkourios Simos et.al.|[2503.14637](http://arxiv.org/abs/2503.14637)|**[link](https://github.com/amathislab/kinesis)**|
+|**2025-03-18**|**Assessing Large Language Models for Automated Feedback Generation in Learning Programming Problem Solving**|Priscylla Silva et.al.|[2503.14630](http://arxiv.org/abs/2503.14630)|**[link](https://github.com/priscylla/Assessing-LMMs-for-Feedback-Generation)**|
 |**2025-03-18**|**Retrieval-Augmented Simulacra: Generative Agents for Up-to-date and Knowledge-Adaptive Simulations**|Hikaru Shimadzu et.al.|[2503.14620](http://arxiv.org/abs/2503.14620)|null|
 |**2025-03-18**|**Image Captioning Evaluation in the Age of Multimodal LLMs: Challenges and Future Perspectives**|Sara Sarto et.al.|[2503.14604](http://arxiv.org/abs/2503.14604)|null|
 |**2025-03-18**|**Command R7B Arabic: A Small, Enterprise Focused, Multilingual, and Culturally Aware Arabic LLM**|Yazeed Alnumay et.al.|[2503.14603](http://arxiv.org/abs/2503.14603)|null|
