@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.23
+## Updated on 2025.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -18385,6 +18385,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-03-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-21</b></td>
+    <td><b>Survey of City-Wide Homelessness Detection Through Environmental Sensing</b></td>
+    <td>Julia Gersey et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.11727">2503.11727</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-20</h3>
 
 <table>
@@ -18654,13 +18676,6 @@ layout: default
     <td><b>Performance Analysis of Decentralized Federated Learning Deployments</b></td>
     <td>Chengyan Jiang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.11828">2503.11828</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-14</b></td>
-    <td><b>Survey of City-Wide Homelessness Detection Through Environmental Sensing</b></td>
-    <td>Julia Gersey et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.11727">2503.11727</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -35652,6 +35667,84 @@ layout: default
 
 ## AIGC
 
+<h3>2025-03-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-21</b></td>
+    <td><b>Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning</b></td>
+    <td>Zhaowei Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.16252">2503.16252</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-21</b></td>
+    <td><b>Affective Polarization Amongst Swedish Politicians</b></td>
+    <td>François t'Serstevens et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.16193">2503.16193</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-21</b></td>
+    <td><b>MKG-Rank: Enhancing Large Language Models with Knowledge Graph for Multilingual Medical Question Answering</b></td>
+    <td>Feiyang Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.16131">2503.16131</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-21</b></td>
+    <td><b>Autonomous AI imitators increase diversity in homogeneous information ecosystems</b></td>
+    <td>Emil Bakkensen Johansen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.16021">2503.16021</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-21</b></td>
+    <td><b>Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment</b></td>
+    <td>Gaole Dai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.15937">2503.15937</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-21</b></td>
+    <td><b>Enhancing Zero-Shot Image Recognition in Vision-Language Models through Human-like Concept Guidance</b></td>
+    <td>Hui Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.15886">2503.15886</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-21</b></td>
+    <td><b>Leveraging MoE-based Large Language Model for Zero-Shot Multi-Task Semantic Communication</b></td>
+    <td>Sin-Yu Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.15722">2503.15722</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-21</b></td>
+    <td><b>From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment</b></td>
+    <td>Jia-Nan Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.15463">2503.15463</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-21</b></td>
+    <td><b>Bridging Social Psychology and LLM Reasoning: Conflict-Aware Meta-Review Generation via Cognitive Alignment</b></td>
+    <td>Wei Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.13879">2503.13879</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-20</h3>
 
 <table>
@@ -35800,13 +35893,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-03-20</b></td>
-    <td><b>Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning</b></td>
-    <td>Zhaowei Liu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.16252">2503.16252</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-20</b></td>
     <td><b>Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't</b></td>
     <td>Quy-Anh Dang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.16219">2503.16219</a></td>
@@ -35824,13 +35910,6 @@ layout: default
     <td><b>VP-NTK: Exploring the Benefits of Visual Prompting in Differentially Private Data Synthesis</b></td>
     <td>Chia-Yi Hsu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.16195">2503.16195</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-20</b></td>
-    <td><b>Affective Polarization Amongst Swedish Politicians</b></td>
-    <td>François t'Serstevens et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.16193">2503.16193</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -35873,13 +35952,6 @@ layout: default
     <td><b>Unify and Triumph: Polyglot, Diverse, and Self-Consistent Generation of Unit Tests with LLMs</b></td>
     <td>Djamel Eddine Khelladi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.16144">2503.16144</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-20</b></td>
-    <td><b>MKG-Rank: Enhancing Large Language Models with Knowledge Graph for Multilingual Medical Question Answering</b></td>
-    <td>Feiyang Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.16131">2503.16131</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -35961,13 +36033,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-03-20</b></td>
-    <td><b>Autonomous AI imitators increase diversity in homogeneous information ecosystems</b></td>
-    <td>Emil Bakkensen Johansen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.16021">2503.16021</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-20</b></td>
     <td><b>GraspCoT: Integrating Physical Property Reasoning for 6-DoF Grasping under Flexible Language Instructions</b></td>
     <td>Xiaomeng Chu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.16013">2503.16013</a></td>
@@ -36017,13 +36082,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-03-20</b></td>
-    <td><b>Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment</b></td>
-    <td>Gaole Dai et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.15937">2503.15937</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-20</b></td>
     <td><b>Towards Automatic Continual Learning: A Self-Adaptive Framework for Continual Instruction Tuning</b></td>
     <td>Peiyi Lin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.15924">2503.15924</a></td>
@@ -36055,13 +36113,6 @@ layout: default
     <td><b>DocVideoQA: Towards Comprehensive Understanding of Document-Centric Videos through Question Answering</b></td>
     <td>Haochen Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.15887">2503.15887</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-20</b></td>
-    <td><b>Enhancing Zero-Shot Image Recognition in Vision-Language Models through Human-like Concept Guidance</b></td>
-    <td>Hui Liu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.15886">2503.15886</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -36291,13 +36342,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-03-19</b></td>
-    <td><b>Leveraging MoE-based Large Language Model for Zero-Shot Multi-Task Semantic Communication</b></td>
-    <td>Sin-Yu Huang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.15722">2503.15722</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-19</b></td>
     <td><b>Safety Aware Task Planning via Large Language Models in Robotics</b></td>
     <td>Azal Ahmad Khan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.15707">2503.15707</a></td>
@@ -36413,13 +36457,6 @@ layout: default
     <td><b>Cube: A Roblox View of 3D Intelligence</b></td>
     <td>Foundation AI Team et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.15475">2503.15475</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-19</b></td>
-    <td><b>From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment</b></td>
-    <td>Jia-Nan Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.15463">2503.15463</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -37457,13 +37494,6 @@ layout: default
     <td><b>MoK-RAG: Mixture of Knowledge Paths Enhanced Retrieval-Augmented Generation for Embodied AI Environments</b></td>
     <td>Zhengsheng Guo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.13882">2503.13882</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-18</b></td>
-    <td><b>Bridging Social Psychology and LLM Reasoning: Conflict-Aware Meta-Review Generation via Cognitive Alignment</b></td>
-    <td>Wei Chen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.13879">2503.13879</a></td>
     <td>null</td>
        </tr>
        <tr>
