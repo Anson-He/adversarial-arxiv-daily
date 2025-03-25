@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-03-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-22</b></td>
+    <td><b>Safe RLHF-V: Safe Reinforcement Learning from Human Feedback in Multimodal Large Language Models</b></td>
+    <td>Jiaming Ji et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.17682">2503.17682</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-21</h3>
 
 <table>
@@ -36,6 +58,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-03-21</b></td>
+    <td><b>Debugging and Runtime Analysis of Neural Networks with VLMs (A Case Study)</b></td>
+    <td>Boyue Caroline Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.17416">2503.17416</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-03-21</b></td>
     <td><b>Robustness of deep learning classification to adversarial input on GPUs: asynchronous parallel accumulation is a source of vulnerability</b></td>
@@ -271,6 +300,72 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-03-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>Deterministic Certification of Graph Neural Networks against Graph Poisoning Attacks with Arbitrary Perturbations</b></td>
+    <td>Jiate Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18503">2503.18503</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-03-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-22</b></td>
+    <td><b>Towards Invisible Backdoor Attack on Text-to-Image Diffusion Model</b></td>
+    <td>Jie Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.17724">2503.17724</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-03-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-21</b></td>
+    <td><b>Large Language Models Can Verbatim Reproduce Long Malicious Sequences</b></td>
+    <td>Sharon Lin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.17578">2503.17578</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-20</h3>
 
 <table>
@@ -902,9 +997,102 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-03-24</b></td>
+    <td><b>Two Types of Data Privacy Controls</b></td>
+    <td>Eman Alashwali et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18729">2503.18729</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>The Role of Artificial Intelligence in Enhancing Insulin Recommendations and Therapy Outcomes</b></td>
+    <td>Maria Panagiotou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18592">2503.18592</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>Surgical Action Planning with Large Language Models</b></td>
+    <td>Mengya Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18296">2503.18296</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
     <td><b>Zero-Knowledge Federated Learning: A New Trustworthy and Privacy-Preserving Distributed Learning Paradigm</b></td>
     <td>Yuxin Jin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.15550">2503.15550</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-03-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-23</b></td>
+    <td><b>FROG: Fair Removal on Graphs</b></td>
+    <td>Ziheng Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18197">2503.18197</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-23</b></td>
+    <td><b>Active Inference for Energy Control and Planning in Smart Buildings and Communities</b></td>
+    <td>Seyyed Danial Nazemi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18161">2503.18161</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-23</b></td>
+    <td><b>Dynamic Gradient Sparse Update for Edge Training</b></td>
+    <td>I-Hsuan Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.17959">2503.17959</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-03-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-22</b></td>
+    <td><b>Feather-SQL: A Lightweight NL2SQL Framework with Dual-Model Collaboration Paradigm for Small Language Models</b></td>
+    <td>Wenqi Pei et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.17811">2503.17811</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-22</b></td>
+    <td><b>Decentralized Federated Dataset Dictionary Learning for Multi-Source Domain Adaptation</b></td>
+    <td>Rebecca Clain et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.17683">2503.17683</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-22</b></td>
+    <td><b>A Qualitative Study of User Perception of M365 AI Copilot</b></td>
+    <td>Muneera Bano et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.17661">2503.17661</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -922,6 +1110,27 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-03-21</b></td>
+    <td><b>Collaborative Value Function Estimation Under Model Mismatch: A Federated Temporal Difference Analysis</b></td>
+    <td>Ali Beikmohammadi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.17454">2503.17454</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-21</b></td>
+    <td><b>On-Device Federated Continual Learning on RISC-V-based Ultra-Low-Power SoC for Intelligent Nano-Drone Swarms</b></td>
+    <td>Lars Kröger et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.17436">2503.17436</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-21</b></td>
+    <td><b>Distributed Stochastic Zeroth-Order Optimization with Compressed Communication</b></td>
+    <td>Youqing Hua et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.17429">2503.17429</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-03-21</b></td>
     <td><b>A Thorough Assessment of the Non-IID Data Impact in Federated Learning</b></td>
@@ -973,6 +1182,20 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-03-19</b></td>
+    <td><b>ChatGPT or A Silent Everywhere Helper: A Survey of Large Language Models</b></td>
+    <td>Azim Akhtarshenas et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.17403">2503.17403</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-19</b></td>
+    <td><b>AEJIM: A Real-Time AI Framework for Crowdsourced, Transparent, and Ethical Environmental Hazard Detection and Reporting</b></td>
+    <td>Torsten Tiltack et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.17401">2503.17401</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-03-19</b></td>
     <td><b>Distributed Generalized Linear Models: A Privacy-Preserving Approach</b></td>
@@ -1593,6 +1816,50 @@ layout: default
 
 ## Forensics
 
+<h3>2025-03-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>NullSwap: Proactive Identity Cloaking Against Deepfake Face Swapping</b></td>
+    <td>Tianyi Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18678">2503.18678</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-03-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-23</b></td>
+    <td><b>Anomaly Detection and Localization for Speech Deepfakes via Feature Pyramid Matching</b></td>
+    <td>Emma Coletta et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18032">2503.18032</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-21</h3>
 
 <table>
@@ -1606,6 +1873,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-03-21</b></td>
+    <td><b>Measuring the Robustness of Audio Deepfake Detectors</b></td>
+    <td>Xiang Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.17577">2503.17577</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-03-21</b></td>
     <td><b>D2Fusion: Dual-domain Fusion with Feature Superposition for Deepfake Detection</b></td>
@@ -1961,6 +2235,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-03-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>Equivariant Image Modeling</b></td>
+    <td>Ruixiao Dong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18948">2503.18948</a></td>
+    <td>**[link](https://github.com/drx-code/EquivariantModeling)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>Aether: Geometric-Aware Unified World Modeling</b></td>
+    <td>Aether Team et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18945">2503.18945</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding</b></td>
+    <td>Mingze Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18943">2503.18943</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>Video-T1: Test-Time Scaling for Video Generation</b></td>
+    <td>Fangfu Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18942">2503.18942</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>Exploring Training and Inference Scaling Laws in Generative Retrieval</b></td>
+    <td>Hongru Cai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18941">2503.18941</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>CoMP: Continual Multimodal Pre-training for Vision Foundation Models</b></td>
+    <td>Yitong Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18931">2503.18931</a></td>
+    <td>**[link](https://github.com/SliMM-X/CoMP-MM)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training</b></td>
+    <td>Brian R. Bartoldson et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18929">2503.18929</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>Video SimpleQA: Towards Factuality Evaluation in Large Video Language Models</b></td>
+    <td>Meng Cao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18923">2503.18923</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>xKV: Cross-Layer SVD for KV-Cache Compression</b></td>
+    <td>Chi-Chih Chang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18893">2503.18893</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration</b></td>
+    <td>Zhexuan Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18891">2503.18891</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>I Have Covered All the Bases Here: Interpreting Reasoning Features in Large Language Models via Sparse Autoencoders</b></td>
+    <td>Andrey Galichin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18878">2503.18878</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>A semantic communication-based workload-adjustable transceiver for wireless AI-generated content (AIGC) delivery</b></td>
+    <td>Runze Cheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18874">2503.18874</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design</b></td>
+    <td>Rui Xie et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18869">2503.18869</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>Structuring Scientific Innovation: A Framework for Modeling and Discovering Impactful Knowledge Combinations</b></td>
+    <td>Junlan Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18865">2503.18865</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>3DSwapping: Texture Swapping For 3D Object From Single Reference Image</b></td>
+    <td>Xiao Cao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18853">2503.18853</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>EconEvals: Benchmarks and Litmus Tests for LLM Agents in Unknown Environments</b></td>
+    <td>Sara Fish et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18825">2503.18825</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>Defeating Prompt Injections by Design</b></td>
+    <td>Edoardo Debenedetti et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18813">2503.18813</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>Classical Planning with LLM-Generated Heuristics: Challenging the State of the Art with Python Code</b></td>
+    <td>Augusto B. Corrêa et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18809">2503.18809</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>REALM: A Dataset of Real-World LLM Use Cases</b></td>
+    <td>Jingwen Cheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18792">2503.18792</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>BitDecoding: Unlocking Tensor Cores for Long-Context LLMs Decoding with Low-Bit KV Cache</b></td>
+    <td>Dayou Du et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.18773">2503.18773</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-21</h3>
 
 <table>
