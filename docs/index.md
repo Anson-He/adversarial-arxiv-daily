@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.24
+## Updated on 2025.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -28742,6 +28742,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-03-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-22</b></td>
+    <td><b>Where are we in audio deepfake detection? A systematic analysis over generative and detection models</b></td>
+    <td>Xiang Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.04324">2410.04324</a></td>
+    <td>**[link](https://github.com/jessegator/sonar)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-21</h3>
 
 <table>
@@ -31573,13 +31595,6 @@ layout: default
     <td>Dongliang Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2410.07633">2410.07633</a></td>
     <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2024-10-10</b></td>
-    <td><b>SONAR: A Synthetic AI-Audio Detection Framework and Benchmark</b></td>
-    <td>Xiang Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.04324">2410.04324</a></td>
-    <td>**[link](https://github.com/jessegator/sonar)**</td>
        </tr>
    </tbody>
 </table>
@@ -35739,6 +35754,57 @@ layout: default
 
 ## AIGC
 
+<h3>2025-03-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-23</b></td>
+    <td><b>Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models</b></td>
+    <td>Yang Sui et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.16419">2503.16419</a></td>
+    <td>**[link](https://github.com/eclipsess/awesome-efficient-reasoning-llms)**</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-03-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-22</b></td>
+    <td><b>Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation</b></td>
+    <td>Yuqing Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.16430">2503.16430</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-22</b></td>
+    <td><b>Bias Evaluation and Mitigation in Retrieval-Augmented Medical Question-Answering Systems</b></td>
+    <td>Yuelyu Ji et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.15454">2503.15454</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-21</h3>
 
 <table>
@@ -36308,24 +36374,10 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-03-20</b></td>
-    <td><b>Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation</b></td>
-    <td>Yuqing Wang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.16430">2503.16430</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-20</b></td>
     <td><b>SynCity: Training-Free Generation of 3D Worlds</b></td>
     <td>Paul Engstler et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.16420">2503.16420</a></td>
     <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-20</b></td>
-    <td><b>Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models</b></td>
-    <td>Yang Sui et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.16419">2503.16419</a></td>
-    <td>**[link](https://github.com/eclipsess/awesome-efficient-reasoning-llms)**</td>
        </tr>
        <tr>
     <td><b>2025-03-20</b></td>
@@ -37026,13 +37078,6 @@ layout: default
     <td><b>Di $\mathtt{[M]}$ O: Distilling Masked Diffusion Models into One-step Generator</b></td>
     <td>Yuanzhi Zhu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.15457">2503.15457</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-19</b></td>
-    <td><b>Evaluating Bias in Retrieval-Augmented Medical Question-Answering Systems</b></td>
-    <td>Yuelyu Ji et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.15454">2503.15454</a></td>
     <td>null</td>
        </tr>
        <tr>
