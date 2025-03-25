@@ -4758,6 +4758,13 @@
 
 ## Data privacy
 
+<h3>2025-03-24</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-03-24**|**Zero-Knowledge Federated Learning: A New Trustworthy and Privacy-Preserving Distributed Learning Paradigm**|Yuxin Jin et.al.|[2503.15550](http://arxiv.org/abs/2503.15550)|null|
+<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+
 <h3>2025-03-21</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -4788,7 +4795,6 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-18**|**Advanced Relay-Based Collaborative Framework for Optimizing Synchronization in Split Federated Learning over Wireless Networks**|Haoran Gao et.al.|[2503.15559](http://arxiv.org/abs/2503.15559)|null|
-|**2025-03-18**|**Zero-Knowledge Federated Learning: A New Trustworthy and Privacy-Preserving Distributed Learning Paradigm**|Yuxin Jin et.al.|[2503.15550](http://arxiv.org/abs/2503.15550)|null|
 |**2025-03-18**|**Anomaly-Flow: A Multi-domain Federated Generative Adversarial Network for Distributed Denial-of-Service Detection**|Leonardo Henrique de Melo et.al.|[2503.14618](http://arxiv.org/abs/2503.14618)|**[link](https://github.com/c2dc/anomaly-flow)**|
 |**2025-03-18**|**Robust Machine Unlearning for Quantized Neural Networks via Adaptive Gradient Reweighting with Similar Labels**|Yujia Tong et.al.|[2503.13917](http://arxiv.org/abs/2503.13917)|null|
 |**2025-03-18**|**Automatic MILP Model Construction for Multi-Robot Task Allocation and Scheduling Based on Large Language Models**|Mingming Peng et.al.|[2503.13813](http://arxiv.org/abs/2503.13813)|null|

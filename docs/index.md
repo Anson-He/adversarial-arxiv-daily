@@ -18428,6 +18428,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-03-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>Zero-Knowledge Federated Learning: A New Trustworthy and Privacy-Preserving Distributed Learning Paradigm</b></td>
+    <td>Yuxin Jin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.15550">2503.15550</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-21</h3>
 
 <table>
@@ -18540,13 +18562,6 @@ layout: default
     <td><b>Advanced Relay-Based Collaborative Framework for Optimizing Synchronization in Split Federated Learning over Wireless Networks</b></td>
     <td>Haoran Gao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.15559">2503.15559</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-18</b></td>
-    <td><b>Zero-Knowledge Federated Learning: A New Trustworthy and Privacy-Preserving Distributed Learning Paradigm</b></td>
-    <td>Yuxin Jin et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.15550">2503.15550</a></td>
     <td>null</td>
        </tr>
        <tr>
