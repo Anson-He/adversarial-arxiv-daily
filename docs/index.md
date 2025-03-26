@@ -23,6 +23,70 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-03-25</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>Bitstream Collisions in Neural Image Compression via Adversarial Perturbations</b></td>
+    <td>Jordan Madden et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19817">2503.19817</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation</b></td>
+    <td>Jingdan Kang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19791">2503.19791</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>Boosting the Transferability of Audio Adversarial Examples with Acoustic Representation Optimization</b></td>
+    <td>Weifei Jin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19591">2503.19591</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>Towards Imperceptible Adversarial Attacks for Time Series Classification with Local Perturbations and Frequency Analysis</b></td>
+    <td>Wenwei Gu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19519">2503.19519</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>Stop Walking in Circles! Bailing Out Early in Projected Gradient Descent</b></td>
+    <td>Philip Doldo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19347">2503.19347</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>Efficient Adversarial Detection Frameworks for Vehicle-to-Microgrid Services in Edge Computing</b></td>
+    <td>Ahmed Omara et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19318">2503.19318</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>Robustness of Proof of Team Sprint (PoTS) Against Attacks: A Simulation-Based Analysis</b></td>
+    <td>Naoki Yonezawa et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19293">2503.19293</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-22</h3>
 
 <table>
@@ -982,6 +1046,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-03-25</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>Distributed Stochastic Zeroth-Order Optimization with Compressed Communication</b></td>
+    <td>Youqing Hua et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.17429">2503.17429</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-24</h3>
 
 <table>
@@ -1122,13 +1208,6 @@ layout: default
     <td><b>On-Device Federated Continual Learning on RISC-V-based Ultra-Low-Power SoC for Intelligent Nano-Drone Swarms</b></td>
     <td>Lars Kröger et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.17436">2503.17436</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-21</b></td>
-    <td><b>Distributed Stochastic Zeroth-Order Optimization with Compressed Communication</b></td>
-    <td>Youqing Hua et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.17429">2503.17429</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -1816,6 +1895,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-03-25</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>Unlocking the Hidden Potential of CLIP in Generalizable Deepfake Detection</b></td>
+    <td>Andrii Yermakov et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19683">2503.19683</a></td>
+    <td>**[link](https://github.com/yermandy/deepfake-detection)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-24</h3>
 
 <table>
@@ -2235,6 +2336,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-03-25</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>CoLLM: A Large Language Model for Composed Image Retrieval</b></td>
+    <td>Chuong Huynh et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19910">2503.19910</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>Scaling Vision Pre-Training to 4K Resolution</b></td>
+    <td>Baifeng Shi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19903">2503.19903</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models</b></td>
+    <td>Fernando Julio Cendra et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19902">2503.19902</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>CausalRAG: Integrating Causal Graphs into Retrieval-Augmented Generation</b></td>
+    <td>Nengbo Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19878">2503.19878</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>Think Twice: Enhancing LLM Reasoning by Scaling Multi-round Test-time Thinking</b></td>
+    <td>Xiaoyu Tian et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19855">2503.19855</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>FALCONEye: Finding Answers and Localizing Content in ONE-hour-long videos with multi-modal LLMs</b></td>
+    <td>Carlos Plou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19850">2503.19850</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>A Comparative Analysis of Word Segmentation, Part-of-Speech Tagging, and Named Entity Recognition for Historical Chinese Sources, 1900-1950</b></td>
+    <td>Zhao Fang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19844">2503.19844</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model</b></td>
+    <td>Jun Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19839">2503.19839</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>TopoGEN: topology-driven microstructure generation for in silico modeling of fiber network mechanics</b></td>
+    <td>Sara Cardona et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19832">2503.19832</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>IgCraft: A versatile sequence generation framework for antibody discovery and engineering</b></td>
+    <td>Matthew Greenig et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19821">2503.19821</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>PAVE: Patching and Adapting Video Large Language Models</b></td>
+    <td>Zhuoming Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19794">2503.19794</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models</b></td>
+    <td>Kartik Thakral et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19783">2503.19783</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation</b></td>
+    <td>Haoyu Fu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19755">2503.19755</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>Inducing Personality in LLM-Based Honeypot Agents: Measuring the Effect on Human-Like Agenda Generation</b></td>
+    <td>Lewis Newsham et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19752">2503.19752</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>Optimizing Photonic Structures with Large Language Model Driven Algorithm Discovery</b></td>
+    <td>Haoran Yin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19742">2503.19742</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>Writing as a testbed for open ended agents</b></td>
+    <td>Sian Gooding et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19711">2503.19711</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through Lightweight Vocabulary Adaptation</b></td>
+    <td>Itay Nakash et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19693">2503.19693</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>AIGC-assisted Federated Learning for Vehicular Edge Intelligence: Vehicle Selection, Resource Allocation and Model Augmentation</b></td>
+    <td>Xianke Qiang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19676">2503.19676</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>CoSimGen: Controllable Diffusion Model for Simultaneous Image and Mask Generation</b></td>
+    <td>Rupak Bose et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19661">2503.19661</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>HausaNLP at SemEval-2025 Task 3: Towards a Fine-Grained Model-Aware Hallucination Detection</b></td>
+    <td>Maryam Bala et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.19650">2503.19650</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-24</h3>
 
 <table>
