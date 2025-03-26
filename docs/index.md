@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -1836,6 +1836,13 @@ layout: default
     <td><a href="#http://arxiv.org/abs/2503.18678">2503.18678</a></td>
     <td>null</td>
        </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>Deepfake-Eval-2024: A Multi-Modal In-the-Wild Benchmark of Deepfakes Circulated in 2024</b></td>
+    <td>Nuria Alina Chandra et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.02857">2503.02857</a></td>
+    <td>**[link](https://github.com/nuriachandra/deepfake-eval-2024)**</td>
+       </tr>
    </tbody>
 </table>
 <h3>2025-03-23</h3>
@@ -2156,13 +2163,6 @@ layout: default
     <td>Beilin Chu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.03270">2503.03270</a></td>
     <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-05</b></td>
-    <td><b>Deepfake-Eval-2024: A Multi-Modal In-the-Wild Benchmark of Deepfakes Circulated in 2024</b></td>
-    <td>Nuria Alina Chandra et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.02857">2503.02857</a></td>
-    <td>**[link](https://github.com/nuriachandra/deepfake-eval-2024)**</td>
        </tr>
    </tbody>
 </table>
