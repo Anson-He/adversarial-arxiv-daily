@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.26
+## Updated on 2025.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-03-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving</b></td>
+    <td>Alexandra Arzberger et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.17168">2503.17168</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-25</h3>
 
 <table>
@@ -134,13 +156,6 @@ layout: default
     <td><b>Robustness of deep learning classification to adversarial input on GPUs: asynchronous parallel accumulation is a source of vulnerability</b></td>
     <td>Sanjif Shanmugavelu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.17173">2503.17173</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-21</b></td>
-    <td><b>Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving</b></td>
-    <td>Alexandra Arzberger et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.17168">2503.17168</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -1895,7 +1910,7 @@ layout: default
 
 ## Forensics
 
-<h3>2025-03-25</h3>
+<h3>2025-03-26</h3>
 
 <table>
    <thead>
@@ -1909,11 +1924,18 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-03-25</b></td>
+    <td><b>2025-03-26</b></td>
     <td><b>Unlocking the Hidden Potential of CLIP in Generalizable Deepfake Detection</b></td>
     <td>Andrii Yermakov et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.19683">2503.19683</a></td>
     <td>**[link](https://github.com/yermandy/deepfake-detection)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>InnerSelf: Designing Self-Deepfaked Voice for Emotional Well-being</b></td>
+    <td>Guang Dai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.14257">2503.14257</a></td>
+    <td>null</td>
        </tr>
    </tbody>
 </table>
@@ -2081,13 +2103,6 @@ layout: default
     <td>Vlad Hondru et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.14421">2503.14421</a></td>
     <td>**[link](https://github.com/vladhondru25/exddv)**</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-18</b></td>
-    <td><b>InnerSelf: Designing Self-Deepfaked Voice for Emotional Well-being</b></td>
-    <td>Guang Dai et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.14257">2503.14257</a></td>
-    <td>null</td>
        </tr>
    </tbody>
 </table>
@@ -2354,7 +2369,7 @@ layout: default
     <td><b>CoLLM: A Large Language Model for Composed Image Retrieval</b></td>
     <td>Chuong Huynh et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.19910">2503.19910</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/hmchuong/CoLLM)**</td>
        </tr>
        <tr>
     <td><b>2025-03-25</b></td>
