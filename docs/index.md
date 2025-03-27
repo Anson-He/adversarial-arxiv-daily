@@ -38,6 +38,48 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-03-26</b></td>
+    <td><b>State-Aware Perturbation Optimization for Robust Deep Reinforcement Learning</b></td>
+    <td>Zongyuan Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20613">2503.20613</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Feature Statistics with Uncertainty Help Adversarial Robustness</b></td>
+    <td>Ran Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20583">2503.20583</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Lipschitz Constant Meets Condition Number: Learning Robust and Compact Deep Neural Networks</b></td>
+    <td>Yangqi Feng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20454">2503.20454</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Enabling Heterogeneous Adversarial Transferability via Feature Permutation Attacks</b></td>
+    <td>Tao Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20310">2503.20310</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Are We There Yet? Unraveling the State-of-the-Art Graph Network Intrusion Detection Systems</b></td>
+    <td>Chenglong Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20281">2503.20281</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>How Secure is Forgetting? Linking Machine Unlearning to Machine Learning Attacks</b></td>
+    <td>Muhammed Shafi K. P. et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20257">2503.20257</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
     <td><b>Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving</b></td>
     <td>Alexandra Arzberger et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.17168">2503.17168</a></td>
@@ -379,6 +421,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-03-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>How Secure is Forgetting? Linking Machine Unlearning to Machine Learning Attacks</b></td>
+    <td>Muhammed Shafi K. P. et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20257">2503.20257</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-24</h3>
 
 <table>
@@ -1061,6 +1125,42 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-03-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data</b></td>
+    <td>Masoumeh Sharafi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20771">2503.20771</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Continual learning via probabilistic exchangeable sequence modelling</b></td>
+    <td>Hanwen Xing et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20725">2503.20725</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>How Secure is Forgetting? Linking Machine Unlearning to Machine Learning Attacks</b></td>
+    <td>Muhammed Shafi K. P. et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20257">2503.20257</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-25</h3>
 
 <table>
@@ -1074,6 +1174,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>Federated Learning: A new frontier in the exploration of multi-institutional medical imaging data</b></td>
+    <td>Dominika Ciupek et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20107">2503.20107</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-03-25</b></td>
     <td><b>Distributed Stochastic Zeroth-Order Optimization with Compressed Communication</b></td>
@@ -1467,6 +1574,28 @@ layout: default
 
 ## Model Privacy
 
+<h3>2025-03-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Modelling Privacy Compliance in Cross-border Data Transfers with Bigraphs</b></td>
+    <td>Ebtihal Althubiti et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20464">2503.20464</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-19</h3>
 
 <table>
@@ -1925,6 +2054,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-03-26</b></td>
+    <td><b>Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector</b></td>
+    <td>Xiao Guo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20188">2503.20188</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
     <td><b>Unlocking the Hidden Potential of CLIP in Generalizable Deepfake Detection</b></td>
     <td>Andrii Yermakov et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.19683">2503.19683</a></td>
@@ -1935,6 +2071,28 @@ layout: default
     <td><b>InnerSelf: Designing Self-Deepfaked Voice for Emotional Well-being</b></td>
     <td>Guang Dai et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.14257">2503.14257</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-03-25</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-25</b></td>
+    <td><b>Can Multi-modal (reasoning) LLMs work as deepfake detectors?</b></td>
+    <td>Simiao Ren et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20084">2503.20084</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -2351,6 +2509,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-03-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Mobile-MMLU: A Mobile Intelligence Language Understanding Benchmark</b></td>
+    <td>Sondos Mahmoud Bsharat et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20786">2503.20786</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Understanding R1-Zero-Like Training: A Critical Perspective</b></td>
+    <td>Zichen Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20783">2503.20783</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields</b></td>
+    <td>Shijie Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20776">2503.20776</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Reliable algorithm selection for machine learning-guided design</b></td>
+    <td>Clara Fannjiang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20767">2503.20767</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>MCTS-RAG: Enhancing Retrieval-Augmented Generation with Monte Carlo Tree Search</b></td>
+    <td>Yunhai Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20757">2503.20757</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Beyond Believability: Accurate Human Behavior Simulation with Fine-Tuned LLMs</b></td>
+    <td>Yuxuan Lu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20749">2503.20749</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Continual learning via probabilistic exchangeable sequence modelling</b></td>
+    <td>Hanwen Xing et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20725">2503.20725</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>From Annotation to Adaptation: Metrics, Synthetic Data, and Aspect Extraction for Aspect-Based Sentiment Analysis with Large Language Models</b></td>
+    <td>Nikita Neveditsin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20715">2503.20715</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>GLRD: Global-Local Collaborative Reason and Debate with PSL for 3D Open-Vocabulary Detection</b></td>
+    <td>Xingyu Peng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20682">2503.20682</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Vision as LoRA</b></td>
+    <td>Han Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20680">2503.20680</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>BizGen: Advancing Article-level Visual Text Rendering for Infographics Generation</b></td>
+    <td>Yuyang Peng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20672">2503.20672</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>TAMA: A Human-AI Collaborative Thematic Analysis Framework Using Multi-Agent LLMs for Clinical Interviews</b></td>
+    <td>Huimin Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20666">2503.20666</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>ARMO: Autoregressive Rigging for Multi-Category Objects</b></td>
+    <td>Mingze Sun et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20663">2503.20663</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>TN-Eval: Rubric and Evaluation Protocols for Measuring the Quality of Behavioral Therapy Notes</b></td>
+    <td>Raj Sanjay Shah et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20648">2503.20648</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging</b></td>
+    <td>Han Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20641">2503.20641</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Collaborative Storytelling and LLM: A Linguistic Analysis of Automatically-Generated Role-Playing Game Sessions</b></td>
+    <td>Alessandro Maisto et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20623">2503.20623</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Diffusion Counterfactuals for Image Regressors</b></td>
+    <td>Trung Duc Ha et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20595">2503.20595</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Supply chain network rewiring dynamics at the firm-level</b></td>
+    <td>Tobias Reisch et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20594">2503.20594</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>What to Retrieve for Effective Retrieval-Augmented Code Generation? An Empirical Study and Beyond</b></td>
+    <td>Wenchao Gu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20589">2503.20589</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Synthetic Data Augmentation for Cross-domain Implicit Discourse Relation Recognition</b></td>
+    <td>Frances Yung et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20588">2503.20588</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-25</h3>
 
 <table>
