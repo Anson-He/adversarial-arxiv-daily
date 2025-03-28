@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.27
+## Updated on 2025.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -2509,6 +2509,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-03-27</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>Beyond Believability: Accurate Human Behavior Simulation with Fine-Tuned LLMs</b></td>
+    <td>Yuxuan Lu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20749">2503.20749</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-26</h3>
 
 <table>
@@ -2555,13 +2577,6 @@ layout: default
     <td><b>MCTS-RAG: Enhancing Retrieval-Augmented Generation with Monte Carlo Tree Search</b></td>
     <td>Yunhai Hu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.20757">2503.20757</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-26</b></td>
-    <td><b>Beyond Believability: Accurate Human Behavior Simulation with Fine-Tuned LLMs</b></td>
-    <td>Yuxuan Lu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.20749">2503.20749</a></td>
     <td>null</td>
        </tr>
        <tr>
