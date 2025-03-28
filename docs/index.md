@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-03-27</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>Adversarial Wear and Tear: Exploiting Natural Damage for Generating Physical-World Adversarial Examples</b></td>
+    <td>Samra Irshad et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21164">2503.21164</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-26</h3>
 
 <table>
@@ -38,6 +60,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-03-26</b></td>
+    <td><b>Robust Deep Reinforcement Learning in Robotics via Adaptive Gradient-Masked Adversarial Attacks</b></td>
+    <td>Zongyuan Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20844">2503.20844</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
     <td><b>State-Aware Perturbation Optimization for Robust Deep Reinforcement Learning</b></td>
     <td>Zongyuan Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.20613">2503.20613</a></td>
@@ -48,7 +77,7 @@ layout: default
     <td><b>Feature Statistics with Uncertainty Help Adversarial Robustness</b></td>
     <td>Ran Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.20583">2503.20583</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/techtrekkerz/fsu)**</td>
        </tr>
        <tr>
     <td><b>2025-03-26</b></td>
@@ -147,6 +176,28 @@ layout: default
     <td><b>Robustness of Proof of Team Sprint (PoTS) Against Attacks: A Simulation-Based Analysis</b></td>
     <td>Naoki Yonezawa et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.19293">2503.19293</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-03-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-24</b></td>
+    <td><b>CEFW: A Comprehensive Evaluation Framework for Watermark in Large Language Models</b></td>
+    <td>Shuhao Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20802">2503.20802</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -421,6 +472,42 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-03-27</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>Tricking Retrievers with Influential Tokens: An Efficient Black-Box Corpus Poisoning Attack</b></td>
+    <td>Cheng Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21315">2503.21315</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>DeBackdoor: A Deductive Framework for Detecting Backdoor Attacks on Deep Models with Limited Data</b></td>
+    <td>Dorde Popovic et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21305">2503.21305</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>Clean Image May be Dangerous: Data Poisoning Attacks Against Deep Hashing</b></td>
+    <td>Shuai Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21236">2503.21236</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-26</h3>
 
 <table>
@@ -434,6 +521,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Robust Federated Learning Against Poisoning Attacks: A GAN-Based Defense Framework</b></td>
+    <td>Usama Zafar et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20884">2503.20884</a></td>
+    <td>**[link](https://github.com/SciML-FL/gan-filter)**</td>
+       </tr>
        <tr>
     <td><b>2025-03-26</b></td>
     <td><b>How Secure is Forgetting? Linking Machine Unlearning to Machine Learning Attacks</b></td>
@@ -483,7 +577,7 @@ layout: default
     <td><b>Towards Invisible Backdoor Attack on Text-to-Image Diffusion Model</b></td>
     <td>Jie Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.17724">2503.17724</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/robin-wzq/iba)**</td>
        </tr>
    </tbody>
 </table>
@@ -1125,6 +1219,49 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-03-27</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation</b></td>
+    <td>Reza Qorbani et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21780">2503.21780</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>Federated Intelligence: When Large AI Models Meet Federated Fine-Tuning and Collaborative Reasoning at the Network Edge</b></td>
+    <td>Wanli Ni et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21412">2503.21412</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>Improving $(α, f)$ -Byzantine Resilience in Federated Learning via layerwise aggregation and cosine distance</b></td>
+    <td>Mario García-Márquez et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21244">2503.21244</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>Federated Learning with Differential Privacy: An Utility-Enhanced Approach</b></td>
+    <td>Kanishka Ranaweera et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21154">2503.21154</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-26</h3>
 
 <table>
@@ -1138,6 +1275,20 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>Privacy in Immersive Extended Reality: Exploring User Perceptions, Concerns, and Coping Strategies</b></td>
+    <td>Hilda Hadan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21010">2503.21010</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
+    <td><b>MedSegNet10: A Publicly Accessible Network Repository for Split Federated Medical Image Segmentation</b></td>
+    <td>Chamani Shiranthika et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20830">2503.20830</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-03-26</b></td>
     <td><b>Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data</b></td>
@@ -1323,7 +1474,7 @@ layout: default
     <td><b>Collaborative Value Function Estimation Under Model Mismatch: A Federated Temporal Difference Analysis</b></td>
     <td>Ali Beikmohammadi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.17454">2503.17454</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/AliBeikmohammadi/FedRL)**</td>
        </tr>
        <tr>
     <td><b>2025-03-21</b></td>
@@ -2054,6 +2205,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-03-26</b></td>
+    <td><b>MVFNet: Multipurpose Video Forensics Network using Multiple Forms of Forensic Evidence</b></td>
+    <td>Tai D. Nguyen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20991">2503.20991</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-26</b></td>
     <td><b>Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector</b></td>
     <td>Xiao Guo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.20188">2503.20188</a></td>
@@ -2112,6 +2270,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-03-24</b></td>
+    <td><b>SCVI: Bridging Social and Cyber Dimensions for Comprehensive Vulnerability Assessment</b></td>
+    <td>Shutonu Mitra et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.20806">2503.20806</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-24</b></td>
     <td><b>NullSwap: Proactive Identity Cloaking Against Deepfake Face Swapping</b></td>
     <td>Tianyi Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.18678">2503.18678</a></td>
@@ -2166,7 +2331,7 @@ layout: default
     <td><b>Measuring the Robustness of Audio Deepfake Detectors</b></td>
     <td>Xiang Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.17577">2503.17577</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Jessegator/Audio_robustness_evaluation)**</td>
        </tr>
        <tr>
     <td><b>2025-03-21</b></td>
@@ -2522,6 +2687,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>A Unified Image-Dense Annotation Generation Model for Underwater Scenes</b></td>
+    <td>Hongkai Lin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21771">2503.21771</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>Exploring the Evolution of Physics Cognition in Video Generation: A Survey</b></td>
+    <td>Minghui Lin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21765">2503.21765</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>MemInsight: Autonomous Memory Augmentation for LLM Agents</b></td>
+    <td>Rana Salama et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21760">2503.21760</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck</b></td>
+    <td>Adrian Bulat et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21757">2503.21757</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>A Unified Framework for Diffusion Bridge Problems: Flow Matching and Schrödinger Matching into One</b></td>
+    <td>Minyoung Kim et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21756">2503.21756</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness</b></td>
+    <td>Dian Zheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21755">2503.21755</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models</b></td>
+    <td>Yuhan Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21745">2503.21745</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics</b></td>
+    <td>Arsham Gholamzadeh Khoee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21735">2503.21735</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>Effective Skill Unlearning through Intervention and Abstention</b></td>
+    <td>Yongce Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21730">2503.21730</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>Collab: Controlled Decoding using Mixture of Agents for LLM Alignment</b></td>
+    <td>Souradip Chakraborty et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21720">2503.21720</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>CLAIMCHECK: How Grounded are LLM Critiques of Scientific Papers?</b></td>
+    <td>Jiefu Ou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21717">2503.21717</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>Enhancing Repository-Level Software Repair via Repository-Aware Knowledge Graphs</b></td>
+    <td>Boyang Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21710">2503.21710</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data</b></td>
+    <td>Zhiyuan Ma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21694">2503.21694</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>LLM-Gomoku: A Large Language Model-Based System for Strategic Gomoku with Self-Play and Reinforcement Learning</b></td>
+    <td>Hui Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21683">2503.21683</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>A friendly introduction to triangular transport</b></td>
+    <td>Maximilian Ramgraber et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21673">2503.21673</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing</b></td>
+    <td>Rajvee Sheth et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21670">2503.21670</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning</b></td>
+    <td>Zhengxi Lu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21620">2503.21620</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>A Measure Based Generalizable Approach to Understandability</b></td>
+    <td>Vikas Kushwaha et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21615">2503.21615</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>Evaluating book summaries from internal knowledge in Large Language Models: a cross-model and semantic consistency approach</b></td>
+    <td>Javier Coronado-Blázquez et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21613">2503.21613</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-27</b></td>
+    <td><b>Prompt, Divide, and Conquer: Bypassing Large Language Model Safety Filters via Segmented and Distributed Prompt Processing</b></td>
+    <td>Johan Wahréus et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.21598">2503.21598</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-03-27</b></td>
     <td><b>Beyond Believability: Accurate Human Behavior Simulation with Fine-Tuned LLMs</b></td>
