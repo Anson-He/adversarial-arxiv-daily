@@ -1237,7 +1237,7 @@ layout: default
     <td><b>Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation</b></td>
     <td>Reza Qorbani et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.21780">2503.21780</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/rezaqorbani/semla)**</td>
        </tr>
        <tr>
     <td><b>2025-03-27</b></td>
@@ -2692,14 +2692,14 @@ layout: default
     <td><b>A Unified Image-Dense Annotation Generation Model for Underwater Scenes</b></td>
     <td>Hongkai Lin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.21771">2503.21771</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/hongklin/tide)**</td>
        </tr>
        <tr>
     <td><b>2025-03-27</b></td>
     <td><b>Exploring the Evolution of Physics Cognition in Video Generation: A Survey</b></td>
     <td>Minghui Lin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.21765">2503.21765</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/minnie-lin/awesome-physics-cognition-based-video-generation)**</td>
        </tr>
        <tr>
     <td><b>2025-03-27</b></td>
@@ -2727,7 +2727,7 @@ layout: default
     <td><b>VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness</b></td>
     <td>Dian Zheng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.21755">2503.21755</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/vchitect/vbench)**</td>
        </tr>
        <tr>
     <td><b>2025-03-27</b></td>
@@ -2748,7 +2748,7 @@ layout: default
     <td><b>Effective Skill Unlearning through Intervention and Abstention</b></td>
     <td>Yongce Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.21730">2503.21730</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/trustworthy-ml-lab/effective_skill_unlearning)**</td>
        </tr>
        <tr>
     <td><b>2025-03-27</b></td>
@@ -2776,7 +2776,7 @@ layout: default
     <td><b>Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data</b></td>
     <td>Zhiyuan Ma et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.21694">2503.21694</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/theericma/triplaneturbo)**</td>
        </tr>
        <tr>
     <td><b>2025-03-27</b></td>
