@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.29
+## Updated on 2025.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -141,7 +141,7 @@ layout: default
     <td><b>SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation</b></td>
     <td>Jingdan Kang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.19791">2503.19791</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/a-raniy-day/sita)**</td>
        </tr>
        <tr>
     <td><b>2025-03-25</b></td>
@@ -2215,7 +2215,7 @@ layout: default
     <td><b>Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector</b></td>
     <td>Xiao Guo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.20188">2503.20188</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/chelsea234/m2f2_det)**</td>
        </tr>
        <tr>
     <td><b>2025-03-26</b></td>
