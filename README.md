@@ -19,6 +19,21 @@
 
 ## Adversarial attacks
 
+<h3>2025-03-31</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-03-31**|**Towards Benchmarking and Assessing the Safety and Robustness of Autonomous Driving on Safety-critical Scenarios**|Jingzheng Li et.al.|[2503.23708](http://arxiv.org/abs/2503.23708)|null|
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+
+<h3>2025-03-30</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-03-30**|**A Survey on Unlearnable Data**|Jiahao Li et.al.|[2503.23536](http://arxiv.org/abs/2503.23536)|**[link](https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data)**|
+|**2025-03-30**|**Towards Trustworthy GUI Agents: A Survey**|Yucheng Shi et.al.|[2503.23434](http://arxiv.org/abs/2503.23434)|null|
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+
 <h3>2025-03-28</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -140,10 +155,26 @@
 
 ## Poisoning attacks
 
+<h3>2025-03-31</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-03-31**|**A Channel-Triggered Backdoor Attack on Wireless Semantic Image Reconstruction**|Jialin Wan et.al.|[2503.23866](http://arxiv.org/abs/2503.23866)|null|
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+
+<h3>2025-03-30</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-03-30**|**Buffer is All You Need: Defending Federated Learning against Backdoor Attacks under Non-iids via Buffering**|Xingyu Lyu et.al.|[2503.23511](http://arxiv.org/abs/2503.23511)|null|
+|**2025-03-30**|**Two Heads Are Better than One: Model-Weight and Latent-Space Analysis for Federated Learning on Non-iid Data against Poisoning Attacks**|Xingyu Lyu et.al.|[2503.23288](http://arxiv.org/abs/2503.23288)|null|
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+
 <h3>2025-03-27</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Data Poisoning in Deep Learning: A Survey**|Pinlong Zhao et.al.|[2503.22759](http://arxiv.org/abs/2503.22759)|null|
 |**2025-03-27**|**Tricking Retrievers with Influential Tokens: An Efficient Black-Box Corpus Poisoning Attack**|Cheng Wang et.al.|[2503.21315](http://arxiv.org/abs/2503.21315)|null|
 |**2025-03-27**|**DeBackdoor: A Deductive Framework for Detecting Backdoor Attacks on Deep Models with Limited Data**|Dorde Popovic et.al.|[2503.21305](http://arxiv.org/abs/2503.21305)|null|
 |**2025-03-27**|**Clean Image May be Dangerous: Data Poisoning Attacks Against Deep Hashing**|Shuai Li et.al.|[2503.21236](http://arxiv.org/abs/2503.21236)|null|
@@ -255,6 +286,13 @@
 
 ## Generative models safety
 
+<h3>2025-03-31</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-03-31**|**Output Constraints as Attack Surface: Exploiting Structured Generation to Bypass LLM Safety Mechanisms**|Shuoming Zhang et.al.|[2503.24191](http://arxiv.org/abs/2503.24191)|null|
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+
 <h3>2025-03-16</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -356,10 +394,28 @@
 
 ## Data privacy
 
+<h3>2025-03-31</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-03-31**|**TeleAntiFraud-28k: A Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|null|
+|**2025-03-31**|**Communication-Efficient and Personalized Federated Foundation Model Fine-Tuning via Tri-Matrix Adaptation**|Yongle Li et.al.|[2503.23869](http://arxiv.org/abs/2503.23869)|null|
+|**2025-03-31**|**VIDEX: A Disaggregated and Extensible Virtual Index for the Cloud and AI Era**|Rong Kang et.al.|[2503.23776](http://arxiv.org/abs/2503.23776)|null|
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+
+<h3>2025-03-30</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-03-30**|**A Survey on Unlearnable Data**|Jiahao Li et.al.|[2503.23536](http://arxiv.org/abs/2503.23536)|**[link](https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data)**|
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+
 <h3>2025-03-29</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-29**|**Multi-Agent Reinforcement Learning for Graph Discovery in D2D-Enabled Federated Learning**|Satyavrat Wagle et.al.|[2503.23218](http://arxiv.org/abs/2503.23218)|null|
+|**2025-03-29**|**Towards Secure Semantic Communications in the Presence of Intelligent Eavesdroppers**|Shunpu Tang et.al.|[2503.23103](http://arxiv.org/abs/2503.23103)|null|
 |**2025-03-29**|**Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data**|Masoumeh Sharafi et.al.|[2503.20771](http://arxiv.org/abs/2503.20771)|**[link](https://github.com/MasoumehSharafi/DSFDA-for-Pain-Assessment)**|
 <p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
@@ -375,6 +431,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Adaptive Clipping for Privacy-Preserving Few-Shot Learning: Enhancing Generalization with Limited Data**|Kanishka Ranaweera et.al.|[2503.22749](http://arxiv.org/abs/2503.22749)|null|
 |**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780](http://arxiv.org/abs/2503.21780)|**[link](https://github.com/rezaqorbani/semla)**|
 |**2025-03-27**|**Federated Intelligence: When Large AI Models Meet Federated Fine-Tuning and Collaborative Reasoning at the Network Edge**|Wanli Ni et.al.|[2503.21412](http://arxiv.org/abs/2503.21412)|null|
 |**2025-03-27**|**Improving $(α, f)$ -Byzantine Resilience in Federated Learning via layerwise aggregation and cosine distance**|Mario García-Márquez et.al.|[2503.21244](http://arxiv.org/abs/2503.21244)|**[link](https://github.com/ari-dasci/S-layerwise_cosine_aggregation)**|
@@ -649,6 +706,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-29**|**Synthetic Art Generation and DeepFake Detection A Study on Jamini Roy Inspired Dataset**|Kushal Agrawal et.al.|[2503.23226](http://arxiv.org/abs/2503.23226)|null|
 |**2025-03-29**|**Can Multi-modal (reasoning) LLMs work as deepfake detectors?**|Simiao Ren et.al.|[2503.20084](http://arxiv.org/abs/2503.20084)|null|
 <p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
@@ -796,6 +854,32 @@
 
 
 ## AIGC
+
+<h3>2025-03-31</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-03-31**|**Consistent Subject Generation via Contrastive Instantiated Concepts**|Lee Hsin-Ying et.al.|[2503.24387](http://arxiv.org/abs/2503.24387)|null|
+|**2025-03-31**|**Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**|Shengqiong Wu et.al.|[2503.24379](http://arxiv.org/abs/2503.24379)|null|
+|**2025-03-31**|**Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models**|Rui Wang et.al.|[2503.24377](http://arxiv.org/abs/2503.24377)|**[link](https://github.com/devoallen/awesome-reasoning-economy-papers)**|
+|**2025-03-31**|**Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1**|Yi Chen et.al.|[2503.24376](http://arxiv.org/abs/2503.24376)|**[link](https://github.com/tencentarc/seed-bench-r1)**|
+|**2025-03-31**|**Effectively Controlling Reasoning Models through Thinking Intervention**|Tong Wu et.al.|[2503.24370](http://arxiv.org/abs/2503.24370)|null|
+|**2025-03-31**|**SQuat: Subspace-orthogonal KV Cache Quantization**|Hao Wang et.al.|[2503.24358](http://arxiv.org/abs/2503.24358)|null|
+|**2025-03-31**|**ORAL: Prompting Your Large-Scale LoRAs via Conditional Recurrent Diffusion**|Rana Muhammad Shahroz Khan et.al.|[2503.24354](http://arxiv.org/abs/2503.24354)|null|
+|**2025-03-31**|**BEATS: Bias Evaluation and Assessment Test Suite for Large Language Models**|Alok Abhishek et.al.|[2503.24310](http://arxiv.org/abs/2503.24310)|null|
+|**2025-03-31**|**A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG**|Arshia Kermani et.al.|[2503.24307](http://arxiv.org/abs/2503.24307)|null|
+|**2025-03-31**|**Is analogy enough to draw novel adjective-noun inferences?**|Hayley Ross et.al.|[2503.24293](http://arxiv.org/abs/2503.24293)|null|
+|**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289](http://arxiv.org/abs/2503.24289)|null|
+|**2025-03-31**|**Evaluating and Designing Sparse Autoencoders by Approximating Quasi-Orthogonality**|Sewoong Lee et.al.|[2503.24277](http://arxiv.org/abs/2503.24277)|**[link](https://github.com/sewoonglee/top-afa-sae)**|
+|**2025-03-31**|**Enhancing Large Language Models (LLMs) for Telecommunications using Knowledge Graphs and Retrieval-Augmented Generation**|Dun Yuan et.al.|[2503.24245](http://arxiv.org/abs/2503.24245)|null|
+|**2025-03-31**|**What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models**|Qiyuan Zhang et.al.|[2503.24235](http://arxiv.org/abs/2503.24235)|null|
+|**2025-03-31**|**Pre-training with 3D Synthetic Data: Learning 3D Point Cloud Instance Segmentation from 3D Synthetic Scenes**|Daichi Otsuka et.al.|[2503.24229](http://arxiv.org/abs/2503.24229)|null|
+|**2025-03-31**|**PAARS: Persona Aligned Agentic Retail Shoppers**|Saab Mansour et.al.|[2503.24228](http://arxiv.org/abs/2503.24228)|null|
+|**2025-03-31**|**Synthetic News Generation for Fake News Classification**|Abdul Sittar et.al.|[2503.24206](http://arxiv.org/abs/2503.24206)|null|
+|**2025-03-31**|**TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance**|Jingxian Xu et.al.|[2503.24198](http://arxiv.org/abs/2503.24198)|null|
+|**2025-03-31**|**Text2Tracks: Prompt-based Music Recommendation via Generative Retrieval**|Enrico Palumbo et.al.|[2503.24193](http://arxiv.org/abs/2503.24193)|null|
+|**2025-03-31**|**Output Constraints as Attack Surface: Exploiting Structured Generation to Bypass LLM Safety Mechanisms**|Shuoming Zhang et.al.|[2503.24191](http://arxiv.org/abs/2503.24191)|null|
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
 <h3>2025-03-28</h3>
 
