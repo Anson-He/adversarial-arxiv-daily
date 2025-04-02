@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-04-01</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-01</b></td>
+    <td><b>A Survey on Unlearnable Data</b></td>
+    <td>Jiahao Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.23536">2503.23536</a></td>
+    <td>**[link](https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-31</h3>
 
 <table>
@@ -58,13 +80,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-03-30</b></td>
-    <td><b>A Survey on Unlearnable Data</b></td>
-    <td>Jiahao Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.23536">2503.23536</a></td>
-    <td>**[link](https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data)**</td>
-       </tr>
        <tr>
     <td><b>2025-03-30</b></td>
     <td><b>Towards Trustworthy GUI Agents: A Survey</b></td>
@@ -1379,6 +1394,35 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-04-01</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-01</b></td>
+    <td><b>TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection</b></td>
+    <td>Zhiming Ma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.24115">2503.24115</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-01</b></td>
+    <td><b>A Survey on Unlearnable Data</b></td>
+    <td>Jiahao Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.23536">2503.23536</a></td>
+    <td>**[link](https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-31</h3>
 
 <table>
@@ -1394,13 +1438,6 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-03-31</b></td>
-    <td><b>TeleAntiFraud-28k: A Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection</b></td>
-    <td>Zhiming Ma et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.24115">2503.24115</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-31</b></td>
     <td><b>Communication-Efficient and Personalized Federated Foundation Model Fine-Tuning via Tri-Matrix Adaptation</b></td>
     <td>Yongle Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.23869">2503.23869</a></td>
@@ -1412,28 +1449,6 @@ layout: default
     <td>Rong Kang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.23776">2503.23776</a></td>
     <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-03-30</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-03-30</b></td>
-    <td><b>A Survey on Unlearnable Data</b></td>
-    <td>Jiahao Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.23536">2503.23536</a></td>
-    <td>**[link](https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data)**</td>
        </tr>
    </tbody>
 </table>

@@ -19,6 +19,11 @@
 
 ## Adversarial attacks
 
+<h3>2025-04-01</h3>
+
+- 2025-04-01, **A Survey on Unlearnable Data**, Jiahao Li et.al., Paper: [http://arxiv.org/abs/2503.23536](http://arxiv.org/abs/2503.23536), Code: **[https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data](https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data)**
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+
 <h3>2025-03-31</h3>
 
 - 2025-03-31, **Towards Benchmarking and Assessing the Safety and Robustness of Autonomous Driving on Safety-critical Scenarios**, Jingzheng Li et.al., Paper: [http://arxiv.org/abs/2503.23708](http://arxiv.org/abs/2503.23708)
@@ -26,7 +31,6 @@
 
 <h3>2025-03-30</h3>
 
-- 2025-03-30, **A Survey on Unlearnable Data**, Jiahao Li et.al., Paper: [http://arxiv.org/abs/2503.23536](http://arxiv.org/abs/2503.23536), Code: **[https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data](https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data)**
 - 2025-03-30, **Towards Trustworthy GUI Agents: A Survey**, Yucheng Shi et.al., Paper: [http://arxiv.org/abs/2503.23434](http://arxiv.org/abs/2503.23434)
 <p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
@@ -304,16 +308,16 @@
 
 ## Data privacy
 
-<h3>2025-03-31</h3>
+<h3>2025-04-01</h3>
 
-- 2025-03-31, **TeleAntiFraud-28k: A Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**, Zhiming Ma et.al., Paper: [http://arxiv.org/abs/2503.24115](http://arxiv.org/abs/2503.24115)
-- 2025-03-31, **Communication-Efficient and Personalized Federated Foundation Model Fine-Tuning via Tri-Matrix Adaptation**, Yongle Li et.al., Paper: [http://arxiv.org/abs/2503.23869](http://arxiv.org/abs/2503.23869)
-- 2025-03-31, **VIDEX: A Disaggregated and Extensible Virtual Index for the Cloud and AI Era**, Rong Kang et.al., Paper: [http://arxiv.org/abs/2503.23776](http://arxiv.org/abs/2503.23776)
+- 2025-04-01, **TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**, Zhiming Ma et.al., Paper: [http://arxiv.org/abs/2503.24115](http://arxiv.org/abs/2503.24115)
+- 2025-04-01, **A Survey on Unlearnable Data**, Jiahao Li et.al., Paper: [http://arxiv.org/abs/2503.23536](http://arxiv.org/abs/2503.23536), Code: **[https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data](https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data)**
 <p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
-<h3>2025-03-30</h3>
+<h3>2025-03-31</h3>
 
-- 2025-03-30, **A Survey on Unlearnable Data**, Jiahao Li et.al., Paper: [http://arxiv.org/abs/2503.23536](http://arxiv.org/abs/2503.23536), Code: **[https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data](https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data)**
+- 2025-03-31, **Communication-Efficient and Personalized Federated Foundation Model Fine-Tuning via Tri-Matrix Adaptation**, Yongle Li et.al., Paper: [http://arxiv.org/abs/2503.23869](http://arxiv.org/abs/2503.23869)
+- 2025-03-31, **VIDEX: A Disaggregated and Extensible Virtual Index for the Cloud and AI Era**, Rong Kang et.al., Paper: [http://arxiv.org/abs/2503.23776](http://arxiv.org/abs/2503.23776)
 <p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 <h3>2025-03-29</h3>
