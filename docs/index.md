@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -1394,6 +1394,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-04-02</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>SimDC: A High-Fidelity Device Simulation Platform for Device-Cloud Collaborative Computing</b></td>
+    <td>Ruiguang Pei et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.22288">2503.22288</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-01</h3>
 
 <table>
@@ -1506,13 +1528,6 @@ layout: default
     <td><b>Efficient Verified Machine Unlearning For Distillation</b></td>
     <td>Yijun Quan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.22539">2503.22539</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-03-28</b></td>
-    <td><b>SimDC: A High-Fidelity Device Simulation Platform for Device-Cloud Collaborative Computing</b></td>
-    <td>Ruiguang Pei et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.22288">2503.22288</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -3089,7 +3104,7 @@ layout: default
     <td><b>Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning</b></td>
     <td>Jiacheng Lin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.24289">2503.24289</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/linjc16/Rec-R1)**</td>
        </tr>
        <tr>
     <td><b>2025-03-31</b></td>
