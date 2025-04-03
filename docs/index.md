@@ -23,6 +23,70 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-04-02</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>AdPO: Enhancing the Adversarial Robustness of Large Vision-Language Models with Preference Optimization</b></td>
+    <td>Chaohu Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01735">2504.01735</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation</b></td>
+    <td>Junjie Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01668">2504.01668</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks</b></td>
+    <td>Haosheng Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01659">2504.01659</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models</b></td>
+    <td>Zhaochen Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01589">2504.01589</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Representation Bending for Large Language Model Safety</b></td>
+    <td>Ashkan Yousefpour et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01550">2504.01550</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Leveraging Generalizability of Image-to-Image Translation for Enhanced Adversarial Defense</b></td>
+    <td>Haibo Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01399">2504.01399</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Breaking BERT: Gradient Attack on Twitter Sentiment Analysis for Targeted Misclassification</b></td>
+    <td>Akil Raj Subedi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01345">2504.01345</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-01</h3>
 
 <table>
@@ -36,6 +100,62 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-01</b></td>
+    <td><b>Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends</b></td>
+    <td>Kai Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01240">2504.01240</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-01</b></td>
+    <td><b>TenAd: A Tensor-based Low-rank Black Box Adversarial Attack for Video Classification</b></td>
+    <td>Kimia haghjooei et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01228">2504.01228</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-01</b></td>
+    <td><b>S3C2 Summit 2024-08: Government Secure Supply Chain Summit</b></td>
+    <td>Courtney Miller et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.00924">2504.00924</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-01</b></td>
+    <td><b>Whispering Under the Eaves: Protecting User Privacy Against Commercial and LLM-powered Automatic Speech Recognition Systems</b></td>
+    <td>Weifei Jin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.00858">2504.00858</a></td>
+    <td>**[link](https://github.com/WeifeiJin/AudioShield)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-01</b></td>
+    <td><b>Alleviating Performance Disparity in Adversarial Spatiotemporal Graph Learning Under Zero-Inflated Distribution</b></td>
+    <td>Songran Bai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.00721">2504.00721</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-01</b></td>
+    <td><b>Impact of Data Duplication on Deep Neural Network-Based Image Classifiers: Robust vs. Standard Models</b></td>
+    <td>Alireza Aghabagherloo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.00638">2504.00638</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-01</b></td>
+    <td><b>No Free Lunch with Guardrails</b></td>
+    <td>Divyanshu Kumar et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.00441">2504.00441</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-01</b></td>
+    <td><b>Unleashing the Power of Pre-trained Encoders for Universal Adversarial Attack Detection</b></td>
+    <td>Yinghe Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.00429">2504.00429</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-01</b></td>
     <td><b>A Survey on Unlearnable Data</b></td>
@@ -58,6 +178,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-03-31</b></td>
+    <td><b>System Identification from Partial Observations under Adversarial Attacks</b></td>
+    <td>Jihun Kim et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.00244">2504.00244</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-03-31</b></td>
     <td><b>Towards Benchmarking and Assessing the Safety and Robustness of Autonomous Driving on Safety-critical Scenarios</b></td>
@@ -567,6 +694,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-04-02</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Sky of Unlearning (SoUL): Rewiring Federated Machine Unlearning via Selective Pruning</b></td>
+    <td>Md Mahabub Uz Zaman et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01705">2504.01705</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-31</h3>
 
 <table>
@@ -580,6 +729,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-03-31</b></td>
+    <td><b>Backdoor Detection through Replicated Execution of Outsourced Training</b></td>
+    <td>Hengrui Jia et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.00170">2504.00170</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-03-31</b></td>
     <td><b>A Channel-Triggered Backdoor Attack on Wireless Semantic Image Reconstruction</b></td>
@@ -1049,6 +1205,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-03-31</b></td>
+    <td><b>$\textit{Agents Under Siege}$ : Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks</b></td>
+    <td>Rana Muhammad Shahroz Khan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.00218">2504.00218</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-03-31</b></td>
     <td><b>Output Constraints as Attack Surface: Exploiting Structured Generation to Bypass LLM Safety Mechanisms</b></td>
     <td>Shuoming Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.24191">2503.24191</a></td>
@@ -1409,6 +1572,48 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-04-02</b></td>
+    <td><b>Efficient Federated Learning Tiny Language Models for Mobile Network Feature Prediction</b></td>
+    <td>Daniel Becking et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01947">2504.01947</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>CO-DEFEND: Continuous Decentralized Federated Learning for Secure DoH-Based Threat Detection</b></td>
+    <td>Diego Cajaraville-Aboy et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01882">2504.01882</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>A Two-Timescale Approach for Wireless Federated Learning with Parameter Freezing and Power Control</b></td>
+    <td>Jinhao Ouyang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01752">2504.01752</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Sky of Unlearning (SoUL): Rewiring Federated Machine Unlearning via Selective Pruning</b></td>
+    <td>Md Mahabub Uz Zaman et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01705">2504.01705</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Split Federated Learning for UAV-Enabled Integrated Sensing, Computation, and Communication</b></td>
+    <td>Xiangwang Hou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01443">2504.01443</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection</b></td>
+    <td>Zhiming Ma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.24115">2503.24115</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
     <td><b>SimDC: A High-Fidelity Device Simulation Platform for Device-Cloud Collaborative Computing</b></td>
     <td>Ruiguang Pei et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.22288">2503.22288</a></td>
@@ -1431,9 +1636,9 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-04-01</b></td>
-    <td><b>TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection</b></td>
-    <td>Zhiming Ma et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.24115">2503.24115</a></td>
+    <td><b>Benchmarking Federated Machine Unlearning methods for Tabular Data</b></td>
+    <td>Chenguang Xiao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.00921">2504.00921</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -1458,6 +1663,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-03-31</b></td>
+    <td><b>Federated Learning for Cross-Domain Data Privacy: A Distributed Approach to Secure Collaboration</b></td>
+    <td>Yiwei Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.00282">2504.00282</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-03-31</b></td>
     <td><b>Communication-Efficient and Personalized Federated Foundation Model Fine-Tuning via Tri-Matrix Adaptation</b></td>
@@ -2503,6 +2715,50 @@ layout: default
 
 ## Forensics
 
+<h3>2025-04-02</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Detecting Lip-Syncing Deepfakes: Vision Temporal Transformer for Analyzing Mouth Inconsistencies</b></td>
+    <td>Soumyya Kanti Datta et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01470">2504.01470</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-04-01</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-01</b></td>
+    <td><b>FA^{3}-CLIP: Frequency-Aware Cues Fusion and Attack-Agnostic Prompt Learning for Unified Face Attack Detection</b></td>
+    <td>Yongze Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.00454">2504.00454</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-29</h3>
 
 <table>
@@ -3016,6 +3272,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-04-02</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step</b></td>
+    <td>Hanyang Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01956">2504.01956</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>The LLM Wears Prada: Analysing Gender Bias and Stereotypes through Online Shopping Data</b></td>
+    <td>Massimiliano Luca et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01951">2504.01951</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>OpenCodeReasoning: Advancing Data Distillation for Competitive Coding</b></td>
+    <td>Wasi Uddin Ahmad et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01943">2504.01943</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>A Unified Approach to Analysis and Design of Denoising Markov Models</b></td>
+    <td>Yinuo Ren et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01938">2504.01938</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?</b></td>
+    <td>Celine Lee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01935">2504.01935</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Review, Refine, Repeat: Understanding Iterative Decoding of AI Agents with Dynamic Evaluation and Selection</b></td>
+    <td>Souradip Chakraborty et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01931">2504.01931</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>A thorough benchmark of automatic text classification: From traditional approaches to large language models</b></td>
+    <td>Washington Cunha et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01930">2504.01930</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Is the Reversal Curse a Binding Problem? Uncovering Limitations of Transformers from a Basic Generalization Failure</b></td>
+    <td>Boshi Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01928">2504.01928</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Gen-C: Populating Virtual Worlds with Generative Crowds</b></td>
+    <td>Andreas Panayiotou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01924">2504.01924</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation</b></td>
+    <td>Baban Gain et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01919">2504.01919</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Advancing AI-Scientist Understanding: Making LLM Think Like a Physicist with Interpretable Reasoning</b></td>
+    <td>Yinggan Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01911">2504.01911</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Build Code Needs Maintenance Too: A Study on Refactoring and Technical Debt in Build Systems</b></td>
+    <td>Anwar Ghammam et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01907">2504.01907</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>STAR-1: Safer Alignment of Reasoning LLMs with 1K Data</b></td>
+    <td>Zijun Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01903">2504.01903</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Multi-fidelity Parameter Estimation Using Conditional Diffusion Models</b></td>
+    <td>Caroline Tatsuoka et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01894">2504.01894</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>TransientTables: Evaluating LLMs' Reasoning on Temporally Evolving Semi-structured Tables</b></td>
+    <td>Abhilash Shankarampeta et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01879">2504.01879</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Interpreting Emergent Planning in Model-Free Reinforcement Learning</b></td>
+    <td>Thomas Bush et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01871">2504.01871</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>From Code Generation to Software Testing: AI Copilot with Context-Based RAG</b></td>
+    <td>Yuchen Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01866">2504.01866</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Cross-Lingual Consistency: A Novel Inference Framework for Advancing Reasoning in Large Language Models</b></td>
+    <td>Zhiwei Yu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01857">2504.01857</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Code Red! On the Harmfulness of Applying Off-the-shelf Large Language Models to Programming Tasks</b></td>
+    <td>Ali Al-Kaswan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01850">2504.01850</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>PaperBench: Evaluating AI's Ability to Replicate AI Research</b></td>
+    <td>Giulio Starace et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01848">2504.01848</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-31</h3>
 
 <table>

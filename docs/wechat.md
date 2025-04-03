@@ -19,13 +19,33 @@
 
 ## Adversarial attacks
 
+<h3>2025-04-02</h3>
+
+- 2025-04-02, **AdPO: Enhancing the Adversarial Robustness of Large Vision-Language Models with Preference Optimization**, Chaohu Liu et.al., Paper: [http://arxiv.org/abs/2504.01735](http://arxiv.org/abs/2504.01735)
+- 2025-04-02, **Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**, Junjie Chen et.al., Paper: [http://arxiv.org/abs/2504.01668](http://arxiv.org/abs/2504.01668)
+- 2025-04-02, **Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**, Haosheng Li et.al., Paper: [http://arxiv.org/abs/2504.01659](http://arxiv.org/abs/2504.01659)
+- 2025-04-02, **Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**, Zhaochen Wang et.al., Paper: [http://arxiv.org/abs/2504.01589](http://arxiv.org/abs/2504.01589)
+- 2025-04-02, **Representation Bending for Large Language Model Safety**, Ashkan Yousefpour et.al., Paper: [http://arxiv.org/abs/2504.01550](http://arxiv.org/abs/2504.01550)
+- 2025-04-02, **Leveraging Generalizability of Image-to-Image Translation for Enhanced Adversarial Defense**, Haibo Zhang et.al., Paper: [http://arxiv.org/abs/2504.01399](http://arxiv.org/abs/2504.01399)
+- 2025-04-02, **Breaking BERT: Gradient Attack on Twitter Sentiment Analysis for Targeted Misclassification**, Akil Raj Subedi et.al., Paper: [http://arxiv.org/abs/2504.01345](http://arxiv.org/abs/2504.01345)
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+
 <h3>2025-04-01</h3>
 
+- 2025-04-01, **Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends**, Kai Li et.al., Paper: [http://arxiv.org/abs/2504.01240](http://arxiv.org/abs/2504.01240)
+- 2025-04-01, **TenAd: A Tensor-based Low-rank Black Box Adversarial Attack for Video Classification**, Kimia haghjooei et.al., Paper: [http://arxiv.org/abs/2504.01228](http://arxiv.org/abs/2504.01228)
+- 2025-04-01, **S3C2 Summit 2024-08: Government Secure Supply Chain Summit**, Courtney Miller et.al., Paper: [http://arxiv.org/abs/2504.00924](http://arxiv.org/abs/2504.00924)
+- 2025-04-01, **Whispering Under the Eaves: Protecting User Privacy Against Commercial and LLM-powered Automatic Speech Recognition Systems**, Weifei Jin et.al., Paper: [http://arxiv.org/abs/2504.00858](http://arxiv.org/abs/2504.00858), Code: **[https://github.com/WeifeiJin/AudioShield](https://github.com/WeifeiJin/AudioShield)**
+- 2025-04-01, **Alleviating Performance Disparity in Adversarial Spatiotemporal Graph Learning Under Zero-Inflated Distribution**, Songran Bai et.al., Paper: [http://arxiv.org/abs/2504.00721](http://arxiv.org/abs/2504.00721)
+- 2025-04-01, **Impact of Data Duplication on Deep Neural Network-Based Image Classifiers: Robust vs. Standard Models**, Alireza Aghabagherloo et.al., Paper: [http://arxiv.org/abs/2504.00638](http://arxiv.org/abs/2504.00638)
+- 2025-04-01, **No Free Lunch with Guardrails**, Divyanshu Kumar et.al., Paper: [http://arxiv.org/abs/2504.00441](http://arxiv.org/abs/2504.00441)
+- 2025-04-01, **Unleashing the Power of Pre-trained Encoders for Universal Adversarial Attack Detection**, Yinghe Zhang et.al., Paper: [http://arxiv.org/abs/2504.00429](http://arxiv.org/abs/2504.00429)
 - 2025-04-01, **A Survey on Unlearnable Data**, Jiahao Li et.al., Paper: [http://arxiv.org/abs/2503.23536](http://arxiv.org/abs/2503.23536), Code: **[https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data](https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data)**
 <p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 <h3>2025-03-31</h3>
 
+- 2025-03-31, **System Identification from Partial Observations under Adversarial Attacks**, Jihun Kim et.al., Paper: [http://arxiv.org/abs/2504.00244](http://arxiv.org/abs/2504.00244)
 - 2025-03-31, **Towards Benchmarking and Assessing the Safety and Robustness of Autonomous Driving on Safety-critical Scenarios**, Jingzheng Li et.al., Paper: [http://arxiv.org/abs/2503.23708](http://arxiv.org/abs/2503.23708)
 <p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
@@ -129,8 +149,14 @@
 
 ## Poisoning attacks
 
+<h3>2025-04-02</h3>
+
+- 2025-04-02, **Sky of Unlearning (SoUL): Rewiring Federated Machine Unlearning via Selective Pruning**, Md Mahabub Uz Zaman et.al., Paper: [http://arxiv.org/abs/2504.01705](http://arxiv.org/abs/2504.01705)
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+
 <h3>2025-03-31</h3>
 
+- 2025-03-31, **Backdoor Detection through Replicated Execution of Outsourced Training**, Hengrui Jia et.al., Paper: [http://arxiv.org/abs/2504.00170](http://arxiv.org/abs/2504.00170)
 - 2025-03-31, **A Channel-Triggered Backdoor Attack on Wireless Semantic Image Reconstruction**, Jialin Wan et.al., Paper: [http://arxiv.org/abs/2503.23866](http://arxiv.org/abs/2503.23866)
 <p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
@@ -230,6 +256,7 @@
 
 <h3>2025-03-31</h3>
 
+- 2025-03-31, **$\textit{Agents Under Siege}$ : Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks**, Rana Muhammad Shahroz Khan et.al., Paper: [http://arxiv.org/abs/2504.00218](http://arxiv.org/abs/2504.00218)
 - 2025-03-31, **Output Constraints as Attack Surface: Exploiting Structured Generation to Bypass LLM Safety Mechanisms**, Shuoming Zhang et.al., Paper: [http://arxiv.org/abs/2503.24191](http://arxiv.org/abs/2503.24191)
 <p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
@@ -310,17 +337,24 @@
 
 <h3>2025-04-02</h3>
 
+- 2025-04-02, **Efficient Federated Learning Tiny Language Models for Mobile Network Feature Prediction**, Daniel Becking et.al., Paper: [http://arxiv.org/abs/2504.01947](http://arxiv.org/abs/2504.01947)
+- 2025-04-02, **CO-DEFEND: Continuous Decentralized Federated Learning for Secure DoH-Based Threat Detection**, Diego Cajaraville-Aboy et.al., Paper: [http://arxiv.org/abs/2504.01882](http://arxiv.org/abs/2504.01882)
+- 2025-04-02, **A Two-Timescale Approach for Wireless Federated Learning with Parameter Freezing and Power Control**, Jinhao Ouyang et.al., Paper: [http://arxiv.org/abs/2504.01752](http://arxiv.org/abs/2504.01752)
+- 2025-04-02, **Sky of Unlearning (SoUL): Rewiring Federated Machine Unlearning via Selective Pruning**, Md Mahabub Uz Zaman et.al., Paper: [http://arxiv.org/abs/2504.01705](http://arxiv.org/abs/2504.01705)
+- 2025-04-02, **Split Federated Learning for UAV-Enabled Integrated Sensing, Computation, and Communication**, Xiangwang Hou et.al., Paper: [http://arxiv.org/abs/2504.01443](http://arxiv.org/abs/2504.01443)
+- 2025-04-02, **TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**, Zhiming Ma et.al., Paper: [http://arxiv.org/abs/2503.24115](http://arxiv.org/abs/2503.24115)
 - 2025-04-02, **SimDC: A High-Fidelity Device Simulation Platform for Device-Cloud Collaborative Computing**, Ruiguang Pei et.al., Paper: [http://arxiv.org/abs/2503.22288](http://arxiv.org/abs/2503.22288)
 <p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 <h3>2025-04-01</h3>
 
-- 2025-04-01, **TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**, Zhiming Ma et.al., Paper: [http://arxiv.org/abs/2503.24115](http://arxiv.org/abs/2503.24115)
+- 2025-04-01, **Benchmarking Federated Machine Unlearning methods for Tabular Data**, Chenguang Xiao et.al., Paper: [http://arxiv.org/abs/2504.00921](http://arxiv.org/abs/2504.00921)
 - 2025-04-01, **A Survey on Unlearnable Data**, Jiahao Li et.al., Paper: [http://arxiv.org/abs/2503.23536](http://arxiv.org/abs/2503.23536), Code: **[https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data](https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data)**
 <p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 <h3>2025-03-31</h3>
 
+- 2025-03-31, **Federated Learning for Cross-Domain Data Privacy: A Distributed Approach to Secure Collaboration**, Yiwei Zhang et.al., Paper: [http://arxiv.org/abs/2504.00282](http://arxiv.org/abs/2504.00282)
 - 2025-03-31, **Communication-Efficient and Personalized Federated Foundation Model Fine-Tuning via Tri-Matrix Adaptation**, Yongle Li et.al., Paper: [http://arxiv.org/abs/2503.23869](http://arxiv.org/abs/2503.23869)
 - 2025-03-31, **VIDEX: A Disaggregated and Extensible Virtual Index for the Cloud and AI Era**, Rong Kang et.al., Paper: [http://arxiv.org/abs/2503.23776](http://arxiv.org/abs/2503.23776)
 <p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
@@ -544,6 +578,16 @@
 
 ## Forensics
 
+<h3>2025-04-02</h3>
+
+- 2025-04-02, **Detecting Lip-Syncing Deepfakes: Vision Temporal Transformer for Analyzing Mouth Inconsistencies**, Soumyya Kanti Datta et.al., Paper: [http://arxiv.org/abs/2504.01470](http://arxiv.org/abs/2504.01470)
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+
+<h3>2025-04-01</h3>
+
+- 2025-04-01, **FA^{3}-CLIP: Frequency-Aware Cues Fusion and Attack-Agnostic Prompt Learning for Unified Face Attack Detection**, Yongze Li et.al., Paper: [http://arxiv.org/abs/2504.00454](http://arxiv.org/abs/2504.00454)
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+
 <h3>2025-03-29</h3>
 
 - 2025-03-29, **Synthetic Art Generation and DeepFake Detection A Study on Jamini Roy Inspired Dataset**, Kushal Agrawal et.al., Paper: [http://arxiv.org/abs/2503.23226](http://arxiv.org/abs/2503.23226)
@@ -656,6 +700,30 @@
 
 
 ## AIGC
+
+<h3>2025-04-02</h3>
+
+- 2025-04-02, **VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**, Hanyang Wang et.al., Paper: [http://arxiv.org/abs/2504.01956](http://arxiv.org/abs/2504.01956)
+- 2025-04-02, **The LLM Wears Prada: Analysing Gender Bias and Stereotypes through Online Shopping Data**, Massimiliano Luca et.al., Paper: [http://arxiv.org/abs/2504.01951](http://arxiv.org/abs/2504.01951)
+- 2025-04-02, **OpenCodeReasoning: Advancing Data Distillation for Competitive Coding**, Wasi Uddin Ahmad et.al., Paper: [http://arxiv.org/abs/2504.01943](http://arxiv.org/abs/2504.01943)
+- 2025-04-02, **A Unified Approach to Analysis and Design of Denoising Markov Models**, Yinuo Ren et.al., Paper: [http://arxiv.org/abs/2504.01938](http://arxiv.org/abs/2504.01938)
+- 2025-04-02, **Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?**, Celine Lee et.al., Paper: [http://arxiv.org/abs/2504.01935](http://arxiv.org/abs/2504.01935)
+- 2025-04-02, **Review, Refine, Repeat: Understanding Iterative Decoding of AI Agents with Dynamic Evaluation and Selection**, Souradip Chakraborty et.al., Paper: [http://arxiv.org/abs/2504.01931](http://arxiv.org/abs/2504.01931)
+- 2025-04-02, **A thorough benchmark of automatic text classification: From traditional approaches to large language models**, Washington Cunha et.al., Paper: [http://arxiv.org/abs/2504.01930](http://arxiv.org/abs/2504.01930)
+- 2025-04-02, **Is the Reversal Curse a Binding Problem? Uncovering Limitations of Transformers from a Basic Generalization Failure**, Boshi Wang et.al., Paper: [http://arxiv.org/abs/2504.01928](http://arxiv.org/abs/2504.01928)
+- 2025-04-02, **Gen-C: Populating Virtual Worlds with Generative Crowds**, Andreas Panayiotou et.al., Paper: [http://arxiv.org/abs/2504.01924](http://arxiv.org/abs/2504.01924)
+- 2025-04-02, **Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**, Baban Gain et.al., Paper: [http://arxiv.org/abs/2504.01919](http://arxiv.org/abs/2504.01919)
+- 2025-04-02, **Advancing AI-Scientist Understanding: Making LLM Think Like a Physicist with Interpretable Reasoning**, Yinggan Xu et.al., Paper: [http://arxiv.org/abs/2504.01911](http://arxiv.org/abs/2504.01911)
+- 2025-04-02, **Build Code Needs Maintenance Too: A Study on Refactoring and Technical Debt in Build Systems**, Anwar Ghammam et.al., Paper: [http://arxiv.org/abs/2504.01907](http://arxiv.org/abs/2504.01907)
+- 2025-04-02, **STAR-1: Safer Alignment of Reasoning LLMs with 1K Data**, Zijun Wang et.al., Paper: [http://arxiv.org/abs/2504.01903](http://arxiv.org/abs/2504.01903)
+- 2025-04-02, **Multi-fidelity Parameter Estimation Using Conditional Diffusion Models**, Caroline Tatsuoka et.al., Paper: [http://arxiv.org/abs/2504.01894](http://arxiv.org/abs/2504.01894)
+- 2025-04-02, **TransientTables: Evaluating LLMs' Reasoning on Temporally Evolving Semi-structured Tables**, Abhilash Shankarampeta et.al., Paper: [http://arxiv.org/abs/2504.01879](http://arxiv.org/abs/2504.01879)
+- 2025-04-02, **Interpreting Emergent Planning in Model-Free Reinforcement Learning**, Thomas Bush et.al., Paper: [http://arxiv.org/abs/2504.01871](http://arxiv.org/abs/2504.01871)
+- 2025-04-02, **From Code Generation to Software Testing: AI Copilot with Context-Based RAG**, Yuchen Wang et.al., Paper: [http://arxiv.org/abs/2504.01866](http://arxiv.org/abs/2504.01866)
+- 2025-04-02, **Cross-Lingual Consistency: A Novel Inference Framework for Advancing Reasoning in Large Language Models**, Zhiwei Yu et.al., Paper: [http://arxiv.org/abs/2504.01857](http://arxiv.org/abs/2504.01857)
+- 2025-04-02, **Code Red! On the Harmfulness of Applying Off-the-shelf Large Language Models to Programming Tasks**, Ali Al-Kaswan et.al., Paper: [http://arxiv.org/abs/2504.01850](http://arxiv.org/abs/2504.01850)
+- 2025-04-02, **PaperBench: Evaluating AI's Ability to Replicate AI Research**, Giulio Starace et.al., Paper: [http://arxiv.org/abs/2504.01848](http://arxiv.org/abs/2504.01848)
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 <h3>2025-03-31</h3>
 
