@@ -38,6 +38,20 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-04-03</b></td>
+    <td><b>ERPO: Advancing Safety Alignment via Ex-Ante Reasoning Preference Optimization</b></td>
+    <td>Kehua Feng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02725">2504.02725</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>Evaluating and Enhancing Segmentation Model Robustness with Metamorphic Testing</b></td>
+    <td>Seif Mzoughi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02335">2504.02335</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
     <td><b>Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks</b></td>
     <td>Haosheng Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.01659">2504.01659</a></td>
@@ -105,7 +119,7 @@ layout: default
     <td><b>Breaking BERT: Gradient Attack on Twitter Sentiment Analysis for Targeted Misclassification</b></td>
     <td>Akil Raj Subedi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.01345">2504.01345</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/akil003/bert-attack)**</td>
        </tr>
    </tbody>
 </table>
@@ -724,6 +738,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-04-02</b></td>
+    <td><b>One Pic is All it Takes: Poisoning Visual Document Retrieval Augmented Generation with a Single Image</b></td>
+    <td>Ezzeldin Shereen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02132">2504.02132</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-02</b></td>
     <td><b>Sky of Unlearning (SoUL): Rewiring Federated Machine Unlearning via Selective Pruning</b></td>
     <td>Md Mahabub Uz Zaman et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.01705">2504.01705</a></td>
@@ -807,7 +828,7 @@ layout: default
     <td><b>Data Poisoning in Deep Learning: A Survey</b></td>
     <td>Pinlong Zhao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.22759">2503.22759</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/pinlong-zhao/data-poisoning)**</td>
        </tr>
        <tr>
     <td><b>2025-03-27</b></td>
@@ -1572,6 +1593,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-04-03</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>Web3DB: Web 3.0 RDBMS for Individual Data Ownership</b></td>
+    <td>Shankha Shubhra Mukherjee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02713">2504.02713</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-02</h3>
 
 <table>
@@ -1632,7 +1675,7 @@ layout: default
     <td><b>SimDC: A High-Fidelity Device Simulation Platform for Device-Cloud Collaborative Computing</b></td>
     <td>Ruiguang Pei et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.22288">2503.22288</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/opas-lab/olearning-sim)**</td>
        </tr>
    </tbody>
 </table>
@@ -1649,6 +1692,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-01</b></td>
+    <td><b>AI Regulation and Capitalist Growth: Balancing Innovation, Ethics, and Global Governance</b></td>
+    <td>Vikram Kulothungan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02000">2504.02000</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-01</b></td>
     <td><b>Benchmarking Federated Machine Unlearning methods for Tabular Data</b></td>
@@ -1697,7 +1747,7 @@ layout: default
     <td><b>VIDEX: A Disaggregated and Extensible Virtual Index for the Cloud and AI Era</b></td>
     <td>Rong Kang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.23776">2503.23776</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/bytedance/videx)**</td>
        </tr>
    </tbody>
 </table>
@@ -2748,7 +2798,7 @@ layout: default
     <td><b>Detecting Lip-Syncing Deepfakes: Vision Temporal Transformer for Analyzing Mouth Inconsistencies</b></td>
     <td>Soumyya Kanti Datta et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.01470">2504.01470</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/skrantidatta/lipinc-v2)**</td>
        </tr>
    </tbody>
 </table>
@@ -3300,6 +3350,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models</b></td>
+    <td>Mateusz Pach et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02821">2504.02821</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>Efficient Autoregressive Shape Generation via Octree-Based Adaptive Tokenization</b></td>
+    <td>Kangle Deng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02817">2504.02817</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>Generative Evaluation of Complex Reasoning in Large Language Models</b></td>
+    <td>Haowei Lin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02810">2504.02810</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>MegaMath: Pushing the Limits of Open Math Corpora</b></td>
+    <td>Fan Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02807">2504.02807</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>A Survey of Large Language Models in Mental Health Disorder Detection on Social Media</b></td>
+    <td>Zhuohan Ge et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02800">2504.02800</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>A Framework for Robust Cognitive Evaluation of LLMs</b></td>
+    <td>Karin de Langis et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02789">2504.02789</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>From Consumption to Collaboration: Measuring Interaction Patterns to Augment Human Cognition in Open-Ended Tasks</b></td>
+    <td>Joshua Holstein et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02780">2504.02780</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>BT-ACTION: A Test-Driven Approach for Modular Understanding of User Instruction Leveraging Behaviour Trees and LLMs</b></td>
+    <td>Alexander Leszczynski et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02779">2504.02779</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>MultiBLiMP 1.0: A Massively Multilingual Benchmark of Linguistic Minimal Pairs</b></td>
+    <td>Jaap Jumelet et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02768">2504.02768</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>How Deep Do Large Language Models Internalize Scientific Literature and Citation Practices?</b></td>
+    <td>Andres Algaba et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02767">2504.02767</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model</b></td>
+    <td>Shengjun Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02764">2504.02764</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>Echoes of the hidden: Uncovering coordination beyond network structure</b></td>
+    <td>Shahar Somin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02757">2504.02757</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>RBR4DNN: Requirements-based Testing of Neural Networks</b></td>
+    <td>Nusrat Jahan Mozumder et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02737">2504.02737</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>Enhancing LLM Robustness to Perturbed Instructions: An Empirical Study</b></td>
+    <td>Aryan Agrawal et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02733">2504.02733</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>Why do LLMs attend to the first token?</b></td>
+    <td>Federico Barbero et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02732">2504.02732</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>ERPO: Advancing Safety Alignment via Ex-Ante Reasoning Preference Optimization</b></td>
+    <td>Kehua Feng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02725">2504.02725</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>TeleMoM: Consensus-Driven Telecom Intelligence via Mixture of Models</b></td>
+    <td>Xinquan Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02712">2504.02712</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>The Hidden Space of Safety: Understanding Preference-Tuned LLMs in Multilingual context</b></td>
+    <td>Nikhil Verma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02708">2504.02708</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>LLM for Complex Reasoning Task: An Exploratory Study in Fermi Problems</b></td>
+    <td>Zishuo Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02671">2504.02671</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>Affordable AI Assistants with Knowledge Graph of Thoughts</b></td>
+    <td>Maciej Besta et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02670">2504.02670</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-03</b></td>
     <td><b>VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step</b></td>
