@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,35 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-04-03</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks</b></td>
+    <td>Haosheng Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01659">2504.01659</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>No Free Lunch with Guardrails</b></td>
+    <td>Divyanshu Kumar et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.00441">2504.00441</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-02</h3>
 
 <table>
@@ -48,13 +77,6 @@ layout: default
     <td><b>Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation</b></td>
     <td>Junjie Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.01668">2504.01668</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-02</b></td>
-    <td><b>Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks</b></td>
-    <td>Haosheng Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.01659">2504.01659</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -144,13 +166,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-04-01</b></td>
-    <td><b>No Free Lunch with Guardrails</b></td>
-    <td>Divyanshu Kumar et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.00441">2504.00441</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-01</b></td>
     <td><b>Unleashing the Power of Pre-trained Encoders for Universal Adversarial Attack Detection</b></td>
     <td>Yinghe Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.00429">2504.00429</a></td>
@@ -212,7 +227,7 @@ layout: default
     <td><b>Towards Trustworthy GUI Agents: A Survey</b></td>
     <td>Yucheng Shi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.23434">2503.23434</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/sycny/Awesome-Trustworthy-GUI-Agents)**</td>
        </tr>
    </tbody>
 </table>
@@ -3272,7 +3287,7 @@ layout: default
 
 ## AIGC
 
-<h3>2025-04-02</h3>
+<h3>2025-04-03</h3>
 
 <table>
    <thead>
@@ -3286,12 +3301,34 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-04-02</b></td>
+    <td><b>2025-04-03</b></td>
     <td><b>VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step</b></td>
     <td>Hanyang Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.01956">2504.01956</a></td>
     <td>null</td>
        </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation</b></td>
+    <td>Baban Gain et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01919">2504.01919</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-04-02</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
        <tr>
     <td><b>2025-04-02</b></td>
     <td><b>The LLM Wears Prada: Analysing Gender Bias and Stereotypes through Online Shopping Data</b></td>
@@ -3346,13 +3383,6 @@ layout: default
     <td><b>Gen-C: Populating Virtual Worlds with Generative Crowds</b></td>
     <td>Andreas Panayiotou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.01924">2504.01924</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-02</b></td>
-    <td><b>Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation</b></td>
-    <td>Baban Gain et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.01919">2504.01919</a></td>
     <td>null</td>
        </tr>
        <tr>
