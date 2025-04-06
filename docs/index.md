@@ -1668,7 +1668,7 @@ layout: default
     <td><b>TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection</b></td>
     <td>Zhiming Ma et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.24115">2503.24115</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jimmyma99/teleantifraud)**</td>
        </tr>
        <tr>
     <td><b>2025-04-02</b></td>

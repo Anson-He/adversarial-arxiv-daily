@@ -354,7 +354,7 @@
 - 2025-04-02, **A Two-Timescale Approach for Wireless Federated Learning with Parameter Freezing and Power Control**, Jinhao Ouyang et.al., Paper: [http://arxiv.org/abs/2504.01752](http://arxiv.org/abs/2504.01752)
 - 2025-04-02, **Sky of Unlearning (SoUL): Rewiring Federated Machine Unlearning via Selective Pruning**, Md Mahabub Uz Zaman et.al., Paper: [http://arxiv.org/abs/2504.01705](http://arxiv.org/abs/2504.01705)
 - 2025-04-02, **Split Federated Learning for UAV-Enabled Integrated Sensing, Computation, and Communication**, Xiangwang Hou et.al., Paper: [http://arxiv.org/abs/2504.01443](http://arxiv.org/abs/2504.01443)
-- 2025-04-02, **TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**, Zhiming Ma et.al., Paper: [http://arxiv.org/abs/2503.24115](http://arxiv.org/abs/2503.24115)
+- 2025-04-02, **TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**, Zhiming Ma et.al., Paper: [http://arxiv.org/abs/2503.24115](http://arxiv.org/abs/2503.24115), Code: **[https://github.com/jimmyma99/teleantifraud](https://github.com/jimmyma99/teleantifraud)**
 - 2025-04-02, **SimDC: A High-Fidelity Device Simulation Platform for Device-Cloud Collaborative Computing**, Ruiguang Pei et.al., Paper: [http://arxiv.org/abs/2503.22288](http://arxiv.org/abs/2503.22288), Code: **[https://github.com/opas-lab/olearning-sim](https://github.com/opas-lab/olearning-sim)**
 <p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
 
