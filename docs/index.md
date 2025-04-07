@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -3337,6 +3337,42 @@ layout: default
 
 ## AIGC
 
+<h3>2025-04-04</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>A Survey of Large Language Models in Mental Health Disorder Detection on Social Media</b></td>
+    <td>Zhuohan Ge et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02800">2504.02800</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>RBT4DNN: Requirements-based Testing of Neural Networks</b></td>
+    <td>Nusrat Jahan Mozumder et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02737">2504.02737</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>Why do LLMs attend to the first token?</b></td>
+    <td>Federico Barbero et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02732">2504.02732</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-03</h3>
 
 <table>
@@ -3376,13 +3412,6 @@ layout: default
     <td><b>MegaMath: Pushing the Limits of Open Math Corpora</b></td>
     <td>Fan Zhou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.02807">2504.02807</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-03</b></td>
-    <td><b>A Survey of Large Language Models in Mental Health Disorder Detection on Social Media</b></td>
-    <td>Zhuohan Ge et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.02800">2504.02800</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -3436,23 +3465,9 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-04-03</b></td>
-    <td><b>RBR4DNN: Requirements-based Testing of Neural Networks</b></td>
-    <td>Nusrat Jahan Mozumder et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.02737">2504.02737</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-03</b></td>
     <td><b>Enhancing LLM Robustness to Perturbed Instructions: An Empirical Study</b></td>
     <td>Aryan Agrawal et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.02733">2504.02733</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-03</b></td>
-    <td><b>Why do LLMs attend to the first token?</b></td>
-    <td>Federico Barbero et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.02732">2504.02732</a></td>
     <td>null</td>
        </tr>
        <tr>
