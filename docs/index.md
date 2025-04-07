@@ -38,6 +38,20 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-04-03</b></td>
+    <td><b>SLACK: Attacking LiDAR-based SLAM with Adversarial Point Injections</b></td>
+    <td>Prashant Kumar et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03089">2504.03089</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>Moving Target Defense Against Adversarial False Data Injection Attacks In Power Grids</b></td>
+    <td>Yexiang Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03065">2504.03065</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-03</b></td>
     <td><b>ERPO: Advancing Safety Alignment via Ex-Ante Reasoning Preference Optimization</b></td>
     <td>Kehua Feng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.02725">2504.02725</a></td>
@@ -723,6 +737,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-04-04</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>PPFPL: Cross-silo Privacy-preserving Federated Prototype Learning Against Data Poisoning Attacks on Non-IID Data</b></td>
+    <td>Hongliang Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03173">2504.03173</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-02</h3>
 
 <table>
@@ -1593,6 +1629,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-04-04</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>Hierarchical Knowledge Structuring for Effective Federated Learning in Heterogeneous Environments</b></td>
+    <td>Wai Fong Tam et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03505">2504.03505</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-03</h3>
 
 <table>
@@ -1606,6 +1664,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>Enhancing Air Quality Monitoring: A Brief Review of Federated Learning Advances</b></td>
+    <td>Sara Yarham et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02909">2504.02909</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-03</b></td>
     <td><b>Web3DB: Web 3.0 RDBMS for Individual Data Ownership</b></td>
@@ -2780,6 +2845,50 @@ layout: default
 
 ## Forensics
 
+<h3>2025-04-04</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>Three Forensic Cues for JPEG AI Images</b></td>
+    <td>Sandra Bergmann et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03191">2504.03191</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-04-03</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-03</b></td>
+    <td><b>Comparative Analysis of Deepfake Detection Models: New Approaches and Perspectives</b></td>
+    <td>Matheus Martins Batista et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02900">2504.02900</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-02</h3>
 
 <table>
@@ -2793,6 +2902,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-02</b></td>
+    <td><b>Robust AI-Synthesized Image Detection via Multi-feature Frequency-aware Learning</b></td>
+    <td>Hongfei Cai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.02879">2504.02879</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-02</b></td>
     <td><b>Detecting Lip-Syncing Deepfakes: Vision Temporal Transformer for Analyzing Mouth Inconsistencies</b></td>
@@ -3350,6 +3466,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models</b></td>
+    <td>Wulin Xie et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03641">2504.03641</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning</b></td>
+    <td>Xinyi Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03635">2504.03635</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>Enhancing Causal Effect Estimation with Diffusion-Generated Data</b></td>
+    <td>Li Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03630">2504.03630</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>Align to Structure: Aligning Large Language Models with Structural Information</b></td>
+    <td>Zae Myung Kim et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03622">2504.03622</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>VISTA-OCR: Towards generative and interactive end to end OCR models</b></td>
+    <td>Laziz Hamdi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03621">2504.03621</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Task</b></td>
+    <td>Leonardo Ranaldi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03616">2504.03616</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>Autonomous and Self-Adapting System for Synthetic Media Detection and Attribution</b></td>
+    <td>Aref Azizpour et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03615">2504.03615</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>AIR: A Systematic Analysis of Annotations, Instructions, and Response Pairs in Preference Dataset</b></td>
+    <td>Bingxiang He et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03612">2504.03612</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay</b></td>
+    <td>Akshara Prabhakar et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03601">2504.03601</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>EnrichIndex: Using LLMs to Enrich Retrieval Indices Offline</b></td>
+    <td>Peter Baile Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03598">2504.03598</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>Hallucination Detection on a Budget: Efficient Bayesian Estimation of Semantic Entropy</b></td>
+    <td>Kamil Ciosek et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03579">2504.03579</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge Refinement</b></td>
+    <td>Runnan Fang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03561">2504.03561</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>Agentic Knowledgeable Self-awareness</b></td>
+    <td>Shuofei Qiao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03553">2504.03553</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>Diverse In-Context Example Selection After Decomposing Programs and Aligned Utterances Improves Semantic Parsing</b></td>
+    <td>Mayank Kothyari et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03541">2504.03541</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration</b></td>
+    <td>Boyuan Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03536">2504.03536</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>Neutralizing the Narrative: AI-Powered Debiasing of Online News Articles</b></td>
+    <td>Chen Wei Kuo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03520">2504.03520</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>Structured Legal Document Generation in India: A Model-Agnostic Wrapper Approach with VidhikDastaavej</b></td>
+    <td>Shubham Kumar Nigam et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03486">2504.03486</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>D-Garment: Physics-Conditioned Latent Diffusion for Dynamic Garment Deformations</b></td>
+    <td>Antoine Dumoulin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03468">2504.03468</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>Generating ensembles of spatially-coherent in-situ forecasts using flow matching</b></td>
+    <td>David Landry et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03463">2504.03463</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-04</b></td>
+    <td><b>Conditioning Diffusions Using Malliavin Calculus</b></td>
+    <td>Jakiw Pidstrigach et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.03461">2504.03461</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-04</b></td>
     <td><b>A Survey of Large Language Models in Mental Health Disorder Detection on Social Media</b></td>

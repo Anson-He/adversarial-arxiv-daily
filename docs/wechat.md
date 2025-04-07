@@ -21,6 +21,8 @@
 
 <h3>2025-04-03</h3>
 
+- 2025-04-03, **SLACK: Attacking LiDAR-based SLAM with Adversarial Point Injections**, Prashant Kumar et.al., Paper: [http://arxiv.org/abs/2504.03089](http://arxiv.org/abs/2504.03089)
+- 2025-04-03, **Moving Target Defense Against Adversarial False Data Injection Attacks In Power Grids**, Yexiang Chen et.al., Paper: [http://arxiv.org/abs/2504.03065](http://arxiv.org/abs/2504.03065)
 - 2025-04-03, **ERPO: Advancing Safety Alignment via Ex-Ante Reasoning Preference Optimization**, Kehua Feng et.al., Paper: [http://arxiv.org/abs/2504.02725](http://arxiv.org/abs/2504.02725)
 - 2025-04-03, **Evaluating and Enhancing Segmentation Model Robustness with Metamorphic Testing**, Seif Mzoughi et.al., Paper: [http://arxiv.org/abs/2504.02335](http://arxiv.org/abs/2504.02335)
 - 2025-04-03, **Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**, Haosheng Li et.al., Paper: [http://arxiv.org/abs/2504.01659](http://arxiv.org/abs/2504.01659)
@@ -154,6 +156,11 @@
 
 
 ## Poisoning attacks
+
+<h3>2025-04-04</h3>
+
+- 2025-04-04, **PPFPL: Cross-silo Privacy-preserving Federated Prototype Learning Against Data Poisoning Attacks on Non-IID Data**, Hongliang Zhang et.al., Paper: [http://arxiv.org/abs/2504.03173](http://arxiv.org/abs/2504.03173)
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
 <h3>2025-04-02</h3>
 
@@ -342,8 +349,14 @@
 
 ## Data privacy
 
+<h3>2025-04-04</h3>
+
+- 2025-04-04, **Hierarchical Knowledge Structuring for Effective Federated Learning in Heterogeneous Environments**, Wai Fong Tam et.al., Paper: [http://arxiv.org/abs/2504.03505](http://arxiv.org/abs/2504.03505)
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+
 <h3>2025-04-03</h3>
 
+- 2025-04-03, **Enhancing Air Quality Monitoring: A Brief Review of Federated Learning Advances**, Sara Yarham et.al., Paper: [http://arxiv.org/abs/2504.02909](http://arxiv.org/abs/2504.02909)
 - 2025-04-03, **Web3DB: Web 3.0 RDBMS for Individual Data Ownership**, Shankha Shubhra Mukherjee et.al., Paper: [http://arxiv.org/abs/2504.02713](http://arxiv.org/abs/2504.02713)
 <p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
@@ -591,8 +604,19 @@
 
 ## Forensics
 
+<h3>2025-04-04</h3>
+
+- 2025-04-04, **Three Forensic Cues for JPEG AI Images**, Sandra Bergmann et.al., Paper: [http://arxiv.org/abs/2504.03191](http://arxiv.org/abs/2504.03191)
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+
+<h3>2025-04-03</h3>
+
+- 2025-04-03, **Comparative Analysis of Deepfake Detection Models: New Approaches and Perspectives**, Matheus Martins Batista et.al., Paper: [http://arxiv.org/abs/2504.02900](http://arxiv.org/abs/2504.02900)
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+
 <h3>2025-04-02</h3>
 
+- 2025-04-02, **Robust AI-Synthesized Image Detection via Multi-feature Frequency-aware Learning**, Hongfei Cai et.al., Paper: [http://arxiv.org/abs/2504.02879](http://arxiv.org/abs/2504.02879)
 - 2025-04-02, **Detecting Lip-Syncing Deepfakes: Vision Temporal Transformer for Analyzing Mouth Inconsistencies**, Soumyya Kanti Datta et.al., Paper: [http://arxiv.org/abs/2504.01470](http://arxiv.org/abs/2504.01470), Code: **[https://github.com/skrantidatta/lipinc-v2](https://github.com/skrantidatta/lipinc-v2)**
 <p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
@@ -716,6 +740,26 @@
 
 <h3>2025-04-04</h3>
 
+- 2025-04-04, **MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**, Wulin Xie et.al., Paper: [http://arxiv.org/abs/2504.03641](http://arxiv.org/abs/2504.03641)
+- 2025-04-04, **Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning**, Xinyi Wang et.al., Paper: [http://arxiv.org/abs/2504.03635](http://arxiv.org/abs/2504.03635)
+- 2025-04-04, **Enhancing Causal Effect Estimation with Diffusion-Generated Data**, Li Chen et.al., Paper: [http://arxiv.org/abs/2504.03630](http://arxiv.org/abs/2504.03630)
+- 2025-04-04, **Align to Structure: Aligning Large Language Models with Structural Information**, Zae Myung Kim et.al., Paper: [http://arxiv.org/abs/2504.03622](http://arxiv.org/abs/2504.03622)
+- 2025-04-04, **VISTA-OCR: Towards generative and interactive end to end OCR models**, Laziz Hamdi et.al., Paper: [http://arxiv.org/abs/2504.03621](http://arxiv.org/abs/2504.03621)
+- 2025-04-04, **Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Task**, Leonardo Ranaldi et.al., Paper: [http://arxiv.org/abs/2504.03616](http://arxiv.org/abs/2504.03616)
+- 2025-04-04, **Autonomous and Self-Adapting System for Synthetic Media Detection and Attribution**, Aref Azizpour et.al., Paper: [http://arxiv.org/abs/2504.03615](http://arxiv.org/abs/2504.03615)
+- 2025-04-04, **AIR: A Systematic Analysis of Annotations, Instructions, and Response Pairs in Preference Dataset**, Bingxiang He et.al., Paper: [http://arxiv.org/abs/2504.03612](http://arxiv.org/abs/2504.03612)
+- 2025-04-04, **APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay**, Akshara Prabhakar et.al., Paper: [http://arxiv.org/abs/2504.03601](http://arxiv.org/abs/2504.03601)
+- 2025-04-04, **EnrichIndex: Using LLMs to Enrich Retrieval Indices Offline**, Peter Baile Chen et.al., Paper: [http://arxiv.org/abs/2504.03598](http://arxiv.org/abs/2504.03598)
+- 2025-04-04, **Hallucination Detection on a Budget: Efficient Bayesian Estimation of Semantic Entropy**, Kamil Ciosek et.al., Paper: [http://arxiv.org/abs/2504.03579](http://arxiv.org/abs/2504.03579)
+- 2025-04-04, **SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge Refinement**, Runnan Fang et.al., Paper: [http://arxiv.org/abs/2504.03561](http://arxiv.org/abs/2504.03561)
+- 2025-04-04, **Agentic Knowledgeable Self-awareness**, Shuofei Qiao et.al., Paper: [http://arxiv.org/abs/2504.03553](http://arxiv.org/abs/2504.03553)
+- 2025-04-04, **Diverse In-Context Example Selection After Decomposing Programs and Aligned Utterances Improves Semantic Parsing**, Mayank Kothyari et.al., Paper: [http://arxiv.org/abs/2504.03541](http://arxiv.org/abs/2504.03541)
+- 2025-04-04, **HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration**, Boyuan Wang et.al., Paper: [http://arxiv.org/abs/2504.03536](http://arxiv.org/abs/2504.03536)
+- 2025-04-04, **Neutralizing the Narrative: AI-Powered Debiasing of Online News Articles**, Chen Wei Kuo et.al., Paper: [http://arxiv.org/abs/2504.03520](http://arxiv.org/abs/2504.03520)
+- 2025-04-04, **Structured Legal Document Generation in India: A Model-Agnostic Wrapper Approach with VidhikDastaavej**, Shubham Kumar Nigam et.al., Paper: [http://arxiv.org/abs/2504.03486](http://arxiv.org/abs/2504.03486)
+- 2025-04-04, **D-Garment: Physics-Conditioned Latent Diffusion for Dynamic Garment Deformations**, Antoine Dumoulin et.al., Paper: [http://arxiv.org/abs/2504.03468](http://arxiv.org/abs/2504.03468)
+- 2025-04-04, **Generating ensembles of spatially-coherent in-situ forecasts using flow matching**, David Landry et.al., Paper: [http://arxiv.org/abs/2504.03463](http://arxiv.org/abs/2504.03463)
+- 2025-04-04, **Conditioning Diffusions Using Malliavin Calculus**, Jakiw Pidstrigach et.al., Paper: [http://arxiv.org/abs/2504.03461](http://arxiv.org/abs/2504.03461)
 - 2025-04-04, **A Survey of Large Language Models in Mental Health Disorder Detection on Social Media**, Zhuohan Ge et.al., Paper: [http://arxiv.org/abs/2504.02800](http://arxiv.org/abs/2504.02800)
 - 2025-04-04, **RBT4DNN: Requirements-based Testing of Neural Networks**, Nusrat Jahan Mozumder et.al., Paper: [http://arxiv.org/abs/2504.02737](http://arxiv.org/abs/2504.02737)
 - 2025-04-04, **Why do LLMs attend to the first token?**, Federico Barbero et.al., Paper: [http://arxiv.org/abs/2504.02732](http://arxiv.org/abs/2504.02732)
