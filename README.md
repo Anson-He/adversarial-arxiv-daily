@@ -19,6 +19,25 @@
 
 ## Adversarial attacks
 
+<h3>2025-04-07</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-04-07**|**Adversarial KA**|Sviatoslav Dzhenzher et.al.|[2504.05255](http://arxiv.org/abs/2504.05255)|null|
+|**2025-04-07**|**Security Risks in Vision-Based Beam Prediction: From Spatial Proxy Attacks to Feature Refinement**|Avi Deb Raha et.al.|[2504.05222](http://arxiv.org/abs/2504.05222)|null|
+|**2025-04-07**|**Two is Better than One: Efficient Ensemble Defense for Robust and Compact Models**|Yoojin Jung et.al.|[2504.04747](http://arxiv.org/abs/2504.04747)|null|
+|**2025-04-07**|**On the Robustness of GUI Grounding Models Against Image Attacks**|Haoren Zhao et.al.|[2504.04716](http://arxiv.org/abs/2504.04716)|null|
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+
+<h3>2025-04-06</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-04-06**|**Systematic Literature Review on Vehicular Collaborative Perception -- A Computer Vision Perspective**|Lei Wan et.al.|[2504.04631](http://arxiv.org/abs/2504.04631)|null|
+|**2025-04-06**|**Selective Masking Adversarial Attack on Automatic Speech Recognition Systems**|Zheng Fang et.al.|[2504.04394](http://arxiv.org/abs/2504.04394)|null|
+|**2025-04-06**|**WeiDetect: Weibull Distribution-Based Defense against Poisoning Attacks in Federated Learning for Network Intrusion Detection Systems**|Sameera K. M. et.al.|[2504.04367](http://arxiv.org/abs/2504.04367)|null|
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+
 <h3>2025-04-03</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -35,6 +54,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Watermarking for AI Content Detection: A Review on Text, Visual, and Audio Modalities**|Lele Cao et.al.|[2504.03765](http://arxiv.org/abs/2504.03765)|null|
 |**2025-04-02**|**AdPO: Enhancing the Adversarial Robustness of Large Vision-Language Models with Preference Optimization**|Chaohu Liu et.al.|[2504.01735](http://arxiv.org/abs/2504.01735)|null|
 |**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668](http://arxiv.org/abs/2504.01668)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Zhaochen Wang et.al.|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
@@ -193,10 +213,18 @@
 
 ## Poisoning attacks
 
+<h3>2025-04-06</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-04-06**|**WeiDetect: Weibull Distribution-Based Defense against Poisoning Attacks in Federated Learning for Network Intrusion Detection Systems**|Sameera K. M. et.al.|[2504.04367](http://arxiv.org/abs/2504.04367)|null|
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+
 <h3>2025-04-04</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**Practical Poisoning Attacks against Retrieval-Augmented Generation**|Baolei Zhang et.al.|[2504.03957](http://arxiv.org/abs/2504.03957)|null|
 |**2025-04-04**|**PPFPL: Cross-silo Privacy-preserving Federated Prototype Learning Against Data Poisoning Attacks on Non-IID Data**|Hongliang Zhang et.al.|[2504.03173](http://arxiv.org/abs/2504.03173)|null|
 <p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
 
@@ -449,6 +477,13 @@
 
 ## Data privacy
 
+<h3>2025-04-06</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-04-06**|**WeiDetect: Weibull Distribution-Based Defense against Poisoning Attacks in Federated Learning for Network Intrusion Detection Systems**|Sameera K. M. et.al.|[2504.04367](http://arxiv.org/abs/2504.04367)|null|
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+
 <h3>2025-04-05</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -460,6 +495,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**Secure Federated XGBoost with CUDA-accelerated Homomorphic Encryption via NVIDIA FLARE**|Ziyue Xu et.al.|[2504.03909](http://arxiv.org/abs/2504.03909)|null|
+|**2025-04-04**|**An Intelligent and Privacy-Preserving Digital Twin Model for Aging-in-Place**|Yongjie Wang et.al.|[2504.03798](http://arxiv.org/abs/2504.03798)|null|
 |**2025-04-04**|**Hierarchical Knowledge Structuring for Effective Federated Learning in Heterogeneous Environments**|Wai Fong Tam et.al.|[2504.03505](http://arxiv.org/abs/2504.03505)|null|
 <p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
 
@@ -467,6 +504,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**FAST: Federated Active Learning with Foundation Models for Communication-efficient Sampling and Training**|Haoyuan Li et.al.|[2504.03783](http://arxiv.org/abs/2504.03783)|null|
 |**2025-04-03**|**Enhancing Air Quality Monitoring: A Brief Review of Federated Learning Advances**|Sara Yarham et.al.|[2504.02909](http://arxiv.org/abs/2504.02909)|null|
 |**2025-04-03**|**Web3DB: Web 3.0 RDBMS for Individual Data Ownership**|Shankha Shubhra Mukherjee et.al.|[2504.02713](http://arxiv.org/abs/2504.02713)|null|
 <p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
@@ -642,6 +680,13 @@
 
 ## Model Privacy
 
+<h3>2025-04-07</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-04-07**|**Enhancing Trust in AI Marketplaces: Evaluating On-Chain Verification of Personalized AI models using zk-SNARKs**|Nishant Jagannath et.al.|[2504.04794](http://arxiv.org/abs/2504.04794)|null|
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+
 <h3>2025-03-26</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -791,6 +836,14 @@
 
 
 ## Forensics
+
+<h3>2025-04-07</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-04-07**|**From Specificity to Generality: Revisiting Generalizable Artifacts in Detecting Face Deepfakes**|Long Ma et.al.|[2504.04827](http://arxiv.org/abs/2504.04827)|null|
+|**2025-04-07**|**SUEDE:Shared Unified Experts for Physical-Digital Face Attack Detection Enhancement**|Zuying Xie et.al.|[2504.04818](http://arxiv.org/abs/2504.04818)|null|
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
 
 <h3>2025-04-04</h3>
 
@@ -973,6 +1026,32 @@
 
 
 ## AIGC
+
+<h3>2025-04-07</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-04-07**|**Truthful or Fabricated? Using Causal Attribution to Mitigate Reward Hacking in Explanations**|Pedro Ferreira et.al.|[2504.05294](http://arxiv.org/abs/2504.05294)|null|
+|**2025-04-07**|**The challenge of uncertainty quantification of large language models in medicine**|Zahra Atf et.al.|[2504.05278](http://arxiv.org/abs/2504.05278)|null|
+|**2025-04-07**|**Enhancing LLM-Based Short Answer Grading with Retrieval-Augmented Generation**|Yucheng Chu et.al.|[2504.05276](http://arxiv.org/abs/2504.05276)|null|
+|**2025-04-07**|**Do PhD-level LLMs Truly Grasp Elementary Addition? Probing Rule Learning vs. Memorization in Large Language Models**|Yang Yan et.al.|[2504.05262](http://arxiv.org/abs/2504.05262)|null|
+|**2025-04-07**|**How to evaluate control measures for LLM agents? A trajectory from today to superintelligence**|Tomek Korbak et.al.|[2504.05259](http://arxiv.org/abs/2504.05259)|null|
+|**2025-04-07**|**Learning to Reason Over Time: Timeline Self-Reflection for Improved Temporal Reasoning in Language Models**|Adrián Bazaga et.al.|[2504.05258](http://arxiv.org/abs/2504.05258)|null|
+|**2025-04-07**|**LLM-based Automated Grading with Human-in-the-Loop**|Hang Li et.al.|[2504.05239](http://arxiv.org/abs/2504.05239)|null|
+|**2025-04-07**|**Mapping biodiversity at very-high resolution in Europe**|César Leblanc et.al.|[2504.05231](http://arxiv.org/abs/2504.05231)|null|
+|**2025-04-07**|**Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for Retrieval and RAG**|Hengran Zhang et.al.|[2504.05220](http://arxiv.org/abs/2504.05220)|null|
+|**2025-04-07**|**LLM-Alignment Live-Streaming Recommendation**|Yueyang Liu et.al.|[2504.05217](http://arxiv.org/abs/2504.05217)|null|
+|**2025-04-07**|**Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling**|Hengran Zhang et.al.|[2504.05216](http://arxiv.org/abs/2504.05216)|null|
+|**2025-04-07**|**Post-Training Language Models for Continual Relation Extraction**|Sefika Efeoglu et.al.|[2504.05214](http://arxiv.org/abs/2504.05214)|null|
+|**2025-04-07**|**Quantum Program Linting with LLMs: Emerging Results from a Comparative Study**|Seung Yeob Shin et.al.|[2504.05204](http://arxiv.org/abs/2504.05204)|null|
+|**2025-04-07**|**P2Mark: Plug-and-play Parameter-intrinsic Watermarking for Neural Speech Generation**|Yong Ren et.al.|[2504.05197](http://arxiv.org/abs/2504.05197)|null|
+|**2025-04-07**|**Concise Reasoning via Reinforcement Learning**|Mehdi Fatemi et.al.|[2504.05185](http://arxiv.org/abs/2504.05185)|null|
+|**2025-04-07**|**BRIDGES: Bridging Graph Modality and Large Language Models within EDA Tasks**|Wei Li et.al.|[2504.05180](http://arxiv.org/abs/2504.05180)|null|
+|**2025-04-07**|**Learning symmetries in datasets**|Veronica Sanz et.al.|[2504.05174](http://arxiv.org/abs/2504.05174)|null|
+|**2025-04-07**|**Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness**|Dongzhuoran Zhou et.al.|[2504.05163](http://arxiv.org/abs/2504.05163)|null|
+|**2025-04-07**|**DDPM Score Matching and Distribution Learning**|Sinho Chewi et.al.|[2504.05161](http://arxiv.org/abs/2504.05161)|null|
+|**2025-04-07**|**Pr $εε$ mpt: Sanitizing Sensitive Prompts for LLMs**|Amrita Roy Chowdhury et.al.|[2504.05147](http://arxiv.org/abs/2504.05147)|null|
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
 
 <h3>2025-04-04</h3>
 
