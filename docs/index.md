@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.07
+## Updated on 2025.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -1629,6 +1629,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-04-05</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-05</b></td>
+    <td><b>Multi-Agent Reinforcement Learning for Graph Discovery in D2D-Enabled Federated Learning</b></td>
+    <td>Satyavrat Wagle et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.23218">2503.23218</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-04</h3>
 
 <table>
@@ -1829,13 +1851,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-03-29</b></td>
-    <td><b>Multi-Agent Reinforcement Learning for Graph Discovery in D2D-Enabled Federated Learning</b></td>
-    <td>Satyavrat Wagle et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.23218">2503.23218</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2025-03-29</b></td>
     <td><b>Towards Secure Semantic Communications in the Presence of Intelligent Eavesdroppers</b></td>
