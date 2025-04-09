@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -62,6 +62,13 @@ layout: default
     <td><b>On the Robustness of GUI Grounding Models Against Image Attacks</b></td>
     <td>Haoren Zhao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.04716">2504.04716</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-07</b></td>
+    <td><b>Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models</b></td>
+    <td>Zhaochen Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.01589">2504.01589</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -191,13 +198,6 @@ layout: default
     <td><b>Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation</b></td>
     <td>Junjie Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.01668">2504.01668</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-02</b></td>
-    <td><b>Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models</b></td>
-    <td>Zhaochen Wang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.01589">2504.01589</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -3677,6 +3677,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-04-08</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-08</b></td>
+    <td><b>Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for Retrieval and RAG</b></td>
+    <td>Hengran Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.05220">2504.05220</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-07</h3>
 
 <table>
@@ -3744,13 +3766,6 @@ layout: default
     <td><b>Mapping biodiversity at very-high resolution in Europe</b></td>
     <td>César Leblanc et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.05231">2504.05231</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-07</b></td>
-    <td><b>Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for Retrieval and RAG</b></td>
-    <td>Hengran Zhang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.05220">2504.05220</a></td>
     <td>null</td>
        </tr>
        <tr>
