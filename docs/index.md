@@ -38,6 +38,20 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-04-08</b></td>
+    <td><b>Exploiting Meta-Learning-based Poisoning Attacks for Graph Link Prediction</b></td>
+    <td>Mingchen Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.06492">2504.06492</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-08</b></td>
+    <td><b>Towards Calibration Enhanced Network by Inverse Adversarial Attack</b></td>
+    <td>Yupeng Cheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.06358">2504.06358</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-08</b></td>
     <td><b>Adversarial Training of Reward Models</b></td>
     <td>Alexander Bukharin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.06141">2504.06141</a></td>
@@ -866,6 +880,35 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-04-09</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>Bridging the Gap Between Preference Alignment and Machine Unlearning</b></td>
+    <td>Xiaohua Feng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.06659">2504.06659</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>Diversity-aware Dual-promotion Poisoning Attack on Sequential Recommendation</b></td>
+    <td>Yuchuan Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.06586">2504.06586</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-08</h3>
 
 <table>
@@ -879,6 +922,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-08</b></td>
+    <td><b>Exploiting Meta-Learning-based Poisoning Attacks for Graph Link Prediction</b></td>
+    <td>Mingchen Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.06492">2504.06492</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-08</b></td>
     <td><b>Defending Deep Neural Networks against Backdoor Attacks via Module Switching</b></td>
@@ -3119,6 +3169,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-04-09</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception</b></td>
+    <td>Yuankun Xie et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.06753">2504.06753</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-08</h3>
 
 <table>
@@ -3791,6 +3863,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning</b></td>
+    <td>Nikhil Shivakumar Nayak et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.07097">2504.07097</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>OmniCaptioner: One Captioner to Rule Them All</b></td>
+    <td>Yiting Lu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.07089">2504.07089</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>KG-LLM-Bench: A Scalable Benchmark for Evaluating LLM Reasoning on Textualized Knowledge Graphs</b></td>
+    <td>Elan Markowitz et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.07087">2504.07087</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>Identifying Unknown Stochastic Dynamics via Finite expression methods</b></td>
+    <td>Senwei Liang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.07085">2504.07085</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>DeduCE: Deductive Consistency as a Framework to Evaluate LLM Reasoning</b></td>
+    <td>Atharva Pandey et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.07080">2504.07080</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models</b></td>
+    <td>Zhouhang Xie et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.07070">2504.07070</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>HalluciNot: Hallucination Detection Through Context and Common Knowledge Verification</b></td>
+    <td>Bibek Paudel et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.07069">2504.07069</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling</b></td>
+    <td>Liang-Hsuan Tseng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.07053">2504.07053</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>To Backtrack or Not to Backtrack: When Sequential Search Limits Model Reasoning</b></td>
+    <td>Tian Qin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.07052">2504.07052</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>Distilling Textual Priors from LLM to Efficient Image Fusion</b></td>
+    <td>Ran Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.07029">2504.07029</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>Evaluating Retrieval Augmented Generative Models for Document Queries in Transportation Safety</b></td>
+    <td>Chad Melton et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.07022">2504.07022</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>LLM-IFT: LLM-Powered Information Flow Tracking for Secure Hardware</b></td>
+    <td>Nowfel Mashnoor et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.07015">2504.07015</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>Latent Diffusion U-Net Representations Contain Positional Embeddings and Anomalies</b></td>
+    <td>Jonas Loos et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.07008">2504.07008</a></td>
+    <td>**[link](https://github.com/JonasLoos/sd-representation-anomalies)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>Towards LLMs Robustness to Changes in Prompt Format Styles</b></td>
+    <td>Lilian Ngweta et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.06969">2504.06969</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>Review of Case-Based Reasoning for LLM Agents: Theoretical Foundations, Architectural Components, and Cognitive Integration</b></td>
+    <td>Kostas Hatalis et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.06943">2504.06943</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>FeedbackEval: A Benchmark for Evaluating Large Language Models in Feedback-Driven Code Repair Tasks</b></td>
+    <td>Dekun Dai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.06939">2504.06939</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data</b></td>
+    <td>Georgi Ganev et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.06923">2504.06923</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>Identifying Aspects in Peer Reviews</b></td>
+    <td>Sheng Lu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.06910">2504.06910</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation</b></td>
+    <td>Diljeet Jagpal et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.06861">2504.06861</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>LVC: A Lightweight Compression Framework for Enhancing VLMs in Long Video Understanding</b></td>
+    <td>Ziyi Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.06835">2504.06835</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-09</b></td>
     <td><b>Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups</b></td>

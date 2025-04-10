@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Exploiting Meta-Learning-based Poisoning Attacks for Graph Link Prediction**|Mingchen Li et.al.|[2504.06492](http://arxiv.org/abs/2504.06492)|null|
+|**2025-04-08**|**Towards Calibration Enhanced Network by Inverse Adversarial Attack**|Yupeng Cheng et.al.|[2504.06358](http://arxiv.org/abs/2504.06358)|null|
 |**2025-04-08**|**Adversarial Training of Reward Models**|Alexander Bukharin et.al.|[2504.06141](http://arxiv.org/abs/2504.06141)|null|
 |**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838](http://arxiv.org/abs/2504.05838)|null|
 |**2025-04-08**|**Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing**|Tianchi Liu et.al.|[2504.05657](http://arxiv.org/abs/2504.05657)|null|
@@ -223,10 +225,19 @@
 
 ## Poisoning attacks
 
+<h3>2025-04-09</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-04-09**|**Bridging the Gap Between Preference Alignment and Machine Unlearning**|Xiaohua Feng et.al.|[2504.06659](http://arxiv.org/abs/2504.06659)|null|
+|**2025-04-09**|**Diversity-aware Dual-promotion Poisoning Attack on Sequential Recommendation**|Yuchuan Zhao et.al.|[2504.06586](http://arxiv.org/abs/2504.06586)|null|
+<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+
 <h3>2025-04-08</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Exploiting Meta-Learning-based Poisoning Attacks for Graph Link Prediction**|Mingchen Li et.al.|[2504.06492](http://arxiv.org/abs/2504.06492)|null|
 |**2025-04-08**|**Defending Deep Neural Networks against Backdoor Attacks via Module Switching**|Weijun Li et.al.|[2504.05902](http://arxiv.org/abs/2504.05902)|null|
 |**2025-04-08**|**Parasite: A Steganography-based Backdoor Attack Framework for Diffusion Models**|Jiahao Chen et.al.|[2504.05815](http://arxiv.org/abs/2504.05815)|null|
 |**2025-04-08**|**ShadowCoT: Cognitive Hijacking for Stealthy Reasoning Backdoors in LLMs**|Gejian Zhao et.al.|[2504.05605](http://arxiv.org/abs/2504.05605)|null|
@@ -856,6 +867,13 @@
 
 ## Forensics
 
+<h3>2025-04-09</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-04-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
+<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+
 <h3>2025-04-08</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -1057,6 +1075,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning**|Nikhil Shivakumar Nayak et.al.|[2504.07097](http://arxiv.org/abs/2504.07097)|null|
+|**2025-04-09**|**OmniCaptioner: One Captioner to Rule Them All**|Yiting Lu et.al.|[2504.07089](http://arxiv.org/abs/2504.07089)|null|
+|**2025-04-09**|**KG-LLM-Bench: A Scalable Benchmark for Evaluating LLM Reasoning on Textualized Knowledge Graphs**|Elan Markowitz et.al.|[2504.07087](http://arxiv.org/abs/2504.07087)|null|
+|**2025-04-09**|**Identifying Unknown Stochastic Dynamics via Finite expression methods**|Senwei Liang et.al.|[2504.07085](http://arxiv.org/abs/2504.07085)|null|
+|**2025-04-09**|**DeduCE: Deductive Consistency as a Framework to Evaluate LLM Reasoning**|Atharva Pandey et.al.|[2504.07080](http://arxiv.org/abs/2504.07080)|null|
+|**2025-04-09**|**A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models**|Zhouhang Xie et.al.|[2504.07070](http://arxiv.org/abs/2504.07070)|null|
+|**2025-04-09**|**HalluciNot: Hallucination Detection Through Context and Common Knowledge Verification**|Bibek Paudel et.al.|[2504.07069](http://arxiv.org/abs/2504.07069)|null|
+|**2025-04-09**|**TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling**|Liang-Hsuan Tseng et.al.|[2504.07053](http://arxiv.org/abs/2504.07053)|null|
+|**2025-04-09**|**To Backtrack or Not to Backtrack: When Sequential Search Limits Model Reasoning**|Tian Qin et.al.|[2504.07052](http://arxiv.org/abs/2504.07052)|null|
+|**2025-04-09**|**Distilling Textual Priors from LLM to Efficient Image Fusion**|Ran Zhang et.al.|[2504.07029](http://arxiv.org/abs/2504.07029)|null|
+|**2025-04-09**|**Evaluating Retrieval Augmented Generative Models for Document Queries in Transportation Safety**|Chad Melton et.al.|[2504.07022](http://arxiv.org/abs/2504.07022)|null|
+|**2025-04-09**|**LLM-IFT: LLM-Powered Information Flow Tracking for Secure Hardware**|Nowfel Mashnoor et.al.|[2504.07015](http://arxiv.org/abs/2504.07015)|null|
+|**2025-04-09**|**Latent Diffusion U-Net Representations Contain Positional Embeddings and Anomalies**|Jonas Loos et.al.|[2504.07008](http://arxiv.org/abs/2504.07008)|**[link](https://github.com/JonasLoos/sd-representation-anomalies)**|
+|**2025-04-09**|**Towards LLMs Robustness to Changes in Prompt Format Styles**|Lilian Ngweta et.al.|[2504.06969](http://arxiv.org/abs/2504.06969)|null|
+|**2025-04-09**|**Review of Case-Based Reasoning for LLM Agents: Theoretical Foundations, Architectural Components, and Cognitive Integration**|Kostas Hatalis et.al.|[2504.06943](http://arxiv.org/abs/2504.06943)|null|
+|**2025-04-09**|**FeedbackEval: A Benchmark for Evaluating Large Language Models in Feedback-Driven Code Repair Tasks**|Dekun Dai et.al.|[2504.06939](http://arxiv.org/abs/2504.06939)|null|
+|**2025-04-09**|**The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**|Georgi Ganev et.al.|[2504.06923](http://arxiv.org/abs/2504.06923)|null|
+|**2025-04-09**|**Identifying Aspects in Peer Reviews**|Sheng Lu et.al.|[2504.06910](http://arxiv.org/abs/2504.06910)|null|
+|**2025-04-09**|**EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation**|Diljeet Jagpal et.al.|[2504.06861](http://arxiv.org/abs/2504.06861)|null|
+|**2025-04-09**|**LVC: A Lightweight Compression Framework for Enhancing VLMs in Long Video Understanding**|Ziyi Wang et.al.|[2504.06835](http://arxiv.org/abs/2504.06835)|null|
 |**2025-04-09**|**Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups**|Rijul Magu et.al.|[2504.06160](http://arxiv.org/abs/2504.06160)|null|
 |**2025-04-09**|**Leanabell-Prover: Posttraining Scaling in Formal Reasoning**|Jingyuan Zhang et.al.|[2504.06122](http://arxiv.org/abs/2504.06122)|null|
 |**2025-04-09**|**CAI: An Open, Bug Bounty-Ready Cybersecurity AI**|Víctor Mayoral-Vilches et.al.|[2504.06017](http://arxiv.org/abs/2504.06017)|null|
