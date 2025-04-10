@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -3778,6 +3778,42 @@ layout: default
 
 ## AIGC
 
+<h3>2025-04-09</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups</b></td>
+    <td>Rijul Magu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.06160">2504.06160</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>Leanabell-Prover: Posttraining Scaling in Formal Reasoning</b></td>
+    <td>Jingyuan Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.06122">2504.06122</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-09</b></td>
+    <td><b>CAI: An Open, Bug Bounty-Ready Cybersecurity AI</b></td>
+    <td>Víctor Mayoral-Vilches et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.06017">2504.06017</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-08</h3>
 
 <table>
@@ -3870,13 +3906,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-04-08</b></td>
-    <td><b>Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups</b></td>
-    <td>Rijul Magu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.06160">2504.06160</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-08</b></td>
     <td><b>ARLO: A Tailorable Approach for Transforming Natural Language Software Requirements into Architecture using LLMs</b></td>
     <td>Tooraj Helmi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.06143">2504.06143</a></td>
@@ -3898,13 +3927,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-04-08</b></td>
-    <td><b>Leanabell-Prover: Posttraining Scaling in Formal Reasoning</b></td>
-    <td>Jingyuan Zhang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.06122">2504.06122</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-08</b></td>
     <td><b>Nonuniform-Tensor-Parallelism: Mitigating GPU failure impact for Scaled-up LLM Training</b></td>
     <td>Daiyaan Arfeen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.06095">2504.06095</a></td>
@@ -3915,13 +3937,6 @@ layout: default
     <td><b>Multi-Sense Embeddings for Language Models and Knowledge Distillation</b></td>
     <td>Qitong Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.06036">2504.06036</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-08</b></td>
-    <td><b>CAI: An Open, Bug Bounty-Ready Cybersecurity AI</b></td>
-    <td>Víctor Mayoral-Vilches et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.06017">2504.06017</a></td>
     <td>null</td>
        </tr>
        <tr>
