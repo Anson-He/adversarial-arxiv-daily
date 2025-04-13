@@ -106,14 +106,14 @@ layout: default
     <td><b>Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking</b></td>
     <td>Junxi Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.05838">2504.05838</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/fhdnskfbeuv/attackipa)**</td>
        </tr>
        <tr>
     <td><b>2025-04-08</b></td>
     <td><b>Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing</b></td>
     <td>Tianchi Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.05657">2504.05657</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/liu-tianchi/nes2net)**</td>
        </tr>
    </tbody>
 </table>
@@ -3311,7 +3311,7 @@ layout: default
     <td><b>Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing</b></td>
     <td>Tianchi Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.05657">2504.05657</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/liu-tianchi/nes2net)**</td>
        </tr>
    </tbody>
 </table>
@@ -3970,14 +3970,14 @@ layout: default
     <td><b>C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing</b></td>
     <td>Zhongyang Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.07964">2504.07964</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/tianyi-lab/c3po)**</td>
        </tr>
        <tr>
     <td><b>2025-04-10</b></td>
     <td><b>PixelFlow: Pixel-Space Generative Models with Flow</b></td>
     <td>Shoufa Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.07963">2504.07963</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/shoufachen/pixelflow)**</td>
        </tr>
        <tr>
     <td><b>2025-04-10</b></td>
@@ -4082,14 +4082,14 @@ layout: default
     <td><b>Cluster-Driven Expert Pruning for Mixture-of-Experts Large Language Models</b></td>
     <td>Hongcheng Guo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.07807">2504.07807</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/fighoture/moe_unsupervised_pruning)**</td>
        </tr>
        <tr>
     <td><b>2025-04-10</b></td>
     <td><b>A System for Comprehensive Assessment of RAG Frameworks</b></td>
     <td>Mattia Rengo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.07803">2504.07803</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/eustema-s-p-a/scarf)**</td>
        </tr>
        <tr>
     <td><b>2025-04-10</b></td>
@@ -4103,7 +4103,7 @@ layout: default
     <td><b>Plan-and-Refine: Diverse and Comprehensive Retrieval-Augmented Generation</b></td>
     <td>Alireza Salemi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.07794">2504.07794</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/alirezasalemi7/pr-rag)**</td>
        </tr>
    </tbody>
 </table>

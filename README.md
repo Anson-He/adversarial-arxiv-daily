@@ -40,8 +40,8 @@
 |**2025-04-08**|**Exploiting Meta-Learning-based Poisoning Attacks for Graph Link Prediction**|Mingchen Li et.al.|[2504.06492](http://arxiv.org/abs/2504.06492)|null|
 |**2025-04-08**|**Towards Calibration Enhanced Network by Inverse Adversarial Attack**|Yupeng Cheng et.al.|[2504.06358](http://arxiv.org/abs/2504.06358)|null|
 |**2025-04-08**|**Adversarial Training of Reward Models**|Alexander Bukharin et.al.|[2504.06141](http://arxiv.org/abs/2504.06141)|null|
-|**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838](http://arxiv.org/abs/2504.05838)|null|
-|**2025-04-08**|**Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing**|Tianchi Liu et.al.|[2504.05657](http://arxiv.org/abs/2504.05657)|null|
+|**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838](http://arxiv.org/abs/2504.05838)|**[link](https://github.com/fhdnskfbeuv/attackipa)**|
+|**2025-04-08**|**Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing**|Tianchi Liu et.al.|[2504.05657](http://arxiv.org/abs/2504.05657)|**[link](https://github.com/liu-tianchi/nes2net)**|
 <p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
 
 <h3>2025-04-07</h3>
@@ -908,7 +908,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-08**|**Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing**|Tianchi Liu et.al.|[2504.05657](http://arxiv.org/abs/2504.05657)|null|
+|**2025-04-08**|**Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing**|Tianchi Liu et.al.|[2504.05657](http://arxiv.org/abs/2504.05657)|**[link](https://github.com/liu-tianchi/nes2net)**|
 <p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
 
 <h3>2025-04-07</h3>
@@ -1105,8 +1105,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-10**|**C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing**|Zhongyang Li et.al.|[2504.07964](http://arxiv.org/abs/2504.07964)|null|
-|**2025-04-10**|**PixelFlow: Pixel-Space Generative Models with Flow**|Shoufa Chen et.al.|[2504.07963](http://arxiv.org/abs/2504.07963)|null|
+|**2025-04-10**|**C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing**|Zhongyang Li et.al.|[2504.07964](http://arxiv.org/abs/2504.07964)|**[link](https://github.com/tianyi-lab/c3po)**|
+|**2025-04-10**|**PixelFlow: Pixel-Space Generative Models with Flow**|Shoufa Chen et.al.|[2504.07963](http://arxiv.org/abs/2504.07963)|**[link](https://github.com/shoufachen/pixelflow)**|
 |**2025-04-10**|**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**|Yukun Qi et.al.|[2504.07956](http://arxiv.org/abs/2504.07956)|null|
 |**2025-04-10**|**Scaling Laws for Native Multimodal Models Scaling Laws for Native Multimodal Models**|Mustafa Shukor et.al.|[2504.07951](http://arxiv.org/abs/2504.07951)|null|
 |**2025-04-10**|**Porting an LLM based Application from ChatGPT to an On-Premise Environment**|Teemu Paloniemi et.al.|[2504.07907](http://arxiv.org/abs/2504.07907)|null|
@@ -1121,10 +1121,10 @@
 |**2025-04-10**|**Understanding Learner-LLM Chatbot Interactions and the Impact of Prompting Guidelines**|Cansu Koyuturk et.al.|[2504.07840](http://arxiv.org/abs/2504.07840)|null|
 |**2025-04-10**|**Deceptive Automated Interpretability: Language Models Coordinating to Fool Oversight Systems**|Simon Lermen et.al.|[2504.07831](http://arxiv.org/abs/2504.07831)|null|
 |**2025-04-10**|**MOSAIC: Modeling Social AI for Content Dissemination and Regulation in Multi-Agent Simulations**|Genglin Liu et.al.|[2504.07830](http://arxiv.org/abs/2504.07830)|null|
-|**2025-04-10**|**Cluster-Driven Expert Pruning for Mixture-of-Experts Large Language Models**|Hongcheng Guo et.al.|[2504.07807](http://arxiv.org/abs/2504.07807)|null|
-|**2025-04-10**|**A System for Comprehensive Assessment of RAG Frameworks**|Mattia Rengo et.al.|[2504.07803](http://arxiv.org/abs/2504.07803)|null|
+|**2025-04-10**|**Cluster-Driven Expert Pruning for Mixture-of-Experts Large Language Models**|Hongcheng Guo et.al.|[2504.07807](http://arxiv.org/abs/2504.07807)|**[link](https://github.com/fighoture/moe_unsupervised_pruning)**|
+|**2025-04-10**|**A System for Comprehensive Assessment of RAG Frameworks**|Mattia Rengo et.al.|[2504.07803](http://arxiv.org/abs/2504.07803)|**[link](https://github.com/eustema-s-p-a/scarf)**|
 |**2025-04-10**|**FairEval: Evaluating Fairness in LLM-Based Recommendations with Personality Awareness**|Chandan Kumar Sah et.al.|[2504.07801](http://arxiv.org/abs/2504.07801)|null|
-|**2025-04-10**|**Plan-and-Refine: Diverse and Comprehensive Retrieval-Augmented Generation**|Alireza Salemi et.al.|[2504.07794](http://arxiv.org/abs/2504.07794)|null|
+|**2025-04-10**|**Plan-and-Refine: Diverse and Comprehensive Retrieval-Augmented Generation**|Alireza Salemi et.al.|[2504.07794](http://arxiv.org/abs/2504.07794)|**[link](https://github.com/alirezasalemi7/pr-rag)**|
 <p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
 
 <h3>2025-04-09</h3>
