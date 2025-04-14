@@ -23,6 +23,42 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-04-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Enabling Safety for Aerial Robots: Planning and Control Architectures</b></td>
+    <td>Kaleb Ben Naveed et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08601">2504.08601</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Toward Realistic Adversarial Attacks in IDS: A Novel Feasibility Metric for Transferability</b></td>
+    <td>Sabrine Ennaji et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08480">2504.08480</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Adversarial Examples in Environment Perception for Automated Driving (Review)</b></td>
+    <td>Jun Yan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08414">2504.08414</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-10</h3>
 
 <table>
@@ -1579,6 +1615,28 @@ layout: default
 
 ## Generative models safety
 
+<h3>2025-04-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>SAEs $\textit{Can}$ Improve Unlearning: Dynamic Sparse Autoencoder Guardrails for Precision Unlearning in LLMs</b></td>
+    <td>Aashiq Muhamed et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08192">2504.08192</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-03-31</h3>
 
 <table>
@@ -1946,6 +2004,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-04-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Understanding the Impact of Data Domain Extraction on Synthetic Data Privacy</b></td>
+    <td>Georgi Ganev et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08254">2504.08254</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-10</h3>
 
 <table>
@@ -3264,6 +3344,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-04-10</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-10</b></td>
+    <td><b>LoRAX: LoRA eXpandable Networks for Continual Synthetic Image Attribution</b></td>
+    <td>Danielle Sullivan-Pao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08149">2504.08149</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-09</h3>
 
 <table>
@@ -3965,6 +4067,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Visual Chronicles: Using Multimodal LLMs to Analyze Massive Collections of Images</b></td>
+    <td>Boyang Deng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08727">2504.08727</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>DocAgent: A Multi-Agent System for Automated Code Documentation Generation</b></td>
+    <td>Dayu Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08725">2504.08725</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Generating Fine Details of Entity Interactions</b></td>
+    <td>Xinyi Gu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08714">2504.08714</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Large Language Models as Span Annotators</b></td>
+    <td>Zdeněk Kasner et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08697">2504.08697</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>SeaView: Software Engineering Agent Visual Interface for Enhanced Workflow</b></td>
+    <td>Timothy Bula et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08696">2504.08696</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for Spatiotemporal-Aware Travel Planning</b></td>
+    <td>Hang Ni et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08694">2504.08694</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Fast-Slow-Thinking: Complex Task Solving with Large Language Models</b></td>
+    <td>Yiliu Sun et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08690">2504.08690</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Voice Interaction With Conversational AI Could Facilitate Thoughtful Reflection and Substantive Revision in Writing</b></td>
+    <td>Jiho Kim et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08687">2504.08687</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model</b></td>
+    <td>Team Seawead et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08685">2504.08685</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning</b></td>
+    <td>Fangzhi Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08672">2504.08672</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Variability-Driven User-Story Generation using LLM and Triadic Concept Analysis</b></td>
+    <td>Alexandre Bazin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08666">2504.08666</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Safe Flow Matching: Robot Motion Planning with Control Barrier Functions</b></td>
+    <td>Xiaobing Dai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08661">2504.08661</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Do LLMs trust AI regulation? Emerging behaviour of game-theoretic LLM agents</b></td>
+    <td>Alessio Buscemi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08640">2504.08640</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation</b></td>
+    <td>Tao Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08621">2504.08621</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Analyzing 16,193 LLM Papers for Fun and Profits</b></td>
+    <td>Zhiqiu Xia et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08619">2504.08619</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration</b></td>
+    <td>Yongsheng Yu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08591">2504.08591</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>COP-GEN-Beta: Unified Generative Modelling of COPernicus Imagery Thumbnails</b></td>
+    <td>Miguel Espinosa et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08548">2504.08548</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Slicing the Gaussian Mixture Wasserstein Distance</b></td>
+    <td>Moritz Piening et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08544">2504.08544</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Task Memory Engine (TME): Enhancing State Awareness for Multi-Step LLM Agent Tasks</b></td>
+    <td>Ye Ye et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08525">2504.08525</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Adopting Large Language Models to Automated System Integration</b></td>
+    <td>Robin D. Pesl et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.08490">2504.08490</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-11</b></td>
     <td><b>Scaling Laws for Native Multimodal Models</b></td>

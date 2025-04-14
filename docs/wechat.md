@@ -19,6 +19,13 @@
 
 ## Adversarial attacks
 
+<h3>2025-04-11</h3>
+
+- 2025-04-11, **Enabling Safety for Aerial Robots: Planning and Control Architectures**, Kaleb Ben Naveed et.al., Paper: [http://arxiv.org/abs/2504.08601](http://arxiv.org/abs/2504.08601)
+- 2025-04-11, **Toward Realistic Adversarial Attacks in IDS: A Novel Feasibility Metric for Transferability**, Sabrine Ennaji et.al., Paper: [http://arxiv.org/abs/2504.08480](http://arxiv.org/abs/2504.08480)
+- 2025-04-11, **Adversarial Examples in Environment Perception for Automated Driving (Review)**, Jun Yan et.al., Paper: [http://arxiv.org/abs/2504.08414](http://arxiv.org/abs/2504.08414)
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+
 <h3>2025-04-10</h3>
 
 - 2025-04-10, **Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge**, Riccardo Cantini et.al., Paper: [http://arxiv.org/abs/2504.07887](http://arxiv.org/abs/2504.07887), Code: **[https://github.com/SCAlabUnical/CLEAR-Bias_LLM_benchmark](https://github.com/SCAlabUnical/CLEAR-Bias_LLM_benchmark)**
@@ -330,6 +337,11 @@
 
 ## Generative models safety
 
+<h3>2025-04-11</h3>
+
+- 2025-04-11, **SAEs $\textit{Can}$ Improve Unlearning: Dynamic Sparse Autoencoder Guardrails for Precision Unlearning in LLMs**, Aashiq Muhamed et.al., Paper: [http://arxiv.org/abs/2504.08192](http://arxiv.org/abs/2504.08192)
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+
 <h3>2025-03-31</h3>
 
 - 2025-03-31, **$\textit{Agents Under Siege}$ : Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks**, Rana Muhammad Shahroz Khan et.al., Paper: [http://arxiv.org/abs/2504.00218](http://arxiv.org/abs/2504.00218)
@@ -410,6 +422,11 @@
 
 
 ## Data privacy
+
+<h3>2025-04-11</h3>
+
+- 2025-04-11, **Understanding the Impact of Data Domain Extraction on Synthetic Data Privacy**, Georgi Ganev et.al., Paper: [http://arxiv.org/abs/2504.08254](http://arxiv.org/abs/2504.08254)
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
 <h3>2025-04-10</h3>
 
@@ -688,6 +705,11 @@
 
 ## Forensics
 
+<h3>2025-04-10</h3>
+
+- 2025-04-10, **LoRAX: LoRA eXpandable Networks for Continual Synthetic Image Attribution**, Danielle Sullivan-Pao et.al., Paper: [http://arxiv.org/abs/2504.08149](http://arxiv.org/abs/2504.08149)
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+
 <h3>2025-04-09</h3>
 
 - 2025-04-09, **Face-LLaVA: Facial Expression and Attribute Understanding through Instruction Tuning**, Ashutosh Chaubey et.al., Paper: [http://arxiv.org/abs/2504.07198](http://arxiv.org/abs/2504.07198)
@@ -841,6 +863,26 @@
 
 <h3>2025-04-11</h3>
 
+- 2025-04-11, **Visual Chronicles: Using Multimodal LLMs to Analyze Massive Collections of Images**, Boyang Deng et.al., Paper: [http://arxiv.org/abs/2504.08727](http://arxiv.org/abs/2504.08727)
+- 2025-04-11, **DocAgent: A Multi-Agent System for Automated Code Documentation Generation**, Dayu Yang et.al., Paper: [http://arxiv.org/abs/2504.08725](http://arxiv.org/abs/2504.08725)
+- 2025-04-11, **Generating Fine Details of Entity Interactions**, Xinyi Gu et.al., Paper: [http://arxiv.org/abs/2504.08714](http://arxiv.org/abs/2504.08714)
+- 2025-04-11, **Large Language Models as Span Annotators**, Zdeněk Kasner et.al., Paper: [http://arxiv.org/abs/2504.08697](http://arxiv.org/abs/2504.08697)
+- 2025-04-11, **SeaView: Software Engineering Agent Visual Interface for Enhanced Workflow**, Timothy Bula et.al., Paper: [http://arxiv.org/abs/2504.08696](http://arxiv.org/abs/2504.08696)
+- 2025-04-11, **TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for Spatiotemporal-Aware Travel Planning**, Hang Ni et.al., Paper: [http://arxiv.org/abs/2504.08694](http://arxiv.org/abs/2504.08694)
+- 2025-04-11, **Fast-Slow-Thinking: Complex Task Solving with Large Language Models**, Yiliu Sun et.al., Paper: [http://arxiv.org/abs/2504.08690](http://arxiv.org/abs/2504.08690)
+- 2025-04-11, **Voice Interaction With Conversational AI Could Facilitate Thoughtful Reflection and Substantive Revision in Writing**, Jiho Kim et.al., Paper: [http://arxiv.org/abs/2504.08687](http://arxiv.org/abs/2504.08687)
+- 2025-04-11, **Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model**, Team Seawead et.al., Paper: [http://arxiv.org/abs/2504.08685](http://arxiv.org/abs/2504.08685)
+- 2025-04-11, **Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning**, Fangzhi Xu et.al., Paper: [http://arxiv.org/abs/2504.08672](http://arxiv.org/abs/2504.08672)
+- 2025-04-11, **Variability-Driven User-Story Generation using LLM and Triadic Concept Analysis**, Alexandre Bazin et.al., Paper: [http://arxiv.org/abs/2504.08666](http://arxiv.org/abs/2504.08666)
+- 2025-04-11, **Safe Flow Matching: Robot Motion Planning with Control Barrier Functions**, Xiaobing Dai et.al., Paper: [http://arxiv.org/abs/2504.08661](http://arxiv.org/abs/2504.08661)
+- 2025-04-11, **Do LLMs trust AI regulation? Emerging behaviour of game-theoretic LLM agents**, Alessio Buscemi et.al., Paper: [http://arxiv.org/abs/2504.08640](http://arxiv.org/abs/2504.08640)
+- 2025-04-11, **MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation**, Tao Zhang et.al., Paper: [http://arxiv.org/abs/2504.08621](http://arxiv.org/abs/2504.08621)
+- 2025-04-11, **Analyzing 16,193 LLM Papers for Fun and Profits**, Zhiqiu Xia et.al., Paper: [http://arxiv.org/abs/2504.08619](http://arxiv.org/abs/2504.08619)
+- 2025-04-11, **ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration**, Yongsheng Yu et.al., Paper: [http://arxiv.org/abs/2504.08591](http://arxiv.org/abs/2504.08591)
+- 2025-04-11, **COP-GEN-Beta: Unified Generative Modelling of COPernicus Imagery Thumbnails**, Miguel Espinosa et.al., Paper: [http://arxiv.org/abs/2504.08548](http://arxiv.org/abs/2504.08548)
+- 2025-04-11, **Slicing the Gaussian Mixture Wasserstein Distance**, Moritz Piening et.al., Paper: [http://arxiv.org/abs/2504.08544](http://arxiv.org/abs/2504.08544)
+- 2025-04-11, **Task Memory Engine (TME): Enhancing State Awareness for Multi-Step LLM Agent Tasks**, Ye Ye et.al., Paper: [http://arxiv.org/abs/2504.08525](http://arxiv.org/abs/2504.08525)
+- 2025-04-11, **Adopting Large Language Models to Automated System Integration**, Robin D. Pesl et.al., Paper: [http://arxiv.org/abs/2504.08490](http://arxiv.org/abs/2504.08490)
 - 2025-04-11, **Scaling Laws for Native Multimodal Models**, Mustafa Shukor et.al., Paper: [http://arxiv.org/abs/2504.07951](http://arxiv.org/abs/2504.07951)
 - 2025-04-11, **An LLM-Driven Multi-Agent Debate System for Mendelian Diseases**, Xinyang Zhou et.al., Paper: [http://arxiv.org/abs/2504.07881](http://arxiv.org/abs/2504.07881)
 - 2025-04-11, **Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs**, Yichun Yin et.al., Paper: [http://arxiv.org/abs/2504.07866](http://arxiv.org/abs/2504.07866)
