@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.13
+## Updated on 2025.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -3952,6 +3952,42 @@ layout: default
 
 ## AIGC
 
+<h3>2025-04-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Scaling Laws for Native Multimodal Models</b></td>
+    <td>Mustafa Shukor et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.07951">2504.07951</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>An LLM-Driven Multi-Agent Debate System for Mendelian Diseases</b></td>
+    <td>Xinyang Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.07881">2504.07881</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs</b></td>
+    <td>Yichun Yin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.07866">2504.07866</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-10</h3>
 
 <table>
@@ -3984,13 +4020,6 @@ layout: default
     <td><b>VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning</b></td>
     <td>Yukun Qi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.07956">2504.07956</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-10</b></td>
-    <td><b>Scaling Laws for Native Multimodal Models Scaling Laws for Native Multimodal Models</b></td>
-    <td>Mustafa Shukor et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.07951">2504.07951</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -4030,23 +4059,9 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-04-10</b></td>
-    <td><b>An LLM-Driven Multi-Agent Debate System for Mendelian Diseases</b></td>
-    <td>Xinyang Zhou et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.07881">2504.07881</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-10</b></td>
     <td><b>Token Level Routing Inference System for Edge Devices</b></td>
     <td>Jianshu She et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.07878">2504.07878</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-10</b></td>
-    <td><b>Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs</b></td>
-    <td>Yichun Yin et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.07866">2504.07866</a></td>
     <td>null</td>
        </tr>
        <tr>
