@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.14
+## Updated on 2025.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -55,6 +55,13 @@ layout: default
     <td><b>Adversarial Examples in Environment Perception for Automated Driving (Review)</b></td>
     <td>Jun Yan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.08414">2504.08414</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-11</b></td>
+    <td><b>Adversarial Training of Reward Models</b></td>
+    <td>Alexander Bukharin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.06141">2504.06141</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -128,13 +135,6 @@ layout: default
     <td><b>Towards Calibration Enhanced Network by Inverse Adversarial Attack</b></td>
     <td>Yupeng Cheng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.06358">2504.06358</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-08</b></td>
-    <td><b>Adversarial Training of Reward Models</b></td>
-    <td>Alexander Bukharin et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.06141">2504.06141</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -2857,6 +2857,28 @@ layout: default
 
 ## Model Privacy
 
+<h3>2025-04-12</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-12</b></td>
+    <td><b>Footprints of Data in a Classifier: Understanding the Privacy Risks and Solution Strategies</b></td>
+    <td>Payel Sadhukhan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2407.02268">2407.02268</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-07</h3>
 
 <table>
@@ -3228,28 +3250,6 @@ layout: default
     <td>Xingli Fang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2407.16164">2407.16164</a></td>
     <td>**[link](https://github.com/jekimlab/aies2024_srcm)**</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2024-07-02</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2024-07-02</b></td>
-    <td><b>Footprints of Data in a Classifier Model: The Privacy Issues and Their Mitigation through Data Obfuscation</b></td>
-    <td>Payel Sadhukhan et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2407.02268">2407.02268</a></td>
-    <td>null</td>
        </tr>
    </tbody>
 </table>
