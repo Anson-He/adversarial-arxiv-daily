@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -3673,7 +3673,7 @@ layout: default
     <td><b>LoRAX: LoRA eXpandable Networks for Continual Synthetic Image Attribution</b></td>
     <td>Danielle Sullivan-Pao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.08149">2504.08149</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mit-ll/lorax_cil)**</td>
        </tr>
    </tbody>
 </table>
@@ -3702,7 +3702,7 @@ layout: default
     <td><b>Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception</b></td>
     <td>Yuankun Xie et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.06753">2504.06753</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/xieyuankun/all-type-add)**</td>
        </tr>
    </tbody>
 </table>
