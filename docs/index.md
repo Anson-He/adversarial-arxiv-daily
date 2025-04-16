@@ -23,6 +23,70 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-04-15</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning</b></td>
+    <td>Lijun Sheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11195">2504.11195</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Exploring Backdoor Attack and Defense for LLM-empowered Recommendations</b></td>
+    <td>Liangbo Ning et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11182">2504.11182</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image Models</b></td>
+    <td>Jiangtao Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11106">2504.11106</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>QAVA: Query-Agnostic Visual Attack to Large Vision-Language Models</b></td>
+    <td>Yudong Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11038">2504.11038</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Defending Against Frequency-Based Attacks with Diffusion Models</b></td>
+    <td>Fatemeh Amerehi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11034">2504.11034</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Towards Spatially-Aware and Optimally Faithful Concept-Based Explanations</b></td>
+    <td>Shubham Kumar et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.10833">2504.10833</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>The Sword of Damocles in ViTs: Computational Redundancy Amplifies Adversarial Transferability</b></td>
+    <td>Jiani Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.10804">2504.10804</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-14</h3>
 
 <table>
@@ -36,6 +100,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-14</b></td>
+    <td><b>Demo: ViolentUTF as An Accessible Platform for Generative AI Red Teaming</b></td>
+    <td>Tam n. Nguyen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.10603">2504.10603</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-14</b></td>
     <td><b>Quantifying Privacy Leakage in Split Inference via Fisher-Approximated Shannon Information Analysis</b></td>
@@ -1096,6 +1167,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-04-15</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Exploring Backdoor Attack and Defense for LLM-empowered Recommendations</b></td>
+    <td>Liangbo Ning et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11182">2504.11182</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-14</h3>
 
 <table>
@@ -2199,6 +2292,35 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-04-15</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>FLSSM: A Federated Learning Storage Security Model with Homomorphic Encryption</b></td>
+    <td>Yang Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11088">2504.11088</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Collaborative Bayesian Optimization via Wasserstein Barycenters</b></td>
+    <td>Donglin Zhan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.10770">2504.10770</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-14</h3>
 
 <table>
@@ -2212,6 +2334,20 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-14</b></td>
+    <td><b>Optimising Intrusion Detection Systems in Cloud-Edge Continuum with Knowledge Distillation for Privacy-Preserving and Efficient Communication</b></td>
+    <td>Soad Almabdy et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.10698">2504.10698</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-14</b></td>
+    <td><b>VAE-based Feature Disentanglement for Data Augmentation and Compression in Generalized GNSS Interference Classification</b></td>
+    <td>Lucas Heublein et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.10556">2504.10556</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-14</b></td>
     <td><b>Privacy-Preserving Distributed Link Predictions Among Peers in Online Classrooms Using Federated Learning</b></td>
@@ -3117,6 +3253,28 @@ layout: default
 
 ## Model Privacy
 
+<h3>2025-04-15</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>FLSSM: A Federated Learning Storage Security Model with Homomorphic Encryption</b></td>
+    <td>Yang Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11088">2504.11088</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-12</h3>
 
 <table>
@@ -3604,6 +3762,35 @@ layout: default
 
 ## Forensics
 
+<h3>2025-04-15</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Big Brother is Watching: Proactive Deepfake Detection via Learnable Hidden Face</b></td>
+    <td>Hongbo Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11309">2504.11309</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Generalized Audio Deepfake Detection Using Frame-level Latent Information Entropy</b></td>
+    <td>Botao Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.10819">2504.10819</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-14</h3>
 
 <table>
@@ -4343,6 +4530,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-04-15</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception</b></td>
+    <td>Ziqi Pang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11457">2504.11457</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning</b></td>
+    <td>Zhiwei He et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11456">2504.11456</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Elucidating the Design Space of Multimodal Protein Language Models</b></td>
+    <td>Cheng-Yen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11454">2504.11454</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>TextArena</b></td>
+    <td>Leon Guertler et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11442">2504.11442</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Masculine Defaults via Gendered Discourse in Podcasts and Large Language Models</b></td>
+    <td>Maria Teleki et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11431">2504.11431</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>A Dual-Space Framework for General Knowledge Distillation of Large Language Models</b></td>
+    <td>Xue Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11426">2504.11426</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Reinforcing Compositional Retrieval: Retrieving Step-by-Step for Composing Informative Contexts</b></td>
+    <td>Quanyu Long et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11420">2504.11420</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning</b></td>
+    <td>Ali Taghibakhshi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11409">2504.11409</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>RankAlign: A Ranking View of the Generator-Validator Gap in Large Language Models</b></td>
+    <td>Juan Diego Rodriguez et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11381">2504.11381</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Ring Artifacts Correction Based on Global-Local Features Interaction Guidance in the Projection Domain</b></td>
+    <td>Yunze Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11375">2504.11375</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Cancer-Myth: Evaluating AI Chatbot on Patient Questions with False Presuppositions</b></td>
+    <td>Wang Bill Zhu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11373">2504.11373</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks</b></td>
+    <td>Yupei Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11358">2504.11358</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce</b></td>
+    <td>Wei Xiong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11343">2504.11343</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints</b></td>
+    <td>Ruicheng Ao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11320">2504.11320</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Learning to Be A Doctor: Searching for Effective Medical Agent Architectures</b></td>
+    <td>Yangyang Zhuang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11301">2504.11301</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to Fine-Print Injections</b></td>
+    <td>Chaoran Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11281">2504.11281</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>From Misleading Queries to Accurate Answers: A Three-Stage Fine-Tuning Method for LLMs</b></td>
+    <td>Guocong Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11277">2504.11277</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Towards Automated Safety Requirements Derivation Using Agent-based RAG</b></td>
+    <td>Balahari Vignesh Balu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11243">2504.11243</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs</b></td>
+    <td>Chang Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11239">2504.11239</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>AutoRAN: Automated and Zero-Touch Open RAN Systems</b></td>
+    <td>Stefano Maxenti et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11233">2504.11233</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-14</h3>
 
 <table>
