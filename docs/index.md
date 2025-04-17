@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -4530,6 +4530,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-04-16</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-16</b></td>
+    <td><b>Elucidating the Design Space of Multimodal Protein Language Models</b></td>
+    <td>Cheng-Yen Hsieh et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.11454">2504.11454</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-15</h3>
 
 <table>
@@ -4555,13 +4577,6 @@ layout: default
     <td><b>DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning</b></td>
     <td>Zhiwei He et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.11456">2504.11456</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-15</b></td>
-    <td><b>Elucidating the Design Space of Multimodal Protein Language Models</b></td>
-    <td>Cheng-Yen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.11454">2504.11454</a></td>
     <td>null</td>
        </tr>
        <tr>
