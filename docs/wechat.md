@@ -19,6 +19,14 @@
 
 ## Adversarial attacks
 
+<h3>2025-04-16</h3>
+
+- 2025-04-16, **Human Aligned Compression for Robust Models**, Samuel Räber et.al., Paper: [http://arxiv.org/abs/2504.12255](http://arxiv.org/abs/2504.12255)
+- 2025-04-16, **SemDiff: Generating Natural Unrestricted Adversarial Examples via Semantic Attributes Optimization in Diffusion Models**, Zeyu Dai et.al., Paper: [http://arxiv.org/abs/2504.11923](http://arxiv.org/abs/2504.11923)
+- 2025-04-16, **Support is All You Need for Certified VAE Training**, Changming Xu et.al., Paper: [http://arxiv.org/abs/2504.11831](http://arxiv.org/abs/2504.11831)
+- 2025-04-16, **Towards Safe Synthetic Image Generation On the Web: A Multimodal Robust NSFW Defense and Million Scale Dataset**, Muhammad Shahid Muneer et.al., Paper: [http://arxiv.org/abs/2504.11707](http://arxiv.org/abs/2504.11707)
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
+
 <h3>2025-04-15</h3>
 
 - 2025-04-15, **R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning**, Lijun Sheng et.al., Paper: [http://arxiv.org/abs/2504.11195](http://arxiv.org/abs/2504.11195)
@@ -236,6 +244,11 @@
 
 
 ## Poisoning attacks
+
+<h3>2025-04-16</h3>
+
+- 2025-04-16, **Secure Transfer Learning: Training Clean Models Against Backdoor in (Both) Pre-trained Encoders and Downstream Datasets**, Yechao Zhang et.al., Paper: [http://arxiv.org/abs/2504.11990](http://arxiv.org/abs/2504.11990)
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 <h3>2025-04-15</h3>
 
@@ -479,6 +492,11 @@
 
 ## Data privacy
 
+<h3>2025-04-16</h3>
+
+- 2025-04-16, **Federated Spectral Graph Transformers Meet Neural Ordinary Differential Equations for Non-IID Graphs**, Kishan Gurumurthy et.al., Paper: [http://arxiv.org/abs/2504.11808](http://arxiv.org/abs/2504.11808)
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
+
 <h3>2025-04-15</h3>
 
 - 2025-04-15, **FLSSM: A Federated Learning Storage Security Model with Homomorphic Encryption**, Yang Li et.al., Paper: [http://arxiv.org/abs/2504.11088](http://arxiv.org/abs/2504.11088)
@@ -668,6 +686,11 @@
 
 
 ## Model Privacy
+
+<h3>2025-04-16</h3>
+
+- 2025-04-16, **Selective Attention Federated Learning: Improving Privacy and Efficiency for Clinical Text Classification**, Yue Li et.al., Paper: [http://arxiv.org/abs/2504.11793](http://arxiv.org/abs/2504.11793)
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 <h3>2025-04-15</h3>
 
@@ -957,6 +980,26 @@
 
 <h3>2025-04-16</h3>
 
+- 2025-04-16, **BitNet b1.58 2B4T Technical Report**, Shuming Ma et.al., Paper: [http://arxiv.org/abs/2504.12285](http://arxiv.org/abs/2504.12285)
+- 2025-04-16, **HLS-Eval: A Benchmark and Framework for Evaluating LLMs on High-Level Synthesis Design Tasks**, Stefan Abi-Karam et.al., Paper: [http://arxiv.org/abs/2504.12268](http://arxiv.org/abs/2504.12268)
+- 2025-04-16, **VGDFR: Diffusion-based Video Generation with Dynamic Latent Frame Rate**, Zhihang Yuan et.al., Paper: [http://arxiv.org/abs/2504.12259](http://arxiv.org/abs/2504.12259)
+- 2025-04-16, **FLIP Reasoning Challenge**, Andreas Plesner et.al., Paper: [http://arxiv.org/abs/2504.12256](http://arxiv.org/abs/2504.12256)
+- 2025-04-16, **AnomalyGen: An Automated Semantic Log Sequence Generation Framework with LLM for Anomaly Detection**, Xinyu Li et.al., Paper: [http://arxiv.org/abs/2504.12250](http://arxiv.org/abs/2504.12250)
+- 2025-04-16, **MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models**, Hang Yuan et.al., Paper: [http://arxiv.org/abs/2504.12234](http://arxiv.org/abs/2504.12234)
+- 2025-04-16, **Watermarking Needs Input Repetition Masking**, David Khachaturov et.al., Paper: [http://arxiv.org/abs/2504.12229](http://arxiv.org/abs/2504.12229)
+- 2025-04-16, **Coding-Prior Guided Diffusion Network for Video Deblurring**, Yike Liu et.al., Paper: [http://arxiv.org/abs/2504.12222](http://arxiv.org/abs/2504.12222)
+- 2025-04-16, **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning**, Siyan Zhao et.al., Paper: [http://arxiv.org/abs/2504.12216](http://arxiv.org/abs/2504.12216)
+- 2025-04-16, **From Requirements to Architecture: Semi-Automatically Generating Software Architectures**, Tobias Eisenreich et.al., Paper: [http://arxiv.org/abs/2504.12192](http://arxiv.org/abs/2504.12192)
+- 2025-04-16, **What Do Large Language Models Know? Tacit Knowledge as a Potential Causal-Explanatory Structure**, Céline Budding et.al., Paper: [http://arxiv.org/abs/2504.12187](http://arxiv.org/abs/2504.12187)
+- 2025-04-16, **SALAD: Improving Robustness and Generalization through Contrastive Learning with Structure-Aware and LLM-Driven Augmented Data**, Suyoung Bae et.al., Paper: [http://arxiv.org/abs/2504.12185](http://arxiv.org/abs/2504.12185)
+- 2025-04-16, **Deep Generative Models for Bayesian Inference on High-Rate Sensor Data: Applications in Automotive Radar and Medical Imaging**, Tristan S. W. Stevens et.al., Paper: [http://arxiv.org/abs/2504.12154](http://arxiv.org/abs/2504.12154)
+- 2025-04-16, **ARCeR: an Agentic RAG for the Automated Definition of Cyber Ranges**, Matteo Lupinacci et.al., Paper: [http://arxiv.org/abs/2504.12143](http://arxiv.org/abs/2504.12143)
+- 2025-04-16, **Multilingual Contextualization of Large Language Models for Document-Level Machine Translation**, Miguel Moura Ramos et.al., Paper: [http://arxiv.org/abs/2504.12140](http://arxiv.org/abs/2504.12140)
+- 2025-04-16, **Clarifying Ambiguities: on the Role of Ambiguity Types in Prompting Methods for Clarification Generation**, Anfu Tang et.al., Paper: [http://arxiv.org/abs/2504.12113](http://arxiv.org/abs/2504.12113)
+- 2025-04-16, **Towards LLM Agents for Earth Observation**, Chia Hsiang Kao et.al., Paper: [http://arxiv.org/abs/2504.12110](http://arxiv.org/abs/2504.12110)
+- 2025-04-16, **Entropy-Guided Watermarking for LLMs: A Test-Time Framework for Robust and Traceable Text Generation**, Shizhan Cai et.al., Paper: [http://arxiv.org/abs/2504.12108](http://arxiv.org/abs/2504.12108)
+- 2025-04-16, **Gauging Overprecision in LLMs: An Empirical Study**, Adil Bahaj et.al., Paper: [http://arxiv.org/abs/2504.12098](http://arxiv.org/abs/2504.12098)
+- 2025-04-16, **Reasoning-Based AI for Startup Evaluation (R.A.I.S.E.): A Memory-Augmented, Multi-Step Decision Framework**, Jack Preuveneers et.al., Paper: [http://arxiv.org/abs/2504.12090](http://arxiv.org/abs/2504.12090)
 - 2025-04-16, **Elucidating the Design Space of Multimodal Protein Language Models**, Cheng-Yen Hsieh et.al., Paper: [http://arxiv.org/abs/2504.11454](http://arxiv.org/abs/2504.11454)
 <p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
