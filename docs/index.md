@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.17
+## Updated on 2025.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -1210,6 +1210,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-04-17</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-17</b></td>
+    <td><b>ControlNET: A Firewall for RAG-based LLM System</b></td>
+    <td>Hongwei Yao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.09593">2504.09593</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-16</h3>
 
 <table>
@@ -1272,28 +1294,6 @@ layout: default
     <td><b>An Investigation of Large Language Models and Their Vulnerabilities in Spam Detection</b></td>
     <td>Qiyao Tang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.09776">2504.09776</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-04-13</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-04-13</b></td>
-    <td><b>ControlNET: A Firewall for RAG-based LLM System</b></td>
-    <td>Hongwei Yao et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.09593">2504.09593</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -1367,7 +1367,7 @@ layout: default
     <td><b>Exploiting Meta-Learning-based Poisoning Attacks for Graph Link Prediction</b></td>
     <td>Mingchen Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.06492">2504.06492</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mingchenli/VGAE_Attack_Meta)**</td>
        </tr>
        <tr>
     <td><b>2025-04-08</b></td>
@@ -3340,7 +3340,7 @@ layout: default
 
 ## Model Privacy
 
-<h3>2025-04-16</h3>
+<h3>2025-04-17</h3>
 
 <table>
    <thead>
@@ -3354,7 +3354,7 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-04-16</b></td>
+    <td><b>2025-04-17</b></td>
     <td><b>Selective Attention Federated Learning: Improving Privacy and Efficiency for Clinical Text Classification</b></td>
     <td>Yue Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.11793">2504.11793</a></td>
