@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -106,7 +106,7 @@ layout: default
     <td><b>R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning</b></td>
     <td>Lijun Sheng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.11195">2504.11195</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/tomsheng21/r-tpt)**</td>
        </tr>
        <tr>
     <td><b>2025-04-15</b></td>
@@ -127,7 +127,7 @@ layout: default
     <td><b>QAVA: Query-Agnostic Visual Attack to Large Vision-Language Models</b></td>
     <td>Yudong Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.11038">2504.11038</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/btzyd/qava)**</td>
        </tr>
        <tr>
     <td><b>2025-04-15</b></td>
@@ -1301,7 +1301,7 @@ layout: default
     <td><b>Propaganda via AI? A Study on Semantic Backdoors in Large Language Models</b></td>
     <td>Nay Myat Min et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.12344">2504.12344</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/naymyatmin/raven)**</td>
        </tr>
        <tr>
     <td><b>2025-04-15</b></td>
@@ -2585,7 +2585,7 @@ layout: default
     <td><b>DataMap: A Portable Application for Visualizing High-Dimensional Data</b></td>
     <td>Xijin Ge et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.08875">2504.08875</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/gexijin/datamap)**</td>
        </tr>
        <tr>
     <td><b>2025-04-11</b></td>
@@ -4034,7 +4034,7 @@ layout: default
     <td><b>SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis</b></td>
     <td>Zhisheng Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.09839">2504.09839</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/wxzyd123/safespeech)**</td>
        </tr>
    </tbody>
 </table>
@@ -4787,7 +4787,7 @@ layout: default
     <td><b>Sleep-time Compute: Beyond Inference Scaling at Test-time</b></td>
     <td>Kevin Lin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.13171">2504.13171</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/letta-ai/sleep-time-compute)**</td>
        </tr>
        <tr>
     <td><b>2025-04-17</b></td>
@@ -4822,7 +4822,7 @@ layout: default
     <td><b>VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models</b></td>
     <td>Haojian Huang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.13122">2504.13122</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/haroldchen19/vistadpo)**</td>
        </tr>
        <tr>
     <td><b>2025-04-17</b></td>
@@ -4843,7 +4843,7 @@ layout: default
     <td><b>Retrieval-Augmented Generation with Conflicting Evidence</b></td>
     <td>Han Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.13079">2504.13079</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/hannight/ramdocs)**</td>
        </tr>
        <tr>
     <td><b>2025-04-17</b></td>
@@ -4871,7 +4871,7 @@ layout: default
     <td><b>ArtistAuditor: Auditing Artist Style Pirate in Text-to-Image Generation Models</b></td>
     <td>Linkang Du et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.13061">2504.13061</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jozenn/artistauditor)**</td>
        </tr>
        <tr>
     <td><b>2025-04-17</b></td>
