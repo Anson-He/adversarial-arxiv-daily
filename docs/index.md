@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.20
+## Updated on 2025.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -4755,6 +4755,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-04-18</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-18</b></td>
+    <td><b>SkyReels-V2: Infinite-length Film Generative Model</b></td>
+    <td>Guibin Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.13074">2504.13074</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-17</h3>
 
 <table>
@@ -4850,13 +4872,6 @@ layout: default
     <td><b>An All-Atom Generative Model for Designing Protein Complexes</b></td>
     <td>Ruizhe Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.13075">2504.13075</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-17</b></td>
-    <td><b>SkyReels-V2: Infinite-length Film Generative Model</b></td>
-    <td>Guibin Chen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.13074">2504.13074</a></td>
     <td>null</td>
        </tr>
        <tr>
