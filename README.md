@@ -19,21 +19,30 @@
 
 ## Adversarial attacks
 
+<h3>2025-04-18</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-04-18**|**Fairness and Robustness in Machine Unlearning**|Khoa Tran et.al.|[2504.13610](http://arxiv.org/abs/2504.13610)|null|
+|**2025-04-18**|**Q-FAKER: Query-free Hard Black-box Attack via Controlled Generation**|CheolWon Na et.al.|[2504.13551](http://arxiv.org/abs/2504.13551)|null|
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+
 <h3>2025-04-17</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-17**|**Quantum Computing Supported Adversarial Attack-Resilient Autonomous Vehicle Perception Module for Traffic Sign Classification**|Reek Majumder et.al.|[2504.12644](http://arxiv.org/abs/2504.12644)|null|
+|**2025-04-17**|**DYNAMITE: Dynamic Defense Selection for Enhancing Machine Learning-based Intrusion Detection Against Adversarial Attacks**|Jing Chen et.al.|[2504.13301](http://arxiv.org/abs/2504.13301)|null|
+|**2025-04-17**|**Quantum Computing Supported Adversarial Attack-Resilient Autonomous Vehicle Perception Module for Traffic Sign Classification**|Reek Majumder et.al.|[2504.12644](http://arxiv.org/abs/2504.12644)|**[link](https://github.com/reek129/QuantumAI_MultiClass_Sign_Recognition)**|
 <p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 <h3>2025-04-16</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-16**|**Human Aligned Compression for Robust Models**|Samuel Räber et.al.|[2504.12255](http://arxiv.org/abs/2504.12255)|null|
+|**2025-04-16**|**Human Aligned Compression for Robust Models**|Samuel Räber et.al.|[2504.12255](http://arxiv.org/abs/2504.12255)|**[link](https://github.com/aplesner/Human-aligned-compression-for-robust-models)**|
 |**2025-04-16**|**SemDiff: Generating Natural Unrestricted Adversarial Examples via Semantic Attributes Optimization in Diffusion Models**|Zeyu Dai et.al.|[2504.11923](http://arxiv.org/abs/2504.11923)|null|
 |**2025-04-16**|**Support is All You Need for Certified VAE Training**|Changming Xu et.al.|[2504.11831](http://arxiv.org/abs/2504.11831)|null|
-|**2025-04-16**|**Towards Safe Synthetic Image Generation On the Web: A Multimodal Robust NSFW Defense and Million Scale Dataset**|Muhammad Shahid Muneer et.al.|[2504.11707](http://arxiv.org/abs/2504.11707)|null|
+|**2025-04-16**|**Towards Safe Synthetic Image Generation On the Web: A Multimodal Robust NSFW Defense and Million Scale Dataset**|Muhammad Shahid Muneer et.al.|[2504.11707](http://arxiv.org/abs/2504.11707)|**[link](https://github.com/shahidmuneer/multimodal-nsfw-defense)**|
 <p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 <h3>2025-04-15</h3>
@@ -53,6 +62,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Investigating cybersecurity incidents using large language models in latest-generation wireless networks**|Leonid Legashev et.al.|[2504.13196](http://arxiv.org/abs/2504.13196)|null|
 |**2025-04-14**|**Demo: ViolentUTF as An Accessible Platform for Generative AI Red Teaming**|Tam n. Nguyen et.al.|[2504.10603](http://arxiv.org/abs/2504.10603)|null|
 |**2025-04-14**|**Quantifying Privacy Leakage in Split Inference via Fisher-Approximated Shannon Information Analysis**|Ruijun Deng et.al.|[2504.10016](http://arxiv.org/abs/2504.10016)|null|
 |**2025-04-14**|**An Investigation of Large Language Models and Their Vulnerabilities in Spam Detection**|Qiyao Tang et.al.|[2504.09776](http://arxiv.org/abs/2504.09776)|null|
@@ -310,10 +320,18 @@
 
 ## Poisoning attacks
 
+<h3>2025-04-18</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-04-18**|**BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models**|Zhengxian Wu et.al.|[2504.13775](http://arxiv.org/abs/2504.13775)|null|
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+
 <h3>2025-04-17</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**Strategic Planning of Stealthy Backdoor Attacks in Markov Decision Processes**|Xinyi Wei et.al.|[2504.13276](http://arxiv.org/abs/2504.13276)|null|
 |**2025-04-17**|**A Client-level Assessment of Collaborative Backdoor Poisoning in Non-IID Federated Learning**|Phung Lai et.al.|[2504.12875](http://arxiv.org/abs/2504.12875)|null|
 |**2025-04-17**|**ControlNET: A Firewall for RAG-based LLM System**|Hongwei Yao et.al.|[2504.09593](http://arxiv.org/abs/2504.09593)|null|
 <p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
@@ -337,6 +355,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Investigating cybersecurity incidents using large language models in latest-generation wireless networks**|Leonid Legashev et.al.|[2504.13196](http://arxiv.org/abs/2504.13196)|null|
 |**2025-04-14**|**An Investigation of Large Language Models and Their Vulnerabilities in Spam Detection**|Qiyao Tang et.al.|[2504.09776](http://arxiv.org/abs/2504.09776)|null|
 <p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
@@ -654,7 +673,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-17**|**SHA256 at SemEval-2025 Task 4: Selective Amnesia -- Constrained Unlearning for Large Language Models via Knowledge Isolation**|Saransh Agrawal et.al.|[2504.12996](http://arxiv.org/abs/2504.12996)|null|
+|**2025-04-17**|**SHA256 at SemEval-2025 Task 4: Selective Amnesia -- Constrained Unlearning for Large Language Models via Knowledge Isolation**|Saransh Agrawal et.al.|[2504.12996](http://arxiv.org/abs/2504.12996)|**[link](https://github.com/LAB-FLAIR/Constrained-Unlearning-for-LLM)**|
 <p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 <h3>2025-04-16</h3>
@@ -662,7 +681,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-16**|**Enhanced Battery Capacity Estimation in Data-Limited Scenarios through Swarm Learning**|Jiawei Zhang et.al.|[2504.12444](http://arxiv.org/abs/2504.12444)|null|
-|**2025-04-16**|**Federated Spectral Graph Transformers Meet Neural Ordinary Differential Equations for Non-IID Graphs**|Kishan Gurumurthy et.al.|[2504.11808](http://arxiv.org/abs/2504.11808)|null|
+|**2025-04-16**|**Federated Spectral Graph Transformers Meet Neural Ordinary Differential Equations for Non-IID Graphs**|Kishan Gurumurthy et.al.|[2504.11808](http://arxiv.org/abs/2504.11808)|**[link](https://github.com/springwiz11/fed-gnodeformer)**|
 <p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 <h3>2025-04-15</h3>
@@ -1081,6 +1100,13 @@
 
 ## Forensics
 
+<h3>2025-04-18</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-04-18**|**MLEP: Multi-granularity Local Entropy Patterns for Universal AI-generated Image Detection**|Lin Yuan et.al.|[2504.13726](http://arxiv.org/abs/2504.13726)|null|
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+
 <h3>2025-04-16</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -1320,6 +1346,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**|Yang Yue et.al.|[2504.13837](http://arxiv.org/abs/2504.13837)|null|
+|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|null|
+|**2025-04-18**|**Not All Rollouts are Useful: Down-Sampling Rollouts in LLM Reinforcement Learning**|Yixuan Even Xu et.al.|[2504.13818](http://arxiv.org/abs/2504.13818)|null|
+|**2025-04-18**|**Analyzing LLMs' Knowledge Boundary Cognition Across Languages Through the Lens of Internal Representations**|Chenghao Xiao et.al.|[2504.13816](http://arxiv.org/abs/2504.13816)|null|
+|**2025-04-18**|**BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models**|Zhengxian Wu et.al.|[2504.13775](http://arxiv.org/abs/2504.13775)|null|
+|**2025-04-18**|**DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for LLMs**|Tamim Al Mahmud et.al.|[2504.13774](http://arxiv.org/abs/2504.13774)|null|
+|**2025-04-18**|**Detecting Malicious Source Code in PyPI Packages with LLMs: Does RAG Come in Handy?**|Motunrayo Ibiyo et.al.|[2504.13769](http://arxiv.org/abs/2504.13769)|null|
+|**2025-04-18**|**ESPLoRA: Enhanced Spatial Precision with Low-Rank Adaption in Text-to-Image Diffusion Models for High-Definition Synthesis**|Andrea Rigo et.al.|[2504.13745](http://arxiv.org/abs/2504.13745)|null|
+|**2025-04-18**|**Controlled Territory and Conflict Tracking (CONTACT): (Geo-)Mapping Occupied Territory from Open Source Intelligence**|Paul K. Mandal et.al.|[2504.13730](http://arxiv.org/abs/2504.13730)|null|
+|**2025-04-18**|**MLEP: Multi-granularity Local Entropy Patterns for Universal AI-generated Image Detection**|Lin Yuan et.al.|[2504.13726](http://arxiv.org/abs/2504.13726)|null|
+|**2025-04-18**|**OpenDeception: Benchmarking and Investigating AI Deceptive Behaviors via Open-ended Interaction Simulation**|Yichen Wu et.al.|[2504.13707](http://arxiv.org/abs/2504.13707)|null|
+|**2025-04-18**|**Exploring Multimodal Prompt for Visualization Authoring with Large Language Models**|Zhen Wen et.al.|[2504.13700](http://arxiv.org/abs/2504.13700)|null|
+|**2025-04-18**|**Intelligent Interaction Strategies for Context-Aware Cognitive Augmentation**|Xiangrong et.al.|[2504.13684](http://arxiv.org/abs/2504.13684)|null|
+|**2025-04-18**|**Revisiting Uncertainty Quantification Evaluation in Language Models: Spurious Interactions with Response Length Bias Results**|Andrea Santilli et.al.|[2504.13677](http://arxiv.org/abs/2504.13677)|null|
+|**2025-04-18**|**Large Language Models Will Change The Way Children Think About Technology And Impact Every Interaction Paradigm**|Russell Beale et.al.|[2504.13667](http://arxiv.org/abs/2504.13667)|null|
+|**2025-04-18**|**Do Prompt Patterns Affect Code Quality? A First Empirical Assessment of ChatGPT-Generated Code**|Antonio Della Porta et.al.|[2504.13656](http://arxiv.org/abs/2504.13656)|null|
+|**2025-04-18**|**Exploring the Potential for Large Language Models to Demonstrate Rational Probabilistic Beliefs**|Gabriel Freedman et.al.|[2504.13644](http://arxiv.org/abs/2504.13644)|null|
+|**2025-04-18**|**Remedy: Learning Machine Translation Evaluation from Human Preferences with Reward Modeling**|Shaomu Tan et.al.|[2504.13630](http://arxiv.org/abs/2504.13630)|null|
+|**2025-04-18**|**Divergent LLM Adoption and Heterogeneous Convergence Paths in Research Writing**|Cong William Lin et.al.|[2504.13629](http://arxiv.org/abs/2504.13629)|null|
+|**2025-04-18**|**Visual Intention Grounding for Egocentric Assistants**|Pengzhan Sun et.al.|[2504.13621](http://arxiv.org/abs/2504.13621)|null|
 |**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
 <p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
