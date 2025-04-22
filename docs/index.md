@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -1275,6 +1275,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-04-19</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-19</b></td>
+    <td><b>WeiDetect: Weibull Distribution-Based Defense against Poisoning Attacks in Federated Learning for Network Intrusion Detection Systems</b></td>
+    <td>Sameera K. M. et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.04367">2504.04367</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-18</h3>
 
 <table>
@@ -1503,28 +1525,6 @@ layout: default
     <td><b>ShadowCoT: Cognitive Hijacking for Stealthy Reasoning Backdoors in LLMs</b></td>
     <td>Gejian Zhao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.05605">2504.05605</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-04-06</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-04-06</b></td>
-    <td><b>WeiDetect: Weibull Distribution-Based Defense against Poisoning Attacks in Federated Learning for Network Intrusion Detection Systems</b></td>
-    <td>Sameera K. M. et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.04367">2504.04367</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -2494,6 +2494,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-04-19</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-19</b></td>
+    <td><b>WeiDetect: Weibull Distribution-Based Defense against Poisoning Attacks in Federated Learning for Network Intrusion Detection Systems</b></td>
+    <td>Sameera K. M. et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.04367">2504.04367</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-17</h3>
 
 <table>
@@ -2700,28 +2722,6 @@ layout: default
     <td><b>FAST: Federated Active Learning with Foundation Models for Communication-efficient Sampling and Training</b></td>
     <td>Haoyuan Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.03783">2504.03783</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-04-06</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-04-06</b></td>
-    <td><b>WeiDetect: Weibull Distribution-Based Defense against Poisoning Attacks in Federated Learning for Network Intrusion Detection Systems</b></td>
-    <td>Sameera K. M. et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.04367">2504.04367</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -3513,7 +3513,7 @@ layout: default
 
 ## Model Privacy
 
-<h3>2025-04-17</h3>
+<h3>2025-04-18</h3>
 
 <table>
    <thead>
@@ -3527,7 +3527,7 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-04-17</b></td>
+    <td><b>2025-04-18</b></td>
     <td><b>Selective Attention Federated Learning: Improving Privacy and Efficiency for Clinical Text Classification</b></td>
     <td>Yue Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.11793">2504.11793</a></td>
