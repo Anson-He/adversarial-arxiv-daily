@@ -23,6 +23,93 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-04-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>MR. Guard: Multilingual Reasoning Guardrail using Curriculum Learning</b></td>
+    <td>Yahan Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15241">2504.15241</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>aiXamine: LLM Safety and Security Simplified</b></td>
+    <td>Fatih Deniz et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.14985">2504.14985</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-04-20</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-20</b></td>
+    <td><b>Towards Model Resistant to Transferable Adversarial Examples via Trigger Activation</b></td>
+    <td>Yi Yu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.14541">2504.14541</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-04-19</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-19</b></td>
+    <td><b>Adversarial Attack for RGB-Event based Visual Object Tracking</b></td>
+    <td>Qiang Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.14423">2504.14423</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-19</b></td>
+    <td><b>Hydra: An Agentic Reasoning Approach for Enhancing Adversarial Robustness and Mitigating Hallucinations in Vision-Language Models</b></td>
+    <td>Chung-En et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.14395">2504.14395</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-19</b></td>
+    <td><b>Rethinking Target Label Conditioning in Adversarial Attacks: A 2D Tensor-Guided Generative Approach</b></td>
+    <td>Hangyu Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.14137">2504.14137</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-18</h3>
 
 <table>
@@ -36,6 +123,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-18</b></td>
+    <td><b>VideoPASTA: 7K Preference Pairs That Matter for Video-LLM Alignment</b></td>
+    <td>Yogesh Kulkarni et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.14096">2504.14096</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-18</b></td>
     <td><b>Fairness and Robustness in Machine Unlearning</b></td>
@@ -1275,6 +1369,50 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-04-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models</b></td>
+    <td>Zhengxian Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.13775">2504.13775</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-04-20</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-20</b></td>
+    <td><b>REDEditing: Relationship-Driven Precise Backdoor Poisoning on Text-to-Image Diffusion Models</b></td>
+    <td>Chongye Guo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.14554">2504.14554</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-19</h3>
 
 <table>
@@ -1293,28 +1431,6 @@ layout: default
     <td><b>WeiDetect: Weibull Distribution-Based Defense against Poisoning Attacks in Federated Learning for Network Intrusion Detection Systems</b></td>
     <td>Sameera K. M. et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.04367">2504.04367</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-04-18</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-04-18</b></td>
-    <td><b>BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models</b></td>
-    <td>Zhengxian Wu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.13775">2504.13775</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -2061,6 +2177,35 @@ layout: default
 
 ## Generative models safety
 
+<h3>2025-04-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>RainbowPlus: Enhancing Adversarial Prompt Generation via Evolutionary Quality-Diversity Search</b></td>
+    <td>Quy-Anh Dang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15047">2504.15047</a></td>
+    <td>**[link](https://github.com/knoveleng/rainbowplus)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>aiXamine: LLM Safety and Security Simplified</b></td>
+    <td>Fatih Deniz et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.14985">2504.14985</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-17</h3>
 
 <table>
@@ -2494,6 +2639,42 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-04-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>Federated Latent Factor Model for Bias-Aware Recommendation with Privacy-Preserving</b></td>
+    <td>Junxiang Gao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15090">2504.15090</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>aiXamine: LLM Safety and Security Simplified</b></td>
+    <td>Fatih Deniz et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.14985">2504.14985</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>Aligning Beam with Imbalanced Multi-modality: A Generative Federated Learning Approach</b></td>
+    <td>Jiahui Liang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.14835">2504.14835</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-19</h3>
 
 <table>
@@ -2580,6 +2761,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-15</b></td>
+    <td><b>Never Start from Scratch: Expediting On-Device LLM Personalization via Explainable Model Selection</b></td>
+    <td>Haoming Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.13938">2504.13938</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-15</b></td>
     <td><b>FLSSM: A Federated Learning Storage Security Model with Homomorphic Encryption</b></td>
@@ -4044,6 +4232,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-04-19</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-19</b></td>
+    <td><b>BMRL: Bi-Modal Guided Multi-Perspective Representation Learning for Zero-Shot Deepfake Attribution</b></td>
+    <td>Yaning Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.14129">2504.14129</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-18</h3>
 
 <table>
@@ -4856,6 +5066,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-04-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning</b></td>
+    <td>Jie Cheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15275">2504.15275</a></td>
+    <td>**[link](https://github.com/cjreinforce/pure)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning</b></td>
+    <td>Ehsan Ahmadi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15263">2504.15263</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>CRUST-Bench: A Comprehensive Benchmark for C-to-safe-Rust Transpilation</b></td>
+    <td>Anirudh Khatry et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15254">2504.15254</a></td>
+    <td>**[link](https://github.com/anirudhkhatry/crust-bench)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>Evaluating Judges as Evaluators: The JETTS Benchmark of LLM-as-Judges as Test-Time Scaling Evaluators</b></td>
+    <td>Yilun Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15253">2504.15253</a></td>
+    <td>**[link](https://github.com/salesforceairesearch/jetts-benchmark)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>MR. Guard: Multilingual Reasoning Guardrail using Curriculum Learning</b></td>
+    <td>Yahan Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15241">2504.15241</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>A Self-Improving Coding Agent</b></td>
+    <td>Maxime Robeyns et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15228">2504.15228</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>EvalAgent: Discovering Implicit Evaluation Criteria from the Web</b></td>
+    <td>Manya Wadhwa et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15219">2504.15219</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>DRAGON: Distributional Rewards Optimize Diffusion Generative Models</b></td>
+    <td>Yatong Bai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15217">2504.15217</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>Integrating Symbolic Execution into the Fine-Tuning of Code-Generating LLMs</b></td>
+    <td>Marina Sakharova et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15210">2504.15210</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>Compute-Optimal LLMs Provably Generalize Better With Scale</b></td>
+    <td>Marc Finzi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15208">2504.15208</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges</b></td>
+    <td>Nandan Thakur et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15205">2504.15205</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>Zero-Shot, But at What Cost? Unveiling the Hidden Overhead of MILS's LLM-CLIP Framework for Image Captioning</b></td>
+    <td>Yassir Benhammou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15199">2504.15199</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>Synergistic Weak-Strong Collaboration by Aligning Preferences</b></td>
+    <td>Yizhu Jiao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15188">2504.15188</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>Tiger200K: Manually Curated High Visual Quality Video Dataset from UGC Platform</b></td>
+    <td>Xianpan Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15182">2504.15182</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>The Synthetic Imputation Approach: Generating Optimal Synthetic Texts For Underrepresented Categories In Supervised Classification Tasks</b></td>
+    <td>Joan C. Timoneda et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15160">2504.15160</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models</b></td>
+    <td>Ziwen Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15133">2504.15133</a></td>
+    <td>**[link](https://github.com/zjunlp/easyedit)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>Kuwain 1.5B: An Arabic SLM via Language Injection</b></td>
+    <td>Khalil Hennara et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15120">2504.15120</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>Rethinking the Potential of Multimodality in Collaborative Problem Solving Diagnosis with Large Language Models</b></td>
+    <td>K. Wong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15093">2504.15093</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>Empowering AI to Generate Better AI Code: Guided Generation of Deep Learning Projects with LLMs</b></td>
+    <td>Chen Xie et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15080">2504.15080</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>Think2SQL: Reinforce LLM Reasoning Capabilities for Text2SQL</b></td>
+    <td>Simone Papicchio et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15077">2504.15077</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-18</h3>
 
 <table>

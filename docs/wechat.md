@@ -19,8 +19,27 @@
 
 ## Adversarial attacks
 
+<h3>2025-04-21</h3>
+
+- 2025-04-21, **MR. Guard: Multilingual Reasoning Guardrail using Curriculum Learning**, Yahan Yang et.al., Paper: [http://arxiv.org/abs/2504.15241](http://arxiv.org/abs/2504.15241)
+- 2025-04-21, **aiXamine: LLM Safety and Security Simplified**, Fatih Deniz et.al., Paper: [http://arxiv.org/abs/2504.14985](http://arxiv.org/abs/2504.14985)
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+
+<h3>2025-04-20</h3>
+
+- 2025-04-20, **Towards Model Resistant to Transferable Adversarial Examples via Trigger Activation**, Yi Yu et.al., Paper: [http://arxiv.org/abs/2504.14541](http://arxiv.org/abs/2504.14541)
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+
+<h3>2025-04-19</h3>
+
+- 2025-04-19, **Adversarial Attack for RGB-Event based Visual Object Tracking**, Qiang Chen et.al., Paper: [http://arxiv.org/abs/2504.14423](http://arxiv.org/abs/2504.14423)
+- 2025-04-19, **Hydra: An Agentic Reasoning Approach for Enhancing Adversarial Robustness and Mitigating Hallucinations in Vision-Language Models**, Chung-En et.al., Paper: [http://arxiv.org/abs/2504.14395](http://arxiv.org/abs/2504.14395)
+- 2025-04-19, **Rethinking Target Label Conditioning in Adversarial Attacks: A 2D Tensor-Guided Generative Approach**, Hangyu Liu et.al., Paper: [http://arxiv.org/abs/2504.14137](http://arxiv.org/abs/2504.14137)
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+
 <h3>2025-04-18</h3>
 
+- 2025-04-18, **VideoPASTA: 7K Preference Pairs That Matter for Video-LLM Alignment**, Yogesh Kulkarni et.al., Paper: [http://arxiv.org/abs/2504.14096](http://arxiv.org/abs/2504.14096)
 - 2025-04-18, **Fairness and Robustness in Machine Unlearning**, Khoa Tran et.al., Paper: [http://arxiv.org/abs/2504.13610](http://arxiv.org/abs/2504.13610)
 - 2025-04-18, **Q-FAKER: Query-free Hard Black-box Attack via Controlled Generation**, CheolWon Na et.al., Paper: [http://arxiv.org/abs/2504.13551](http://arxiv.org/abs/2504.13551)
 <p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
@@ -258,14 +277,19 @@
 
 ## Poisoning attacks
 
+<h3>2025-04-21</h3>
+
+- 2025-04-21, **BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models**, Zhengxian Wu et.al., Paper: [http://arxiv.org/abs/2504.13775](http://arxiv.org/abs/2504.13775)
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+
+<h3>2025-04-20</h3>
+
+- 2025-04-20, **REDEditing: Relationship-Driven Precise Backdoor Poisoning on Text-to-Image Diffusion Models**, Chongye Guo et.al., Paper: [http://arxiv.org/abs/2504.14554](http://arxiv.org/abs/2504.14554)
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+
 <h3>2025-04-19</h3>
 
 - 2025-04-19, **WeiDetect: Weibull Distribution-Based Defense against Poisoning Attacks in Federated Learning for Network Intrusion Detection Systems**, Sameera K. M. et.al., Paper: [http://arxiv.org/abs/2504.04367](http://arxiv.org/abs/2504.04367)
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
-
-<h3>2025-04-18</h3>
-
-- 2025-04-18, **BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models**, Zhengxian Wu et.al., Paper: [http://arxiv.org/abs/2504.13775](http://arxiv.org/abs/2504.13775)
 <p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
 
 <h3>2025-04-17</h3>
@@ -423,6 +447,12 @@
 
 ## Generative models safety
 
+<h3>2025-04-21</h3>
+
+- 2025-04-21, **RainbowPlus: Enhancing Adversarial Prompt Generation via Evolutionary Quality-Diversity Search**, Quy-Anh Dang et.al., Paper: [http://arxiv.org/abs/2504.15047](http://arxiv.org/abs/2504.15047), Code: **[https://github.com/knoveleng/rainbowplus](https://github.com/knoveleng/rainbowplus)**
+- 2025-04-21, **aiXamine: LLM Safety and Security Simplified**, Fatih Deniz et.al., Paper: [http://arxiv.org/abs/2504.14985](http://arxiv.org/abs/2504.14985)
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+
 <h3>2025-04-17</h3>
 
 - 2025-04-17, **GraphAttack: Exploiting Representational Blindspots in LLM Safety Mechanisms**, Sinan He et.al., Paper: [http://arxiv.org/abs/2504.13052](http://arxiv.org/abs/2504.13052)
@@ -519,6 +549,13 @@
 
 ## Data privacy
 
+<h3>2025-04-21</h3>
+
+- 2025-04-21, **Federated Latent Factor Model for Bias-Aware Recommendation with Privacy-Preserving**, Junxiang Gao et.al., Paper: [http://arxiv.org/abs/2504.15090](http://arxiv.org/abs/2504.15090)
+- 2025-04-21, **aiXamine: LLM Safety and Security Simplified**, Fatih Deniz et.al., Paper: [http://arxiv.org/abs/2504.14985](http://arxiv.org/abs/2504.14985)
+- 2025-04-21, **Aligning Beam with Imbalanced Multi-modality: A Generative Federated Learning Approach**, Jiahui Liang et.al., Paper: [http://arxiv.org/abs/2504.14835](http://arxiv.org/abs/2504.14835)
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+
 <h3>2025-04-19</h3>
 
 - 2025-04-19, **WeiDetect: Weibull Distribution-Based Defense against Poisoning Attacks in Federated Learning for Network Intrusion Detection Systems**, Sameera K. M. et.al., Paper: [http://arxiv.org/abs/2504.04367](http://arxiv.org/abs/2504.04367)
@@ -537,6 +574,7 @@
 
 <h3>2025-04-15</h3>
 
+- 2025-04-15, **Never Start from Scratch: Expediting On-Device LLM Personalization via Explainable Model Selection**, Haoming Wang et.al., Paper: [http://arxiv.org/abs/2504.13938](http://arxiv.org/abs/2504.13938)
 - 2025-04-15, **FLSSM: A Federated Learning Storage Security Model with Homomorphic Encryption**, Yang Li et.al., Paper: [http://arxiv.org/abs/2504.11088](http://arxiv.org/abs/2504.11088)
 - 2025-04-15, **Collaborative Bayesian Optimization via Wasserstein Barycenters**, Donglin Zhan et.al., Paper: [http://arxiv.org/abs/2504.10770](http://arxiv.org/abs/2504.10770)
 <p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
@@ -844,6 +882,11 @@
 
 ## Forensics
 
+<h3>2025-04-19</h3>
+
+- 2025-04-19, **BMRL: Bi-Modal Guided Multi-Perspective Representation Learning for Zero-Shot Deepfake Attribution**, Yaning Zhang et.al., Paper: [http://arxiv.org/abs/2504.14129](http://arxiv.org/abs/2504.14129)
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+
 <h3>2025-04-18</h3>
 
 - 2025-04-18, **MLEP: Multi-granularity Local Entropy Patterns for Universal AI-generated Image Detection**, Lin Yuan et.al., Paper: [http://arxiv.org/abs/2504.13726](http://arxiv.org/abs/2504.13726)
@@ -1021,6 +1064,30 @@
 
 
 ## AIGC
+
+<h3>2025-04-21</h3>
+
+- 2025-04-21, **Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning**, Jie Cheng et.al., Paper: [http://arxiv.org/abs/2504.15275](http://arxiv.org/abs/2504.15275), Code: **[https://github.com/cjreinforce/pure](https://github.com/cjreinforce/pure)**
+- 2025-04-21, **Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**, Ehsan Ahmadi et.al., Paper: [http://arxiv.org/abs/2504.15263](http://arxiv.org/abs/2504.15263)
+- 2025-04-21, **CRUST-Bench: A Comprehensive Benchmark for C-to-safe-Rust Transpilation**, Anirudh Khatry et.al., Paper: [http://arxiv.org/abs/2504.15254](http://arxiv.org/abs/2504.15254), Code: **[https://github.com/anirudhkhatry/crust-bench](https://github.com/anirudhkhatry/crust-bench)**
+- 2025-04-21, **Evaluating Judges as Evaluators: The JETTS Benchmark of LLM-as-Judges as Test-Time Scaling Evaluators**, Yilun Zhou et.al., Paper: [http://arxiv.org/abs/2504.15253](http://arxiv.org/abs/2504.15253), Code: **[https://github.com/salesforceairesearch/jetts-benchmark](https://github.com/salesforceairesearch/jetts-benchmark)**
+- 2025-04-21, **MR. Guard: Multilingual Reasoning Guardrail using Curriculum Learning**, Yahan Yang et.al., Paper: [http://arxiv.org/abs/2504.15241](http://arxiv.org/abs/2504.15241)
+- 2025-04-21, **A Self-Improving Coding Agent**, Maxime Robeyns et.al., Paper: [http://arxiv.org/abs/2504.15228](http://arxiv.org/abs/2504.15228)
+- 2025-04-21, **EvalAgent: Discovering Implicit Evaluation Criteria from the Web**, Manya Wadhwa et.al., Paper: [http://arxiv.org/abs/2504.15219](http://arxiv.org/abs/2504.15219)
+- 2025-04-21, **DRAGON: Distributional Rewards Optimize Diffusion Generative Models**, Yatong Bai et.al., Paper: [http://arxiv.org/abs/2504.15217](http://arxiv.org/abs/2504.15217)
+- 2025-04-21, **Integrating Symbolic Execution into the Fine-Tuning of Code-Generating LLMs**, Marina Sakharova et.al., Paper: [http://arxiv.org/abs/2504.15210](http://arxiv.org/abs/2504.15210)
+- 2025-04-21, **Compute-Optimal LLMs Provably Generalize Better With Scale**, Marc Finzi et.al., Paper: [http://arxiv.org/abs/2504.15208](http://arxiv.org/abs/2504.15208)
+- 2025-04-21, **Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges**, Nandan Thakur et.al., Paper: [http://arxiv.org/abs/2504.15205](http://arxiv.org/abs/2504.15205)
+- 2025-04-21, **Zero-Shot, But at What Cost? Unveiling the Hidden Overhead of MILS's LLM-CLIP Framework for Image Captioning**, Yassir Benhammou et.al., Paper: [http://arxiv.org/abs/2504.15199](http://arxiv.org/abs/2504.15199)
+- 2025-04-21, **Synergistic Weak-Strong Collaboration by Aligning Preferences**, Yizhu Jiao et.al., Paper: [http://arxiv.org/abs/2504.15188](http://arxiv.org/abs/2504.15188)
+- 2025-04-21, **Tiger200K: Manually Curated High Visual Quality Video Dataset from UGC Platform**, Xianpan Zhou et.al., Paper: [http://arxiv.org/abs/2504.15182](http://arxiv.org/abs/2504.15182)
+- 2025-04-21, **The Synthetic Imputation Approach: Generating Optimal Synthetic Texts For Underrepresented Categories In Supervised Classification Tasks**, Joan C. Timoneda et.al., Paper: [http://arxiv.org/abs/2504.15160](http://arxiv.org/abs/2504.15160)
+- 2025-04-21, **EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models**, Ziwen Xu et.al., Paper: [http://arxiv.org/abs/2504.15133](http://arxiv.org/abs/2504.15133), Code: **[https://github.com/zjunlp/easyedit](https://github.com/zjunlp/easyedit)**
+- 2025-04-21, **Kuwain 1.5B: An Arabic SLM via Language Injection**, Khalil Hennara et.al., Paper: [http://arxiv.org/abs/2504.15120](http://arxiv.org/abs/2504.15120)
+- 2025-04-21, **Rethinking the Potential of Multimodality in Collaborative Problem Solving Diagnosis with Large Language Models**, K. Wong et.al., Paper: [http://arxiv.org/abs/2504.15093](http://arxiv.org/abs/2504.15093)
+- 2025-04-21, **Empowering AI to Generate Better AI Code: Guided Generation of Deep Learning Projects with LLMs**, Chen Xie et.al., Paper: [http://arxiv.org/abs/2504.15080](http://arxiv.org/abs/2504.15080)
+- 2025-04-21, **Think2SQL: Reinforce LLM Reasoning Capabilities for Text2SQL**, Simone Papicchio et.al., Paper: [http://arxiv.org/abs/2504.15077](http://arxiv.org/abs/2504.15077)
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
 
 <h3>2025-04-18</h3>
 
