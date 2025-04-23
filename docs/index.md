@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -1389,6 +1389,13 @@ layout: default
     <td><a href="#http://arxiv.org/abs/2504.13775">2504.13775</a></td>
     <td>null</td>
        </tr>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>A Client-level Assessment of Collaborative Backdoor Poisoning in Non-IID Federated Learning</b></td>
+    <td>Phung Lai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.12875">2504.12875</a></td>
+    <td>null</td>
+       </tr>
    </tbody>
 </table>
 <h3>2025-04-20</h3>
@@ -1453,13 +1460,6 @@ layout: default
     <td><b>Strategic Planning of Stealthy Backdoor Attacks in Markov Decision Processes</b></td>
     <td>Xinyi Wei et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.13276">2504.13276</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-17</b></td>
-    <td><b>A Client-level Assessment of Collaborative Backdoor Poisoning in Non-IID Federated Learning</b></td>
-    <td>Phung Lai et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.12875">2504.12875</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -5066,6 +5066,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-04-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>Synergistic Weak-Strong Collaboration by Aligning Preferences</b></td>
+    <td>Yizhu Jiao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15188">2504.15188</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-21</h3>
 
 <table>
@@ -5161,13 +5183,6 @@ layout: default
     <td><b>Zero-Shot, But at What Cost? Unveiling the Hidden Overhead of MILS's LLM-CLIP Framework for Image Captioning</b></td>
     <td>Yassir Benhammou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.15199">2504.15199</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-21</b></td>
-    <td><b>Synergistic Weak-Strong Collaboration by Aligning Preferences</b></td>
-    <td>Yizhu Jiao et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.15188">2504.15188</a></td>
     <td>null</td>
        </tr>
        <tr>
