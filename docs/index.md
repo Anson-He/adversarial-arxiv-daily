@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-04-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>Human-Imperceptible Physical Adversarial Attack for NIR Face Recognition Models</b></td>
+    <td>Songyan Xie et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15823">2504.15823</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-21</h3>
 
 <table>
@@ -36,6 +58,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>Unifying Image Counterfactuals and Feature Attributions with Latent-Space Adversarial Attacks</b></td>
+    <td>Jeremy Goldwasser et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15479">2504.15479</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-21</b></td>
     <td><b>MR. Guard: Multilingual Reasoning Guardrail using Curriculum Learning</b></td>
@@ -1369,6 +1398,35 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-04-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>OPUS-VFL: Incentivizing Optimal Privacy-Utility Tradeoffs in Vertical Federated Learning</b></td>
+    <td>Sindhuja Madabushi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15995">2504.15995</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>TrojanDam: Detection-Free Backdoor Defense in Federated Learning through Proactive Model Robustification utilizing OOD Data</b></td>
+    <td>Yanbo Dai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15674">2504.15674</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-21</h3>
 
 <table>
@@ -2177,6 +2235,35 @@ layout: default
 
 ## Generative models safety
 
+<h3>2025-04-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment</b></td>
+    <td>Kun Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15585">2504.15585</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>Red Team Diffuser: Exposing Toxic Continuation Vulnerabilities in Vision-Language Models via Reinforcement Learning</b></td>
+    <td>Ruofan Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.06223">2503.06223</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-21</h3>
 
 <table>
@@ -2639,6 +2726,35 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-04-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>LLMs meet Federated Learning for Scalable and Secure IoT Management</b></td>
+    <td>Yazan Otoum et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16032">2504.16032</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>Federated Latent Factor Learning for Recovering Wireless Sensor Networks Signal with Privacy-Preserving</b></td>
+    <td>Chengjun Yu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15525">2504.15525</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-21</h3>
 
 <table>
@@ -2652,6 +2768,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>From Reviews to Dialogues: Active Synthesis for Zero-Shot LLM-based Conversational Recommender System</b></td>
+    <td>Rohan Surana et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15476">2504.15476</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-21</b></td>
     <td><b>Federated Latent Factor Model for Bias-Aware Recommendation with Privacy-Preserving</b></td>
@@ -5079,6 +5202,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>TTRL: Test-Time Reinforcement Learning</b></td>
+    <td>Yuxin Zuo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16084">2504.16084</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>MR. Video: "MapReduce" is the Principle for Long Video Understanding</b></td>
+    <td>Ziqi Pang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16082">2504.16082</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities</b></td>
+    <td>Thomas Schmied et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16078">2504.16078</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>PHYBench: Holistic Evaluation of Physical Perception and Reasoning in Large Language Models</b></td>
+    <td>Shi Qiu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16074">2504.16074</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>Boosting Generative Image Modeling via Joint Image-Feature Synthesis</b></td>
+    <td>Theodoros Kouzelis et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16064">2504.16064</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>Automated Static Vulnerability Detection via a Holistic Neuro-symbolic Approach</b></td>
+    <td>Penghui Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16057">2504.16057</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>Honey, I Shrunk the Language Model: Impact of Knowledge Distillation Methods on Performance and Explainability</b></td>
+    <td>Daniel Hendriks et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16056">2504.16056</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>Certified Mitigation of Worst-Case LLM Copyright Infringement</b></td>
+    <td>Jingyu Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16046">2504.16046</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>LLMs meet Federated Learning for Scalable and Secure IoT Management</b></td>
+    <td>Yazan Otoum et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16032">2504.16032</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale</b></td>
+    <td>Joya Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16030">2504.16030</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>Benchmarking LLM for Code Smells Detection: OpenAI GPT-4.0 vs DeepSeek-V3</b></td>
+    <td>Ahmed R. Sadik et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16027">2504.16027</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>CAPO: Cost-Aware Prompt Optimization</b></td>
+    <td>Tom Zehle et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16005">2504.16005</a></td>
+    <td>**[link](https://github.com/finitearth/capo)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>Token-Aware Coding Flow: A Study with Nano Surge in Reasoning Model</b></td>
+    <td>Junwei Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15989">2504.15989</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs</b></td>
+    <td>Yaxiong Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15965">2504.15965</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>Deep learning of point processes for modeling high-frequency data</b></td>
+    <td>Yoshihiro Gyotoku et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15944">2504.15944</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>FairTranslate: An English-French Dataset for Gender Bias Evaluation in Machine Translation by Overcoming Gender Binarity</b></td>
+    <td>Fanny Jourdan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15941">2504.15941</a></td>
+    <td>**[link](https://github.com/fanny-jourdan/FairTranslate)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>Low-Rank Adaptation of Neural Fields</b></td>
+    <td>Anh Truong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15933">2504.15933</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation</b></td>
+    <td>Yinmin Zhong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15930">2504.15930</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>Language Models to Support Multi-Label Classification of Industrial Data</b></td>
+    <td>Waleed Abdeen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15922">2504.15922</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>ViSMaP: Unsupervised Hour-long Video Summarisation by Meta-Prompting</b></td>
+    <td>Jian Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15921">2504.15921</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-22</b></td>
     <td><b>Synergistic Weak-Strong Collaboration by Aligning Preferences</b></td>
