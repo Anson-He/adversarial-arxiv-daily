@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -5189,6 +5189,42 @@ layout: default
 
 ## AIGC
 
+<h3>2025-04-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>CAPO: Cost-Aware Prompt Optimization</b></td>
+    <td>Tom Zehle et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16005">2504.16005</a></td>
+    <td>**[link](https://github.com/finitearth/capo)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs</b></td>
+    <td>Yaxiong Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15965">2504.15965</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Language Models to Support Multi-Label Classification of Industrial Data</b></td>
+    <td>Waleed Abdeen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.15922">2504.15922</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-22</h3>
 
 <table>
@@ -5281,23 +5317,9 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-04-22</b></td>
-    <td><b>CAPO: Cost-Aware Prompt Optimization</b></td>
-    <td>Tom Zehle et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.16005">2504.16005</a></td>
-    <td>**[link](https://github.com/finitearth/capo)**</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-22</b></td>
     <td><b>Token-Aware Coding Flow: A Study with Nano Surge in Reasoning Model</b></td>
     <td>Junwei Hu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.15989">2504.15989</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-22</b></td>
-    <td><b>From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs</b></td>
-    <td>Yaxiong Wu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.15965">2504.15965</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -5326,13 +5348,6 @@ layout: default
     <td><b>StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation</b></td>
     <td>Yinmin Zhong et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.15930">2504.15930</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-22</b></td>
-    <td><b>Language Models to Support Multi-Label Classification of Industrial Data</b></td>
-    <td>Waleed Abdeen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.15922">2504.15922</a></td>
     <td>null</td>
        </tr>
        <tr>
