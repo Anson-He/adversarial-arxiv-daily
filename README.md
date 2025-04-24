@@ -19,6 +19,15 @@
 
 ## Adversarial attacks
 
+<h3>2025-04-23</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-04-23**|**Seeking Flat Minima over Diverse Surrogates for Improved Adversarial Transferability: A Theoretical Framework and Algorithmic Instantiation**|Meixi Zheng et.al.|[2504.16474](http://arxiv.org/abs/2504.16474)|null|
+|**2025-04-23**|**Property-Preserving Hashing for $\ell_1$ -Distance Predicates: Applications to Countering Adversarial Input Attacks**|Hassan Asghar et.al.|[2504.16355](http://arxiv.org/abs/2504.16355)|null|
+|**2025-04-23**|**aiXamine: Simplified LLM Safety and Security**|Fatih Deniz et.al.|[2504.14985](http://arxiv.org/abs/2504.14985)|null|
+<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+
 <h3>2025-04-22</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -32,7 +41,6 @@
 |---|---|---|---|---|
 |**2025-04-21**|**Unifying Image Counterfactuals and Feature Attributions with Latent-Space Adversarial Attacks**|Jeremy Goldwasser et.al.|[2504.15479](http://arxiv.org/abs/2504.15479)|null|
 |**2025-04-21**|**MR. Guard: Multilingual Reasoning Guardrail using Curriculum Learning**|Yahan Yang et.al.|[2504.15241](http://arxiv.org/abs/2504.15241)|null|
-|**2025-04-21**|**aiXamine: LLM Safety and Security Simplified**|Fatih Deniz et.al.|[2504.14985](http://arxiv.org/abs/2504.14985)|null|
 <p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
 
 <h3>2025-04-20</h3>
@@ -55,6 +63,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Context-Awareness and Interpretability of Rare Occurrences for Discovery and Formalization of Critical Failure Modes**|Sridevi Polavaram et.al.|[2504.16117](http://arxiv.org/abs/2504.16117)|null|
 |**2025-04-18**|**VideoPASTA: 7K Preference Pairs That Matter for Video-LLM Alignment**|Yogesh Kulkarni et.al.|[2504.14096](http://arxiv.org/abs/2504.14096)|null|
 |**2025-04-18**|**Fairness and Robustness in Machine Unlearning**|Khoa Tran et.al.|[2504.13610](http://arxiv.org/abs/2504.13610)|null|
 |**2025-04-18**|**Q-FAKER: Query-free Hard Black-box Attack via Controlled Generation**|CheolWon Na et.al.|[2504.13551](http://arxiv.org/abs/2504.13551)|null|
@@ -353,10 +362,18 @@
 
 ## Poisoning attacks
 
+<h3>2025-04-23</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-04-23**|**BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation**|Ruotong Wang et.al.|[2504.16907](http://arxiv.org/abs/2504.16907)|null|
+<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+
 <h3>2025-04-22</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**A Geometric Approach to Problems in Optimization and Data Science**|Naren Sarayu Manoj et.al.|[2504.16270](http://arxiv.org/abs/2504.16270)|null|
 |**2025-04-22**|**OPUS-VFL: Incentivizing Optimal Privacy-Utility Tradeoffs in Vertical Federated Learning**|Sindhuja Madabushi et.al.|[2504.15995](http://arxiv.org/abs/2504.15995)|null|
 |**2025-04-22**|**TrojanDam: Detection-Free Backdoor Defense in Federated Learning through Proactive Model Robustification utilizing OOD Data**|Yanbo Dai et.al.|[2504.15674](http://arxiv.org/abs/2504.15674)|null|
 <p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
@@ -587,6 +604,13 @@
 
 ## Generative models safety
 
+<h3>2025-04-23</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-04-23**|**aiXamine: Simplified LLM Safety and Security**|Fatih Deniz et.al.|[2504.14985](http://arxiv.org/abs/2504.14985)|null|
+<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+
 <h3>2025-04-22</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -600,7 +624,6 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-21**|**RainbowPlus: Enhancing Adversarial Prompt Generation via Evolutionary Quality-Diversity Search**|Quy-Anh Dang et.al.|[2504.15047](http://arxiv.org/abs/2504.15047)|**[link](https://github.com/knoveleng/rainbowplus)**|
-|**2025-04-21**|**aiXamine: LLM Safety and Security Simplified**|Fatih Deniz et.al.|[2504.14985](http://arxiv.org/abs/2504.14985)|null|
 <p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
 
 <h3>2025-04-17</h3>
@@ -733,10 +756,20 @@
 
 ## Data privacy
 
+<h3>2025-04-23</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-04-23**|**Simplified Swarm Learning Framework for Robust and Scalable Diagnostic Services in Cancer Histopathology**|Yanjie Wu et.al.|[2504.16732](http://arxiv.org/abs/2504.16732)|null|
+|**2025-04-23**|**DP2FL: Dual Prompt Personalized Federated Learning in Foundation Models**|Ying Chang et.al.|[2504.16357](http://arxiv.org/abs/2504.16357)|null|
+|**2025-04-23**|**aiXamine: Simplified LLM Safety and Security**|Fatih Deniz et.al.|[2504.14985](http://arxiv.org/abs/2504.14985)|null|
+<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+
 <h3>2025-04-22</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**Towards a Distributed Federated Learning Aggregation Placement using Particle Swarm Intelligence**|Amir Ali-Pour et.al.|[2504.16227](http://arxiv.org/abs/2504.16227)|null|
 |**2025-04-22**|**LLMs meet Federated Learning for Scalable and Secure IoT Management**|Yazan Otoum et.al.|[2504.16032](http://arxiv.org/abs/2504.16032)|null|
 |**2025-04-22**|**Federated Latent Factor Learning for Recovering Wireless Sensor Networks Signal with Privacy-Preserving**|Chengjun Yu et.al.|[2504.15525](http://arxiv.org/abs/2504.15525)|null|
 <p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
@@ -747,7 +780,6 @@
 |---|---|---|---|---|
 |**2025-04-21**|**From Reviews to Dialogues: Active Synthesis for Zero-Shot LLM-based Conversational Recommender System**|Rohan Surana et.al.|[2504.15476](http://arxiv.org/abs/2504.15476)|null|
 |**2025-04-21**|**Federated Latent Factor Model for Bias-Aware Recommendation with Privacy-Preserving**|Junxiang Gao et.al.|[2504.15090](http://arxiv.org/abs/2504.15090)|null|
-|**2025-04-21**|**aiXamine: LLM Safety and Security Simplified**|Fatih Deniz et.al.|[2504.14985](http://arxiv.org/abs/2504.14985)|null|
 |**2025-04-21**|**Aligning Beam with Imbalanced Multi-modality: A Generative Federated Learning Approach**|Jiahui Liang et.al.|[2504.14835](http://arxiv.org/abs/2504.14835)|null|
 <p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
 
@@ -1436,6 +1468,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light**|Ali Hassani et.al.|[2504.16922](http://arxiv.org/abs/2504.16922)|null|
+|**2025-04-23**|**IberBench: LLM Evaluation on Iberian Languages**|José Ángel González et.al.|[2504.16921](http://arxiv.org/abs/2504.16921)|null|
+|**2025-04-23**|**OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents**|Raghav Thind et.al.|[2504.16918](http://arxiv.org/abs/2504.16918)|null|
+|**2025-04-23**|**DreamO: A Unified Framework for Image Customization**|Chong Mou et.al.|[2504.16915](http://arxiv.org/abs/2504.16915)|null|
+|**2025-04-23**|**Tracing Thought: Using Chain-of-Thought Reasoning to Identify the LLM Behind AI-Generated Text**|Shifali Agrahari et.al.|[2504.16913](http://arxiv.org/abs/2504.16913)|null|
+|**2025-04-23**|**BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation**|Ruotong Wang et.al.|[2504.16907](http://arxiv.org/abs/2504.16907)|null|
+|**2025-04-23**|**Practical approaches for crystal structure predictions with inpainting generation and universal interatomic potentials**|Peichen Zhong et.al.|[2504.16893](http://arxiv.org/abs/2504.16893)|null|
+|**2025-04-23**|**Do Large Language Models know who did what to whom?**|Joseph M. Denning et.al.|[2504.16884](http://arxiv.org/abs/2504.16884)|null|
+|**2025-04-23**|**Enhancing Critical Thinking with AI: A Tailored Warning System for RAG Models**|Xuyang Zhu et.al.|[2504.16883](http://arxiv.org/abs/2504.16883)|null|
+|**2025-04-23**|**Context-Enhanced Vulnerability Detection Based on Large Language Model**|Yixin Yang et.al.|[2504.16877](http://arxiv.org/abs/2504.16877)|null|
+|**2025-04-23**|**Exploring How LLMs Capture and Represent Domain-Specific Knowledge**|Mirian Hipolito Garcia et.al.|[2504.16871](http://arxiv.org/abs/2504.16871)|null|
+|**2025-04-23**|**Planning with Diffusion Models for Target-Oriented Dialogue Systems**|Hanwen Du et.al.|[2504.16858](http://arxiv.org/abs/2504.16858)|null|
+|**2025-04-23**|**Emo Pillars: Knowledge Distillation to Support Fine-Grained Context-Aware and Context-Less Emotion Classification**|Alexander Shvets et.al.|[2504.16856](http://arxiv.org/abs/2504.16856)|null|
+|**2025-04-23**|**Monte Carlo Planning with Large Language Model for Text-Based Game Agents**|Zijing Shi et.al.|[2504.16855](http://arxiv.org/abs/2504.16855)|null|
+|**2025-04-23**|**Improving Significant Wave Height Prediction Using Chronos Models**|Yilin Zhai et.al.|[2504.16834](http://arxiv.org/abs/2504.16834)|null|
+|**2025-04-23**|**LRASGen: LLM-based RESTful API Specification Generation**|Sida Deng et.al.|[2504.16833](http://arxiv.org/abs/2504.16833)|null|
+|**2025-04-23**|**GreenMind: A Next-Generation Vietnamese Large Language Model for Structured and Logical Reasoning**|Luu Quy Tung et.al.|[2504.16832](http://arxiv.org/abs/2504.16832)|null|
+|**2025-04-23**|**Process Reward Models That Think**|Muhammad Khalifa et.al.|[2504.16828](http://arxiv.org/abs/2504.16828)|null|
+|**2025-04-23**|**LLM-assisted Graph-RAG Information Extraction from IFC Data**|Sima Iranmanesh et.al.|[2504.16813](http://arxiv.org/abs/2504.16813)|null|
+|**2025-04-23**|**Decoupled Global-Local Alignment for Improving Compositional Understanding**|Xiaoxing Hu et.al.|[2504.16801](http://arxiv.org/abs/2504.16801)|null|
 |**2025-04-23**|**CAPO: Cost-Aware Prompt Optimization**|Tom Zehle et.al.|[2504.16005](http://arxiv.org/abs/2504.16005)|**[link](https://github.com/finitearth/capo)**|
 |**2025-04-23**|**From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs**|Yaxiong Wu et.al.|[2504.15965](http://arxiv.org/abs/2504.15965)|null|
 |**2025-04-23**|**Language Models to Support Multi-Label Classification of Industrial Data**|Waleed Abdeen et.al.|[2504.15922](http://arxiv.org/abs/2504.15922)|null|

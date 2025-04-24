@@ -23,6 +23,42 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-04-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Seeking Flat Minima over Diverse Surrogates for Improved Adversarial Transferability: A Theoretical Framework and Algorithmic Instantiation</b></td>
+    <td>Meixi Zheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16474">2504.16474</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Property-Preserving Hashing for $\ell_1$ -Distance Predicates: Applications to Countering Adversarial Input Attacks</b></td>
+    <td>Hassan Asghar et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16355">2504.16355</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>aiXamine: Simplified LLM Safety and Security</b></td>
+    <td>Fatih Deniz et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.14985">2504.14985</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-22</h3>
 
 <table>
@@ -70,13 +106,6 @@ layout: default
     <td><b>MR. Guard: Multilingual Reasoning Guardrail using Curriculum Learning</b></td>
     <td>Yahan Yang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.15241">2504.15241</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-21</b></td>
-    <td><b>aiXamine: LLM Safety and Security Simplified</b></td>
-    <td>Fatih Deniz et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.14985">2504.14985</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -152,6 +181,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-18</b></td>
+    <td><b>Context-Awareness and Interpretability of Rare Occurrences for Discovery and Formalization of Critical Failure Modes</b></td>
+    <td>Sridevi Polavaram et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16117">2504.16117</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-18</b></td>
     <td><b>VideoPASTA: 7K Preference Pairs That Matter for Video-LLM Alignment</b></td>
@@ -1398,6 +1434,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-04-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation</b></td>
+    <td>Ruotong Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16907">2504.16907</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-22</h3>
 
 <table>
@@ -1411,6 +1469,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>A Geometric Approach to Problems in Optimization and Data Science</b></td>
+    <td>Naren Sarayu Manoj et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16270">2504.16270</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-22</b></td>
     <td><b>OPUS-VFL: Incentivizing Optimal Privacy-Utility Tradeoffs in Vertical Federated Learning</b></td>
@@ -2235,6 +2300,28 @@ layout: default
 
 ## Generative models safety
 
+<h3>2025-04-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>aiXamine: Simplified LLM Safety and Security</b></td>
+    <td>Fatih Deniz et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.14985">2504.14985</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-22</h3>
 
 <table>
@@ -2283,13 +2370,6 @@ layout: default
     <td>Quy-Anh Dang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.15047">2504.15047</a></td>
     <td>**[link](https://github.com/knoveleng/rainbowplus)**</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-21</b></td>
-    <td><b>aiXamine: LLM Safety and Security Simplified</b></td>
-    <td>Fatih Deniz et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.14985">2504.14985</a></td>
-    <td>null</td>
        </tr>
    </tbody>
 </table>
@@ -2726,6 +2806,42 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-04-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Simplified Swarm Learning Framework for Robust and Scalable Diagnostic Services in Cancer Histopathology</b></td>
+    <td>Yanjie Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16732">2504.16732</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>DP2FL: Dual Prompt Personalized Federated Learning in Foundation Models</b></td>
+    <td>Ying Chang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16357">2504.16357</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>aiXamine: Simplified LLM Safety and Security</b></td>
+    <td>Fatih Deniz et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.14985">2504.14985</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-22</h3>
 
 <table>
@@ -2739,6 +2855,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-22</b></td>
+    <td><b>Towards a Distributed Federated Learning Aggregation Placement using Particle Swarm Intelligence</b></td>
+    <td>Amir Ali-Pour et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16227">2504.16227</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-22</b></td>
     <td><b>LLMs meet Federated Learning for Scalable and Secure IoT Management</b></td>
@@ -2780,13 +2903,6 @@ layout: default
     <td><b>Federated Latent Factor Model for Bias-Aware Recommendation with Privacy-Preserving</b></td>
     <td>Junxiang Gao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.15090">2504.15090</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-21</b></td>
-    <td><b>aiXamine: LLM Safety and Security Simplified</b></td>
-    <td>Fatih Deniz et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.14985">2504.14985</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -5202,6 +5318,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light</b></td>
+    <td>Ali Hassani et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16922">2504.16922</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>IberBench: LLM Evaluation on Iberian Languages</b></td>
+    <td>José Ángel González et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16921">2504.16921</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents</b></td>
+    <td>Raghav Thind et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16918">2504.16918</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>DreamO: A Unified Framework for Image Customization</b></td>
+    <td>Chong Mou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16915">2504.16915</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Tracing Thought: Using Chain-of-Thought Reasoning to Identify the LLM Behind AI-Generated Text</b></td>
+    <td>Shifali Agrahari et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16913">2504.16913</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation</b></td>
+    <td>Ruotong Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16907">2504.16907</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Practical approaches for crystal structure predictions with inpainting generation and universal interatomic potentials</b></td>
+    <td>Peichen Zhong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16893">2504.16893</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Do Large Language Models know who did what to whom?</b></td>
+    <td>Joseph M. Denning et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16884">2504.16884</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Enhancing Critical Thinking with AI: A Tailored Warning System for RAG Models</b></td>
+    <td>Xuyang Zhu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16883">2504.16883</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Context-Enhanced Vulnerability Detection Based on Large Language Model</b></td>
+    <td>Yixin Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16877">2504.16877</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Exploring How LLMs Capture and Represent Domain-Specific Knowledge</b></td>
+    <td>Mirian Hipolito Garcia et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16871">2504.16871</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Planning with Diffusion Models for Target-Oriented Dialogue Systems</b></td>
+    <td>Hanwen Du et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16858">2504.16858</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Emo Pillars: Knowledge Distillation to Support Fine-Grained Context-Aware and Context-Less Emotion Classification</b></td>
+    <td>Alexander Shvets et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16856">2504.16856</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Monte Carlo Planning with Large Language Model for Text-Based Game Agents</b></td>
+    <td>Zijing Shi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16855">2504.16855</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Improving Significant Wave Height Prediction Using Chronos Models</b></td>
+    <td>Yilin Zhai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16834">2504.16834</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>LRASGen: LLM-based RESTful API Specification Generation</b></td>
+    <td>Sida Deng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16833">2504.16833</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>GreenMind: A Next-Generation Vietnamese Large Language Model for Structured and Logical Reasoning</b></td>
+    <td>Luu Quy Tung et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16832">2504.16832</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Process Reward Models That Think</b></td>
+    <td>Muhammad Khalifa et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16828">2504.16828</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>LLM-assisted Graph-RAG Information Extraction from IFC Data</b></td>
+    <td>Sima Iranmanesh et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16813">2504.16813</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Decoupled Global-Local Alignment for Improving Compositional Understanding</b></td>
+    <td>Xiaoxing Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16801">2504.16801</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-23</b></td>
     <td><b>CAPO: Cost-Aware Prompt Optimization</b></td>
