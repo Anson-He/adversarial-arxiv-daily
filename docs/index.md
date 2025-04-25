@@ -23,6 +23,49 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-04-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>On the Generalization of Adversarially Trained Quantum Classifiers</b></td>
+    <td>Petros Georgiou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17690">2504.17690</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Evaluating the Vulnerability of ML-Based Ethereum Phishing Detectors to Single-Feature Adversarial Perturbations</b></td>
+    <td>Ahod Alghuried et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17684">2504.17684</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Evaluating Time Series Models for Urban Wastewater Management: Predictive Performance, Model Complexity and Resilience</b></td>
+    <td>Vipin Singh et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17461">2504.17461</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Unveiling Hidden Vulnerabilities in Digital Human Generation via Adversarial Attacks</b></td>
+    <td>Zhiying Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17457">2504.17457</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-23</h3>
 
 <table>
@@ -1434,6 +1477,35 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-04-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>GRANITE : a Byzantine-Resilient Dynamic Gossip Learning Framework</b></td>
+    <td>Yacine Belal et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17471">2504.17471</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>The Ultimate Cookbook for Invisible Poison: Crafting Subtle Clean-Label Text Backdoors with Style Attributes</b></td>
+    <td>Wencong You et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17300">2504.17300</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-23</h3>
 
 <table>
@@ -1447,6 +1519,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>Robo-Troj: Attacking LLM-based Task Planners</b></td>
+    <td>Mohaiminul Al Nahian et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17070">2504.17070</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-23</b></td>
     <td><b>BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation</b></td>
@@ -2315,6 +2394,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-04-23</b></td>
+    <td><b>Safety Pretraining: Toward the Next Generation of Safe AI</b></td>
+    <td>Pratyush Maini et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.16980">2504.16980</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
     <td><b>aiXamine: Simplified LLM Safety and Security</b></td>
     <td>Fatih Deniz et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.14985">2504.14985</a></td>
@@ -2806,6 +2892,42 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-04-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence</b></td>
+    <td>Edward Collins et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17703">2504.17703</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>From Randomized Response to Randomized Index: Answering Subset Counting Queries with Local Differential Privacy</b></td>
+    <td>Qingqing Ye et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17523">2504.17523</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>PatientDx: Merging Large Language Models for Protecting Data-Privacy in Healthcare</b></td>
+    <td>Jose G. Moreno et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17360">2504.17360</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-23</h3>
 
 <table>
@@ -2819,6 +2941,20 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>The Rise of Small Language Models in Healthcare: A Comprehensive Survey</b></td>
+    <td>Muskan Garg et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17119">2504.17119</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-23</b></td>
+    <td><b>AI for Accessible Education: Personalized Audio-Based Learning for Blind Students</b></td>
+    <td>Crystal Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17117">2504.17117</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-23</b></td>
     <td><b>Simplified Swarm Learning Framework for Robust and Scalable Diagnostic Services in Cancer Histopathology</b></td>
@@ -4471,6 +4607,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-04-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Towards Generalizable Deepfake Detection with Spatial-Frequency Collaborative Learning and Hierarchical Cross-Modal Fusion</b></td>
+    <td>Mengyu Qiao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17223">2504.17223</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-19</h3>
 
 <table>
@@ -5305,6 +5463,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-04-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Replay to Remember: Retaining Domain Knowledge in Streaming Language Models</b></td>
+    <td>Sneh Pillai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17780">2504.17780</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs</b></td>
+    <td>Piotr Nawrot et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17768">2504.17768</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Step1X-Edit: A Practical Framework for General Image Editing</b></td>
+    <td>Shiyu Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17761">2504.17761</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Towards Robust LLMs: an Adversarial Robustness Measurement Framework</b></td>
+    <td>Natan Levy et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17723">2504.17723</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Multilingual Performance Biases of Large Language Models in Education</b></td>
+    <td>Vansh Gupta et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17720">2504.17720</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Ensemble Bayesian Inference: Leveraging Small Language Models to Achieve LLM-level Accuracy in Profile Matching Tasks</b></td>
+    <td>Haru-Tada Sato et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17685">2504.17685</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>INSIGHT: Bridging the Student-Teacher Gap in Times of Large Language Models</b></td>
+    <td>Jarne Thys et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17677">2504.17677</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Energy Considerations of Large Language Model Inference and Efficiency Optimizations</b></td>
+    <td>Jared Fernandez et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17674">2504.17674</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Cross-region Model Training with Communication-Computation Overlapping and Delay Compensation</b></td>
+    <td>Ying Zhu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17672">2504.17672</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>DiMeR: Disentangled Mesh Reconstruction Model</b></td>
+    <td>Lutao Jiang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17670">2504.17670</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Towards a HIPAA Compliant Agentic AI System in Healthcare</b></td>
+    <td>Subash Neupane et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17669">2504.17669</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Evaluating Grounded Reasoning by Code-Assisted Large Language Models for Mathematics</b></td>
+    <td>Zena Al-Khalili et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17665">2504.17665</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Likelihood-Free Variational Autoencoders</b></td>
+    <td>Chen Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17622">2504.17622</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>L3: DIMM-PIM Integrated Architecture and Coordination for Scalable Long-Context LLM Inference</b></td>
+    <td>Qingyuan Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17584">2504.17584</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>DeepDistill: Enhancing LLM Reasoning Capabilities via Large-Scale Difficulty-Graded Data Training</b></td>
+    <td>Xiaoyu Tian et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17565">2504.17565</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>HalluLens: LLM Hallucination Benchmark</b></td>
+    <td>Yejin Bang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17550">2504.17550</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>A Comprehensive Survey of Knowledge-Based Vision Question Answering Systems: The Lifecycle of Knowledge in Visual Reasoning Task</b></td>
+    <td>Jiaqi Deng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17547">2504.17547</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Auditing the Ethical Logic of Generative AI Models</b></td>
+    <td>W. Russell Neuman et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17544">2504.17544</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation</b></td>
+    <td>Haoxin Tu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17542">2504.17542</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>Towards Machine-Generated Code for the Resolution of User Intentions</b></td>
+    <td>Justus Flerlage et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17531">2504.17531</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-23</h3>
 
 <table>
