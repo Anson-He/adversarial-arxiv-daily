@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -2892,6 +2892,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-04-25</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-25</b></td>
+    <td><b>The Rise of Small Language Models in Healthcare: A Comprehensive Survey</b></td>
+    <td>Muskan Garg et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17119">2504.17119</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-24</h3>
 
 <table>
@@ -2941,13 +2963,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-04-23</b></td>
-    <td><b>The Rise of Small Language Models in Healthcare: A Comprehensive Survey</b></td>
-    <td>Muskan Garg et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.17119">2504.17119</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2025-04-23</b></td>
     <td><b>AI for Accessible Education: Personalized Audio-Based Learning for Blind Students</b></td>
@@ -5463,6 +5478,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-04-25</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-25</b></td>
+    <td><b>DeepDistill: Enhancing LLM Reasoning Capabilities via Large-Scale Difficulty-Graded Data Training</b></td>
+    <td>Xiaoyu Tian et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.17565">2504.17565</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-24</h3>
 
 <table>
@@ -5572,13 +5609,6 @@ layout: default
     <td><b>L3: DIMM-PIM Integrated Architecture and Coordination for Scalable Long-Context LLM Inference</b></td>
     <td>Qingyuan Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.17584">2504.17584</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-24</b></td>
-    <td><b>DeepDistill: Enhancing LLM Reasoning Capabilities via Large-Scale Difficulty-Graded Data Training</b></td>
-    <td>Xiaoyu Tian et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.17565">2504.17565</a></td>
     <td>null</td>
        </tr>
        <tr>
