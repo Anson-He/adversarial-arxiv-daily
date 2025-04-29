@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.28
+## Updated on 2025.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -2444,6 +2444,28 @@ layout: default
 
 ## Generative models safety
 
+<h3>2025-04-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-26</b></td>
+    <td><b>Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search</b></td>
+    <td>Andy Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2503.10619">2503.10619</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-23</h3>
 
 <table>
@@ -2615,28 +2637,6 @@ layout: default
     <td><b>Output Constraints as Attack Surface: Exploiting Structured Generation to Bypass LLM Safety Mechanisms</b></td>
     <td>Shuoming Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2503.24191">2503.24191</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-03-16</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-03-16</b></td>
-    <td><b>Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search</b></td>
-    <td>Andy Zhou et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2503.10619">2503.10619</a></td>
     <td>null</td>
        </tr>
    </tbody>
