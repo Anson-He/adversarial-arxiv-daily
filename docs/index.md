@@ -23,6 +23,100 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-04-28</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>Evaluate-and-Purify: Fortifying Code Language Models Against Adversarial Attacks Using LLM-as-a-Judge</b></td>
+    <td>Wenhan Mu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19730">2504.19730</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>Fooling the Decoder: An Adversarial Attack on Quantum Error Correction</b></td>
+    <td>Jerome Lenssen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19651">2504.19651</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>WILD: a new in-the-Wild Image Linkage Dataset for synthetic image attribution</b></td>
+    <td>Pietro Bongini et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19595">2504.19595</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>FCGHunter: Towards Evaluating Robustness of Graph-Based Android Malware Detection</b></td>
+    <td>Shiwen Song et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19456">2504.19456</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-04-27</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-27</b></td>
+    <td><b>CapsFake: A Multimodal Capsule Network for Detecting Instruction-Guided Deepfakes</b></td>
+    <td>Tuan Nguyen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19212">2504.19212</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-04-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-26</b></td>
+    <td><b>Unveiling and Mitigating Adversarial Vulnerabilities in Iterative Optimizers</b></td>
+    <td>Elad Sofer et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19000">2504.19000</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-26</b></td>
+    <td><b>Test It Before You Trust It: Applying Software Testing for Trustworthy In-context Learning</b></td>
+    <td>Teeradaj Racharak et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.18827">2504.18827</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-25</h3>
 
 <table>
@@ -65,6 +159,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-24</b></td>
+    <td><b>A Simple DropConnect Approach to Transfer-based Targeted Attack</b></td>
+    <td>Tongrui Su et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.18594">2504.18594</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-24</b></td>
     <td><b>Unsupervised Corpus Poisoning Attacks in Continuous Space for Dense Retrieval</b></td>
@@ -1550,6 +1651,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-04-24</b></td>
+    <td><b>BadMoE: Backdooring Mixture-of-Experts LLMs via Optimizing Routing Triggers and Infecting Dormant Experts</b></td>
+    <td>Qingyue Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.18598">2504.18598</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-24</b></td>
     <td><b>Unsupervised Corpus Poisoning Attacks in Continuous Space for Dense Retrieval</b></td>
     <td>Yongkang Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.17884">2504.17884</a></td>
@@ -1649,6 +1757,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-21</b></td>
+    <td><b>Backdoor Defense in Diffusion Models via Spatial Attention Unlearning</b></td>
+    <td>Abha Jha et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.18563">2504.18563</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-21</b></td>
     <td><b>BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models</b></td>
@@ -2444,6 +2559,28 @@ layout: default
 
 ## Generative models safety
 
+<h3>2025-04-28</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>$\texttt{SAGE}$ : A Generic Framework for LLM Safety Evaluation</b></td>
+    <td>Madhur Jindal et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19674">2504.19674</a></td>
+    <td>**[link](https://github.com/Madhur-1/SageLLMSafetyEval)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-26</h3>
 
 <table>
@@ -2957,6 +3094,79 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-04-28</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>Federated Out-of-Distribution Generalization: A Causal Augmentation View</b></td>
+    <td>Runhui Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19882">2504.19882</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>Dynamic Tsetlin Machine Accelerators for On-Chip Training at the Edge using FPGAs</b></td>
+    <td>Gang Mao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19797">2504.19797</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-04-27</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-27</b></td>
+    <td><b>Privacy-Preserving Federated Embedding Learning for Localized Retrieval-Augmented Generation</b></td>
+    <td>Qianren Mao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19101">2504.19101</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-04-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-26</b></td>
+    <td><b>SONNI: Secure Oblivious Neural Network Inference</b></td>
+    <td>Luke Sperling et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.18974">2504.18974</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-25</h3>
 
 <table>
@@ -4687,6 +4897,35 @@ layout: default
 
 ## Forensics
 
+<h3>2025-04-27</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-27</b></td>
+    <td><b>Balancing Creativity and Automation: The Influence of AI on Modern Film Production and Dissemination</b></td>
+    <td>Yiren Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19275">2504.19275</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-27</b></td>
+    <td><b>CapsFake: A Multimodal Capsule Network for Detecting Instruction-Guided Deepfakes</b></td>
+    <td>Tuan Nguyen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19212">2504.19212</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-24</h3>
 
 <table>
@@ -5543,6 +5782,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-04-28</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>AutoJudge: Judge Decoding Without Manual Annotation</b></td>
+    <td>Roman Garipov et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.20039">2504.20039</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>Better To Ask in English? Evaluating Factual Accuracy of Multilingual LLMs in English and Low-Resource Languages</b></td>
+    <td>Pritika Rohera et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.20022">2504.20022</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models</b></td>
+    <td>Xin Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.20020">2504.20020</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design</b></td>
+    <td>Linshi Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.20016">2504.20016</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation</b></td>
+    <td>Beizhe Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.20013">2504.20013</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>Towards Automated Scoping of AI for Social Good Projects</b></td>
+    <td>Jacob Emmerson et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.20010">2504.20010</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>Chatbot Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses</b></td>
+    <td>Sahel Sharifymoghaddam et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.20006">2504.20006</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>Knowledge Distillation of Domain-adapted LLMs for Question-Answering in Telecom</b></td>
+    <td>Rishika Sen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.20000">2504.20000</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>TD-EVAL: Revisiting Task-Oriented Dialogue Evaluation by Combining Turn-Level Precision with Dialogue-Level Comparisons</b></td>
+    <td>Emre Can Acikgoz et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19982">2504.19982</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>Accurate and Diverse LLM Mathematical Reasoning via Automated PRM-Guided GFlowNets</b></td>
+    <td>Adam Younsi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19981">2504.19981</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>From Concept to Practice: an Automated LLM-aided UVM Machine for RTL Verification</b></td>
+    <td>Junhao Ye et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19959">2504.19959</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents</b></td>
+    <td>Vineeth Sai Narajala et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19956">2504.19956</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI</b></td>
+    <td>Hugo Georgenthum et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19918">2504.19918</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>Can AI Agents Design and Implement Drug Discovery Pipelines?</b></td>
+    <td>Khachik Smbatyan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19912">2504.19912</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets</b></td>
+    <td>Mingqian He et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19898">2504.19898</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>CineVerse: Consistent Keyframe Synthesis for Cinematic Scene Composition</b></td>
+    <td>Quynh Phung et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19894">2504.19894</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>DeeCLIP: A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images</b></td>
+    <td>Mamadou Keita et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19876">2504.19876</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>semi-PD: Towards Efficient LLM Serving via Phase-Wise Disaggregated Computation and Unified Storage</b></td>
+    <td>Ke Hong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19867">2504.19867</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>CoherenDream: Boosting Holistic Text Coherence in 3D Generation via Multimodal Large Language Models Feedback</b></td>
+    <td>Chenhan Jiang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19860">2504.19860</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-28</b></td>
+    <td><b>The Automation Advantage in AI Red Teaming</b></td>
+    <td>Rob Mulla et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19855">2504.19855</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-25</h3>
 
 <table>

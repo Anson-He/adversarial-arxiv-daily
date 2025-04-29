@@ -19,6 +19,25 @@
 
 ## Adversarial attacks
 
+<h3>2025-04-28</h3>
+
+- 2025-04-28, **Evaluate-and-Purify: Fortifying Code Language Models Against Adversarial Attacks Using LLM-as-a-Judge**, Wenhan Mu et.al., Paper: [http://arxiv.org/abs/2504.19730](http://arxiv.org/abs/2504.19730)
+- 2025-04-28, **Fooling the Decoder: An Adversarial Attack on Quantum Error Correction**, Jerome Lenssen et.al., Paper: [http://arxiv.org/abs/2504.19651](http://arxiv.org/abs/2504.19651)
+- 2025-04-28, **WILD: a new in-the-Wild Image Linkage Dataset for synthetic image attribution**, Pietro Bongini et.al., Paper: [http://arxiv.org/abs/2504.19595](http://arxiv.org/abs/2504.19595)
+- 2025-04-28, **FCGHunter: Towards Evaluating Robustness of Graph-Based Android Malware Detection**, Shiwen Song et.al., Paper: [http://arxiv.org/abs/2504.19456](http://arxiv.org/abs/2504.19456)
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+
+<h3>2025-04-27</h3>
+
+- 2025-04-27, **CapsFake: A Multimodal Capsule Network for Detecting Instruction-Guided Deepfakes**, Tuan Nguyen et.al., Paper: [http://arxiv.org/abs/2504.19212](http://arxiv.org/abs/2504.19212)
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+
+<h3>2025-04-26</h3>
+
+- 2025-04-26, **Unveiling and Mitigating Adversarial Vulnerabilities in Iterative Optimizers**, Elad Sofer et.al., Paper: [http://arxiv.org/abs/2504.19000](http://arxiv.org/abs/2504.19000)
+- 2025-04-26, **Test It Before You Trust It: Applying Software Testing for Trustworthy In-context Learning**, Teeradaj Racharak et.al., Paper: [http://arxiv.org/abs/2504.18827](http://arxiv.org/abs/2504.18827)
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+
 <h3>2025-04-25</h3>
 
 - 2025-04-25, **Adversarial Attacks on LLM-as-a-Judge Systems: Insights from Prompt Injections**, Narek Maloyan et.al., Paper: [http://arxiv.org/abs/2504.18333](http://arxiv.org/abs/2504.18333)
@@ -27,6 +46,7 @@
 
 <h3>2025-04-24</h3>
 
+- 2025-04-24, **A Simple DropConnect Approach to Transfer-based Targeted Attack**, Tongrui Su et.al., Paper: [http://arxiv.org/abs/2504.18594](http://arxiv.org/abs/2504.18594)
 - 2025-04-24, **Unsupervised Corpus Poisoning Attacks in Continuous Space for Dense Retrieval**, Yongkang Li et.al., Paper: [http://arxiv.org/abs/2504.17884](http://arxiv.org/abs/2504.17884)
 - 2025-04-24, **On the Generalization of Adversarially Trained Quantum Classifiers**, Petros Georgiou et.al., Paper: [http://arxiv.org/abs/2504.17690](http://arxiv.org/abs/2504.17690)
 - 2025-04-24, **Evaluating the Vulnerability of ML-Based Ethereum Phishing Detectors to Single-Feature Adversarial Perturbations**, Ahod Alghuried et.al., Paper: [http://arxiv.org/abs/2504.17684](http://arxiv.org/abs/2504.17684)
@@ -312,6 +332,7 @@
 
 <h3>2025-04-24</h3>
 
+- 2025-04-24, **BadMoE: Backdooring Mixture-of-Experts LLMs via Optimizing Routing Triggers and Infecting Dormant Experts**, Qingyue Wang et.al., Paper: [http://arxiv.org/abs/2504.18598](http://arxiv.org/abs/2504.18598)
 - 2025-04-24, **Unsupervised Corpus Poisoning Attacks in Continuous Space for Dense Retrieval**, Yongkang Li et.al., Paper: [http://arxiv.org/abs/2504.17884](http://arxiv.org/abs/2504.17884)
 - 2025-04-24, **GRANITE : a Byzantine-Resilient Dynamic Gossip Learning Framework**, Yacine Belal et.al., Paper: [http://arxiv.org/abs/2504.17471](http://arxiv.org/abs/2504.17471)
 - 2025-04-24, **The Ultimate Cookbook for Invisible Poison: Crafting Subtle Clean-Label Text Backdoors with Style Attributes**, Wencong You et.al., Paper: [http://arxiv.org/abs/2504.17300](http://arxiv.org/abs/2504.17300)
@@ -332,6 +353,7 @@
 
 <h3>2025-04-21</h3>
 
+- 2025-04-21, **Backdoor Defense in Diffusion Models via Spatial Attention Unlearning**, Abha Jha et.al., Paper: [http://arxiv.org/abs/2504.18563](http://arxiv.org/abs/2504.18563)
 - 2025-04-21, **BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models**, Zhengxian Wu et.al., Paper: [http://arxiv.org/abs/2504.13775](http://arxiv.org/abs/2504.13775)
 - 2025-04-21, **A Client-level Assessment of Collaborative Backdoor Poisoning in Non-IID Federated Learning**, Phung Lai et.al., Paper: [http://arxiv.org/abs/2504.12875](http://arxiv.org/abs/2504.12875)
 <p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
@@ -500,6 +522,11 @@
 
 ## Generative models safety
 
+<h3>2025-04-28</h3>
+
+- 2025-04-28, **$\texttt{SAGE}$ : A Generic Framework for LLM Safety Evaluation**, Madhur Jindal et.al., Paper: [http://arxiv.org/abs/2504.19674](http://arxiv.org/abs/2504.19674), Code: **[https://github.com/Madhur-1/SageLLMSafetyEval](https://github.com/Madhur-1/SageLLMSafetyEval)**
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+
 <h3>2025-04-26</h3>
 
 - 2025-04-26, **Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search**, Andy Zhou et.al., Paper: [http://arxiv.org/abs/2503.10619](http://arxiv.org/abs/2503.10619)
@@ -612,6 +639,22 @@
 
 
 ## Data privacy
+
+<h3>2025-04-28</h3>
+
+- 2025-04-28, **Federated Out-of-Distribution Generalization: A Causal Augmentation View**, Runhui Zhang et.al., Paper: [http://arxiv.org/abs/2504.19882](http://arxiv.org/abs/2504.19882)
+- 2025-04-28, **Dynamic Tsetlin Machine Accelerators for On-Chip Training at the Edge using FPGAs**, Gang Mao et.al., Paper: [http://arxiv.org/abs/2504.19797](http://arxiv.org/abs/2504.19797)
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+
+<h3>2025-04-27</h3>
+
+- 2025-04-27, **Privacy-Preserving Federated Embedding Learning for Localized Retrieval-Augmented Generation**, Qianren Mao et.al., Paper: [http://arxiv.org/abs/2504.19101](http://arxiv.org/abs/2504.19101)
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+
+<h3>2025-04-26</h3>
+
+- 2025-04-26, **SONNI: Secure Oblivious Neural Network Inference**, Luke Sperling et.al., Paper: [http://arxiv.org/abs/2504.18974](http://arxiv.org/abs/2504.18974)
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
 
 <h3>2025-04-25</h3>
 
@@ -973,6 +1016,12 @@
 
 ## Forensics
 
+<h3>2025-04-27</h3>
+
+- 2025-04-27, **Balancing Creativity and Automation: The Influence of AI on Modern Film Production and Dissemination**, Yiren Xu et.al., Paper: [http://arxiv.org/abs/2504.19275](http://arxiv.org/abs/2504.19275)
+- 2025-04-27, **CapsFake: A Multimodal Capsule Network for Detecting Instruction-Guided Deepfakes**, Tuan Nguyen et.al., Paper: [http://arxiv.org/abs/2504.19212](http://arxiv.org/abs/2504.19212)
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+
 <h3>2025-04-24</h3>
 
 - 2025-04-24, **Towards Generalizable Deepfake Detection with Spatial-Frequency Collaborative Learning and Hierarchical Cross-Modal Fusion**, Mengyu Qiao et.al., Paper: [http://arxiv.org/abs/2504.17223](http://arxiv.org/abs/2504.17223)
@@ -1160,6 +1209,30 @@
 
 
 ## AIGC
+
+<h3>2025-04-28</h3>
+
+- 2025-04-28, **AutoJudge: Judge Decoding Without Manual Annotation**, Roman Garipov et.al., Paper: [http://arxiv.org/abs/2504.20039](http://arxiv.org/abs/2504.20039)
+- 2025-04-28, **Better To Ask in English? Evaluating Factual Accuracy of Multilingual LLMs in English and Low-Resource Languages**, Pritika Rohera et.al., Paper: [http://arxiv.org/abs/2504.20022](http://arxiv.org/abs/2504.20022)
+- 2025-04-28, **Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models**, Xin Wang et.al., Paper: [http://arxiv.org/abs/2504.20020](http://arxiv.org/abs/2504.20020)
+- 2025-04-28, **Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design**, Linshi Li et.al., Paper: [http://arxiv.org/abs/2504.20016](http://arxiv.org/abs/2504.20016)
+- 2025-04-28, **LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation**, Beizhe Hu et.al., Paper: [http://arxiv.org/abs/2504.20013](http://arxiv.org/abs/2504.20013)
+- 2025-04-28, **Towards Automated Scoping of AI for Social Good Projects**, Jacob Emmerson et.al., Paper: [http://arxiv.org/abs/2504.20010](http://arxiv.org/abs/2504.20010)
+- 2025-04-28, **Chatbot Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses**, Sahel Sharifymoghaddam et.al., Paper: [http://arxiv.org/abs/2504.20006](http://arxiv.org/abs/2504.20006)
+- 2025-04-28, **Knowledge Distillation of Domain-adapted LLMs for Question-Answering in Telecom**, Rishika Sen et.al., Paper: [http://arxiv.org/abs/2504.20000](http://arxiv.org/abs/2504.20000)
+- 2025-04-28, **TD-EVAL: Revisiting Task-Oriented Dialogue Evaluation by Combining Turn-Level Precision with Dialogue-Level Comparisons**, Emre Can Acikgoz et.al., Paper: [http://arxiv.org/abs/2504.19982](http://arxiv.org/abs/2504.19982)
+- 2025-04-28, **Accurate and Diverse LLM Mathematical Reasoning via Automated PRM-Guided GFlowNets**, Adam Younsi et.al., Paper: [http://arxiv.org/abs/2504.19981](http://arxiv.org/abs/2504.19981)
+- 2025-04-28, **From Concept to Practice: an Automated LLM-aided UVM Machine for RTL Verification**, Junhao Ye et.al., Paper: [http://arxiv.org/abs/2504.19959](http://arxiv.org/abs/2504.19959)
+- 2025-04-28, **Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents**, Vineeth Sai Narajala et.al., Paper: [http://arxiv.org/abs/2504.19956](http://arxiv.org/abs/2504.19956)
+- 2025-04-28, **Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI**, Hugo Georgenthum et.al., Paper: [http://arxiv.org/abs/2504.19918](http://arxiv.org/abs/2504.19918)
+- 2025-04-28, **Can AI Agents Design and Implement Drug Discovery Pipelines?**, Khachik Smbatyan et.al., Paper: [http://arxiv.org/abs/2504.19912](http://arxiv.org/abs/2504.19912)
+- 2025-04-28, **GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets**, Mingqian He et.al., Paper: [http://arxiv.org/abs/2504.19898](http://arxiv.org/abs/2504.19898)
+- 2025-04-28, **CineVerse: Consistent Keyframe Synthesis for Cinematic Scene Composition**, Quynh Phung et.al., Paper: [http://arxiv.org/abs/2504.19894](http://arxiv.org/abs/2504.19894)
+- 2025-04-28, **DeeCLIP: A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images**, Mamadou Keita et.al., Paper: [http://arxiv.org/abs/2504.19876](http://arxiv.org/abs/2504.19876)
+- 2025-04-28, **semi-PD: Towards Efficient LLM Serving via Phase-Wise Disaggregated Computation and Unified Storage**, Ke Hong et.al., Paper: [http://arxiv.org/abs/2504.19867](http://arxiv.org/abs/2504.19867)
+- 2025-04-28, **CoherenDream: Boosting Holistic Text Coherence in 3D Generation via Multimodal Large Language Models Feedback**, Chenhan Jiang et.al., Paper: [http://arxiv.org/abs/2504.19860](http://arxiv.org/abs/2504.19860)
+- 2025-04-28, **The Automation Advantage in AI Red Teaming**, Rob Mulla et.al., Paper: [http://arxiv.org/abs/2504.19855](http://arxiv.org/abs/2504.19855)
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
 
 <h3>2025-04-25</h3>
 
