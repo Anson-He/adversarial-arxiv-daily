@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-04-29</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-29</b></td>
+    <td><b>WILD: a new in-the-Wild Image Linkage Dataset for synthetic image attribution</b></td>
+    <td>Pietro Bongini et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19595">2504.19595</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-28</h3>
 
 <table>
@@ -48,13 +70,6 @@ layout: default
     <td><b>Fooling the Decoder: An Adversarial Attack on Quantum Error Correction</b></td>
     <td>Jerome Lenssen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.19651">2504.19651</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-28</b></td>
-    <td><b>WILD: a new in-the-Wild Image Linkage Dataset for synthetic image attribution</b></td>
-    <td>Pietro Bongini et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.19595">2504.19595</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -1614,6 +1629,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-04-29</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-29</b></td>
+    <td><b>BadMoE: Backdooring Mixture-of-Experts LLMs via Optimizing Routing Triggers and Infecting Dormant Experts</b></td>
+    <td>Qingyue Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.18598">2504.18598</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-25</h3>
 
 <table>
@@ -1649,13 +1686,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-04-24</b></td>
-    <td><b>BadMoE: Backdooring Mixture-of-Experts LLMs via Optimizing Routing Triggers and Infecting Dormant Experts</b></td>
-    <td>Qingyue Wang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.18598">2504.18598</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2025-04-24</b></td>
     <td><b>Unsupervised Corpus Poisoning Attacks in Continuous Space for Dense Retrieval</b></td>
@@ -5782,6 +5812,42 @@ layout: default
 
 ## AIGC
 
+<h3>2025-04-29</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-29</b></td>
+    <td><b>LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation</b></td>
+    <td>Beizhe Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.20013">2504.20013</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-29</b></td>
+    <td><b>From Concept to Practice: an Automated LLM-aided UVM Machine for RTL Verification</b></td>
+    <td>Junhao Ye et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19959">2504.19959</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-04-29</b></td>
+    <td><b>The Automation Advantage in AI Red Teaming</b></td>
+    <td>Rob Mulla et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.19855">2504.19855</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-28</h3>
 
 <table>
@@ -5825,13 +5891,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-04-28</b></td>
-    <td><b>LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation</b></td>
-    <td>Beizhe Hu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.20013">2504.20013</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-28</b></td>
     <td><b>Towards Automated Scoping of AI for Social Good Projects</b></td>
     <td>Jacob Emmerson et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.20010">2504.20010</a></td>
@@ -5863,13 +5922,6 @@ layout: default
     <td><b>Accurate and Diverse LLM Mathematical Reasoning via Automated PRM-Guided GFlowNets</b></td>
     <td>Adam Younsi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.19981">2504.19981</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-28</b></td>
-    <td><b>From Concept to Practice: an Automated LLM-aided UVM Machine for RTL Verification</b></td>
-    <td>Junhao Ye et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.19959">2504.19959</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -5926,13 +5978,6 @@ layout: default
     <td><b>CoherenDream: Boosting Holistic Text Coherence in 3D Generation via Multimodal Large Language Models Feedback</b></td>
     <td>Chenhan Jiang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.19860">2504.19860</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-28</b></td>
-    <td><b>The Automation Advantage in AI Red Teaming</b></td>
-    <td>Rob Mulla et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.19855">2504.19855</a></td>
     <td>null</td>
        </tr>
    </tbody>
