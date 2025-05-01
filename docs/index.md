@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-04-30</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-30</b></td>
+    <td><b>Quantifying the Noise of Structural Perturbations on Graph Adversarial Attacks</b></td>
+    <td>Junyuan Fang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.20869">2504.20869</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-29</h3>
 
 <table>
@@ -41,13 +63,6 @@ layout: default
     <td><b>AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security</b></td>
     <td>Zikui Cai et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.20965">2504.20965</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-29</b></td>
-    <td><b>Quantifying the Noise of Structural Perturbations on Graph Adversarial Attacks</b></td>
-    <td>Junyuan Fang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.20869">2504.20869</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -5047,7 +5062,7 @@ layout: default
 
 ## Forensics
 
-<h3>2025-04-29</h3>
+<h3>2025-04-30</h3>
 
 <table>
    <thead>
@@ -5061,12 +5076,27 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-04-29</b></td>
+    <td><b>2025-04-30</b></td>
     <td><b>End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation</b></td>
     <td>Andrea Di Pierno et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.20923">2504.20923</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/adipiz99/RawNetLite)**</td>
        </tr>
+   </tbody>
+</table>
+<h3>2025-04-29</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
        <tr>
     <td><b>2025-04-29</b></td>
     <td><b>TriniMark: A Robust Generative Speech Watermarking Method for Trinity-Level Attribution</b></td>
@@ -5961,6 +5991,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-04-30</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-04-30</b></td>
+    <td><b>End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation</b></td>
+    <td>Andrea Di Pierno et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2504.20923">2504.20923</a></td>
+    <td>**[link](https://github.com/adipiz99/RawNetLite)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-29</h3>
 
 <table>
@@ -6063,13 +6115,6 @@ layout: default
     <td><b>ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification</b></td>
     <td>Ziqing Fan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.20930">2504.20930</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-04-29</b></td>
-    <td><b>End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation</b></td>
-    <td>Andrea Di Pierno et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2504.20923">2504.20923</a></td>
     <td>null</td>
        </tr>
        <tr>
