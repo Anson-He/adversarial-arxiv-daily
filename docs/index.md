@@ -23,6 +23,49 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-05-01</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>Fully passive quantum random number generation with untrusted light</b></td>
+    <td>KaiWei Qiu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00636">2505.00636</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>Fast and Low-Cost Genomic Foundation Models via Outlier Removal</b></td>
+    <td>Haozheng Luo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00598">2505.00598</a></td>
+    <td>**[link](https://github.com/MAGICS-LAB/GERM)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>Analysis of the vulnerability of machine learning regression models to adversarial attacks using data from 5G wireless networks</b></td>
+    <td>Leonid Legashev et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00487">2505.00487</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>GAN-based Generator of Adversarial Attack on Intelligent End-to-End Autoencoder-based Communication System</b></td>
+    <td>Jianyuan Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00395">2505.00395</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-30</h3>
 
 <table>
@@ -36,6 +79,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-04-30</b></td>
+    <td><b>Stochastic Subspace Descent Accelerated via Bi-fidelity Line Search</b></td>
+    <td>Nuojin Cheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00162">2505.00162</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-04-30</b></td>
     <td><b>Active Light Modulation to Counter Manipulation of Speech Visual Content</b></td>
@@ -3352,6 +3402,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-05-01</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>Distributed Retrieval-Augmented Generation</b></td>
+    <td>Chenhao Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00443">2505.00443</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-30</h3>
 
 <table>
@@ -5255,6 +5327,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-05-01</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>AWARE-NET: Adaptive Weighted Averaging for Robust Ensemble Network in Deepfake Detection</b></td>
+    <td>Muhammad Salman et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00312">2505.00312</a></td>
+    <td>**[link](https://github.com/recluzegeek/deepfake-ensemble-detection)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-30</h3>
 
 <table>
@@ -6198,6 +6292,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-05-01</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT</b></td>
+    <td>Dongzhi Jiang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00703">2505.00703</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution</b></td>
+    <td>Aditya Arora et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00687">2505.00687</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>MINERVA: Evaluating Complex Video Reasoning</b></td>
+    <td>Arsha Nagrani et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00681">2505.00681</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>Steering Large Language Models with Register Analysis for Arbitrary Style Transfer</b></td>
+    <td>Xinchen Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00679">2505.00679</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions</b></td>
+    <td>Yiming Du et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00675">2505.00675</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>DeepCritic: Deliberate Critique with Large Language Models</b></td>
+    <td>Wenkai Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00662">2505.00662</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>Large Language Models Understanding: an Inherent Ambiguity Barrier</b></td>
+    <td>Daniel N. Nissani et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00654">2505.00654</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>Open-Source LLM-Driven Federated Transformer for Predictive IoV Management</b></td>
+    <td>Yazan Otoum et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00651">2505.00651</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>Investigating Task Arithmetic for Zero-Shot Information Retrieval</b></td>
+    <td>Marco Braga et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00649">2505.00649</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>The Illusion of Role Separation: Hidden Shortcuts in LLM Role Learning (and How to Fix Them)</b></td>
+    <td>Zihao Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00626">2505.00626</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>FineScope : Precision Pruning for Domain-Specialized Large Language Models Using SAE-Guided Self-Data Cultivation</b></td>
+    <td>Chaitali Bhattacharyya et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00624">2505.00624</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>Combining LLMs with Logic-Based Framework to Explain MCTS</b></td>
+    <td>Ziyan An et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00610">2505.00610</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>Can LLMs Help Improve Analogical Reasoning For Strategic Decisions? Experimental Evidence from Humans and GPT-4</b></td>
+    <td>Phanish Puranam et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00603">2505.00603</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>Block Circulant Adapter for Large Language Models</b></td>
+    <td>Xinyu Ding et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00582">2505.00582</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension</b></td>
+    <td>Jushi Kai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00570">2505.00570</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>Triggering Hallucinations in LLMs: A Quantitative Study of Prompt-Induced Hallucination in Large Language Models</b></td>
+    <td>Makoto Sato et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00557">2505.00557</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>Leveraging Partial SMILES Validation Scheme for Enhanced Drug Design in Reinforcement Learning Frameworks</b></td>
+    <td>Xinyu Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00530">2505.00530</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>HalluMix: A Task-Agnostic, Multi-Domain Benchmark for Real-World Hallucination Detection</b></td>
+    <td>Deanna Emery et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00506">2505.00506</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>UserCentrix: An Agentic Memory-augmented AI Framework for Smart Spaces</b></td>
+    <td>Alaa Saleh et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00472">2505.00472</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>A General Model for Linearly Polarized Optical Vector Beams</b></td>
+    <td>Jonathan Nichols et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00471">2505.00471</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-30</h3>
 
 <table>

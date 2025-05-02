@@ -19,8 +19,17 @@
 
 ## Adversarial attacks
 
+<h3>2025-05-01</h3>
+
+- 2025-05-01, **Fully passive quantum random number generation with untrusted light**, KaiWei Qiu et.al., Paper: [http://arxiv.org/abs/2505.00636](http://arxiv.org/abs/2505.00636)
+- 2025-05-01, **Fast and Low-Cost Genomic Foundation Models via Outlier Removal**, Haozheng Luo et.al., Paper: [http://arxiv.org/abs/2505.00598](http://arxiv.org/abs/2505.00598), Code: **[https://github.com/MAGICS-LAB/GERM](https://github.com/MAGICS-LAB/GERM)**
+- 2025-05-01, **Analysis of the vulnerability of machine learning regression models to adversarial attacks using data from 5G wireless networks**, Leonid Legashev et.al., Paper: [http://arxiv.org/abs/2505.00487](http://arxiv.org/abs/2505.00487)
+- 2025-05-01, **GAN-based Generator of Adversarial Attack on Intelligent End-to-End Autoencoder-based Communication System**, Jianyuan Chen et.al., Paper: [http://arxiv.org/abs/2505.00395](http://arxiv.org/abs/2505.00395)
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+
 <h3>2025-04-30</h3>
 
+- 2025-04-30, **Stochastic Subspace Descent Accelerated via Bi-fidelity Line Search**, Nuojin Cheng et.al., Paper: [http://arxiv.org/abs/2505.00162](http://arxiv.org/abs/2505.00162)
 - 2025-04-30, **Active Light Modulation to Counter Manipulation of Speech Visual Content**, Hadleigh Schwartz et.al., Paper: [http://arxiv.org/abs/2504.21846](http://arxiv.org/abs/2504.21846)
 - 2025-04-30, **Generative AI in Financial Institution: A Global Survey of Opportunities, Threats, and Regulation**, Bikash Saha et.al., Paper: [http://arxiv.org/abs/2504.21574](http://arxiv.org/abs/2504.21574)
 - 2025-04-30, **How to Backdoor the Knowledge Distillation**, Chen Wu et.al., Paper: [http://arxiv.org/abs/2504.21323](http://arxiv.org/abs/2504.21323)
@@ -688,6 +697,11 @@
 
 ## Data privacy
 
+<h3>2025-05-01</h3>
+
+- 2025-05-01, **Distributed Retrieval-Augmented Generation**, Chenhao Xu et.al., Paper: [http://arxiv.org/abs/2505.00443](http://arxiv.org/abs/2505.00443)
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+
 <h3>2025-04-30</h3>
 
 - 2025-04-30, **VDDP: Verifiable Distributed Differential Privacy under the Client-Server-Verifier Setup**, Haochen Sun et.al., Paper: [http://arxiv.org/abs/2504.21752](http://arxiv.org/abs/2504.21752)
@@ -1082,6 +1096,11 @@
 
 ## Forensics
 
+<h3>2025-05-01</h3>
+
+- 2025-05-01, **AWARE-NET: Adaptive Weighted Averaging for Robust Ensemble Network in Deepfake Detection**, Muhammad Salman et.al., Paper: [http://arxiv.org/abs/2505.00312](http://arxiv.org/abs/2505.00312), Code: **[https://github.com/recluzegeek/deepfake-ensemble-detection](https://github.com/recluzegeek/deepfake-ensemble-detection)**
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+
 <h3>2025-04-30</h3>
 
 - 2025-04-30, **Generative AI in Financial Institution: A Global Survey of Opportunities, Threats, and Regulation**, Bikash Saha et.al., Paper: [http://arxiv.org/abs/2504.21574](http://arxiv.org/abs/2504.21574)
@@ -1287,6 +1306,30 @@
 
 
 ## AIGC
+
+<h3>2025-05-01</h3>
+
+- 2025-05-01, **T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**, Dongzhi Jiang et.al., Paper: [http://arxiv.org/abs/2505.00703](http://arxiv.org/abs/2505.00703)
+- 2025-05-01, **GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution**, Aditya Arora et.al., Paper: [http://arxiv.org/abs/2505.00687](http://arxiv.org/abs/2505.00687)
+- 2025-05-01, **MINERVA: Evaluating Complex Video Reasoning**, Arsha Nagrani et.al., Paper: [http://arxiv.org/abs/2505.00681](http://arxiv.org/abs/2505.00681)
+- 2025-05-01, **Steering Large Language Models with Register Analysis for Arbitrary Style Transfer**, Xinchen Yang et.al., Paper: [http://arxiv.org/abs/2505.00679](http://arxiv.org/abs/2505.00679)
+- 2025-05-01, **Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions**, Yiming Du et.al., Paper: [http://arxiv.org/abs/2505.00675](http://arxiv.org/abs/2505.00675)
+- 2025-05-01, **DeepCritic: Deliberate Critique with Large Language Models**, Wenkai Yang et.al., Paper: [http://arxiv.org/abs/2505.00662](http://arxiv.org/abs/2505.00662)
+- 2025-05-01, **Large Language Models Understanding: an Inherent Ambiguity Barrier**, Daniel N. Nissani et.al., Paper: [http://arxiv.org/abs/2505.00654](http://arxiv.org/abs/2505.00654)
+- 2025-05-01, **Open-Source LLM-Driven Federated Transformer for Predictive IoV Management**, Yazan Otoum et.al., Paper: [http://arxiv.org/abs/2505.00651](http://arxiv.org/abs/2505.00651)
+- 2025-05-01, **Investigating Task Arithmetic for Zero-Shot Information Retrieval**, Marco Braga et.al., Paper: [http://arxiv.org/abs/2505.00649](http://arxiv.org/abs/2505.00649)
+- 2025-05-01, **The Illusion of Role Separation: Hidden Shortcuts in LLM Role Learning (and How to Fix Them)**, Zihao Wang et.al., Paper: [http://arxiv.org/abs/2505.00626](http://arxiv.org/abs/2505.00626)
+- 2025-05-01, **FineScope : Precision Pruning for Domain-Specialized Large Language Models Using SAE-Guided Self-Data Cultivation**, Chaitali Bhattacharyya et.al., Paper: [http://arxiv.org/abs/2505.00624](http://arxiv.org/abs/2505.00624)
+- 2025-05-01, **Combining LLMs with Logic-Based Framework to Explain MCTS**, Ziyan An et.al., Paper: [http://arxiv.org/abs/2505.00610](http://arxiv.org/abs/2505.00610)
+- 2025-05-01, **Can LLMs Help Improve Analogical Reasoning For Strategic Decisions? Experimental Evidence from Humans and GPT-4**, Phanish Puranam et.al., Paper: [http://arxiv.org/abs/2505.00603](http://arxiv.org/abs/2505.00603)
+- 2025-05-01, **Block Circulant Adapter for Large Language Models**, Xinyu Ding et.al., Paper: [http://arxiv.org/abs/2505.00582](http://arxiv.org/abs/2505.00582)
+- 2025-05-01, **FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension**, Jushi Kai et.al., Paper: [http://arxiv.org/abs/2505.00570](http://arxiv.org/abs/2505.00570)
+- 2025-05-01, **Triggering Hallucinations in LLMs: A Quantitative Study of Prompt-Induced Hallucination in Large Language Models**, Makoto Sato et.al., Paper: [http://arxiv.org/abs/2505.00557](http://arxiv.org/abs/2505.00557)
+- 2025-05-01, **Leveraging Partial SMILES Validation Scheme for Enhanced Drug Design in Reinforcement Learning Frameworks**, Xinyu Wang et.al., Paper: [http://arxiv.org/abs/2505.00530](http://arxiv.org/abs/2505.00530)
+- 2025-05-01, **HalluMix: A Task-Agnostic, Multi-Domain Benchmark for Real-World Hallucination Detection**, Deanna Emery et.al., Paper: [http://arxiv.org/abs/2505.00506](http://arxiv.org/abs/2505.00506)
+- 2025-05-01, **UserCentrix: An Agentic Memory-augmented AI Framework for Smart Spaces**, Alaa Saleh et.al., Paper: [http://arxiv.org/abs/2505.00472](http://arxiv.org/abs/2505.00472)
+- 2025-05-01, **A General Model for Linearly Polarized Optical Vector Beams**, Jonathan Nichols et.al., Paper: [http://arxiv.org/abs/2505.00471](http://arxiv.org/abs/2505.00471)
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 <h3>2025-04-30</h3>
 
