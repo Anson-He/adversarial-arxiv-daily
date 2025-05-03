@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.02
+## Updated on 2025.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -5345,7 +5345,7 @@ layout: default
     <td><b>AWARE-NET: Adaptive Weighted Averaging for Robust Ensemble Network in Deepfake Detection</b></td>
     <td>Muhammad Salman et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.00312">2505.00312</a></td>
-    <td>**[link](https://github.com/recluzegeek/deepfake-ensemble-detection)**</td>
+    <td>**[link](https://github.com/recluzegeek/AWARE-NET)**</td>
        </tr>
    </tbody>
 </table>
