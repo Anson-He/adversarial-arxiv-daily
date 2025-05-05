@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.04
+## Updated on 2025.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-05-02</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>Fast and Low-Cost Genomic Foundation Models via Outlier Removal</b></td>
+    <td>Haozheng Luo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00598">2505.00598</a></td>
+    <td>**[link](https://github.com/MAGICS-LAB/GERM)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-01</h3>
 
 <table>
@@ -42,13 +64,6 @@ layout: default
     <td>KaiWei Qiu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.00636">2505.00636</a></td>
     <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-01</b></td>
-    <td><b>Fast and Low-Cost Genomic Foundation Models via Outlier Removal</b></td>
-    <td>Haozheng Luo et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.00598">2505.00598</a></td>
-    <td>**[link](https://github.com/MAGICS-LAB/GERM)**</td>
        </tr>
        <tr>
     <td><b>2025-05-01</b></td>
