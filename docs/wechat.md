@@ -21,11 +21,17 @@
 
 <h3>2025-05-02</h3>
 
+- 2025-05-02, **Constrained Network Adversarial Attacks: Validity, Robustness, and Transferability**, Anass Grini et.al., Paper: [http://arxiv.org/abs/2505.01328](http://arxiv.org/abs/2505.01328)
+- 2025-05-02, **Harmonizing Intra-coherence and Inter-divergence in Ensemble Attacks for Adversarial Transferability**, Zhaoyang Ma et.al., Paper: [http://arxiv.org/abs/2505.01168](http://arxiv.org/abs/2505.01168)
+- 2025-05-02, **Transferable Adversarial Attacks on Black-Box Vision-Language Models**, Kai Hu et.al., Paper: [http://arxiv.org/abs/2505.01050](http://arxiv.org/abs/2505.01050)
+- 2025-05-02, **Quantum Support Vector Regression for Robust Anomaly Detection**, Kilian Tscharke et.al., Paper: [http://arxiv.org/abs/2505.01012](http://arxiv.org/abs/2505.01012)
+- 2025-05-02, **MARS: Defending Unmanned Aerial Vehicles From Attacks on Inertial Sensors with Model-based Anomaly Detection and Recovery**, Haocheng Meng et.al., Paper: [http://arxiv.org/abs/2505.00924](http://arxiv.org/abs/2505.00924)
 - 2025-05-02, **Fast and Low-Cost Genomic Foundation Models via Outlier Removal**, Haozheng Luo et.al., Paper: [http://arxiv.org/abs/2505.00598](http://arxiv.org/abs/2505.00598), Code: **[https://github.com/MAGICS-LAB/GERM](https://github.com/MAGICS-LAB/GERM)**
 <p align=right>(<a href=#updated-on-20250505>back to top</a>)</p>
 
 <h3>2025-05-01</h3>
 
+- 2025-05-01, **OET: Optimization-based prompt injection Evaluation Toolkit**, Jinsheng Pan et.al., Paper: [http://arxiv.org/abs/2505.00843](http://arxiv.org/abs/2505.00843)
 - 2025-05-01, **Fully passive quantum random number generation with untrusted light**, KaiWei Qiu et.al., Paper: [http://arxiv.org/abs/2505.00636](http://arxiv.org/abs/2505.00636)
 - 2025-05-01, **Analysis of the vulnerability of machine learning regression models to adversarial attacks using data from 5G wireless networks**, Leonid Legashev et.al., Paper: [http://arxiv.org/abs/2505.00487](http://arxiv.org/abs/2505.00487)
 - 2025-05-01, **GAN-based Generator of Adversarial Attack on Intelligent End-to-End Autoencoder-based Communication System**, Jianyuan Chen et.al., Paper: [http://arxiv.org/abs/2505.00395](http://arxiv.org/abs/2505.00395)
@@ -358,6 +364,16 @@
 
 
 ## Poisoning attacks
+
+<h3>2025-05-02</h3>
+
+- 2025-05-02, **Explainable AI Based Diagnosis of Poisoning Attacks in Evolutionary Swarms**, Mehrdad Asadi et.al., Paper: [http://arxiv.org/abs/2505.01181](http://arxiv.org/abs/2505.01181)
+<p align=right>(<a href=#updated-on-20250505>back to top</a>)</p>
+
+<h3>2025-05-01</h3>
+
+- 2025-05-01, **Protocol-agnostic and Data-free Backdoor Attacks on Pre-trained Models in RF Fingerprinting**, Tianya Zhao et.al., Paper: [http://arxiv.org/abs/2505.00881](http://arxiv.org/abs/2505.00881)
+<p align=right>(<a href=#updated-on-20250505>back to top</a>)</p>
 
 <h3>2025-04-30</h3>
 
@@ -700,6 +716,11 @@
 
 
 ## Data privacy
+
+<h3>2025-05-02</h3>
+
+- 2025-05-02, **SemSpaceFL: A Collaborative Hierarchical Federated Learning Framework for Semantic Communication in 6G LEO Satellites**, Loc X. Nguyen et.al., Paper: [http://arxiv.org/abs/2505.00966](http://arxiv.org/abs/2505.00966)
+<p align=right>(<a href=#updated-on-20250505>back to top</a>)</p>
 
 <h3>2025-05-01</h3>
 
@@ -1310,6 +1331,30 @@
 
 
 ## AIGC
+
+<h3>2025-05-02</h3>
+
+- 2025-05-02, **GENMO: A GENeralist Model for Human MOtion**, Jiefeng Li et.al., Paper: [http://arxiv.org/abs/2505.01425](http://arxiv.org/abs/2505.01425)
+- 2025-05-02, **Provable Efficiency of Guidance in Diffusion Models for General Data Distribution**, Gen Li et.al., Paper: [http://arxiv.org/abs/2505.01382](http://arxiv.org/abs/2505.01382)
+- 2025-05-02, **TRAVELER: A Benchmark for Evaluating Temporal Reasoning across Vague, Implicit and Explicit References**, Svenja Kenneweg et.al., Paper: [http://arxiv.org/abs/2505.01325](http://arxiv.org/abs/2505.01325)
+- 2025-05-02, **Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**, Sheikh Samit Muhaimin et.al., Paper: [http://arxiv.org/abs/2505.01315](http://arxiv.org/abs/2505.01315)
+- 2025-05-02, **Document Retrieval Augmented Fine-Tuning (DRAFT) for safety-critical software assessments**, Regan Bolton et.al., Paper: [http://arxiv.org/abs/2505.01307](http://arxiv.org/abs/2505.01307)
+- 2025-05-02, **ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow**, Changhe Chen et.al., Paper: [http://arxiv.org/abs/2505.01288](http://arxiv.org/abs/2505.01288)
+- 2025-05-02, **Scoring-Assisted Generative Exploration for Proteins (SAGE-Prot): A Framework for Multi-Objective Protein Optimization via Iterative Sequence Generation and Evaluation**, Hocheol Lim et.al., Paper: [http://arxiv.org/abs/2505.01277](http://arxiv.org/abs/2505.01277)
+- 2025-05-02, **FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2505.01263](http://arxiv.org/abs/2505.01263)
+- 2025-05-02, **Enhancing Obsolescence Forecasting with Deep Generative Data Augmentation: A Semi-Supervised Framework for Low-Data Industrial Applications**, Elie Saad et.al., Paper: [http://arxiv.org/abs/2505.01261](http://arxiv.org/abs/2505.01261)
+- 2025-05-02, **Digital Pathway Curation (DPC): a comparative pipeline to assess the reproducibility, consensus and accuracy across Gemini, PubMed, and scientific reviewers in biomedical research**, Flavio Lichtenstein et.al., Paper: [http://arxiv.org/abs/2505.01259](http://arxiv.org/abs/2505.01259)
+- 2025-05-02, **EvalxNLP: A Framework for Benchmarking Post-Hoc Explainability Methods on NLP Models**, Mahdi Dhaini et.al., Paper: [http://arxiv.org/abs/2505.01238](http://arxiv.org/abs/2505.01238)
+- 2025-05-02, **A Combinatorial Proof of Universal Optimality for Computing a Planar Convex Hull**, Ivor van der Hoog et.al., Paper: [http://arxiv.org/abs/2505.01194](http://arxiv.org/abs/2505.01194)
+- 2025-05-02, **LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures**, Francisco Aguilera-Martínez et.al., Paper: [http://arxiv.org/abs/2505.01177](http://arxiv.org/abs/2505.01177)
+- 2025-05-02, **On the Limitations of Steering in Language Model Alignment**, Chebrolu Niranjan et.al., Paper: [http://arxiv.org/abs/2505.01162](http://arxiv.org/abs/2505.01162)
+- 2025-05-02, **Methodological Foundations for AI-Driven Survey Question Generation**, Ted K. Mburu et.al., Paper: [http://arxiv.org/abs/2505.01150](http://arxiv.org/abs/2505.01150)
+- 2025-05-02, **Retrieval-Augmented Generation in Biomedicine: A Survey of Technologies, Datasets, and Clinical Applications**, Jiawei He et.al., Paper: [http://arxiv.org/abs/2505.01146](http://arxiv.org/abs/2505.01146)
+- 2025-05-02, **Evaluating the Impact of Data Cleaning on the Quality of Generated Pull Request Descriptions**, Kutay Tire et.al., Paper: [http://arxiv.org/abs/2505.01120](http://arxiv.org/abs/2505.01120)
+- 2025-05-02, **Incorporating Inductive Biases to Energy-based Generative Models**, Yukun Li et.al., Paper: [http://arxiv.org/abs/2505.01111](http://arxiv.org/abs/2505.01111)
+- 2025-05-02, **MateICL: Mitigating Attention Dispersion in Large-Scale In-Context Learning**, Murtadha Ahmed et.al., Paper: [http://arxiv.org/abs/2505.01110](http://arxiv.org/abs/2505.01110)
+- 2025-05-02, **Any-to-Any Vision-Language Model for Multimodal X-ray Imaging and Radiological Report Generation**, Daniele Molino et.al., Paper: [http://arxiv.org/abs/2505.01091](http://arxiv.org/abs/2505.01091)
+<p align=right>(<a href=#updated-on-20250505>back to top</a>)</p>
 
 <h3>2025-05-01</h3>
 

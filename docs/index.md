@@ -38,6 +38,41 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-05-02</b></td>
+    <td><b>Constrained Network Adversarial Attacks: Validity, Robustness, and Transferability</b></td>
+    <td>Anass Grini et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01328">2505.01328</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>Harmonizing Intra-coherence and Inter-divergence in Ensemble Attacks for Adversarial Transferability</b></td>
+    <td>Zhaoyang Ma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01168">2505.01168</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>Transferable Adversarial Attacks on Black-Box Vision-Language Models</b></td>
+    <td>Kai Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01050">2505.01050</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>Quantum Support Vector Regression for Robust Anomaly Detection</b></td>
+    <td>Kilian Tscharke et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01012">2505.01012</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>MARS: Defending Unmanned Aerial Vehicles From Attacks on Inertial Sensors with Model-based Anomaly Detection and Recovery</b></td>
+    <td>Haocheng Meng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00924">2505.00924</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
     <td><b>Fast and Low-Cost Genomic Foundation Models via Outlier Removal</b></td>
     <td>Haozheng Luo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.00598">2505.00598</a></td>
@@ -58,6 +93,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>OET: Optimization-based prompt injection Evaluation Toolkit</b></td>
+    <td>Jinsheng Pan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00843">2505.00843</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-01</b></td>
     <td><b>Fully passive quantum random number generation with untrusted light</b></td>
@@ -1800,6 +1842,50 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-05-02</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>Explainable AI Based Diagnosis of Poisoning Attacks in Evolutionary Swarms</b></td>
+    <td>Mehrdad Asadi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01181">2505.01181</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-05-01</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-01</b></td>
+    <td><b>Protocol-agnostic and Data-free Backdoor Attacks on Pre-trained Models in RF Fingerprinting</b></td>
+    <td>Tianya Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00881">2505.00881</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-04-30</h3>
 
 <table>
@@ -3417,6 +3503,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-05-02</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>SemSpaceFL: A Collaborative Hierarchical Federated Learning Framework for Semantic Communication in 6G LEO Satellites</b></td>
+    <td>Loc X. Nguyen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00966">2505.00966</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-01</h3>
 
 <table>
@@ -6307,6 +6415,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-05-02</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>GENMO: A GENeralist Model for Human MOtion</b></td>
+    <td>Jiefeng Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01425">2505.01425</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>Provable Efficiency of Guidance in Diffusion Models for General Data Distribution</b></td>
+    <td>Gen Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01382">2505.01382</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>TRAVELER: A Benchmark for Evaluating Temporal Reasoning across Vague, Implicit and Explicit References</b></td>
+    <td>Svenja Kenneweg et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01325">2505.01325</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System</b></td>
+    <td>Sheikh Samit Muhaimin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01315">2505.01315</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>Document Retrieval Augmented Fine-Tuning (DRAFT) for safety-critical software assessments</b></td>
+    <td>Regan Bolton et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01307">2505.01307</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow</b></td>
+    <td>Changhe Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01288">2505.01288</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>Scoring-Assisted Generative Exploration for Proteins (SAGE-Prot): A Framework for Multi-Objective Protein Optimization via Iterative Sequence Generation and Evaluation</b></td>
+    <td>Hocheol Lim et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01277">2505.01277</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing</b></td>
+    <td>Gaoxiang Cong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01263">2505.01263</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>Enhancing Obsolescence Forecasting with Deep Generative Data Augmentation: A Semi-Supervised Framework for Low-Data Industrial Applications</b></td>
+    <td>Elie Saad et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01261">2505.01261</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>Digital Pathway Curation (DPC): a comparative pipeline to assess the reproducibility, consensus and accuracy across Gemini, PubMed, and scientific reviewers in biomedical research</b></td>
+    <td>Flavio Lichtenstein et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01259">2505.01259</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>EvalxNLP: A Framework for Benchmarking Post-Hoc Explainability Methods on NLP Models</b></td>
+    <td>Mahdi Dhaini et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01238">2505.01238</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>A Combinatorial Proof of Universal Optimality for Computing a Planar Convex Hull</b></td>
+    <td>Ivor van der Hoog et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01194">2505.01194</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures</b></td>
+    <td>Francisco Aguilera-Martínez et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01177">2505.01177</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>On the Limitations of Steering in Language Model Alignment</b></td>
+    <td>Chebrolu Niranjan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01162">2505.01162</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>Methodological Foundations for AI-Driven Survey Question Generation</b></td>
+    <td>Ted K. Mburu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01150">2505.01150</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>Retrieval-Augmented Generation in Biomedicine: A Survey of Technologies, Datasets, and Clinical Applications</b></td>
+    <td>Jiawei He et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01146">2505.01146</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>Evaluating the Impact of Data Cleaning on the Quality of Generated Pull Request Descriptions</b></td>
+    <td>Kutay Tire et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01120">2505.01120</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>Incorporating Inductive Biases to Energy-based Generative Models</b></td>
+    <td>Yukun Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01111">2505.01111</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>MateICL: Mitigating Attention Dispersion in Large-Scale In-Context Learning</b></td>
+    <td>Murtadha Ahmed et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01110">2505.01110</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>Any-to-Any Vision-Language Model for Multimodal X-ray Imaging and Radiological Report Generation</b></td>
+    <td>Daniele Molino et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01091">2505.01091</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-01</h3>
 
 <table>
