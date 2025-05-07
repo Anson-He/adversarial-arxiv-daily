@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -3648,6 +3648,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-05-06</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-06</b></td>
+    <td><b>SemSpaceFL: A Collaborative Hierarchical Federated Learning Framework for Semantic Communication in 6G LEO Satellites</b></td>
+    <td>Loc X. Nguyen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.00966">2505.00966</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-05</h3>
 
 <table>
@@ -3760,13 +3782,6 @@ layout: default
     <td><b>Securing the Future of IVR: AI-Driven Innovation with Agile Security, Data Regulation, and Ethical AI Integration</b></td>
     <td>Khushbu Mehboob Shaikh et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.01514">2505.01514</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-02</b></td>
-    <td><b>SemSpaceFL: A Collaborative Hierarchical Federated Learning Framework for Semantic Communication in 6G LEO Satellites</b></td>
-    <td>Loc X. Nguyen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.00966">2505.00966</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -6697,6 +6712,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-05-06</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-06</b></td>
+    <td><b>Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation</b></td>
+    <td>Gerard Pons et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.02737">2505.02737</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-05</h3>
 
 <table>
@@ -6771,13 +6808,6 @@ layout: default
     <td><b>Bye-bye, Bluebook? Automating Legal Procedure with Large Language Models</b></td>
     <td>Matthew Dahl et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.02763">2505.02763</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-05</b></td>
-    <td><b>Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation</b></td>
-    <td>Pons Gerard et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.02737">2505.02737</a></td>
     <td>null</td>
        </tr>
        <tr>
