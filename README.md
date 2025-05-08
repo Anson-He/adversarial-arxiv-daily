@@ -19,6 +19,13 @@
 
 ## Adversarial attacks
 
+<h3>2025-05-07</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-05-07**|**Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks**|Xuyang Wang et.al.|[2505.04046](http://arxiv.org/abs/2505.04046)|null|
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+
 <h3>2025-05-06</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -45,6 +52,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**A Comprehensive Analysis of Adversarial Attacks against Spam Filters**|Esra Hotoğlu et.al.|[2505.03831](http://arxiv.org/abs/2505.03831)|null|
 |**2025-05-04**|**Lightweight Defense Against Adversarial Attacks in Time Series Classification**|Yi Han et.al.|[2505.02073](http://arxiv.org/abs/2505.02073)|**[link](https://github.com/yi126/lightweight-defence)**|
 <p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
@@ -60,6 +68,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Modeling Behavioral Preferences of Cyber Adversaries Using Inverse Reinforcement Learning**|Aditya Shinde et.al.|[2505.03817](http://arxiv.org/abs/2505.03817)|null|
 |**2025-05-02**|**Machine Learning for Cyber-Attack Identification from Traffic Flows**|Yujing Zhou et.al.|[2505.01489](http://arxiv.org/abs/2505.01489)|null|
 |**2025-05-02**|**Constrained Network Adversarial Attacks: Validity, Robustness, and Transferability**|Anass Grini et.al.|[2505.01328](http://arxiv.org/abs/2505.01328)|null|
 |**2025-05-02**|**Harmonizing Intra-coherence and Inter-divergence in Ensemble Attacks for Adversarial Transferability**|Zhaoyang Ma et.al.|[2505.01168](http://arxiv.org/abs/2505.01168)|null|
@@ -497,6 +506,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Model-Targeted Data Poisoning Attacks against ITS Applications with Provable Convergence**|Xin Wanga et.al.|[2505.03966](http://arxiv.org/abs/2505.03966)|null|
 |**2025-05-06**|**BadLingual: A Novel Lingual-Backdoor Attack against Large Language Models**|Zihan Wang et.al.|[2505.03501](http://arxiv.org/abs/2505.03501)|null|
 |**2025-05-06**|**Task Reconstruction and Extrapolation for $π_0$ using Text Latent**|Quanyi Li et.al.|[2505.03500](http://arxiv.org/abs/2505.03500)|null|
 |**2025-05-06**|**Mitigating Backdoor Triggered and Targeted Data Poisoning Attacks in Voice Authentication Systems**|Alireza Mohammadi et.al.|[2505.03455](http://arxiv.org/abs/2505.03455)|null|
@@ -997,10 +1007,20 @@
 
 ## Data privacy
 
+<h3>2025-05-07</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-05-07**|**Privacy-preserving neutral atom-based quantum classifier towards real healthcare applications**|Ettore Canonici et.al.|[2505.04570](http://arxiv.org/abs/2505.04570)|null|
+|**2025-05-07**|**RDPP-TD: Reputation and Data Privacy-Preserving based Truth Discovery Scheme in Mobile Crowdsensing**|Lijian Wu et.al.|[2505.04361](http://arxiv.org/abs/2505.04361)|null|
+|**2025-05-07**|**A Framework to Prevent Biometric Data Leakage in the Immersive Technologies Domain**|Keshav Sood et.al.|[2505.04123](http://arxiv.org/abs/2505.04123)|null|
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+
 <h3>2025-05-06</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**AI-Driven Security in Cloud Computing: Enhancing Threat Detection, Automated Response, and Cyber Resilience**|Shamnad Mohamed Shaffi et.al.|[2505.03945](http://arxiv.org/abs/2505.03945)|null|
 |**2025-05-06**|**Event-Triggered GAT-LSTM Framework for Attack Detection in Heating, Ventilation, and Air Conditioning Systems**|Zhenan Feng et.al.|[2505.03559](http://arxiv.org/abs/2505.03559)|null|
 |**2025-05-06**|**SKALD: Scalable K-Anonymisation for Large Datasets**|Kailash Reddy et.al.|[2505.03529](http://arxiv.org/abs/2505.03529)|null|
 |**2025-05-06**|**SemSpaceFL: A Collaborative Hierarchical Federated Learning Framework for Semantic Communication in 6G LEO Satellites**|Loc X. Nguyen et.al.|[2505.00966](http://arxiv.org/abs/2505.00966)|null|
@@ -1569,6 +1589,23 @@
 
 ## Forensics
 
+<h3>2025-05-07</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-05-07**|**Perpetuating Misogyny with Generative AI: How Model Personalization Normalizes Gendered Harm**|Laura Wagner et.al.|[2505.04600](http://arxiv.org/abs/2505.04600)|null|
+|**2025-05-07**|**Learning Real Facial Concepts for Independent Deepfake Detection**|Ming-Hui Liu et.al.|[2505.04460](http://arxiv.org/abs/2505.04460)|null|
+|**2025-05-07**|**DATA: Multi-Disentanglement based Contrastive Learning for Open-World Semi-Supervised Deepfake Attribution**|Ming-Hui Liu et.al.|[2505.04384](http://arxiv.org/abs/2505.04384)|null|
+|**2025-05-07**|**From Incidents to Insights: Patterns of Responsibility following AI Harms**|Isabel Richards et.al.|[2505.04291](http://arxiv.org/abs/2505.04291)|null|
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+
+<h3>2025-05-06</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-05-06**|**Deepfakes on Demand: the rise of accessible non-consensual deepfake image generators**|Will Hawkins et.al.|[2505.03859](http://arxiv.org/abs/2505.03859)|null|
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+
 <h3>2025-05-04</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -1863,6 +1900,32 @@
 
 
 ## AIGC
+
+<h3>2025-05-07</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/abs/2505.04623)|null|
+|**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620](http://arxiv.org/abs/2505.04620)|null|
+|**2025-05-07**|**OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution**|Lianghong Guo et.al.|[2505.04606](http://arxiv.org/abs/2505.04606)|null|
+|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
+|**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588](http://arxiv.org/abs/2505.04588)|null|
+|**2025-05-07**|**SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions**|Chloe Qianhui Zhao et.al.|[2505.04584](http://arxiv.org/abs/2505.04584)|null|
+|**2025-05-07**|**Comparative Analysis of Carbon Footprint in Manual vs. LLM-Assisted Code Development**|Kuen Sum Cheung et.al.|[2505.04521](http://arxiv.org/abs/2505.04521)|null|
+|**2025-05-07**|**Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs**|Yehui Tang et.al.|[2505.04519](http://arxiv.org/abs/2505.04519)|null|
+|**2025-05-07**|**Detecting Spelling and Grammatical Anomalies in Russian Poetry Texts**|Ilya Koziev et.al.|[2505.04507](http://arxiv.org/abs/2505.04507)|null|
+|**2025-05-07**|**Defining and Quantifying Creative Behavior in Popular Image Generators**|Aditi Ramaswamy et.al.|[2505.04497](http://arxiv.org/abs/2505.04497)|null|
+|**2025-05-07**|**A Design Space for the Critical Validation of LLM-Generated Tabular Data**|Madhav Sachdeva et.al.|[2505.04487](http://arxiv.org/abs/2505.04487)|null|
+|**2025-05-07**|**Efficient Flow Matching using Latent Variables**|Anirban Samaddar et.al.|[2505.04486](http://arxiv.org/abs/2505.04486)|null|
+|**2025-05-07**|**CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation**|Jiahao Li et.al.|[2505.04481](http://arxiv.org/abs/2505.04481)|null|
+|**2025-05-07**|**TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution**|Zhikai Zhao et.al.|[2505.04480](http://arxiv.org/abs/2505.04480)|null|
+|**2025-05-07**|**Miipher-2: A Universal Speech Restoration Model for Million-Hour Scale Data Restoration**|Shigeki Karita et.al.|[2505.04457](http://arxiv.org/abs/2505.04457)|null|
+|**2025-05-07**|**M2Rec: Multi-scale Mamba for Efficient Sequential Recommendation**|Qianru Zhang et.al.|[2505.04445](http://arxiv.org/abs/2505.04445)|null|
+|**2025-05-07**|**Towards Effectively Leveraging Execution Traces for Program Repair with Code LLMs**|Mirazul Haque et.al.|[2505.04441](http://arxiv.org/abs/2505.04441)|null|
+|**2025-05-07**|**OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models**|Xiaoyu Xu et.al.|[2505.04416](http://arxiv.org/abs/2505.04416)|null|
+|**2025-05-07**|**YABLoCo: Yet Another Benchmark for Long Context Code Generation**|Aidar Valeev et.al.|[2505.04406](http://arxiv.org/abs/2505.04406)|null|
+|**2025-05-07**|**Large Means Left: Political Bias in Large Language Models Increases with Their Number of Parameters**|David Exler et.al.|[2505.04393](http://arxiv.org/abs/2505.04393)|null|
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 <h3>2025-05-06</h3>
 

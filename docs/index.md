@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-05-07</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks</b></td>
+    <td>Xuyang Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04046">2505.04046</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-06</h3>
 
 <table>
@@ -138,6 +160,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-05-04</b></td>
+    <td><b>A Comprehensive Analysis of Adversarial Attacks against Spam Filters</b></td>
+    <td>Esra Hotoğlu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.03831">2505.03831</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-04</b></td>
     <td><b>Lightweight Defense Against Adversarial Attacks in Time Series Classification</b></td>
     <td>Yi Han et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.02073">2505.02073</a></td>
@@ -187,6 +216,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-02</b></td>
+    <td><b>Modeling Behavioral Preferences of Cyber Adversaries Using Inverse Reinforcement Learning</b></td>
+    <td>Aditya Shinde et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.03817">2505.03817</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-02</b></td>
     <td><b>Machine Learning for Cyber-Attack Identification from Traffic Flows</b></td>
@@ -2015,6 +2051,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-05-06</b></td>
+    <td><b>Model-Targeted Data Poisoning Attacks against ITS Applications with Provable Convergence</b></td>
+    <td>Xin Wanga et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.03966">2505.03966</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-06</b></td>
     <td><b>BadLingual: A Novel Lingual-Backdoor Attack against Large Language Models</b></td>
     <td>Zihan Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.03501">2505.03501</a></td>
@@ -3791,6 +3834,42 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-05-07</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>Privacy-preserving neutral atom-based quantum classifier towards real healthcare applications</b></td>
+    <td>Ettore Canonici et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04570">2505.04570</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>RDPP-TD: Reputation and Data Privacy-Preserving based Truth Discovery Scheme in Mobile Crowdsensing</b></td>
+    <td>Lijian Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04361">2505.04361</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>A Framework to Prevent Biometric Data Leakage in the Immersive Technologies Domain</b></td>
+    <td>Keshav Sood et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04123">2505.04123</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-06</h3>
 
 <table>
@@ -3804,6 +3883,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-06</b></td>
+    <td><b>AI-Driven Security in Cloud Computing: Enhancing Threat Detection, Automated Response, and Cyber Resilience</b></td>
+    <td>Shamnad Mohamed Shaffi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.03945">2505.03945</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-06</b></td>
     <td><b>Event-Triggered GAT-LSTM Framework for Attack Detection in Heating, Ventilation, and Air Conditioning Systems</b></td>
@@ -5896,6 +5982,71 @@ layout: default
 
 ## Forensics
 
+<h3>2025-05-07</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>Perpetuating Misogyny with Generative AI: How Model Personalization Normalizes Gendered Harm</b></td>
+    <td>Laura Wagner et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04600">2505.04600</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>Learning Real Facial Concepts for Independent Deepfake Detection</b></td>
+    <td>Ming-Hui Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04460">2505.04460</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>DATA: Multi-Disentanglement based Contrastive Learning for Open-World Semi-Supervised Deepfake Attribution</b></td>
+    <td>Ming-Hui Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04384">2505.04384</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>From Incidents to Insights: Patterns of Responsibility following AI Harms</b></td>
+    <td>Isabel Richards et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04291">2505.04291</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-05-06</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-06</b></td>
+    <td><b>Deepfakes on Demand: the rise of accessible non-consensual deepfake image generators</b></td>
+    <td>Will Hawkins et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.03859">2505.03859</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-04</h3>
 
 <table>
@@ -6890,6 +7041,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-05-07</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning</b></td>
+    <td>Zhenghao Xing et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04623">2505.04623</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>On Path to Multimodal Generalist: General-Level and General-Bench</b></td>
+    <td>Hao Fei et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04620">2505.04620</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution</b></td>
+    <td>Lianghong Guo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04606">2505.04606</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection</b></td>
+    <td>Zhihao Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04594">2505.04594</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>ZeroSearch: Incentivize the Search Capability of LLMs without Searching</b></td>
+    <td>Hao Sun et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04588">2505.04588</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions</b></td>
+    <td>Chloe Qianhui Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04584">2505.04584</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>Comparative Analysis of Carbon Footprint in Manual vs. LLM-Assisted Code Development</b></td>
+    <td>Kuen Sum Cheung et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04521">2505.04521</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs</b></td>
+    <td>Yehui Tang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04519">2505.04519</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>Detecting Spelling and Grammatical Anomalies in Russian Poetry Texts</b></td>
+    <td>Ilya Koziev et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04507">2505.04507</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>Defining and Quantifying Creative Behavior in Popular Image Generators</b></td>
+    <td>Aditi Ramaswamy et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04497">2505.04497</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>A Design Space for the Critical Validation of LLM-Generated Tabular Data</b></td>
+    <td>Madhav Sachdeva et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04487">2505.04487</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>Efficient Flow Matching using Latent Variables</b></td>
+    <td>Anirban Samaddar et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04486">2505.04486</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation</b></td>
+    <td>Jiahao Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04481">2505.04481</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution</b></td>
+    <td>Zhikai Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04480">2505.04480</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>Miipher-2: A Universal Speech Restoration Model for Million-Hour Scale Data Restoration</b></td>
+    <td>Shigeki Karita et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04457">2505.04457</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>M2Rec: Multi-scale Mamba for Efficient Sequential Recommendation</b></td>
+    <td>Qianru Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04445">2505.04445</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>Towards Effectively Leveraging Execution Traces for Program Repair with Code LLMs</b></td>
+    <td>Mirazul Haque et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04441">2505.04441</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models</b></td>
+    <td>Xiaoyu Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04416">2505.04416</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>YABLoCo: Yet Another Benchmark for Long Context Code Generation</b></td>
+    <td>Aidar Valeev et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04406">2505.04406</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-07</b></td>
+    <td><b>Large Means Left: Political Bias in Large Language Models Increases with Their Number of Parameters</b></td>
+    <td>David Exler et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04393">2505.04393</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-06</h3>
 
 <table>
