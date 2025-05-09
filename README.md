@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**DispBench: Benchmarking Disparity Estimation to Synthetic Corruptions**|Shashank Agnihotri et.al.|[2505.05091](http://arxiv.org/abs/2505.05091)|**[link](https://github.com/shashankskagnihotri/benchmarking_robustness)**|
+|**2025-05-08**|**Reliably Bounding False Positives: A Zero-Shot Machine-Generated Text Detection Framework via Multiscaled Conformal Prediction**|Xiaowei Zhu et.al.|[2505.05084](http://arxiv.org/abs/2505.05084)|null|
 |**2025-05-08**|**Uncovering the Limitations of Model Inversion Evaluation -- Benchmarks and Connection to Type-I Adversarial Attacks**|Sy-Tuyen Ho et.al.|[2505.03519](http://arxiv.org/abs/2505.03519)|null|
 <p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
@@ -30,6 +32,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Red Teaming the Mind of the Machine: A Systematic Evaluation of Prompt Injection and Jailbreak Vulnerabilities in LLMs**|Chetan Pathade et.al.|[2505.04806](http://arxiv.org/abs/2505.04806)|null|
+|**2025-05-07**|**Crafting Physical Adversarial Examples by Combining Differentiable and Physically Based Renders**|Yuqiu Liu et.al.|[2505.04662](http://arxiv.org/abs/2505.04662)|null|
 |**2025-05-07**|**Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks**|Xuyang Wang et.al.|[2505.04046](http://arxiv.org/abs/2505.04046)|null|
 <p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
@@ -50,8 +54,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-05**|**Adversarial Robustness Analysis of Vision-Language Models in Medical Image Segmentation**|Anjila Budathoki et.al.|[2505.02971](http://arxiv.org/abs/2505.02971)|null|
-|**2025-05-05**|**Bayesian Robust Aggregation for Federated Learning**|Aleksandr Karakulev et.al.|[2505.02490](http://arxiv.org/abs/2505.02490)|null|
+|**2025-05-05**|**Adversarial Robustness Analysis of Vision-Language Models in Medical Image Segmentation**|Anjila Budathoki et.al.|[2505.02971](http://arxiv.org/abs/2505.02971)|**[link](https://github.com/anjilab/secure-private-ai)**|
+|**2025-05-05**|**Bayesian Robust Aggregation for Federated Learning**|Aleksandr Karakulev et.al.|[2505.02490](http://arxiv.org/abs/2505.02490)|**[link](https://github.com/sciml-fl/bra-fl)**|
 <p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 <h3>2025-05-04</h3>
@@ -508,6 +512,14 @@
 
 ## Poisoning attacks
 
+<h3>2025-05-08</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-05-08**|**MTL-UE: Learning to Learn Nothing for Multi-Task Learning**|Yi Yu et.al.|[2505.05279](http://arxiv.org/abs/2505.05279)|null|
+|**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+
 <h3>2025-05-06</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -554,7 +566,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-30**|**Sparsification Under Siege: Defending Against Poisoning Attacks in Communication-Efficient Federated Learning**|Zhiyong Jin et.al.|[2505.01454](http://arxiv.org/abs/2505.01454)|null|
-|**2025-04-30**|**Cert-SSB: Toward Certified Sample-Specific Backdoor Defense**|Ting Qiao et.al.|[2504.21730](http://arxiv.org/abs/2504.21730)|null|
+|**2025-04-30**|**Cert-SSB: Toward Certified Sample-Specific Backdoor Defense**|Ting Qiao et.al.|[2504.21730](http://arxiv.org/abs/2504.21730)|**[link](https://github.com/ncepuqiaoting/cert-ssb)**|
 |**2025-04-30**|**Traceback of Poisoning Attacks to Retrieval-Augmented Generation**|Baolei Zhang et.al.|[2504.21668](http://arxiv.org/abs/2504.21668)|null|
 |**2025-04-30**|**How to Backdoor the Knowledge Distillation**|Chen Wu et.al.|[2504.21323](http://arxiv.org/abs/2504.21323)|null|
 <p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
@@ -1012,6 +1024,17 @@
 
 
 ## Data privacy
+
+<h3>2025-05-08</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-05-08**|**Adaptive Biased User Scheduling for Heterogeneous Wireless Federate Learning Network**|Changxiang Wu et.al.|[2505.05231](http://arxiv.org/abs/2505.05231)|null|
+|**2025-05-08**|**FedTDP: A Privacy-Preserving and Unified Framework for Trajectory Data Preparation via Federated Learning**|Zhihao Zeng et.al.|[2505.05155](http://arxiv.org/abs/2505.05155)|null|
+|**2025-05-08**|**CacheFL: Efficient Federated Cache Model Fine-Tuning for Vision-Language Models**|Mengjun Yi et.al.|[2505.05130](http://arxiv.org/abs/2505.05130)|null|
+|**2025-05-08**|**Balancing Client Participation in Federated Learning Using AoI**|Alireza Javani et.al.|[2505.05099](http://arxiv.org/abs/2505.05099)|null|
+|**2025-05-08**|**Federated Learning for Cyber Physical Systems: A Comprehensive Survey**|Minh K. Quan et.al.|[2505.04873](http://arxiv.org/abs/2505.04873)|null|
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 <h3>2025-05-07</h3>
 
@@ -1595,6 +1618,13 @@
 
 ## Forensics
 
+<h3>2025-05-08</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-05-08**|**Cross-Branch Orthogonality for Improved Generalization in Face Deepfake Detection**|Tharindu Fernando et.al.|[2505.04888](http://arxiv.org/abs/2505.04888)|null|
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+
 <h3>2025-05-07</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -1632,7 +1662,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-30**|**Generative AI in Financial Institution: A Global Survey of Opportunities, Threats, and Regulation**|Bikash Saha et.al.|[2504.21574](http://arxiv.org/abs/2504.21574)|null|
-|**2025-04-30**|**End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation**|Andrea Di Pierno et.al.|[2504.20923](http://arxiv.org/abs/2504.20923)|**[link](https://github.com/adipiz99/RawNetLite)**|
+|**2025-04-30**|**End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation**|Andrea Di Pierno et.al.|[2504.20923](http://arxiv.org/abs/2504.20923)|null|
 <p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 <h3>2025-04-29</h3>
@@ -1911,6 +1941,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
+|**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/abs/2505.05467)|null|
+|**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465](http://arxiv.org/abs/2505.05465)|null|
+|**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Shiqi Chen et.al.|[2505.05464](http://arxiv.org/abs/2505.05464)|**[link](https://github.com/shiqichen17/vlm_merging)**|
+|**2025-05-08**|**Conversational Process Model Redesign**|Nataliia Klievtsova et.al.|[2505.05453](http://arxiv.org/abs/2505.05453)|null|
+|**2025-05-08**|**clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations**|Chalamalasetti Kranti et.al.|[2505.05445](http://arxiv.org/abs/2505.05445)|null|
+|**2025-05-08**|**GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality**|Xiyun Hu et.al.|[2505.05441](http://arxiv.org/abs/2505.05441)|null|
+|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
+|**2025-05-08**|**Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data**|Yudong Wang et.al.|[2505.05427](http://arxiv.org/abs/2505.05427)|null|
+|**2025-05-08**|**TransProQA: an LLM-based literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|null|
+|**2025-05-08**|**Frame In, Frame Out: Do LLMs Generate More Biased News Headlines than Humans?**|Valeria Pastorino et.al.|[2505.05406](http://arxiv.org/abs/2505.05406)|null|
+|**2025-05-08**|**Modelling and Verifying Neuronal Archetypes in Coq**|Abdorrahim Bahrami et.al.|[2505.05362](http://arxiv.org/abs/2505.05362)|null|
+|**2025-05-08**|**DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning**|Wenru Liu et.al.|[2505.05360](http://arxiv.org/abs/2505.05360)|null|
+|**2025-05-08**|**Hearing and Seeing Through CLIP: A Framework for Self-Supervised Sound Source Localization**|Sooyoung Park et.al.|[2505.05343](http://arxiv.org/abs/2505.05343)|**[link](https://github.com/swimmiing/ACL-SSL)**|
+|**2025-05-08**|**FLAM: Frame-Wise Language-Audio Modeling**|Yusong Wu et.al.|[2505.05335](http://arxiv.org/abs/2505.05335)|null|
+|**2025-05-08**|**ICon: In-Context Contribution for Automatic Data Selection**|Yixin Yang et.al.|[2505.05327](http://arxiv.org/abs/2505.05327)|null|
+|**2025-05-08**|**Toward Reasonable Parrots: Why Large Language Models Should Argue with Us by Design**|Elena Musi et.al.|[2505.05298](http://arxiv.org/abs/2505.05298)|null|
+|**2025-05-08**|**PlaceIt3D: Language-Guided Object Placement in Real 3D Scenes**|Ahmed Abdelreheem et.al.|[2505.05288](http://arxiv.org/abs/2505.05288)|null|
+|**2025-05-08**|**HEXGEN-TEXT2SQL: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL Workflow**|You Peng et.al.|[2505.05286](http://arxiv.org/abs/2505.05286)|null|
+|**2025-05-08**|**Latte: Transfering LLMs` Latent-level Knowledge for Few-shot Tabular Learning**|Ruxue Shi et.al.|[2505.05237](http://arxiv.org/abs/2505.05237)|null|
 |**2025-05-08**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
 |**2025-05-08**|**Defining and Quantifying Creative Behavior in Popular Image Generators**|Aditi Ramaswamy et.al.|[2505.04497](http://arxiv.org/abs/2505.04497)|null|
 <p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
