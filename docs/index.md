@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-05-08</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-08</b></td>
+    <td><b>Uncovering the Limitations of Model Inversion Evaluation -- Benchmarks and Connection to Type-I Adversarial Attacks</b></td>
+    <td>Sy-Tuyen Ho et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.03519">2505.03519</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-07</h3>
 
 <table>
@@ -63,13 +85,6 @@ layout: default
     <td><b>ALMA: Aggregated Lipschitz Maximization Attack on Auto-encoders</b></td>
     <td>Chethan Krishnamurthy Ramanaik et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.03646">2505.03646</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-06</b></td>
-    <td><b>Uncovering the Limitations of Model Inversion Evaluation: Benchmarks and Connection to Type-I Adversarial Attacks</b></td>
-    <td>Sy-Tuyen Ho et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.03519">2505.03519</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -7041,6 +7056,35 @@ layout: default
 
 ## AIGC
 
+<h3>2025-05-08</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-08</b></td>
+    <td><b>MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection</b></td>
+    <td>Zhihao Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04594">2505.04594</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-08</b></td>
+    <td><b>Defining and Quantifying Creative Behavior in Popular Image Generators</b></td>
+    <td>Aditi Ramaswamy et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04497">2505.04497</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-07</h3>
 
 <table>
@@ -7077,13 +7121,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-05-07</b></td>
-    <td><b>MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection</b></td>
-    <td>Zhihao Zhang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.04594">2505.04594</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-07</b></td>
     <td><b>ZeroSearch: Incentivize the Search Capability of LLMs without Searching</b></td>
     <td>Hao Sun et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.04588">2505.04588</a></td>
@@ -7115,13 +7152,6 @@ layout: default
     <td><b>Detecting Spelling and Grammatical Anomalies in Russian Poetry Texts</b></td>
     <td>Ilya Koziev et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.04507">2505.04507</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-07</b></td>
-    <td><b>Defining and Quantifying Creative Behavior in Popular Image Generators</b></td>
-    <td>Aditi Ramaswamy et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.04497">2505.04497</a></td>
     <td>null</td>
        </tr>
        <tr>
