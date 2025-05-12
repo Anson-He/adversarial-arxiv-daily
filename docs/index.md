@@ -23,6 +23,35 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-05-09</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation</b></td>
+    <td>Julian F. Schumann et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06134">2505.06134</a></td>
+    <td>**[link](https://github.com/jhagenus/general-framework-update-adversarial-jeroen)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>A Taxonomy of Attacks and Defenses in Split Learning</b></td>
+    <td>Aqsa Shabbir et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.05872">2505.05872</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-08</h3>
 
 <table>
@@ -36,6 +65,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-08</b></td>
+    <td><b>X-Transfer Attacks: Towards Super Transferable Adversarial Attacks on CLIP</b></td>
+    <td>Hanxun Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.05528">2505.05528</a></td>
+    <td>**[link](https://github.com/HanxunH/XTransferBench)**</td>
+       </tr>
        <tr>
     <td><b>2025-05-08</b></td>
     <td><b>DispBench: Benchmarking Disparity Estimation to Synthetic Corruptions</b></td>
@@ -2116,6 +2152,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-05-08</b></td>
+    <td><b>KPI Poisoning: An Attack in Open RAN Near Real-Time Control Loop</b></td>
+    <td>Hamed Alimohammadi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.05537">2505.05537</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-08</b></td>
     <td><b>MTL-UE: Learning to Learn Nothing for Multi-Task Learning</b></td>
     <td>Yi Yu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.05279">2505.05279</a></td>
@@ -3921,6 +3964,42 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-05-09</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>Self-Supervised Federated GNSS Spoofing Detection with Opportunistic Data</b></td>
+    <td>Wenjie Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06171">2505.06171</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>Unilogit: Robust Machine Unlearning for LLMs Using Uniform-Target Self-Distillation</b></td>
+    <td>Stefan Vasilev et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06027">2505.06027</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>Efficient Full-Stack Private Federated Deep Learning with Post-Quantum Security</b></td>
+    <td>Yiwei Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.05751">2505.05751</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-08</h3>
 
 <table>
@@ -3934,6 +4013,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-08</b></td>
+    <td><b>Optimal Regret of Bernoulli Bandits under Global Differential Privacy</b></td>
+    <td>Achraf Azize et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.05613">2505.05613</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-08</b></td>
     <td><b>Adaptive Biased User Scheduling for Heterogeneous Wireless Federate Learning Network</b></td>
@@ -4020,6 +4106,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-06</b></td>
+    <td><b>An Overview of the Prospects and Challenges of Using Artificial Intelligence for Energy Management Systems in Microgrids</b></td>
+    <td>Noor ul Misbah Khanum et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.05498">2505.05498</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-06</b></td>
     <td><b>AI-Driven Security in Cloud Computing: Enhancing Threat Detection, Automated Response, and Cyber Resilience</b></td>
@@ -5588,6 +5681,28 @@ layout: default
 
 ## Model Privacy
 
+<h3>2025-05-09</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>From Models to Network Topologies: A Topology Inference Attack in Decentralized Federated Learning</b></td>
+    <td>Chao Feng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2501.03119">2501.03119</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-05</h3>
 
 <table>
@@ -7213,6 +7328,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling</b></td>
+    <td>Vahid Rahimzadeh et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06184">2505.06184</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>A Large Language Model-Enhanced Q-learning for Capacitated Vehicle Routing Problem with Time Windows</b></td>
+    <td>Linjiang Cao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06178">2505.06178</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills</b></td>
+    <td>Niladri Shekhar Dutt et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06176">2505.06176</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>Turbo-ICL: In-Context Learning-Based Turbo Equalization</b></td>
+    <td>Zihang Song et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06175">2505.06175</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>A Scaling Law for Token Efficiency in LLM Fine-Tuning Under Fixed Compute Budgets</b></td>
+    <td>Ryan Lagasse et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06150">2505.06150</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study</b></td>
+    <td>Faeze Ghorbanpour et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06149">2505.06149</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>ELA-ZSON: Efficient Layout-Aware Zero-Shot Object Navigation Agent with Hierarchical Planning</b></td>
+    <td>Jiawei Hou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06131">2505.06131</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>Constraints to Lorentz violation and ultrahigh-energy electrons in D-foamy space-times</b></td>
+    <td>Chengyi Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06121">2505.06121</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>LLMs Get Lost In Multi-Turn Conversation</b></td>
+    <td>Philippe Laban et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06120">2505.06120</a></td>
+    <td>**[link](https://github.com/microsoft/lost_in_conversation)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation</b></td>
+    <td>Dongying Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06117">2505.06117</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>LLMs Outperform Experts on Challenging Biology Benchmarks</b></td>
+    <td>Lennart Justen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06108">2505.06108</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>Free and Fair Hardware: A Pathway to Copyright Infringement-Free Verilog Generation using LLMs</b></td>
+    <td>Sam Bush et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06096">2505.06096</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>Assessing Tenstorrent's RISC-V MatMul Acceleration Capabilities</b></td>
+    <td>Hiari Pizzini Cavagna et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06085">2505.06085</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information</b></td>
+    <td>Joshua Harris et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06046">2505.06046</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>Short-circuiting Shortcuts: Mechanistic Investigation of Shortcuts in Text Classification</b></td>
+    <td>Leon Eshuijs et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06032">2505.06032</a></td>
+    <td>**[link](https://github.com/watermeleon/shortcut_mechanisms)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>Unilogit: Robust Machine Unlearning for LLMs Using Uniform-Target Self-Distillation</b></td>
+    <td>Stefan Vasilev et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06027">2505.06027</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>Exploring the Feasibility of Multilingual Grammatical Error Correction with a Single LLM up to 9B parameters: A Comparative Study of 17 Models</b></td>
+    <td>Dawid Wisniewski et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06004">2505.06004</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>Task-Adapter++: Task-specific Adaptation with Order-aware Alignment for Few-shot Action Recognition</b></td>
+    <td>Congqi Cao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06002">2505.06002</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>Offline Multi-agent Reinforcement Learning via Score Decomposition</b></td>
+    <td>Dan Qiao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.05968">2505.05968</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>GEORCE: A Fast New Control Algorithm for Computing Geodesics</b></td>
+    <td>Frederik Möbius Rygaard et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.05961">2505.05961</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-09</b></td>
     <td><b>EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation</b></td>

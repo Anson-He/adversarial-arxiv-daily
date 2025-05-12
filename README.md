@@ -19,10 +19,19 @@
 
 ## Adversarial attacks
 
+<h3>2025-05-09</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-05-09**|**Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation**|Julian F. Schumann et.al.|[2505.06134](http://arxiv.org/abs/2505.06134)|**[link](https://github.com/jhagenus/general-framework-update-adversarial-jeroen)**|
+|**2025-05-09**|**A Taxonomy of Attacks and Defenses in Split Learning**|Aqsa Shabbir et.al.|[2505.05872](http://arxiv.org/abs/2505.05872)|null|
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+
 <h3>2025-05-08</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**X-Transfer Attacks: Towards Super Transferable Adversarial Attacks on CLIP**|Hanxun Huang et.al.|[2505.05528](http://arxiv.org/abs/2505.05528)|**[link](https://github.com/HanxunH/XTransferBench)**|
 |**2025-05-08**|**DispBench: Benchmarking Disparity Estimation to Synthetic Corruptions**|Shashank Agnihotri et.al.|[2505.05091](http://arxiv.org/abs/2505.05091)|**[link](https://github.com/shashankskagnihotri/benchmarking_robustness)**|
 |**2025-05-08**|**Reliably Bounding False Positives: A Zero-Shot Machine-Generated Text Detection Framework via Multiscaled Conformal Prediction**|Xiaowei Zhu et.al.|[2505.05084](http://arxiv.org/abs/2505.05084)|null|
 |**2025-05-08**|**Uncovering the Limitations of Model Inversion Evaluation -- Benchmarks and Connection to Type-I Adversarial Attacks**|Sy-Tuyen Ho et.al.|[2505.03519](http://arxiv.org/abs/2505.03519)|null|
@@ -523,6 +532,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**KPI Poisoning: An Attack in Open RAN Near Real-Time Control Loop**|Hamed Alimohammadi et.al.|[2505.05537](http://arxiv.org/abs/2505.05537)|null|
 |**2025-05-08**|**MTL-UE: Learning to Learn Nothing for Multi-Task Learning**|Yi Yu et.al.|[2505.05279](http://arxiv.org/abs/2505.05279)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 <p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
@@ -1031,10 +1041,20 @@
 
 ## Data privacy
 
+<h3>2025-05-09</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-05-09**|**Self-Supervised Federated GNSS Spoofing Detection with Opportunistic Data**|Wenjie Liu et.al.|[2505.06171](http://arxiv.org/abs/2505.06171)|null|
+|**2025-05-09**|**Unilogit: Robust Machine Unlearning for LLMs Using Uniform-Target Self-Distillation**|Stefan Vasilev et.al.|[2505.06027](http://arxiv.org/abs/2505.06027)|null|
+|**2025-05-09**|**Efficient Full-Stack Private Federated Deep Learning with Post-Quantum Security**|Yiwei Zhang et.al.|[2505.05751](http://arxiv.org/abs/2505.05751)|null|
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+
 <h3>2025-05-08</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Optimal Regret of Bernoulli Bandits under Global Differential Privacy**|Achraf Azize et.al.|[2505.05613](http://arxiv.org/abs/2505.05613)|null|
 |**2025-05-08**|**Adaptive Biased User Scheduling for Heterogeneous Wireless Federate Learning Network**|Changxiang Wu et.al.|[2505.05231](http://arxiv.org/abs/2505.05231)|null|
 |**2025-05-08**|**FedTDP: A Privacy-Preserving and Unified Framework for Trajectory Data Preparation via Federated Learning**|Zhihao Zeng et.al.|[2505.05155](http://arxiv.org/abs/2505.05155)|null|
 |**2025-05-08**|**CacheFL: Efficient Federated Cache Model Fine-Tuning for Vision-Language Models**|Mengjun Yi et.al.|[2505.05130](http://arxiv.org/abs/2505.05130)|null|
@@ -1055,6 +1075,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**An Overview of the Prospects and Challenges of Using Artificial Intelligence for Energy Management Systems in Microgrids**|Noor ul Misbah Khanum et.al.|[2505.05498](http://arxiv.org/abs/2505.05498)|null|
 |**2025-05-06**|**AI-Driven Security in Cloud Computing: Enhancing Threat Detection, Automated Response, and Cyber Resilience**|Shamnad Mohamed Shaffi et.al.|[2505.03945](http://arxiv.org/abs/2505.03945)|null|
 |**2025-05-06**|**Event-Triggered GAT-LSTM Framework for Attack Detection in Heating, Ventilation, and Air Conditioning Systems**|Zhenan Feng et.al.|[2505.03559](http://arxiv.org/abs/2505.03559)|null|
 |**2025-05-06**|**SKALD: Scalable K-Anonymisation for Large Datasets**|Kailash Reddy et.al.|[2505.03529](http://arxiv.org/abs/2505.03529)|null|
@@ -1452,6 +1473,13 @@
 
 
 ## Model Privacy
+
+<h3>2025-05-09</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-05-09**|**From Models to Network Topologies: A Topology Inference Attack in Decentralized Federated Learning**|Chao Feng et.al.|[2501.03119](http://arxiv.org/abs/2501.03119)|null|
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 <h3>2025-05-05</h3>
 
@@ -1947,6 +1975,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling**|Vahid Rahimzadeh et.al.|[2505.06184](http://arxiv.org/abs/2505.06184)|null|
+|**2025-05-09**|**A Large Language Model-Enhanced Q-learning for Capacitated Vehicle Routing Problem with Time Windows**|Linjiang Cao et.al.|[2505.06178](http://arxiv.org/abs/2505.06178)|null|
+|**2025-05-09**|**MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills**|Niladri Shekhar Dutt et.al.|[2505.06176](http://arxiv.org/abs/2505.06176)|null|
+|**2025-05-09**|**Turbo-ICL: In-Context Learning-Based Turbo Equalization**|Zihang Song et.al.|[2505.06175](http://arxiv.org/abs/2505.06175)|null|
+|**2025-05-09**|**A Scaling Law for Token Efficiency in LLM Fine-Tuning Under Fixed Compute Budgets**|Ryan Lagasse et.al.|[2505.06150](http://arxiv.org/abs/2505.06150)|null|
+|**2025-05-09**|**Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study**|Faeze Ghorbanpour et.al.|[2505.06149](http://arxiv.org/abs/2505.06149)|null|
+|**2025-05-09**|**ELA-ZSON: Efficient Layout-Aware Zero-Shot Object Navigation Agent with Hierarchical Planning**|Jiawei Hou et.al.|[2505.06131](http://arxiv.org/abs/2505.06131)|null|
+|**2025-05-09**|**Constraints to Lorentz violation and ultrahigh-energy electrons in D-foamy space-times**|Chengyi Li et.al.|[2505.06121](http://arxiv.org/abs/2505.06121)|null|
+|**2025-05-09**|**LLMs Get Lost In Multi-Turn Conversation**|Philippe Laban et.al.|[2505.06120](http://arxiv.org/abs/2505.06120)|**[link](https://github.com/microsoft/lost_in_conversation)**|
+|**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117](http://arxiv.org/abs/2505.06117)|null|
+|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108](http://arxiv.org/abs/2505.06108)|null|
+|**2025-05-09**|**Free and Fair Hardware: A Pathway to Copyright Infringement-Free Verilog Generation using LLMs**|Sam Bush et.al.|[2505.06096](http://arxiv.org/abs/2505.06096)|null|
+|**2025-05-09**|**Assessing Tenstorrent's RISC-V MatMul Acceleration Capabilities**|Hiari Pizzini Cavagna et.al.|[2505.06085](http://arxiv.org/abs/2505.06085)|null|
+|**2025-05-09**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
+|**2025-05-09**|**Short-circuiting Shortcuts: Mechanistic Investigation of Shortcuts in Text Classification**|Leon Eshuijs et.al.|[2505.06032](http://arxiv.org/abs/2505.06032)|**[link](https://github.com/watermeleon/shortcut_mechanisms)**|
+|**2025-05-09**|**Unilogit: Robust Machine Unlearning for LLMs Using Uniform-Target Self-Distillation**|Stefan Vasilev et.al.|[2505.06027](http://arxiv.org/abs/2505.06027)|null|
+|**2025-05-09**|**Exploring the Feasibility of Multilingual Grammatical Error Correction with a Single LLM up to 9B parameters: A Comparative Study of 17 Models**|Dawid Wisniewski et.al.|[2505.06004](http://arxiv.org/abs/2505.06004)|null|
+|**2025-05-09**|**Task-Adapter++: Task-specific Adaptation with Order-aware Alignment for Few-shot Action Recognition**|Congqi Cao et.al.|[2505.06002](http://arxiv.org/abs/2505.06002)|null|
+|**2025-05-09**|**Offline Multi-agent Reinforcement Learning via Score Decomposition**|Dan Qiao et.al.|[2505.05968](http://arxiv.org/abs/2505.05968)|null|
+|**2025-05-09**|**GEORCE: A Fast New Control Algorithm for Computing Geodesics**|Frederik Möbius Rygaard et.al.|[2505.05961](http://arxiv.org/abs/2505.05961)|null|
 |**2025-05-09**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
 |**2025-05-09**|**LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|null|
 <p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
