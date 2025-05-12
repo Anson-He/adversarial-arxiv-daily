@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -2079,6 +2079,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-05-09</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>Sparsification Under Siege: Defending Against Poisoning Attacks in Communication-Efficient Federated Learning</b></td>
+    <td>Zhiyong Jin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.01454">2505.01454</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-08</h3>
 
 <table>
@@ -2273,13 +2295,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-04-30</b></td>
-    <td><b>Sparsification Under Siege: Defending Against Poisoning Attacks in Communication-Efficient Federated Learning</b></td>
-    <td>Zhiyong Jin et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.01454">2505.01454</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2025-04-30</b></td>
     <td><b>Cert-SSB: Toward Certified Sample-Specific Backdoor Defense</b></td>
@@ -7185,6 +7200,35 @@ layout: default
 
 ## AIGC
 
+<h3>2025-05-09</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation</b></td>
+    <td>Biao Yi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.05440">2505.05440</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-09</b></td>
+    <td><b>LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering</b></td>
+    <td>Ran Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.05423">2505.05423</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-08</h3>
 
 <table>
@@ -7249,23 +7293,9 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-05-08</b></td>
-    <td><b>EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation</b></td>
-    <td>Biao Yi et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.05440">2505.05440</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-08</b></td>
     <td><b>Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data</b></td>
     <td>Yudong Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.05427">2505.05427</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-08</b></td>
-    <td><b>TransProQA: an LLM-based literary Translation evaluation metric with Professional Question Answering</b></td>
-    <td>Ran Zhang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.05423">2505.05423</a></td>
     <td>null</td>
        </tr>
        <tr>
