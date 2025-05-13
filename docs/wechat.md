@@ -19,8 +19,28 @@
 
 ## Adversarial attacks
 
+<h3>2025-05-12</h3>
+
+- 2025-05-12, **Must Read: A Systematic Survey of Computational Persuasion**, Nimet Beyza Bozdag et.al., Paper: [http://arxiv.org/abs/2505.07775](http://arxiv.org/abs/2505.07775)
+- 2025-05-12, **GRADA: Graph-based Reranker against Adversarial Documents Attack**, Jingjie Zheng et.al., Paper: [http://arxiv.org/abs/2505.07546](http://arxiv.org/abs/2505.07546)
+- 2025-05-12, **No Query, No Access**, Wenqiang Wang et.al., Paper: [http://arxiv.org/abs/2505.07258](http://arxiv.org/abs/2505.07258)
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+
+<h3>2025-05-11</h3>
+
+- 2025-05-11, **IM-BERT: Enhancing Robustness of BERT through the Implicit Euler Method**, Mihyeon Kim et.al., Paper: [http://arxiv.org/abs/2505.06889](http://arxiv.org/abs/2505.06889)
+- 2025-05-11, **DP-TRAE: A Dual-Phase Merging Transferable Reversible Adversarial Example for Image Privacy Protection**, Xia Du et.al., Paper: [http://arxiv.org/abs/2505.06860](http://arxiv.org/abs/2505.06860)
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+
+<h3>2025-05-10</h3>
+
+- 2025-05-10, **Boundary-Guided Trajectory Prediction for Road Aware and Physically Feasible Autonomous Driving**, Ahmed Abouelazm et.al., Paper: [http://arxiv.org/abs/2505.06740](http://arxiv.org/abs/2505.06740)
+- 2025-05-10, **TAROT: Towards Essentially Domain-Invariant Robustness with Theoretical Justification**, Dongyoon Yang et.al., Paper: [http://arxiv.org/abs/2505.06580](http://arxiv.org/abs/2505.06580)
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+
 <h3>2025-05-09</h3>
 
+- 2025-05-09, **Remote Rowhammer Attack using Adversarial Observations on Federated Learning Clients**, Jinsheng Yuan et.al., Paper: [http://arxiv.org/abs/2505.06335](http://arxiv.org/abs/2505.06335)
 - 2025-05-09, **Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation**, Julian F. Schumann et.al., Paper: [http://arxiv.org/abs/2505.06134](http://arxiv.org/abs/2505.06134), Code: **[https://github.com/jhagenus/general-framework-update-adversarial-jeroen](https://github.com/jhagenus/general-framework-update-adversarial-jeroen)**
 - 2025-05-09, **A Taxonomy of Attacks and Defenses in Split Learning**, Aqsa Shabbir et.al., Paper: [http://arxiv.org/abs/2505.05872](http://arxiv.org/abs/2505.05872)
 <p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
@@ -35,6 +55,7 @@
 
 <h3>2025-05-07</h3>
 
+- 2025-05-07, **Input-Specific and Universal Adversarial Attack Generation for Spiking Neural Networks in the Spiking Domain**, Spyridon Raptis et.al., Paper: [http://arxiv.org/abs/2505.06299](http://arxiv.org/abs/2505.06299)
 - 2025-05-07, **Red Teaming the Mind of the Machine: A Systematic Evaluation of Prompt Injection and Jailbreak Vulnerabilities in LLMs**, Chetan Pathade et.al., Paper: [http://arxiv.org/abs/2505.04806](http://arxiv.org/abs/2505.04806)
 - 2025-05-07, **Crafting Physical Adversarial Examples by Combining Differentiable and Physically Based Renders**, Yuqiu Liu et.al., Paper: [http://arxiv.org/abs/2505.04662](http://arxiv.org/abs/2505.04662)
 - 2025-05-07, **Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks**, Xuyang Wang et.al., Paper: [http://arxiv.org/abs/2505.04046](http://arxiv.org/abs/2505.04046)
@@ -417,8 +438,14 @@
 
 ## Poisoning attacks
 
+<h3>2025-05-10</h3>
+
+- 2025-05-10, **POISONCRAFT: Practical Poisoning of Retrieval-Augmented Generation for Large Language Models**, Yangguang Shao et.al., Paper: [http://arxiv.org/abs/2505.06579](http://arxiv.org/abs/2505.06579)
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+
 <h3>2025-05-09</h3>
 
+- 2025-05-09, **Natural Reflection Backdoor Attack on Vision Language Model for Autonomous Driving**, Ming Liu et.al., Paper: [http://arxiv.org/abs/2505.06413](http://arxiv.org/abs/2505.06413)
 - 2025-05-09, **Sparsification Under Siege: Defending Against Poisoning Attacks in Communication-Efficient Federated Learning**, Zhiyong Jin et.al., Paper: [http://arxiv.org/abs/2505.01454](http://arxiv.org/abs/2505.01454)
 <p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
@@ -678,6 +705,16 @@
 
 ## Generative models safety
 
+<h3>2025-05-12</h3>
+
+- 2025-05-12, **Concept-Level Explainability for Auditing & Steering LLM Responses**, Kenza Amara et.al., Paper: [http://arxiv.org/abs/2505.07610](http://arxiv.org/abs/2505.07610)
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+
+<h3>2025-05-11</h3>
+
+- 2025-05-11, **Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety**, Zihan Guan et.al., Paper: [http://arxiv.org/abs/2505.06843](http://arxiv.org/abs/2505.06843)
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+
 <h3>2025-05-03</h3>
 
 - 2025-05-03, **Cannot See the Forest for the Trees: Invoking Heuristics and Biases to Elicit Irrational Choices of LLMs**, Haoming Yang et.al., Paper: [http://arxiv.org/abs/2505.02862](http://arxiv.org/abs/2505.02862)
@@ -807,8 +844,26 @@
 
 ## Data privacy
 
+<h3>2025-05-12</h3>
+
+- 2025-05-12, **Privacy-Preserving Real-Time Vietnamese-English Translation on iOS using Edge AI**, Cong Le et.al., Paper: [http://arxiv.org/abs/2505.07583](http://arxiv.org/abs/2505.07583)
+- 2025-05-12, **FedIFL: A federated cross-domain diagnostic framework for motor-driven systems with inconsistent fault modes**, Zexiao Wang et.al., Paper: [http://arxiv.org/abs/2505.07315](http://arxiv.org/abs/2505.07315)
+- 2025-05-12, **Empowering the Grid: Collaborative Edge Artificial Intelligence for Decentralized Energy Systems**, Eddie de Paula Jr et.al., Paper: [http://arxiv.org/abs/2505.07170](http://arxiv.org/abs/2505.07170)
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+
+<h3>2025-05-11</h3>
+
+- 2025-05-11, **Source Anonymity for Private Random Walk Decentralized Learning**, Maximilian Egger et.al., Paper: [http://arxiv.org/abs/2505.07011](http://arxiv.org/abs/2505.07011)
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+
+<h3>2025-05-10</h3>
+
+- 2025-05-10, **A Contrastive Federated Semi-Supervised Learning Intrusion Detection Framework for Internet of Robotic Things**, Yifan Zeng et.al., Paper: [http://arxiv.org/abs/2505.06636](http://arxiv.org/abs/2505.06636)
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+
 <h3>2025-05-09</h3>
 
+- 2025-05-09, **Remote Rowhammer Attack using Adversarial Observations on Federated Learning Clients**, Jinsheng Yuan et.al., Paper: [http://arxiv.org/abs/2505.06335](http://arxiv.org/abs/2505.06335)
 - 2025-05-09, **Self-Supervised Federated GNSS Spoofing Detection with Opportunistic Data**, Wenjie Liu et.al., Paper: [http://arxiv.org/abs/2505.06171](http://arxiv.org/abs/2505.06171)
 - 2025-05-09, **Unilogit: Robust Machine Unlearning for LLMs Using Uniform-Target Self-Distillation**, Stefan Vasilev et.al., Paper: [http://arxiv.org/abs/2505.06027](http://arxiv.org/abs/2505.06027)
 - 2025-05-09, **Efficient Full-Stack Private Federated Deep Learning with Post-Quantum Security**, Yiwei Zhang et.al., Paper: [http://arxiv.org/abs/2505.05751](http://arxiv.org/abs/2505.05751)
@@ -1272,6 +1327,17 @@
 
 ## Forensics
 
+<h3>2025-05-11</h3>
+
+- 2025-05-11, **Multimodal Fake News Detection: MFND Dataset and Shallow-Deep Multitask Learning**, Ye Zhu et.al., Paper: [http://arxiv.org/abs/2505.06796](http://arxiv.org/abs/2505.06796), Code: **[https://github.com/yunan-wang33/sdml](https://github.com/yunan-wang33/sdml)**
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+
+<h3>2025-05-10</h3>
+
+- 2025-05-10, **Beyond Identity: A Generalizable Approach for Deepfake Audio Detection**, Yasaman Ahmadiadli et.al., Paper: [http://arxiv.org/abs/2505.06766](http://arxiv.org/abs/2505.06766)
+- 2025-05-10, **Unmasking Deep Fakes: Leveraging Deep Learning for Video Authenticity Detection**, Mahmudul Hasan et.al., Paper: [http://arxiv.org/abs/2505.06528](http://arxiv.org/abs/2505.06528)
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+
 <h3>2025-05-08</h3>
 
 - 2025-05-08, **Cross-Branch Orthogonality for Improved Generalization in Face Deepfake Detection**, Tharindu Fernando et.al., Paper: [http://arxiv.org/abs/2505.04888](http://arxiv.org/abs/2505.04888)
@@ -1506,6 +1572,30 @@
 
 
 ## AIGC
+
+<h3>2025-05-12</h3>
+
+- 2025-05-12, **H $^{\mathbf{3}}$ DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning**, Yiyang Lu et.al., Paper: [http://arxiv.org/abs/2505.07819](http://arxiv.org/abs/2505.07819)
+- 2025-05-12, **DanceGRPO: Unleashing GRPO on Visual Generation**, Zeyue Xue et.al., Paper: [http://arxiv.org/abs/2505.07818](http://arxiv.org/abs/2505.07818)
+- 2025-05-12, **Continuous Visual Autoregressive Generation via Score Maximization**, Chenze Shao et.al., Paper: [http://arxiv.org/abs/2505.07812](http://arxiv.org/abs/2505.07812), Code: **[https://github.com/shaochenze/ear](https://github.com/shaochenze/ear)**
+- 2025-05-12, **Improving Trajectory Stitching with Flow Models**, Reece O'Mahoney et.al., Paper: [http://arxiv.org/abs/2505.07802](http://arxiv.org/abs/2505.07802)
+- 2025-05-12, **Overflow Prevention Enhances Long-Context Recurrent LLMs**, Assaf Ben-Kish et.al., Paper: [http://arxiv.org/abs/2505.07793](http://arxiv.org/abs/2505.07793)
+- 2025-05-12, **Domain Regeneration: How well do LLMs match syntactic properties of text domains?**, Da Ju et.al., Paper: [http://arxiv.org/abs/2505.07784](http://arxiv.org/abs/2505.07784)
+- 2025-05-12, **Relative Overfitting and Accept-Reject Framework**, Yanxin Liu et.al., Paper: [http://arxiv.org/abs/2505.07783](http://arxiv.org/abs/2505.07783)
+- 2025-05-12, **MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering**, Rushi Qiang et.al., Paper: [http://arxiv.org/abs/2505.07782](http://arxiv.org/abs/2505.07782)
+- 2025-05-12, **Synthesizing Diverse Network Flow Datasets with Scalable Dynamic Multigraph Generation**, Arya Grayeli et.al., Paper: [http://arxiv.org/abs/2505.07777](http://arxiv.org/abs/2505.07777)
+- 2025-05-12, **Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving**, Xinji Mai et.al., Paper: [http://arxiv.org/abs/2505.07773](http://arxiv.org/abs/2505.07773), Code: **[https://github.com/anonymize-author/agentrl](https://github.com/anonymize-author/agentrl)**
+- 2025-05-12, **Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding**, Yifeng Di et.al., Paper: [http://arxiv.org/abs/2505.07768](http://arxiv.org/abs/2505.07768)
+- 2025-05-12, **LAMM-ViT: AI Face Detection via Layer-Aware Modulation of Region-Guided Attention**, Jiangling Zhang et.al., Paper: [http://arxiv.org/abs/2505.07734](http://arxiv.org/abs/2505.07734)
+- 2025-05-12, **Spoken Language Understanding on Unseen Tasks With In-Context Learning**, Neeraj Agrawal et.al., Paper: [http://arxiv.org/abs/2505.07731](http://arxiv.org/abs/2505.07731)
+- 2025-05-12, **Circuit Partitioning Using Large Language Models for Quantum Compilation and Simulations**, Pranav Sinha et.al., Paper: [http://arxiv.org/abs/2505.07711](http://arxiv.org/abs/2505.07711)
+- 2025-05-12, **Codifying Character Logic in Role-Playing**, Letian Peng et.al., Paper: [http://arxiv.org/abs/2505.07705](http://arxiv.org/abs/2505.07705)
+- 2025-05-12, **PatchTrack: A Comprehensive Analysis of ChatGPT's Influence on Pull Request Outcomes**, Daniel Ogenrwot et.al., Paper: [http://arxiv.org/abs/2505.07700](http://arxiv.org/abs/2505.07700)
+- 2025-05-12, **SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models**, Hang Wu et.al., Paper: [http://arxiv.org/abs/2505.07680](http://arxiv.org/abs/2505.07680)
+- 2025-05-12, **OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit**, Arun S. Maiya et.al., Paper: [http://arxiv.org/abs/2505.07672](http://arxiv.org/abs/2505.07672)
+- 2025-05-12, **Benchmarking Retrieval-Augmented Generation for Chemistry**, Xianrui Zhong et.al., Paper: [http://arxiv.org/abs/2505.07671](http://arxiv.org/abs/2505.07671)
+- 2025-05-12, **A Case Study Investigating the Role of Generative AI in Quality Evaluations of Epics in Agile Software Development**, Werner Geyer et.al., Paper: [http://arxiv.org/abs/2505.07664](http://arxiv.org/abs/2505.07664)
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 <h3>2025-05-09</h3>
 
