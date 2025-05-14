@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-05-13</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>Red Teaming the Mind of the Machine: A Systematic Evaluation of Prompt Injection and Jailbreak Vulnerabilities in LLMs</b></td>
+    <td>Chetan Pathade et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.04806">2505.04806</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-12</h3>
 
 <table>
@@ -113,7 +135,7 @@ layout: default
     <td><b>TAROT: Towards Essentially Domain-Invariant Robustness with Theoretical Justification</b></td>
     <td>Dongyoon Yang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.06580">2505.06580</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/dyoony/TAROT)**</td>
        </tr>
    </tbody>
 </table>
@@ -218,13 +240,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-05-07</b></td>
-    <td><b>Red Teaming the Mind of the Machine: A Systematic Evaluation of Prompt Injection and Jailbreak Vulnerabilities in LLMs</b></td>
-    <td>Chetan Pathade et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.04806">2505.04806</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-07</b></td>
     <td><b>Crafting Physical Adversarial Examples by Combining Differentiable and Physically Based Renders</b></td>
     <td>Yuqiu Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.04662">2505.04662</a></td>
@@ -235,7 +250,7 @@ layout: default
     <td><b>Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks</b></td>
     <td>Xuyang Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.04046">2505.04046</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Willy1005/2025-IJCAI-RDML)**</td>
        </tr>
    </tbody>
 </table>
@@ -2414,7 +2429,7 @@ layout: default
     <td><b>Backdoor Attacks Against Patch-based Mixture of Experts</b></td>
     <td>Cedric Chan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.01811">2505.01811</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/geefmegeld/pmoe-backdoor)**</td>
        </tr>
    </tbody>
 </table>
@@ -2458,7 +2473,7 @@ layout: default
     <td><b>Protocol-agnostic and Data-free Backdoor Attacks on Pre-trained Models in RF Fingerprinting</b></td>
     <td>Tianya Zhao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.00881">2505.00881</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Tianyaz97/rf_backdoor)**</td>
        </tr>
    </tbody>
 </table>
@@ -3533,7 +3548,7 @@ layout: default
     <td><b>Concept-Level Explainability for Auditing & Steering LLM Responses</b></td>
     <td>Kenza Amara et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.07610">2505.07610</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/k-amara/ConceptX)**</td>
        </tr>
    </tbody>
 </table>
@@ -6636,7 +6651,7 @@ layout: default
     <td><b>Deepfakes on Demand: the rise of accessible non-consensual deepfake image generators</b></td>
     <td>Will Hawkins et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.03859">2505.03859</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/WillHawkins3/deepfakesondemand)**</td>
        </tr>
    </tbody>
 </table>
@@ -7634,6 +7649,35 @@ layout: default
 
 ## AIGC
 
+<h3>2025-05-13</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>Codifying Character Logic in Role-Playing</b></td>
+    <td>Letian Peng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.07705">2505.07705</a></td>
+    <td>**[link](https://github.com/KomeijiForce/Codified_Profile_Koishiday_2025)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit</b></td>
+    <td>Arun S. Maiya et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.07672">2505.07672</a></td>
+    <td>**[link](https://github.com/amaiya/onprem)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-12</h3>
 
 <table>
@@ -7747,13 +7791,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-05-12</b></td>
-    <td><b>Codifying Character Logic in Role-Playing</b></td>
-    <td>Letian Peng et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.07705">2505.07705</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-12</b></td>
     <td><b>PatchTrack: A Comprehensive Analysis of ChatGPT's Influence on Pull Request Outcomes</b></td>
     <td>Daniel Ogenrwot et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.07700">2505.07700</a></td>
@@ -7764,13 +7801,6 @@ layout: default
     <td><b>SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models</b></td>
     <td>Hang Wu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.07680">2505.07680</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-12</b></td>
-    <td><b>OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit</b></td>
-    <td>Arun S. Maiya et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.07672">2505.07672</a></td>
     <td>null</td>
        </tr>
        <tr>
