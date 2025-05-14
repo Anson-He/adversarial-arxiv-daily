@@ -38,6 +38,20 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-05-13</b></td>
+    <td><b>SHAP-based Explanations are Sensitive to Feature Representation</b></td>
+    <td>Hyunseung Hwang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08345">2505.08345</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>AI and Generative AI Transforming Disaster Management: A Survey of Damage Assessment and Response Techniques</b></td>
+    <td>Aman Raj et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08202">2505.08202</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
     <td><b>Red Teaming the Mind of the Machine: A Systematic Evaluation of Prompt Injection and Jailbreak Vulnerabilities in LLMs</b></td>
     <td>Chetan Pathade et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.04806">2505.04806</a></td>
@@ -58,6 +72,20 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-12</b></td>
+    <td><b>Sharp Gaussian approximations for Decentralized Federated Learning</b></td>
+    <td>Soham Bonnerjee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08125">2505.08125</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-12</b></td>
+    <td><b>Dynamical Low-Rank Compression of Neural Networks with Robustness under Adversarial Attacks</b></td>
+    <td>Steffen Schotthöfer et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08022">2505.08022</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-12</b></td>
     <td><b>Must Read: A Systematic Survey of Computational Persuasion</b></td>
@@ -188,6 +216,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-08</b></td>
+    <td><b>Unpacking Robustness in Inflectional Languages: Adversarial Evaluation and Mechanistic Insights</b></td>
+    <td>Paweł Walkowiak et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.07856">2505.07856</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-08</b></td>
     <td><b>X-Transfer Attacks: Towards Super Transferable Adversarial Attacks on CLIP</b></td>
@@ -2238,6 +2273,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-05-13</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>MUBox: A Critical Evaluation Framework of Deep Machine Unlearning</b></td>
+    <td>Xiang Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08576">2505.08576</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-10</h3>
 
 <table>
@@ -4160,6 +4217,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-05-13</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>AI and Generative AI Transforming Disaster Management: A Survey of Damage Assessment and Response Techniques</b></td>
+    <td>Aman Raj et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08202">2505.08202</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-12</h3>
 
 <table>
@@ -4173,6 +4252,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-12</b></td>
+    <td><b>A Federated Random Forest Solution for Secure Distributed Machine Learning</b></td>
+    <td>Alexandre Cotorobai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08085">2505.08085</a></td>
+    <td>**[link](https://github.com/ieeta-pt/fed_rf)**</td>
+       </tr>
        <tr>
     <td><b>2025-05-12</b></td>
     <td><b>Privacy-Preserving Real-Time Vietnamese-English Translation on iOS using Edge AI</b></td>
@@ -6517,6 +6603,63 @@ layout: default
 
 ## Forensics
 
+<h3>2025-05-13</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks</b></td>
+    <td>Ziyuan He et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08614">2505.08614</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>DFA-CON: A Contrastive Learning Approach for Detecting Copyright Infringement in DeepFake Art</b></td>
+    <td>Haroon Wahab et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08552">2505.08552</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>TT-DF: A Large-Scale Diffusion-Based Dataset and Benchmark for Human Body Forgery Detection</b></td>
+    <td>Wenkui Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08437">2505.08437</a></td>
+    <td>**[link](https://github.com/hashtag00002/tt-df)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>FauForensics: Boosting Audio-Visual Deepfake Detection with Facial Action Units</b></td>
+    <td>Jian Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08294">2505.08294</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>Where the Devil Hides: Deepfake Detectors Can No Longer Be Trusted</b></td>
+    <td>Shuaiwei Yuan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08255">2505.08255</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>Visual Watermarking in the Era of Diffusion Models: Advances and Challenges</b></td>
+    <td>Junxian Duan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08197">2505.08197</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-11</h3>
 
 <table>
@@ -7662,6 +7805,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework</b></td>
+    <td>Abhineet Agarwal et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08784">2505.08784</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>CodePDE: An Inference Framework for LLM-driven PDE Solver Generation</b></td>
+    <td>Shanda Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08783">2505.08783</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>Generative Molecular Design with Steerable and Granular Synthesizability Control</b></td>
+    <td>Jeff Guo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08774">2505.08774</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models</b></td>
+    <td>Suhan Guo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08768">2505.08768</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>AC-Reason: Towards Theory-Guided Actual Causality Reasoning with Large Language Models</b></td>
+    <td>Yanxi Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08750">2505.08750</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>DeepMath-Creative: A Benchmark for Evaluating Mathematical Creativity of Large Language Models</b></td>
+    <td>Xiaoyang Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08744">2505.08744</a></td>
+    <td>**[link](https://github.com/deepmathllm/deepmath)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>Probability Consistency in Large Language Models: Theoretical Foundations Meet Empirical Discrepancies</b></td>
+    <td>Xiaoliang Luo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08739">2505.08739</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>NurValues: Real-World Nursing Values Evaluation for Large Language Models in Clinical Context</b></td>
+    <td>Ben Yao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08734">2505.08734</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>Securing RAG: A Risk Assessment and Mitigation Framework</b></td>
+    <td>Lukas Ammann et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08728">2505.08728</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>Memorization-Compression Cycles Improve Generalization</b></td>
+    <td>Fangyuan Yu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08727">2505.08727</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts</b></td>
+    <td>Yang Su et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08719">2505.08719</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs</b></td>
+    <td>K M Sajjadul Islam et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08704">2505.08704</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>Granite-speech: open-source speech-aware LLMs with strong English ASR capabilities</b></td>
+    <td>George Saon et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08699">2505.08699</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>A Survey of Deep Learning for Complex Speech Spectrograms</b></td>
+    <td>Yuying Xie et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08694">2505.08694</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>Adaptive Schema-aware Event Extraction with Retrieval-Augmented Generation</b></td>
+    <td>Sheng Liang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08690">2505.08690</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>Revealing economic facts: LLMs know more than they say</b></td>
+    <td>Marcus Buckmann et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08662">2505.08662</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>Enhancing Software Development with Context-Aware Conversational Agents: A User Study on Developer Interactions with Chatbots</b></td>
+    <td>Glaucia Melo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08648">2505.08648</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>WixQA: A Multi-Dataset Benchmark for Enterprise Retrieval-Augmented Generation</b></td>
+    <td>Dvir Cohen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08643">2505.08643</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>TRAIL: Trace Reasoning and Agentic Issue Localization</b></td>
+    <td>Darshan Deshpande et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08638">2505.08638</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>Visually Guided Decoding: Gradient-Free Hard Prompt Inversion with Language Models</b></td>
+    <td>Donghoon Kim et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08622">2505.08622</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-13</b></td>
     <td><b>Codifying Character Logic in Role-Playing</b></td>
