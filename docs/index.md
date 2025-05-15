@@ -38,6 +38,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-05-14</b></td>
+    <td><b>Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems</b></td>
+    <td>Mostafa Jafari et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09342">2505.09342</a></td>
+    <td>**[link](https://github.com/mostafa-ja/sigma-binary)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
     <td><b>Reliably Bounding False Positives: A Zero-Shot Machine-Generated Text Detection Framework via Multiscaled Conformal Prediction</b></td>
     <td>Xiaowei Zhu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.05084">2505.05084</a></td>
@@ -58,6 +65,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-13</b></td>
+    <td><b>Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking</b></td>
+    <td>Wei-Long Tian et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08999">2505.08999</a></td>
+    <td>**[link](https://github.com/pgao-lab/amga)**</td>
+       </tr>
        <tr>
     <td><b>2025-05-13</b></td>
     <td><b>SHAP-based Explanations are Sensitive to Feature Representation</b></td>
@@ -2288,6 +2302,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-05-14</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>Toward Malicious Clients Detection in Federated Learning</b></td>
+    <td>Zhihao Dou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09110">2505.09110</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-13</h3>
 
 <table>
@@ -2307,6 +2343,28 @@ layout: default
     <td>Xiang Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.08576">2505.08576</a></td>
     <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-05-12</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-12</b></td>
+    <td><b>MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges</b></td>
+    <td>Shixi Qin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08809">2505.08809</a></td>
+    <td>**[link](https://github.com/qsx830/mixbridge)**</td>
        </tr>
    </tbody>
 </table>
@@ -4232,6 +4290,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-05-14</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>FedSaaS: Class-Consistency Federated Semantic Segmentation via Global Prototype Supervision and Local Adversarial Harmonization</b></td>
+    <td>Xiaoyang Yu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09385">2505.09385</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-13</h3>
 
 <table>
@@ -7835,6 +7915,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors</b></td>
+    <td>Nicolas Dupuis et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09610">2505.09610</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>Adversarial Suffix Filtering: a Defense Pipeline for LLMs</b></td>
+    <td>David Khachaturov et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09602">2505.09602</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference</b></td>
+    <td>Nidhal Jegham et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09598">2505.09598</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>WorldView-Bench: A Benchmark for Evaluating Global Cultural Perspectives in Large Language Models</b></td>
+    <td>Abdullah Mushtaq et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09595">2505.09595</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>Beyond Likes: How Normative Feedback Complements Engagement Signals on Social Media</b></td>
+    <td>Yuchen Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09583">2505.09583</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>Ethics and Persuasion in Reinforcement Learning from Human Feedback: A Procedural Rhetorical Approach</b></td>
+    <td>Shannon Lodoen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09576">2505.09576</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>MIGRATION-BENCH: Repository-Level Code Migration Benchmark from Java 8</b></td>
+    <td>Linbo Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09569">2505.09569</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>Layered Unlearning for Adversarial Relearning</b></td>
+    <td>Timothy Qian et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09500">2505.09500</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>Card Sorting Simulator: Augmenting Design of Logical Information Architectures with Large Language Models</b></td>
+    <td>Eduard Kuric et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09478">2505.09478</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>Deploying Foundation Model-Enabled Air and Ground Robots in the Field: Challenges and Opportunities</b></td>
+    <td>Zachary Ravichandran et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09477">2505.09477</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM?</b></td>
+    <td>Andrew Rouditchenko et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09439">2505.09439</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>Evaluating GPT- and Reasoning-based Large Language Models on Physics Olympiad Problems: Surpassing Human Performance and Implications for Educational Assessment</b></td>
+    <td>Paul Tschisgale et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09438">2505.09438</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>CXMArena: Unified Dataset to benchmark performance in realistic CXM Scenarios</b></td>
+    <td>Raghav Garg et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09436">2505.09436</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation</b></td>
+    <td>Achref Doula et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09427">2505.09427</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>The Influence of Human-inspired Agentic Sophistication in LLM-driven Strategic Reasoners</b></td>
+    <td>Vince Trencsenyi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09396">2505.09396</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting</b></td>
+    <td>Chen-Yu Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09395">2505.09395</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>Qwen3 Technical Report</b></td>
+    <td>An Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09388">2505.09388</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>Efficient Modelling of Lyman-α opacity fluctuations during late EoR</b></td>
+    <td>Barun Maity et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09369">2505.09369</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis</b></td>
+    <td>Bingxin Ke et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09358">2505.09358</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures</b></td>
+    <td>Chenggang Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09343">2505.09343</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-14</b></td>
     <td><b>Granite-speech: open-source speech-aware LLMs with strong English ASR capabilities</b></td>
