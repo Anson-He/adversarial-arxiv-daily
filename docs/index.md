@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-05-14</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>Reliably Bounding False Positives: A Zero-Shot Machine-Generated Text Detection Framework via Multiscaled Conformal Prediction</b></td>
+    <td>Xiaowei Zhu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.05084">2505.05084</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-13</h3>
 
 <table>
@@ -236,13 +258,6 @@ layout: default
     <td>Shashank Agnihotri et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.05091">2505.05091</a></td>
     <td>**[link](https://github.com/shashankskagnihotri/benchmarking_robustness)**</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-08</b></td>
-    <td><b>Reliably Bounding False Positives: A Zero-Shot Machine-Generated Text Detection Framework via Multiscaled Conformal Prediction</b></td>
-    <td>Xiaowei Zhu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.05084">2505.05084</a></td>
-    <td>null</td>
        </tr>
        <tr>
     <td><b>2025-05-08</b></td>
@@ -6603,7 +6618,7 @@ layout: default
 
 ## Forensics
 
-<h3>2025-05-13</h3>
+<h3>2025-05-14</h3>
 
 <table>
    <thead>
@@ -6617,12 +6632,27 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-05-13</b></td>
+    <td><b>2025-05-14</b></td>
     <td><b>WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks</b></td>
     <td>Ziyuan He et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.08614">2505.08614</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/vpsg-research/waveguard)**</td>
        </tr>
+   </tbody>
+</table>
+<h3>2025-05-13</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
        <tr>
     <td><b>2025-05-13</b></td>
     <td><b>DFA-CON: A Contrastive Learning Approach for Detecting Copyright Infringement in DeepFake Art</b></td>
@@ -7792,6 +7822,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-05-14</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-14</b></td>
+    <td><b>Granite-speech: open-source speech-aware LLMs with strong English ASR capabilities</b></td>
+    <td>George Saon et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08699">2505.08699</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-13</h3>
 
 <table>
@@ -7887,13 +7939,6 @@ layout: default
     <td><b>LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs</b></td>
     <td>K M Sajjadul Islam et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.08704">2505.08704</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-13</b></td>
-    <td><b>Granite-speech: open-source speech-aware LLMs with strong English ASR capabilities</b></td>
-    <td>George Saon et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.08699">2505.08699</a></td>
     <td>null</td>
        </tr>
        <tr>
