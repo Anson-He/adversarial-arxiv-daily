@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -77,7 +77,7 @@ layout: default
     <td><b>SHAP-based Explanations are Sensitive to Feature Representation</b></td>
     <td>Hyunseung Hwang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.08345">2505.08345</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/aguno/shap-attack)**</td>
        </tr>
        <tr>
     <td><b>2025-05-13</b></td>
@@ -127,14 +127,14 @@ layout: default
     <td><b>Must Read: A Systematic Survey of Computational Persuasion</b></td>
     <td>Nimet Beyza Bozdag et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.07775">2505.07775</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/beyzabozdag/PersuasionSurvey)**</td>
        </tr>
        <tr>
     <td><b>2025-05-12</b></td>
     <td><b>GRADA: Graph-based Reranker against Adversarial Documents Attack</b></td>
     <td>Jingjie Zheng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.07546">2505.07546</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/agrzheng/GRADA)**</td>
        </tr>
        <tr>
     <td><b>2025-05-12</b></td>
@@ -199,7 +199,7 @@ layout: default
     <td><b>TAROT: Towards Essentially Domain-Invariant Robustness with Theoretical Justification</b></td>
     <td>Dongyoon Yang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.06580">2505.06580</a></td>
-    <td>**[link](https://github.com/dyoony/TAROT)**</td>
+    <td>null</td>
        </tr>
    </tbody>
 </table>
@@ -2386,7 +2386,7 @@ layout: default
     <td><b>POISONCRAFT: Practical Poisoning of Retrieval-Augmented Generation for Large Language Models</b></td>
     <td>Yangguang Shao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.06579">2505.06579</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/andyshaw01/poisoncraft)**</td>
        </tr>
    </tbody>
 </table>
@@ -7902,6 +7902,35 @@ layout: default
 
 ## AIGC
 
+<h3>2025-05-15</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-15</b></td>
+    <td><b>Beyond Likes: How Normative Feedback Complements Engagement Signals on Social Media</b></td>
+    <td>Yuchen Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09583">2505.09583</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-15</b></td>
+    <td><b>SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation</b></td>
+    <td>Achref Doula et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.09427">2505.09427</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-14</h3>
 
 <table>
@@ -7945,13 +7974,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-05-14</b></td>
-    <td><b>Beyond Likes: How Normative Feedback Complements Engagement Signals on Social Media</b></td>
-    <td>Yuchen Wu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.09583">2505.09583</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-14</b></td>
     <td><b>Ethics and Persuasion in Reinforcement Learning from Human Feedback: A Procedural Rhetorical Approach</b></td>
     <td>Shannon Lodoen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.09576">2505.09576</a></td>
@@ -7969,7 +7991,7 @@ layout: default
     <td><b>Layered Unlearning for Adversarial Relearning</b></td>
     <td>Timothy Qian et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.09500">2505.09500</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/12tqian/layered-unlearning)**</td>
        </tr>
        <tr>
     <td><b>2025-05-14</b></td>
@@ -8004,14 +8026,7 @@ layout: default
     <td><b>CXMArena: Unified Dataset to benchmark performance in realistic CXM Scenarios</b></td>
     <td>Raghav Garg et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.09436">2505.09436</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-14</b></td>
-    <td><b>SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation</b></td>
-    <td>Achref Doula et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.09427">2505.09427</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/kapilsprinklr/cxmarena)**</td>
        </tr>
        <tr>
     <td><b>2025-05-14</b></td>
