@@ -8122,7 +8122,7 @@ layout: default
     <td><b>CheXGenBench: A Unified Benchmark For Fidelity, Privacy and Utility of Synthetic Chest Radiographs</b></td>
     <td>Raman Dutt et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.10496">2505.10496</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/Raman1121/CheXGenBench)**</td>
        </tr>
        <tr>
     <td><b>2025-05-15</b></td>
