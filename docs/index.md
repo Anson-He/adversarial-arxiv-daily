@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -7114,7 +7114,7 @@ layout: default
     <td><b>Detecting Musical Deepfakes</b></td>
     <td>Nick Sunday et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.09633">2505.09633</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/nicksunday/deepfake-music-detector)**</td>
        </tr>
    </tbody>
 </table>
