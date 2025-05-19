@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -2336,6 +2336,13 @@ layout: default
     <td><a href="#http://arxiv.org/abs/2505.09983">2505.09983</a></td>
     <td>null</td>
        </tr>
+       <tr>
+    <td><b>2025-05-15</b></td>
+    <td><b>Model-Targeted Data Poisoning Attacks against ITS Applications with Provable Convergence</b></td>
+    <td>Xin Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.03966">2505.03966</a></td>
+    <td>null</td>
+       </tr>
    </tbody>
 </table>
 <h3>2025-05-14</h3>
@@ -2504,13 +2511,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-05-06</b></td>
-    <td><b>Model-Targeted Data Poisoning Attacks against ITS Applications with Provable Convergence</b></td>
-    <td>Xin Wanga et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.03966">2505.03966</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2025-05-06</b></td>
     <td><b>BadLingual: A Novel Lingual-Backdoor Attack against Large Language Models</b></td>
@@ -3696,7 +3696,7 @@ layout: default
 
 ## Generative models safety
 
-<h3>2025-05-15</h3>
+<h3>2025-05-16</h3>
 
 <table>
    <thead>
@@ -3710,7 +3710,7 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-05-15</b></td>
+    <td><b>2025-05-16</b></td>
     <td><b>PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization</b></td>
     <td>Yidan Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.09921">2505.09921</a></td>
@@ -6835,6 +6835,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-05-16</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-16</b></td>
+    <td><b>Visual Watermarking in the Era of Diffusion Models: Advances and Challenges</b></td>
+    <td>Junxian Duan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.08197">2505.08197</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-15</h3>
 
 <table>
@@ -6918,13 +6940,6 @@ layout: default
     <td><b>Where the Devil Hides: Deepfake Detectors Can No Longer Be Trusted</b></td>
     <td>Shuaiwei Yuan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.08255">2505.08255</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-13</b></td>
-    <td><b>Visual Watermarking in the Era of Diffusion Models: Advances and Challenges</b></td>
-    <td>Junxian Duan et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.08197">2505.08197</a></td>
     <td>null</td>
        </tr>
    </tbody>
