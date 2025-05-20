@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -41,7 +41,7 @@ layout: default
     <td><b>GenoArmory: A Unified Evaluation Framework for Adversarial Attacks on Genomic Foundation Models</b></td>
     <td>Haozheng Luo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.10983">2505.10983</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/MAGICS-LAB/GenoArmory)**</td>
        </tr>
    </tbody>
 </table>
@@ -2351,6 +2351,13 @@ layout: default
     <td><a href="#http://arxiv.org/abs/2505.11134">2505.11134</a></td>
     <td>null</td>
        </tr>
+       <tr>
+    <td><b>2025-05-16</b></td>
+    <td><b>Task Reconstruction and Extrapolation for $π_0$ using Text Latent</b></td>
+    <td>Quanyi Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.03500">2505.03500</a></td>
+    <td>null</td>
+       </tr>
    </tbody>
 </table>
 <h3>2025-05-15</h3>
@@ -2560,13 +2567,6 @@ layout: default
     <td><b>BadLingual: A Novel Lingual-Backdoor Attack against Large Language Models</b></td>
     <td>Zihan Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.03501">2505.03501</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-06</b></td>
-    <td><b>Task Reconstruction and Extrapolation for $π_0$ using Text Latent</b></td>
-    <td>Quanyi Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.03500">2505.03500</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -4421,6 +4421,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-05-18</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-18</b></td>
+    <td><b>Enhancing the Performance of Global Model by Improving the Adaptability of Local Models in Federated Learning</b></td>
+    <td>Wujun Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.10125">2505.10125</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-16</h3>
 
 <table>
@@ -4503,13 +4525,6 @@ layout: default
     <td><b>Robust Federated Learning on Edge Devices with Domain Heterogeneity</b></td>
     <td>Huy Q. Le et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.10128">2505.10128</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-15</b></td>
-    <td><b>Enhancing the Performance of Global Model by Improving the Adaptability of Local Models in Federated Learning</b></td>
-    <td>Wujun Zhou et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.10125">2505.10125</a></td>
     <td>null</td>
        </tr>
    </tbody>
