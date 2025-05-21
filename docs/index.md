@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-05-20</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-20</b></td>
+    <td><b>A Few Large Shifts: Layer-Inconsistency Based Minimal Overhead Adversarial Example Detection</b></td>
+    <td>Sanggeon Yun et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.12586">2505.12586</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-19</h3>
 
 <table>
@@ -69,13 +91,6 @@ layout: default
     <td><b>Spiking Neural Network: a low power solution for physical layer authentication</b></td>
     <td>Jung Hoon Lee et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.12647">2505.12647</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-19</b></td>
-    <td><b>A Few Large Shifts: Layer-Inconsistency Based Minimal Overhead Adversarial Example Detection</b></td>
-    <td>Sanggeon Yun et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.12586">2505.12586</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -2467,7 +2482,7 @@ layout: default
 
 ## Poisoning attacks
 
-<h3>2025-05-19</h3>
+<h3>2025-05-20</h3>
 
 <table>
    <thead>
@@ -2481,12 +2496,34 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-05-19</b></td>
+    <td><b>2025-05-20</b></td>
     <td><b>SVAFD: A Secure and Verifiable Co-Aggregation Protocol for Federated Distillation</b></td>
     <td>Tian Wen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.13319">2505.13319</a></td>
     <td>null</td>
        </tr>
+       <tr>
+    <td><b>2025-05-20</b></td>
+    <td><b>One Shot Dominance: Knowledge Poisoning Attack on Retrieval-Augmented Generation Systems</b></td>
+    <td>Zhiyuan Chang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.11548">2505.11548</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-05-19</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
        <tr>
     <td><b>2025-05-19</b></td>
     <td><b>Does Low Rank Adaptation Lead to Lower Robustness against Training-Time Attacks?</b></td>
@@ -2603,13 +2640,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-05-15</b></td>
-    <td><b>One Shot Dominance: Knowledge Poisoning Attack on Retrieval-Augmented Generation Systems</b></td>
-    <td>Zhiyuan Chang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.11548">2505.11548</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2025-05-15</b></td>
     <td><b>Defending the Edge: Representative-Attention for Mitigating Backdoor Attacks in Federated Learning</b></td>
@@ -3977,7 +4007,7 @@ layout: default
 
 ## Generative models safety
 
-<h3>2025-05-19</h3>
+<h3>2025-05-20</h3>
 
 <table>
    <thead>
@@ -3991,12 +4021,27 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-05-19</b></td>
-    <td><b>Evaluatiing the efficacy of LLM Safety Solutions : The Palit Benchmark Dataset</b></td>
+    <td><b>2025-05-20</b></td>
+    <td><b>Evaluating the efficacy of LLM Safety Solutions : The Palit Benchmark Dataset</b></td>
     <td>Sayon Palit et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.13028">2505.13028</a></td>
     <td>null</td>
        </tr>
+   </tbody>
+</table>
+<h3>2025-05-19</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
        <tr>
     <td><b>2025-05-19</b></td>
     <td><b>Concept-Level Explainability for Auditing & Steering LLM Responses</b></td>
@@ -7289,7 +7334,7 @@ layout: default
 
 ## Forensics
 
-<h3>2025-05-19</h3>
+<h3>2025-05-20</h3>
 
 <table>
    <thead>
@@ -7303,12 +7348,27 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-05-19</b></td>
+    <td><b>2025-05-20</b></td>
     <td><b>Benchmarking Unified Face Attack Detection via Hierarchical Prompt Tuning</b></td>
     <td>Ajian Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.13327">2505.13327</a></td>
     <td>null</td>
        </tr>
+   </tbody>
+</table>
+<h3>2025-05-19</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
        <tr>
     <td><b>2025-05-19</b></td>
     <td><b>Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy</b></td>
@@ -8666,6 +8726,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-05-20</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-20</b></td>
+    <td><b>Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning</b></td>
+    <td>Adam Štorek et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.13353">2505.13353</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-19</h3>
 
 <table>
@@ -8810,13 +8892,6 @@ layout: default
     <td><b>Multi-Armed Bandits Meet Large Language Models</b></td>
     <td>Djallel Bouneffouf et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.13355">2505.13355</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-19</b></td>
-    <td><b>Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning</b></td>
-    <td>Adam Štorek et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.13353">2505.13353</a></td>
     <td>null</td>
        </tr>
    </tbody>
