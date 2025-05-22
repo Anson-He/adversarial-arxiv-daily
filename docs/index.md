@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,70 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-05-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Reverse Engineering Human Preferences with Reinforcement Learning</b></td>
+    <td>Lisa Alazraki et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15795">2505.15795</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Beyond Classification: Evaluating Diffusion Denoised Smoothing for Security-Utility Trade off</b></td>
+    <td>Yury Belousov et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15594">2505.15594</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>My Face Is Mine, Not Yours: Facial Protection Against Diffusion Model Face Swapping</b></td>
+    <td>Hon Ming Yam et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15336">2505.15336</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Blind Spot Navigation: Evolutionary Discovery of Sensitive Semantic Concepts for LVLMs</b></td>
+    <td>Zihao Pan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15265">2505.15265</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Few-Shot Adversarial Low-Rank Fine-Tuning of Vision-Language Models</b></td>
+    <td>Sajjad Ghiasvand et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15130">2505.15130</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>A Survey On Secure Machine Learning</b></td>
+    <td>Taobo Liao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15124">2505.15124</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Robustness Evaluation of Graph-based News Detection Using Network Structural Information</b></td>
+    <td>Xianghua Zeng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.14453">2505.14453</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-20</h3>
 
 <table>
@@ -38,16 +102,16 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-05-20</b></td>
-    <td><b>Adverseness vs. Equilibrium: Exploring Graph Adversarial Resilience through Dynamic Equilibrium</b></td>
-    <td>Xinxin Fan et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.14463">2505.14463</a></td>
+    <td><b>GraphemeAug: A Systematic Approach to Synthesized Hard Negative Keyword Spotting Examples</b></td>
+    <td>Harry Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.14814">2505.14814</a></td>
     <td>null</td>
        </tr>
        <tr>
     <td><b>2025-05-20</b></td>
-    <td><b>Robustness Evaluation of Graph-based News Detection Using Network Structural Information</b></td>
-    <td>Xianghua Zeng et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.14453">2505.14453</a></td>
+    <td><b>Adverseness vs. Equilibrium: Exploring Graph Adversarial Resilience through Dynamic Equilibrium</b></td>
+    <td>Xinxin Fan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.14463">2505.14463</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -2524,6 +2588,42 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-05-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>BadSR: Stealthy Label Backdoor Attacks on Image Super-Resolution</b></td>
+    <td>Ji Guo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15308">2505.15308</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>A Linear Approach to Data Poisoning</b></td>
+    <td>Diego Granziol et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15175">2505.15175</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>PoisonArena: Uncovering Competing Poisoning Attacks in Retrieval-Augmented Generation</b></td>
+    <td>Liuji Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.12574">2505.12574</a></td>
+    <td>**[link](https://github.com/yxf203/poisonarena)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-20</h3>
 
 <table>
@@ -2596,28 +2696,6 @@ layout: default
        </tr>
    </tbody>
 </table>
-<h3>2025-05-18</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-05-18</b></td>
-    <td><b>PoisonArena: Uncovering Competing Poisoning Attacks in Retrieval-Augmented Generation</b></td>
-    <td>Liuji Chen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.12574">2505.12574</a></td>
-    <td>**[link](https://github.com/yxf203/poisonarena)**</td>
-       </tr>
-   </tbody>
-</table>
 <h3>2025-05-17</h3>
 
 <table>
@@ -2672,7 +2750,7 @@ layout: default
     <td><b>The Ripple Effect: On Unforeseen Complications of Backdoor Attacks</b></td>
     <td>Rui Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.11586">2505.11586</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/zhangrui4041/backdoor_complications)**</td>
        </tr>
        <tr>
     <td><b>2025-05-16</b></td>
@@ -4070,6 +4148,35 @@ layout: default
 
 ## Generative models safety
 
+<h3>2025-05-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Keep Security! Benchmarking Security Policy Preservation in Large Language Model Contexts Against Indirect Attacks in Question Answering</b></td>
+    <td>Hwan Chang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15805">2505.15805</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval</b></td>
+    <td>Taiye Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15753">2505.15753</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-20</h3>
 
 <table>
@@ -4809,6 +4916,42 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-05-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Federated Learning-Enhanced Blockchain Framework for Privacy-Preserving Intrusion Detection in Industrial IoT</b></td>
+    <td>Anas Ali et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15376">2505.15376</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>EC-LDA : Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression</b></td>
+    <td>Tong Cheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15140">2505.15140</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>A Survey On Secure Machine Learning</b></td>
+    <td>Taobo Liao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15124">2505.15124</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-20</h3>
 
 <table>
@@ -4891,7 +5034,7 @@ layout: default
     <td><b>Exploring Federated Pruning for Large Language Models</b></td>
     <td>Pengxin Guo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.13547">2505.13547</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/pengxin-guo/fedprllm)**</td>
        </tr>
        <tr>
     <td><b>2025-05-19</b></td>
@@ -4929,6 +5072,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-18</b></td>
+    <td><b>A Comprehensive Review of Techniques, Algorithms, Advancements, Challenges, and Clinical Applications of Multi-modal Medical Image Fusion for Improved Diagnosis</b></td>
+    <td>Muhammad Zubair et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.14715">2505.14715</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-18</b></td>
     <td><b>PoLO: Proof-of-Learning and Proof-of-Ownership at Once with Chained Watermarking</b></td>
@@ -7511,6 +7661,42 @@ layout: default
 
 ## Forensics
 
+<h3>2025-05-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>My Face Is Mine, Not Yours: Facial Protection Against Diffusion Model Face Swapping</b></td>
+    <td>Hon Ming Yam et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15336">2505.15336</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>CAD: A General Multimodal Framework for Video Deepfake Detection via Cross-Modal Alignment and Distillation</b></td>
+    <td>Yuxuan Du et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15233">2505.15233</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation</b></td>
+    <td>Haiquan Wen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.12620">2505.12620</a></td>
+    <td>**[link](https://github.com/l8cv/busterx)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-20</h3>
 
 <table>
@@ -7524,6 +7710,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-20</b></td>
+    <td><b>Replay Attacks Against Audio Deepfake Detection</b></td>
+    <td>Nicolas Müller et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.14862">2505.14862</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-20</b></td>
     <td><b>Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing</b></td>
@@ -7594,13 +7787,6 @@ layout: default
     <td>Zihan Xiong et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.12966">2505.12966</a></td>
     <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-19</b></td>
-    <td><b>BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation</b></td>
-    <td>Haiquan Wen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.12620">2505.12620</a></td>
-    <td>**[link](https://github.com/l8cv/busterx)**</td>
        </tr>
    </tbody>
 </table>
@@ -7679,14 +7865,14 @@ layout: default
     <td><b>ForensicHub: A Unified Benchmark & Codebase for All-Domain Fake Image Detection and Localization</b></td>
     <td>Bo Du et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.11003">2505.11003</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/scu-zjz/forensichub)**</td>
        </tr>
        <tr>
     <td><b>2025-05-16</b></td>
     <td><b>BanglaFake: Constructing and Evaluating a Specialized Bengali Deepfake Audio Dataset</b></td>
     <td>Istiaq Ahmed Fahad et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.10885">2505.10885</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/KamruzzamanAsif/BanglaFake)**</td>
        </tr>
        <tr>
     <td><b>2025-05-16</b></td>
@@ -8938,6 +9124,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-05-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Learning to Reason via Mixture-of-Thought for Logical Reasoning</b></td>
+    <td>Tong Zheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15817">2505.15817</a></td>
+    <td>**[link](https://github.com/zhengkid/Truth_Table_Logical_Reasoning)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>On the creation of narrow AI: hierarchy and nonlocality of neural network skills</b></td>
+    <td>Eric J. Michaud et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15811">2505.15811</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Neural Conditional Transport Maps</b></td>
+    <td>Carlos Rodriguez-Pardo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15808">2505.15808</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Keep Security! Benchmarking Security Policy Preservation in Large Language Model Contexts Against Indirect Attacks in Question Answering</b></td>
+    <td>Hwan Chang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15805">2505.15805</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs</b></td>
+    <td>Zongzhao Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15804">2505.15804</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Interspatial Attention for Efficient 4D Human Video Generation</b></td>
+    <td>Ruizhi Shao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15800">2505.15800</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Reverse Engineering Human Preferences with Reinforcement Learning</b></td>
+    <td>Lisa Alazraki et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15795">2505.15795</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving</b></td>
+    <td>Zhiwen Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15793">2505.15793</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Long-Form Information Alignment Evaluation Beyond Atomic Facts</b></td>
+    <td>Danna Zheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15792">2505.15792</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Large Language Models as Computable Approximations to Solomonoff Induction</b></td>
+    <td>Jun Wan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15784">2505.15784</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>IA-T2I: Internet-Augmented Text-to-Image Generation</b></td>
+    <td>Chuanhao Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15779">2505.15779</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space</b></td>
+    <td>Zhen Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15778">2505.15778</a></td>
+    <td>**[link](https://github.com/eric-ai-lab/soft-thinking)**</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention</b></td>
+    <td>Huanxuan Liao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15774">2505.15774</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Constructing a 3D Town from a Single Image</b></td>
+    <td>Kaizhi Zheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15765">2505.15765</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval</b></td>
+    <td>Taiye Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15753">2505.15753</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs</b></td>
+    <td>Kanan Kiguchi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15747">2505.15747</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Evolutionary Computation and Large Language Models: A Survey of Methods, Synergies, and Applications</b></td>
+    <td>Dikshit Chauhan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15741">2505.15741</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>HybridProver: Augmenting Theorem Proving with LLM-Driven Proof Synthesis and Refinement</b></td>
+    <td>Jilin Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15740">2505.15740</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Alignment Under Pressure: The Case for Informed Adversaries When Evaluating LLM Defenses</b></td>
+    <td>Xiaoxue Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15738">2505.15738</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>DEBATE, TRAIN, EVOLVE: Self Evolution of Language Model Reasoning</b></td>
+    <td>Gaurav Srivastava et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15734">2505.15734</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-20</h3>
 
 <table>
