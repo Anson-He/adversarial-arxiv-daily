@@ -38,6 +38,76 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-05-22</b></td>
+    <td><b>When Are Concepts Erased From Diffusion Models?</b></td>
+    <td>Kevin Lu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17013">2505.17013</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>MixAT: Combining Continuous and Discrete Adversarial Training for LLMs</b></td>
+    <td>Csaba Dékány et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16947">2505.16947</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>CAIN: Hijacking LLM-Humans Conversations via a Two-Stage Malicious System Prompt Generation and Refining Framework</b></td>
+    <td>Viet Pham et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16888">2505.16888</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Accidental Misalignment: Fine-Tuning Language Models Induces Unexpected Vulnerability</b></td>
+    <td>Punya Syon Pandey et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16789">2505.16789</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Experimental robustness benchmark of quantum neural network on a superconducting quantum processor</b></td>
+    <td>Hai-Feng Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16714">2505.16714</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>AdvReal: Adversarial Patch Generation Framework with Application to Adversarial Safety Evaluation of Object Detection Systems</b></td>
+    <td>Yuanhao Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16402">2505.16402</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Chain-of-Thought Poisoning Attacks against R1-based Retrieval-Augmented Generation Systems</b></td>
+    <td>Hongru Song et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16367">2505.16367</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Accelerating Targeted Hard-Label Adversarial Attacks in Low-Query Black-Box Settings</b></td>
+    <td>Arjhun Swaminathan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16313">2505.16313</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>SafeKey: Amplifying Aha-Moment Insights for Safety Reasoning</b></td>
+    <td>Kaiwen Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16186">2505.16186</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>TRAIL: Transferable Robust Adversarial Images via Latent diffusion</b></td>
+    <td>Yuhao Xue et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16166">2505.16166</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
     <td><b>A Few Large Shifts: Layer-Inconsistency Based Minimal Overhead Adversarial Example Detection</b></td>
     <td>Sanggeon Yun et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.12586">2505.12586</a></td>
@@ -2618,6 +2688,34 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-05-22</b></td>
+    <td><b>BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization</b></td>
+    <td>Xueyang Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16640">2505.16640</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach</b></td>
+    <td>Huazi Pan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16403">2505.16403</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Chain-of-Thought Poisoning Attacks against R1-based Retrieval-Augmented Generation Systems</b></td>
+    <td>Hongru Song et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16367">2505.16367</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>BadDepth: Backdoor Attacks Against Monocular Depth Estimation in the Physical World</b></td>
+    <td>Ji Guo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16154">2505.16154</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
     <td><b>PoisonArena: Uncovering Competing Poisoning Attacks in Retrieval-Augmented Generation</b></td>
     <td>Liuji Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.12574">2505.12574</a></td>
@@ -2638,6 +2736,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Ranking Free RAG: Replacing Re-ranking with Selection in RAG for Sensitive Domains</b></td>
+    <td>Yash Saxena et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16014">2505.16014</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-21</b></td>
     <td><b>BadSR: Stealthy Label Backdoor Attacks on Image Super-Resolution</b></td>
@@ -4193,10 +4298,24 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-05-22</b></td>
+    <td><b>Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models</b></td>
+    <td>Junjie Xiong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16957">2505.16957</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>MixAT: Combining Continuous and Discrete Adversarial Training for LLMs</b></td>
+    <td>Csaba Dékány et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16947">2505.16947</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
     <td><b>PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks</b></td>
     <td>Guobin Shen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.13862">2505.13862</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/beijing-aisi/panda-guard)**</td>
        </tr>
    </tbody>
 </table>
@@ -4218,7 +4337,7 @@ layout: default
     <td><b>Keep Security! Benchmarking Security Policy Preservation in Large Language Model Contexts Against Indirect Attacks in Question Answering</b></td>
     <td>Hwan Chang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.15805">2505.15805</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/hwanchang00/CoPriva)**</td>
        </tr>
        <tr>
     <td><b>2025-05-21</b></td>
@@ -4961,6 +5080,63 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-05-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks</b></td>
+    <td>Hongyuan Tao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16901">2505.16901</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>ATR-Bench: A Federated Learning Benchmark for Adaptation, Trust, and Reasoning</b></td>
+    <td>Tajamul Ashraf et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16850">2505.16850</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>From Local Patterns to Global Understanding: Cross-Stock Trend Integration for Enhanced Predictive Modeling</b></td>
+    <td>Yi Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16573">2505.16573</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>A Two-Stage Data Selection Framework for Data-Efficient Model Training on Edge Devices</b></td>
+    <td>Chen Gong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16563">2505.16563</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Interpretable Anomaly Detection in Encrypted Traffic Using SHAP with Machine Learning Models</b></td>
+    <td>Kalindi Singh et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16261">2505.16261</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Enhancing Federated Survival Analysis through Peer-Driven Client Reputation in Healthcare</b></td>
+    <td>Navid Seidi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16190">2505.16190</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-21</h3>
 
 <table>
@@ -7706,6 +7882,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-05-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Beyond Face Swapping: A Diffusion-Based Digital Human Benchmark for Multimodal Deepfake Detection</b></td>
+    <td>Jiaxin Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16512">2505.16512</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-21</h3>
 
 <table>
@@ -9182,6 +9380,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning</b></td>
+    <td>Chengqi Duan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17022">2505.17022</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms</b></td>
+    <td>Shilin Yan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17020">2505.17020</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO</b></td>
+    <td>Chengzhuo Tong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17017">2505.17017</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning</b></td>
+    <td>Huatong Song et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17005">2505.17005</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Do Large Language Models Excel in Complex Logical Reasoning with Formal Language?</b></td>
+    <td>Jin Jiang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16998">2505.16998</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs</b></td>
+    <td>Rui Ye et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16997">2505.16997</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>DecoupledESC: Enhancing Emotional Support Generation via Strategy-Response Decoupled Preference Optimization</b></td>
+    <td>Chao Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16995">2505.16995</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>$\text{R}^2\text{ec}$ : Towards Large Recommender Models with Reasoning</b></td>
+    <td>Runyang You et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16994">2505.16994</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems</b></td>
+    <td>Rui Ye et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16988">2505.16988</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>T1: A Tool-Oriented Conversational Dataset for Multi-Turn Agentic Planning</b></td>
+    <td>Amartya Chakraborty et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16986">2505.16986</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>UFT: Unifying Supervised and Reinforcement Fine-Tuning</b></td>
+    <td>Mingyang Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16984">2505.16984</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>LLM as Effective Streaming Processor: Bridging Streaming-Batch Mismatches with Group Position Encoding</b></td>
+    <td>Junlong Tong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16983">2505.16983</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Beyond Correlation: Towards Causal Large Language Model Agents in Biomedicine</b></td>
+    <td>Adib Bazgir et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16982">2505.16982</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Know the Ropes: A Heuristic Strategy for LLM-based Multi-Agent System Design</b></td>
+    <td>Zhenkun Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16979">2505.16979</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>HyGenar: An LLM-Driven Hybrid Genetic Algorithm for Few-Shot Grammar Generation</b></td>
+    <td>Weizhi Tang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16978">2505.16978</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Creatively Upscaling Images with Global-Regional Priors</b></td>
+    <td>Yurui Qian et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16976">2505.16976</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development</b></td>
+    <td>Yaxin Du et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16975">2505.16975</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>VeriFastScore: Speeding up long-form factuality evaluation</b></td>
+    <td>Rishanth Rajendhran et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16973">2505.16973</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark</b></td>
+    <td>Ahmed Heakl et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16968">2505.16968</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Fixing Data That Hurts Performance: Cascading LLMs to Relabel Hard Negatives for Robust Information Retrieval</b></td>
+    <td>Nandan Thakur et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16967">2505.16967</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-22</b></td>
     <td><b>HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving</b></td>
