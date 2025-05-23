@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-05-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>A Few Large Shifts: Layer-Inconsistency Based Minimal Overhead Adversarial Example Detection</b></td>
+    <td>Sanggeon Yun et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.12586">2505.12586</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-21</h3>
 
 <table>
@@ -133,13 +155,6 @@ layout: default
     <td><b>Safety2Drive: Safety-Critical Scenario Benchmark for the Evaluation of Autonomous Driving</b></td>
     <td>Jingzheng Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.13872">2505.13872</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-20</b></td>
-    <td><b>A Few Large Shifts: Layer-Inconsistency Based Minimal Overhead Adversarial Example Detection</b></td>
-    <td>Sanggeon Yun et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.12586">2505.12586</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -2588,6 +2603,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-05-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>PoisonArena: Uncovering Competing Poisoning Attacks in Retrieval-Augmented Generation</b></td>
+    <td>Liuji Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.12574">2505.12574</a></td>
+    <td>**[link](https://github.com/yxf203/poisonarena)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-21</h3>
 
 <table>
@@ -2614,13 +2651,6 @@ layout: default
     <td>Diego Granziol et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.15175">2505.15175</a></td>
     <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-21</b></td>
-    <td><b>PoisonArena: Uncovering Competing Poisoning Attacks in Retrieval-Augmented Generation</b></td>
-    <td>Liuji Chen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.12574">2505.12574</a></td>
-    <td>**[link](https://github.com/yxf203/poisonarena)**</td>
        </tr>
    </tbody>
 </table>
@@ -4148,6 +4178,28 @@ layout: default
 
 ## Generative models safety
 
+<h3>2025-05-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks</b></td>
+    <td>Guobin Shen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.13862">2505.13862</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-21</h3>
 
 <table>
@@ -4190,13 +4242,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-05-20</b></td>
-    <td><b>PandaGuard: Systematic Evaluation of LLM Safety in the Era of Jailbreaking Attacks</b></td>
-    <td>Guobin Shen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.13862">2505.13862</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2025-05-20</b></td>
     <td><b>Evaluating the efficacy of LLM Safety Solutions : The Palit Benchmark Dataset</b></td>
@@ -9124,6 +9169,35 @@ layout: default
 
 ## AIGC
 
+<h3>2025-05-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving</b></td>
+    <td>Zhiwen Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15793">2505.15793</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs</b></td>
+    <td>Kanan Kiguchi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15747">2505.15747</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-21</h3>
 
 <table>
@@ -9188,13 +9262,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-05-21</b></td>
-    <td><b>HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving</b></td>
-    <td>Zhiwen Chen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.15793">2505.15793</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-21</b></td>
     <td><b>Long-Form Information Alignment Evaluation Beyond Atomic Facts</b></td>
     <td>Danna Zheng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.15792">2505.15792</a></td>
@@ -9240,13 +9307,6 @@ layout: default
     <td><b>Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval</b></td>
     <td>Taiye Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.15753">2505.15753</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-21</b></td>
-    <td><b>Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs</b></td>
-    <td>Kanan Kiguchi et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.15747">2505.15747</a></td>
     <td>null</td>
        </tr>
        <tr>
