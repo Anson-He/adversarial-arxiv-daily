@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -62,7 +62,7 @@ layout: default
     <td><b>Accidental Misalignment: Fine-Tuning Language Models Induces Unexpected Vulnerability</b></td>
     <td>Punya Syon Pandey et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.16789">2505.16789</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/psyonp/accidental_misalignment)**</td>
        </tr>
        <tr>
     <td><b>2025-05-22</b></td>
@@ -76,7 +76,7 @@ layout: default
     <td><b>AdvReal: Adversarial Patch Generation Framework with Application to Adversarial Safety Evaluation of Object Detection Systems</b></td>
     <td>Yuanhao Huang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.16402">2505.16402</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/huangyh98/advreal)**</td>
        </tr>
        <tr>
     <td><b>2025-05-22</b></td>
@@ -90,7 +90,7 @@ layout: default
     <td><b>Accelerating Targeted Hard-Label Adversarial Attacks in Low-Query Black-Box Settings</b></td>
     <td>Arjhun Swaminathan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.16313">2505.16313</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mdppml/tea)**</td>
        </tr>
        <tr>
     <td><b>2025-05-22</b></td>
@@ -2673,6 +2673,35 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-05-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>A Linear Approach to Data Poisoning</b></td>
+    <td>Diego Granziol et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.15175">2505.15175</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents</b></td>
+    <td>Pengzhou Cheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.14418">2505.14418</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-22</h3>
 
 <table>
@@ -2750,13 +2779,6 @@ layout: default
     <td><a href="#http://arxiv.org/abs/2505.15308">2505.15308</a></td>
     <td>null</td>
        </tr>
-       <tr>
-    <td><b>2025-05-21</b></td>
-    <td><b>A Linear Approach to Data Poisoning</b></td>
-    <td>Diego Granziol et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.15175">2505.15175</a></td>
-    <td>null</td>
-       </tr>
    </tbody>
 </table>
 <h3>2025-05-20</h3>
@@ -2777,13 +2799,6 @@ layout: default
     <td><b>SifterNet: A Generalized and Model-Agnostic Trigger Purification Approach</b></td>
     <td>Shaoye Luo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.14531">2505.14531</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-20</b></td>
-    <td><b>Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents</b></td>
-    <td>Pengzhou Cheng et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.14418">2505.14418</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -2856,7 +2871,7 @@ layout: default
     <td><b>FL-PLAS: Federated Learning with Partial Layer Aggregation for Backdoor Defense Against High-Ratio Malicious Clients</b></td>
     <td>Jianyi Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.12019">2505.12019</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/besticsp/fl-plas)**</td>
        </tr>
    </tbody>
 </table>
@@ -2878,7 +2893,7 @@ layout: default
     <td><b>PeerGuard: Defending Multi-Agent Systems Against Backdoor Attacks Through Mutual Reasoning</b></td>
     <td>Falong Fan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.11642">2505.11642</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/anonymoususertech/defensecot)**</td>
        </tr>
        <tr>
     <td><b>2025-05-16</b></td>
@@ -9367,6 +9382,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-05-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>VeriFastScore: Speeding up long-form factuality evaluation</b></td>
+    <td>Rishanth Rajendhran et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16973">2505.16973</a></td>
+    <td>**[link](https://github.com/rishanthrajendhran/verifastscore)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-22</h3>
 
 <table>
@@ -9385,35 +9422,35 @@ layout: default
     <td><b>GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning</b></td>
     <td>Chengqi Duan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.17022">2505.17022</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/gogoduan/got-r1)**</td>
        </tr>
        <tr>
     <td><b>2025-05-22</b></td>
     <td><b>CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms</b></td>
     <td>Shilin Yan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.17020">2505.17020</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/shilinyan99/crosslmm)**</td>
        </tr>
        <tr>
     <td><b>2025-05-22</b></td>
     <td><b>Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO</b></td>
     <td>Chengzhuo Tong et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.17017">2505.17017</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ziyuguo99/image-generation-cot)**</td>
        </tr>
        <tr>
     <td><b>2025-05-22</b></td>
     <td><b>R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning</b></td>
     <td>Huatong Song et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.17005">2505.17005</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/rucaibox/r1-searcher-plus)**</td>
        </tr>
        <tr>
     <td><b>2025-05-22</b></td>
     <td><b>Do Large Language Models Excel in Complex Logical Reasoning with Formal Language?</b></td>
     <td>Jin Jiang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.16998">2505.16998</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jiangjin1999/formaleval)**</td>
        </tr>
        <tr>
     <td><b>2025-05-22</b></td>
@@ -9434,14 +9471,14 @@ layout: default
     <td><b>$\text{R}^2\text{ec}$ : Towards Large Recommender Models with Reasoning</b></td>
     <td>Runyang You et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.16994">2505.16994</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yryangang/rrec)**</td>
        </tr>
        <tr>
     <td><b>2025-05-22</b></td>
     <td><b>MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems</b></td>
     <td>Rui Ye et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.16988">2505.16988</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/masworks/maslab)**</td>
        </tr>
        <tr>
     <td><b>2025-05-22</b></td>
@@ -9455,14 +9492,14 @@ layout: default
     <td><b>UFT: Unifying Supervised and Reinforcement Fine-Tuning</b></td>
     <td>Mingyang Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.16984">2505.16984</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/liumy2010/uft)**</td>
        </tr>
        <tr>
     <td><b>2025-05-22</b></td>
     <td><b>LLM as Effective Streaming Processor: Bridging Streaming-Batch Mismatches with Group Position Encoding</b></td>
     <td>Junlong Tong et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.16983">2505.16983</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/eit-nlp/streamingllm)**</td>
        </tr>
        <tr>
     <td><b>2025-05-22</b></td>
@@ -9483,7 +9520,7 @@ layout: default
     <td><b>HyGenar: An LLM-Driven Hybrid Genetic Algorithm for Few-Shot Grammar Generation</b></td>
     <td>Weizhi Tang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.16978">2505.16978</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/rutatang/hygenar)**</td>
        </tr>
        <tr>
     <td><b>2025-05-22</b></td>
@@ -9497,21 +9534,14 @@ layout: default
     <td><b>SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development</b></td>
     <td>Yaxin Du et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.16975">2505.16975</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-22</b></td>
-    <td><b>VeriFastScore: Speeding up long-form factuality evaluation</b></td>
-    <td>Rishanth Rajendhran et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.16973">2505.16973</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/justlittlewhite/swe-dev)**</td>
        </tr>
        <tr>
     <td><b>2025-05-22</b></td>
     <td><b>CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark</b></td>
     <td>Ahmed Heakl et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.16968">2505.16968</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/gustavostahl/cass)**</td>
        </tr>
        <tr>
     <td><b>2025-05-22</b></td>
