@@ -19,10 +19,27 @@
 
 ## Adversarial attacks
 
+<h3>2025-05-23</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-05-23**|**Towards more transferable adversarial attack in black-box manner**|Chun Tong Lei et.al.|[2505.18097](http://arxiv.org/abs/2505.18097)|null|
+|**2025-05-23**|**CAMME: Adaptive Deepfake Image Detection with Multi-Modal Cross-Attention**|Naseem Khan et.al.|[2505.18035](http://arxiv.org/abs/2505.18035)|null|
+|**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015](http://arxiv.org/abs/2505.18015)|null|
+|**2025-05-23**|**Superplatforms Have to Attack AI Agents**|Jianghao Lin et.al.|[2505.17861](http://arxiv.org/abs/2505.17861)|null|
+|**2025-05-23**|**Temporal Consistency Constrained Transferable Adversarial Attacks with Background Mixup for Action Recognition**|Ping Li et.al.|[2505.17807](http://arxiv.org/abs/2505.17807)|null|
+|**2025-05-23**|**EVADE: Multimodal Benchmark for Evasive Content Detection in E-Commerce Applications**|Ancheng Xu et.al.|[2505.17654](http://arxiv.org/abs/2505.17654)|null|
+|**2025-05-23**|**Ownership Verification of DNN Models Using White-Box Adversarial Attacks with Specified Probability Manipulation**|Teruki Sano et.al.|[2505.17579](http://arxiv.org/abs/2505.17579)|null|
+|**2025-05-23**|**What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection**|Binh Nguyen et.al.|[2505.17513](http://arxiv.org/abs/2505.17513)|null|
+|**2025-05-23**|**Enhancing Adversarial Robustness of Vision Language Models via Adversarial Mixture Prompt Tuning**|Shiji Zhao et.al.|[2505.17509](http://arxiv.org/abs/2505.17509)|null|
+|**2025-05-23**|**VEAttack: Downstream-agnostic Vision Encoder Attack against Large Vision Language Models**|Hefei Mei et.al.|[2505.17440](http://arxiv.org/abs/2505.17440)|null|
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+
 <h3>2025-05-22</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Tropical Attention: Neural Algorithmic Reasoning for Combinatorial Algorithms**|Baran Hashemi et.al.|[2505.17190](http://arxiv.org/abs/2505.17190)|null|
 |**2025-05-22**|**When Are Concepts Erased From Diffusion Models?**|Kevin Lu et.al.|[2505.17013](http://arxiv.org/abs/2505.17013)|null|
 |**2025-05-22**|**MixAT: Combining Continuous and Discrete Adversarial Training for LLMs**|Csaba Dékány et.al.|[2505.16947](http://arxiv.org/abs/2505.16947)|null|
 |**2025-05-22**|**CAIN: Hijacking LLM-Humans Conversations via a Two-Stage Malicious System Prompt Generation and Refining Framework**|Viet Pham et.al.|[2505.16888](http://arxiv.org/abs/2505.16888)|null|
@@ -651,6 +668,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Wolf Hidden in Sheep's Conversations: Toward Harmless Data-Based Backdoor Attacks for Jailbreaking Large Language Models**|Jiawei Kong et.al.|[2505.17601](http://arxiv.org/abs/2505.17601)|null|
 |**2025-05-23**|**A Linear Approach to Data Poisoning**|Diego Granziol et.al.|[2505.15175](http://arxiv.org/abs/2505.15175)|null|
 |**2025-05-23**|**Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents**|Pengzhou Cheng et.al.|[2505.14418](http://arxiv.org/abs/2505.14418)|null|
 <p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
@@ -659,6 +677,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Backdoors in DRL: Four Environments Focusing on In-distribution Triggers**|Chace Ashcraft et.al.|[2505.17248](http://arxiv.org/abs/2505.17248)|null|
 |**2025-05-22**|**BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization**|Xueyang Zhou et.al.|[2505.16640](http://arxiv.org/abs/2505.16640)|null|
 |**2025-05-22**|**Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach**|Huazi Pan et.al.|[2505.16403](http://arxiv.org/abs/2505.16403)|null|
 |**2025-05-22**|**Chain-of-Thought Poisoning Attacks against R1-based Retrieval-Augmented Generation Systems**|Hongru Song et.al.|[2505.16367](http://arxiv.org/abs/2505.16367)|null|
@@ -1090,10 +1109,18 @@
 
 ## Generative models safety
 
+<h3>2025-05-23</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-05-23**|**Chain-of-Lure: A Synthetic Narrative-Driven Approach to Compromise Large Language Models**|Wenhan Chang et.al.|[2505.17519](http://arxiv.org/abs/2505.17519)|null|
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+
 <h3>2025-05-22</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Shape it Up! Restoring LLM Safety during Finetuning**|ShengYun Peng et.al.|[2505.17196](http://arxiv.org/abs/2505.17196)|null|
 |**2025-05-22**|**Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models**|Junjie Xiong et.al.|[2505.16957](http://arxiv.org/abs/2505.16957)|null|
 |**2025-05-22**|**MixAT: Combining Continuous and Discrete Adversarial Training for LLMs**|Csaba Dékány et.al.|[2505.16947](http://arxiv.org/abs/2505.16947)|null|
 |**2025-05-22**|**PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks**|Guobin Shen et.al.|[2505.13862](http://arxiv.org/abs/2505.13862)|**[link](https://github.com/beijing-aisi/panda-guard)**|
@@ -1326,10 +1353,18 @@
 
 ## Data privacy
 
+<h3>2025-05-23</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-05-23**|**WiNGPT-3.0 Technical Report**|Boqin Zhuang et.al.|[2505.17387](http://arxiv.org/abs/2505.17387)|null|
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+
 <h3>2025-05-22</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**LLM Access Shield: Domain-Specific LLM Framework for Privacy Policy Compliance**|Yu Wang et.al.|[2505.17145](http://arxiv.org/abs/2505.17145)|null|
 |**2025-05-22**|**Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks**|Hongyuan Tao et.al.|[2505.16901](http://arxiv.org/abs/2505.16901)|null|
 |**2025-05-22**|**ATR-Bench: A Federated Learning Benchmark for Adaptation, Trust, and Reasoning**|Tajamul Ashraf et.al.|[2505.16850](http://arxiv.org/abs/2505.16850)|null|
 |**2025-05-22**|**From Local Patterns to Global Understanding: Cross-Stock Trend Integration for Enhanced Predictive Modeling**|Yi Hu et.al.|[2505.16573](http://arxiv.org/abs/2505.16573)|null|
@@ -1342,6 +1377,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Are LLMs reliable? An exploration of the reliability of large language models in clinical note generation**|Kristine Ann M. Carandang et.al.|[2505.17095](http://arxiv.org/abs/2505.17095)|null|
 |**2025-05-21**|**Federated Learning-Enhanced Blockchain Framework for Privacy-Preserving Intrusion Detection in Industrial IoT**|Anas Ali et.al.|[2505.15376](http://arxiv.org/abs/2505.15376)|null|
 |**2025-05-21**|**EC-LDA : Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression**|Tong Cheng et.al.|[2505.15140](http://arxiv.org/abs/2505.15140)|null|
 |**2025-05-21**|**A Survey On Secure Machine Learning**|Taobo Liao et.al.|[2505.15124](http://arxiv.org/abs/2505.15124)|null|
@@ -2067,6 +2103,14 @@
 
 ## Forensics
 
+<h3>2025-05-23</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-05-23**|**CAMME: Adaptive Deepfake Image Detection with Multi-Modal Cross-Attention**|Naseem Khan et.al.|[2505.18035](http://arxiv.org/abs/2505.18035)|null|
+|**2025-05-23**|**What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection**|Binh Nguyen et.al.|[2505.17513](http://arxiv.org/abs/2505.17513)|null|
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+
 <h3>2025-05-22</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -2494,6 +2538,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**The Staircase of Ethics: Probing LLM Value Priorities through Multi-Step Induction to Complex Moral Dilemmas**|Ya Wu et.al.|[2505.18154](http://arxiv.org/abs/2505.18154)|null|
+|**2025-05-23**|**Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs**|Wafa Alghallabi et.al.|[2505.18152](http://arxiv.org/abs/2505.18152)|null|
+|**2025-05-23**|**Generative Distribution Embeddings**|Nic Fishman et.al.|[2505.18150](http://arxiv.org/abs/2505.18150)|null|
+|**2025-05-23**|**Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find**|Owen Bianchi et.al.|[2505.18148](http://arxiv.org/abs/2505.18148)|null|
+|**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135](http://arxiv.org/abs/2505.18135)|null|
+|**2025-05-23**|**Frankentext: Stitching random text fragments into long-form narratives**|Chau Minh Pham et.al.|[2505.18128](http://arxiv.org/abs/2505.18128)|null|
+|**2025-05-23**|**UNJOIN: Enhancing Multi-Table Text-to-SQL Generation via Schema Simplification**|Poojah Ganesan et.al.|[2505.18122](http://arxiv.org/abs/2505.18122)|null|
+|**2025-05-23**|**ProgRM: Build Better GUI Agents with Progress Rewards**|Danyang Zhang et.al.|[2505.18121](http://arxiv.org/abs/2505.18121)|null|
+|**2025-05-23**|**Bidirectional Knowledge Distillation for Enhancing Sequential Recommendation with Large Language Models**|Jiongran Wu et.al.|[2505.18120](http://arxiv.org/abs/2505.18120)|null|
+|**2025-05-23**|**Bridging Supervised Learning and Reinforcement Learning in Math Reasoning**|Huayu Chen et.al.|[2505.18116](http://arxiv.org/abs/2505.18116)|null|
+|**2025-05-23**|**Instructify: Demystifying Metadata to Visual Instruction Tuning Data Conversion**|Jacob Hansen et.al.|[2505.18115](http://arxiv.org/abs/2505.18115)|null|
+|**2025-05-23**|**Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM**|Zinuo Li et.al.|[2505.18110](http://arxiv.org/abs/2505.18110)|null|
+|**2025-05-23**|**ManuSearch: Democratizing Deep Search in Large Language Models with a Transparent and Open Multi-Agent Framework**|Lisheng Huang et.al.|[2505.18105](http://arxiv.org/abs/2505.18105)|null|
+|**2025-05-23**|**How Can I Publish My LLM Benchmark Without Giving the True Answers Away?**|Takashi Ishida et.al.|[2505.18102](http://arxiv.org/abs/2505.18102)|null|
+|**2025-05-23**|**Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL**|Joey Hong et.al.|[2505.18098](http://arxiv.org/abs/2505.18098)|null|
+|**2025-05-23**|**DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations**|Ziqiao Peng et.al.|[2505.18096](http://arxiv.org/abs/2505.18096)|null|
+|**2025-05-23**|**QwenLong-CPRS: Towards $\infty$ -LLMs with Dynamic Context Optimization**|Weizhou Shen et.al.|[2505.18092](http://arxiv.org/abs/2505.18092)|null|
+|**2025-05-23**|**Data Mixing Can Induce Phase Transitions in Knowledge Acquisition**|Xinran Gu et.al.|[2505.18091](http://arxiv.org/abs/2505.18091)|null|
+|**2025-05-23**|**Stable Reinforcement Learning for Efficient Reasoning**|Muzhi Dai et.al.|[2505.18086](http://arxiv.org/abs/2505.18086)|null|
+|**2025-05-23**|**Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding**|Xiaoyi Zhang et.al.|[2505.18079](http://arxiv.org/abs/2505.18079)|null|
 |**2025-05-23**|**VeriFastScore: Speeding up long-form factuality evaluation**|Rishanth Rajendhran et.al.|[2505.16973](http://arxiv.org/abs/2505.16973)|**[link](https://github.com/rishanthrajendhran/verifastscore)**|
 <p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 

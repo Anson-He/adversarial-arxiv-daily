@@ -23,6 +23,91 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-05-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Towards more transferable adversarial attack in black-box manner</b></td>
+    <td>Chun Tong Lei et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18097">2505.18097</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>CAMME: Adaptive Deepfake Image Detection with Multi-Modal Cross-Attention</b></td>
+    <td>Naseem Khan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18035">2505.18035</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification</b></td>
+    <td>Shashank Agnihotri et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18015">2505.18015</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Superplatforms Have to Attack AI Agents</b></td>
+    <td>Jianghao Lin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17861">2505.17861</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Temporal Consistency Constrained Transferable Adversarial Attacks with Background Mixup for Action Recognition</b></td>
+    <td>Ping Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17807">2505.17807</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>EVADE: Multimodal Benchmark for Evasive Content Detection in E-Commerce Applications</b></td>
+    <td>Ancheng Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17654">2505.17654</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Ownership Verification of DNN Models Using White-Box Adversarial Attacks with Specified Probability Manipulation</b></td>
+    <td>Teruki Sano et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17579">2505.17579</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection</b></td>
+    <td>Binh Nguyen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17513">2505.17513</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Enhancing Adversarial Robustness of Vision Language Models via Adversarial Mixture Prompt Tuning</b></td>
+    <td>Shiji Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17509">2505.17509</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>VEAttack: Downstream-agnostic Vision Encoder Attack against Large Vision Language Models</b></td>
+    <td>Hefei Mei et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17440">2505.17440</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-22</h3>
 
 <table>
@@ -36,6 +121,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Tropical Attention: Neural Algorithmic Reasoning for Combinatorial Algorithms</b></td>
+    <td>Baran Hashemi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17190">2505.17190</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-22</b></td>
     <td><b>When Are Concepts Erased From Diffusion Models?</b></td>
@@ -2688,6 +2780,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-05-23</b></td>
+    <td><b>Wolf Hidden in Sheep's Conversations: Toward Harmless Data-Based Backdoor Attacks for Jailbreaking Large Language Models</b></td>
+    <td>Jiawei Kong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17601">2505.17601</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
     <td><b>A Linear Approach to Data Poisoning</b></td>
     <td>Diego Granziol et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.15175">2505.15175</a></td>
@@ -2715,6 +2814,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Backdoors in DRL: Four Environments Focusing on In-distribution Triggers</b></td>
+    <td>Chace Ashcraft et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17248">2505.17248</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-22</b></td>
     <td><b>BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization</b></td>
@@ -4298,6 +4404,28 @@ layout: default
 
 ## Generative models safety
 
+<h3>2025-05-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Chain-of-Lure: A Synthetic Narrative-Driven Approach to Compromise Large Language Models</b></td>
+    <td>Wenhan Chang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17519">2505.17519</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-22</h3>
 
 <table>
@@ -4311,6 +4439,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>Shape it Up! Restoring LLM Safety during Finetuning</b></td>
+    <td>ShengYun Peng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17196">2505.17196</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-22</b></td>
     <td><b>Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models</b></td>
@@ -5095,6 +5230,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-05-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>WiNGPT-3.0 Technical Report</b></td>
+    <td>Boqin Zhuang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17387">2505.17387</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-22</h3>
 
 <table>
@@ -5108,6 +5265,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-22</b></td>
+    <td><b>LLM Access Shield: Domain-Specific LLM Framework for Privacy Policy Compliance</b></td>
+    <td>Yu Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17145">2505.17145</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-22</b></td>
     <td><b>Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks</b></td>
@@ -5165,6 +5329,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-21</b></td>
+    <td><b>Are LLMs reliable? An exploration of the reliability of large language models in clinical note generation</b></td>
+    <td>Kristine Ann M. Carandang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17095">2505.17095</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-21</b></td>
     <td><b>Federated Learning-Enhanced Blockchain Framework for Privacy-Preserving Intrusion Detection in Industrial IoT</b></td>
@@ -7897,6 +8068,35 @@ layout: default
 
 ## Forensics
 
+<h3>2025-05-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>CAMME: Adaptive Deepfake Image Detection with Multi-Modal Cross-Attention</b></td>
+    <td>Naseem Khan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18035">2505.18035</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection</b></td>
+    <td>Binh Nguyen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17513">2505.17513</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-22</h3>
 
 <table>
@@ -9395,6 +9595,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>The Staircase of Ethics: Probing LLM Value Priorities through Multi-Step Induction to Complex Moral Dilemmas</b></td>
+    <td>Ya Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18154">2505.18154</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs</b></td>
+    <td>Wafa Alghallabi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18152">2505.18152</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Generative Distribution Embeddings</b></td>
+    <td>Nic Fishman et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18150">2505.18150</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find</b></td>
+    <td>Owen Bianchi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18148">2505.18148</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Gaming Tool Preferences in Agentic LLMs</b></td>
+    <td>Kazem Faghih et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18135">2505.18135</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Frankentext: Stitching random text fragments into long-form narratives</b></td>
+    <td>Chau Minh Pham et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18128">2505.18128</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>UNJOIN: Enhancing Multi-Table Text-to-SQL Generation via Schema Simplification</b></td>
+    <td>Poojah Ganesan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18122">2505.18122</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>ProgRM: Build Better GUI Agents with Progress Rewards</b></td>
+    <td>Danyang Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18121">2505.18121</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Bidirectional Knowledge Distillation for Enhancing Sequential Recommendation with Large Language Models</b></td>
+    <td>Jiongran Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18120">2505.18120</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Bridging Supervised Learning and Reinforcement Learning in Math Reasoning</b></td>
+    <td>Huayu Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18116">2505.18116</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Instructify: Demystifying Metadata to Visual Instruction Tuning Data Conversion</b></td>
+    <td>Jacob Hansen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18115">2505.18115</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM</b></td>
+    <td>Zinuo Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18110">2505.18110</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>ManuSearch: Democratizing Deep Search in Large Language Models with a Transparent and Open Multi-Agent Framework</b></td>
+    <td>Lisheng Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18105">2505.18105</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>How Can I Publish My LLM Benchmark Without Giving the True Answers Away?</b></td>
+    <td>Takashi Ishida et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18102">2505.18102</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL</b></td>
+    <td>Joey Hong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18098">2505.18098</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations</b></td>
+    <td>Ziqiao Peng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18096">2505.18096</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>QwenLong-CPRS: Towards $\infty$ -LLMs with Dynamic Context Optimization</b></td>
+    <td>Weizhou Shen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18092">2505.18092</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Data Mixing Can Induce Phase Transitions in Knowledge Acquisition</b></td>
+    <td>Xinran Gu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18091">2505.18091</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Stable Reinforcement Learning for Efficient Reasoning</b></td>
+    <td>Muzhi Dai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18086">2505.18086</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding</b></td>
+    <td>Xiaoyi Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18079">2505.18079</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-23</b></td>
     <td><b>VeriFastScore: Speeding up long-form factuality evaluation</b></td>
