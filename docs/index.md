@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -106,6 +106,13 @@ layout: default
     <td><a href="#http://arxiv.org/abs/2505.17440">2505.17440</a></td>
     <td>null</td>
        </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>When Are Concepts Erased From Diffusion Models?</b></td>
+    <td>Kevin Lu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17013">2505.17013</a></td>
+    <td>null</td>
+       </tr>
    </tbody>
 </table>
 <h3>2025-05-22</h3>
@@ -126,13 +133,6 @@ layout: default
     <td><b>Tropical Attention: Neural Algorithmic Reasoning for Combinatorial Algorithms</b></td>
     <td>Baran Hashemi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.17190">2505.17190</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-22</b></td>
-    <td><b>When Are Concepts Erased From Diffusion Models?</b></td>
-    <td>Kevin Lu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.17013">2505.17013</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -2787,6 +2787,13 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-05-23</b></td>
+    <td><b>Ranking Free RAG: Replacing Re-ranking with Selection in RAG for Sensitive Domains</b></td>
+    <td>Yash Saxena et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16014">2505.16014</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
     <td><b>A Linear Approach to Data Poisoning</b></td>
     <td>Diego Granziol et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.15175">2505.15175</a></td>
@@ -2871,13 +2878,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-05-21</b></td>
-    <td><b>Ranking Free RAG: Replacing Re-ranking with Selection in RAG for Sensitive Domains</b></td>
-    <td>Yash Saxena et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.16014">2505.16014</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2025-05-21</b></td>
     <td><b>BadSR: Stealthy Label Backdoor Attacks on Image Super-Resolution</b></td>
