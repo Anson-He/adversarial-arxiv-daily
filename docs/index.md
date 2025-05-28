@@ -23,6 +23,63 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-05-27</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment</b></td>
+    <td>Xiaojun Jia et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21494">2505.21494</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Attribute-Efficient PAC Learning of Sparse Halfspaces with Constant Malicious Noise Rate</b></td>
+    <td>Shiwei Zeng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21430">2505.21430</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>A Framework for Adversarial Analysis of Decision Support Systems Prior to Deployment</b></td>
+    <td>Brett Bissey et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21414">2505.21414</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Boosting Adversarial Transferability via High-Frequency Augmentation and Hierarchical-Gradient Fusion</b></td>
+    <td>Yayin Zheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21181">2505.21181</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>TabAttackBench: A Benchmark for Adversarial Attacks on Tabular Data</b></td>
+    <td>Zhipeng He et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21027">2505.21027</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Breaking Dataset Boundaries: Class-Agnostic Targeted Adversarial Attacks</b></td>
+    <td>Taïga Gonçalves et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20782">2505.20782</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-26</h3>
 
 <table>
@@ -36,6 +93,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Comparing Neural Network Encodings for Logic-based Explainability</b></td>
+    <td>Levi Cordeiro Carvalho et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20269">2505.20269</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-26</b></td>
     <td><b>Attention! You Vision Language Model Could Be Maliciously Manipulated</b></td>
@@ -2866,6 +2930,42 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-05-27</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation</b></td>
+    <td>Naizhu Jin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21425">2505.21425</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>HeteroBA: A Structure-Manipulating Backdoor Attack on Heterogeneous Graphs</b></td>
+    <td>Honglin Gao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21140">2505.21140</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Multi-level Certified Defense Against Poisoning Attacks in Offline Reinforcement Learning</b></td>
+    <td>Shijie Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20621">2505.20621</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-26</h3>
 
 <table>
@@ -5460,6 +5560,20 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Federated Instrumental Variable Analysis via Federated Generalized Method of Moments</b></td>
+    <td>Geetika et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21012">2505.21012</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Facial Attribute Based Text Guided Face Anonymization</b></td>
+    <td>Mustafa İzzet Muştu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21002">2505.21002</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-27</b></td>
     <td><b>Generalized and Personalized Federated Learning with Foundation Models via Orthogonal Transformations</b></td>
@@ -8401,6 +8515,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-05-27</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment</b></td>
+    <td>Lingyu Qiu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20653">2505.20653</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-26</h3>
 
 <table>
@@ -8414,6 +8550,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>ArVoice: A Multi-Speaker Dataset for Arabic Speech Synthesis</b></td>
+    <td>Hawau Olamide Toyin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20506">2505.20506</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-26</b></td>
     <td><b>STOPA: A Database of Systematic VariaTion Of DeePfake Audio for Open-Set Source Tracing and Attribution</b></td>
@@ -10015,6 +10158,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective</b></td>
+    <td>Shimao Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21505">2505.21505</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making</b></td>
+    <td>Yihan Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21503">2505.21503</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers</b></td>
+    <td>Wei Pang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21497">2505.21497</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Reinforcing General Reasoning without Verifiers</b></td>
+    <td>Xiangxin Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21493">2505.21493</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Hardware-Efficient Attention for Fast Decoding</b></td>
+    <td>Ted Zadouri et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21487">2505.21487</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming</b></td>
+    <td>Yang Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21486">2505.21486</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Are Language Models Consequentialist or Deontological Moral Reasoners?</b></td>
+    <td>Keenan Samway et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21479">2505.21479</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Policy Optimized Text-to-Image Pipeline Design</b></td>
+    <td>Uri Gadot et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21478">2505.21478</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration</b></td>
+    <td>Zijun Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21471">2505.21471</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>PropMolFlow: Property-guided Molecule Generation with Geometry-Complete Flow Matching</b></td>
+    <td>Cheng Zeng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21469">2505.21469</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Do LLMs Need to Think in One Language? Correlation between Latent Language and Task Performance</b></td>
+    <td>Shintaro Ozaki et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21458">2505.21458</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Designing Cyclic Peptides via Harmonic SDE with Atom-Bond Modeling</b></td>
+    <td>Xiangxin Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21452">2505.21452</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Words Like Knives: Backstory-Personalized Modeling and Detection of Violent Communication</b></td>
+    <td>Jocelyn Shen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21451">2505.21451</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>OmniSync: Towards Universal Lip Synchronization via Diffusion Transformers</b></td>
+    <td>Ziqiao Peng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21448">2505.21448</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Can Large Reasoning Models Self-Train?</b></td>
+    <td>Sheikh Shafayat et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21444">2505.21444</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Hume: Introducing System-2 Thinking in Visual-Language-Action Model</b></td>
+    <td>Haoming Song et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21432">2505.21432</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Policy Induction: Predicting Startup Success via Explainable Memory-Augmented In-Context Learning</b></td>
+    <td>Xianling Mu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21427">2505.21427</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation</b></td>
+    <td>Naizhu Jin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21425">2505.21425</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Diagnosing and Resolving Cloud Platform Instability with Multi-modal RAG LLMs</b></td>
+    <td>Yifan Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21419">2505.21419</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused Ultrasound Ablation Surgery</b></td>
+    <td>Lina Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21418">2505.21418</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-27</b></td>
     <td><b>TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent</b></td>
