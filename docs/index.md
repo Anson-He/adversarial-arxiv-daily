@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,107 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-05-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Attention! You Vision Language Model Could Be Maliciously Manipulated</b></td>
+    <td>Xiaosen Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.19911">2505.19911</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP</b></td>
+    <td>Binyan Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.19840">2505.19840</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>TESSER: Transfer-Enhancing Adversarial Attacks from Vision Transformers via Spectral and Semantic Regularization</b></td>
+    <td>Amira Guesmi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.19613">2505.19613</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-05-25</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-25</b></td>
+    <td><b>Curvature Dynamic Black-box Attack: revisiting adversarial robustness via dynamic curvature estimation</b></td>
+    <td>Peiran Sun et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.19194">2505.19194</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-05-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-24</b></td>
+    <td><b>Security Concerns for Large Language Models: A Survey</b></td>
+    <td>Miles Q. Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18889">2505.18889</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-24</b></td>
+    <td><b>Audio Jailbreak Attacks: Exposing Vulnerabilities in SpeechGPT in a White-Box Framework</b></td>
+    <td>Binhao Ma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18864">2505.18864</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-24</b></td>
+    <td><b>Mal-D2GAN: Double-Detector based GAN for Malware Generation</b></td>
+    <td>Nam Hoang Thanh et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18806">2505.18806</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-24</b></td>
+    <td><b>The Silent Saboteur: Imperceptible Adversarial Attacks against Black-Box Retrieval-Augmented Generation Systems</b></td>
+    <td>Hongru Song et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18583">2505.18583</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-23</h3>
 
 <table>
@@ -2765,6 +2866,78 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-05-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>CPA-RAG:Covert Poisoning Attacks on Retrieval-Augmented Generation in Large Language Models</b></td>
+    <td>Chunyang Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.19864">2505.19864</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Poison in the Well: Feature Embedding Disruption in Backdoor Attacks</b></td>
+    <td>Zhou Feng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.19821">2505.19821</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Fox in the Henhouse: Supply-Chain Backdoor Attacks Against Reinforcement Learning</b></td>
+    <td>Shijie Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.19532">2505.19532</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Are Time-Series Foundation Models Deployment-Ready? A Systematic Study of Adversarial Robustness Across Domains</b></td>
+    <td>Jiawen Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.19397">2505.19397</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-05-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-24</b></td>
+    <td><b>Security Concerns for Large Language Models: A Survey</b></td>
+    <td>Miles Q. Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18889">2505.18889</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-24</b></td>
+    <td><b>Benchmarking Poisoning Attacks against Retrieval-Augmented Generation</b></td>
+    <td>Baolei Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18543">2505.18543</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-23</h3>
 
 <table>
@@ -4404,6 +4577,79 @@ layout: default
 
 ## Generative models safety
 
+<h3>2025-05-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Safety Through Reasoning: An Empirical Study of Reasoning Guardrail Models</b></td>
+    <td>Makesh Narsimhan Sreedhar et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20087">2505.20087</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks</b></td>
+    <td>Guobin Shen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.13862">2505.13862</a></td>
+    <td>**[link](https://github.com/beijing-aisi/panda-guard)**</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-05-25</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-25</b></td>
+    <td><b>Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety</b></td>
+    <td>Zihan Guan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.06843">2505.06843</a></td>
+    <td>**[link](https://github.com/guanzihan/benign-samples-matter)**</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-05-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-24</b></td>
+    <td><b>Exploring the Vulnerability of the Content Moderation Guardrail in Large Language Models via Intent Manipulation</b></td>
+    <td>Jun Zhuang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18556">2505.18556</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-23</h3>
 
 <table>
@@ -4459,13 +4705,6 @@ layout: default
     <td>Csaba Dékány et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.16947">2505.16947</a></td>
     <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-22</b></td>
-    <td><b>PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks</b></td>
-    <td>Guobin Shen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.13862">2505.13862</a></td>
-    <td>**[link](https://github.com/beijing-aisi/panda-guard)**</td>
        </tr>
    </tbody>
 </table>
@@ -4626,28 +4865,6 @@ layout: default
     <td>Manisha Mehta et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.10588">2505.10588</a></td>
     <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-05-11</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-05-11</b></td>
-    <td><b>Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety</b></td>
-    <td>Zihan Guan et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.06843">2505.06843</a></td>
-    <td>**[link](https://github.com/guanzihan/benign-samples-matter)**</td>
        </tr>
    </tbody>
 </table>
@@ -5230,6 +5447,108 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-05-27</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Generalized and Personalized Federated Learning with Foundation Models via Orthogonal Transformations</b></td>
+    <td>Eun Gyung Kong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.19888">2505.19888</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-05-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>LAPA-based Dynamic Privacy Optimization for Wireless Federated Learning in Heterogeneous Environments</b></td>
+    <td>Pengcheng Sun et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.19823">2505.19823</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments</b></td>
+    <td>Junming Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.19699">2505.19699</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-05-25</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-25</b></td>
+    <td><b>Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning</b></td>
+    <td>Hui Ma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.19263">2505.19263</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-05-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-24</b></td>
+    <td><b>Understanding the Relationship Between Personal Data Privacy Literacy and Data Privacy Information Sharing by University Students</b></td>
+    <td>Brady D. Lund et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18870">2505.18870</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-24</b></td>
+    <td><b>Anonymity-washing</b></td>
+    <td>Szivia Lestyán et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18627">2505.18627</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-23</h3>
 
 <table>
@@ -5243,6 +5562,20 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>Retrieval Augmented Generation-based Large Language Models for Bridging Transportation Cybersecurity Legal Knowledge Gaps</b></td>
+    <td>Khandakar Ashrafi Akbar et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18426">2505.18426</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-23</b></td>
+    <td><b>RedactOR: An LLM-Powered Framework for Automatic Clinical Data De-Identification</b></td>
+    <td>Praphul Singh et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18380">2505.18380</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-05-23</b></td>
     <td><b>WiNGPT-3.0 Technical Report</b></td>
@@ -8068,6 +8401,93 @@ layout: default
 
 ## Forensics
 
+<h3>2025-05-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>STOPA: A Database of Systematic VariaTion Of DeePfake Audio for Open-Set Source Tracing and Attribution</b></td>
+    <td>Anton Firc et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.19644">2505.19644</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Guard Me If You Know Me: Protecting Specific Face-Identity from Deepfakes</b></td>
+    <td>Kaiqing Lin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.19582">2505.19582</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-05-25</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-25</b></td>
+    <td><b>EnvSDD: Benchmarking Environmental Sound Deepfake Detection</b></td>
+    <td>Han Yin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.19203">2505.19203</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-05-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-24</b></td>
+    <td><b>Think Twice before Adaptation: Improving Adaptability of DeepFake Detection via Online Test-Time Adaptation</b></td>
+    <td>Hong-Hanh Nguyen-Le et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18787">2505.18787</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-24</b></td>
+    <td><b>HyperFake: Hyperspectral Reconstruction and Attention-Guided Analysis for Advanced Deepfake Detection</b></td>
+    <td>Pavan C Shekar et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18587">2505.18587</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-24</b></td>
+    <td><b>Preserving AUC Fairness in Learning with Noisy Protected Groups</b></td>
+    <td>Mingyang Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18532">2505.18532</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-23</h3>
 
 <table>
@@ -9582,6 +10002,176 @@ layout: default
 
 ## AIGC
 
+<h3>2025-05-27</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent</b></td>
+    <td>Dominik Meier et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20118">2505.20118</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Adaptive Deep Reasoning: Triggering Deep Thinking When Needed</b></td>
+    <td>Yunhao Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20101">2505.20101</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-05-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs</b></td>
+    <td>Hanting Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20155">2505.20155</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>UORA: Uniform Orthogonal Reinitialization Adaptation in Parameter-Efficient Fine-Tuning of Large Models</b></td>
+    <td>Xueyan Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20154">2505.20154</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities</b></td>
+    <td>Jin Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20147">2505.20147</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs</b></td>
+    <td>Jialin Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20139">2505.20139</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Iterative Self-Incentivization Empowers Large Language Models as Agentic Searchers</b></td>
+    <td>Zhengliang Shi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20128">2505.20128</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Agentic AI Process Observability: Discovering Behavioral Variability</b></td>
+    <td>Fabiana Fournier et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20127">2505.20127</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Understanding Generalization in Diffusion Models via Probability Flow Distance</b></td>
+    <td>Huijie Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20123">2505.20123</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Named Entity Recognition in Historical Italian: The Case of Giacomo Leopardi's Zibaldone</b></td>
+    <td>Cristian Santini et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20113">2505.20113</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>ResSVD: Residual Compensated SVD for Large Language Model Compression</b></td>
+    <td>Haolei Bai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20112">2505.20112</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Proxy-Free GFlowNet</b></td>
+    <td>Ruishuo Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20110">2505.20110</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Language-Agnostic Suicidal Risk Detection Using Large Language Models</b></td>
+    <td>June-Woo Kim et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20109">2505.20109</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>From Data to Modeling: Fully Open-vocabulary Scene Graph Generation</b></td>
+    <td>Zuyao Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20106">2505.20106</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>AdaTP: Attention-Debiased Token Pruning for Video Large Language Models</b></td>
+    <td>Fengyuan Sun et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20100">2505.20100</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Large Language Models Meet Knowledge Graphs for Question Answering: Synthesis and Opportunities</b></td>
+    <td>Chuangtao Ma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20099">2505.20099</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>S2LPP: Small-to-Large Prompt Prediction across LLMs</b></td>
+    <td>Liang Cheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20097">2505.20097</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Multi-Domain Explainability of Preferences</b></td>
+    <td>Nitay Calderon et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20088">2505.20088</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Safety Through Reasoning: An Empirical Study of Reasoning Guardrail Models</b></td>
+    <td>Makesh Narsimhan Sreedhar et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20087">2505.20087</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-26</b></td>
+    <td><b>Incentivizing Reasoning from Weak Supervision</b></td>
+    <td>Yige Yuan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.20072">2505.20072</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-23</h3>
 
 <table>
