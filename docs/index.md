@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-05-28</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-28</b></td>
+    <td><b>The Silent Saboteur: Imperceptible Adversarial Attacks against Black-Box Retrieval-Augmented Generation Systems</b></td>
+    <td>Hongru Song et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18583">2505.18583</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-27</h3>
 
 <table>
@@ -112,7 +134,7 @@ layout: default
     <td><b>One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP</b></td>
     <td>Binyan Xu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.19840">2505.19840</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/binyxu/univintruder)**</td>
        </tr>
        <tr>
     <td><b>2025-05-26</b></td>
@@ -179,13 +201,6 @@ layout: default
     <td><a href="#http://arxiv.org/abs/2505.18806">2505.18806</a></td>
     <td>null</td>
        </tr>
-       <tr>
-    <td><b>2025-05-24</b></td>
-    <td><b>The Silent Saboteur: Imperceptible Adversarial Attacks against Black-Box Retrieval-Augmented Generation Systems</b></td>
-    <td>Hongru Song et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.18583">2505.18583</a></td>
-    <td>null</td>
-       </tr>
    </tbody>
 </table>
 <h3>2025-05-23</h3>
@@ -213,14 +228,14 @@ layout: default
     <td><b>CAMME: Adaptive Deepfake Image Detection with Multi-Modal Cross-Attention</b></td>
     <td>Naseem Khan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.18035">2505.18035</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/magnet300/camme)**</td>
        </tr>
        <tr>
     <td><b>2025-05-23</b></td>
     <td><b>SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification</b></td>
     <td>Shashank Agnihotri et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.18015">2505.18015</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/shashankskagnihotri/benchmarking_reliability_generalization)**</td>
        </tr>
        <tr>
     <td><b>2025-05-23</b></td>
@@ -234,7 +249,7 @@ layout: default
     <td><b>Temporal Consistency Constrained Transferable Adversarial Attacks with Background Mixup for Action Recognition</b></td>
     <td>Ping Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.17807">2505.17807</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mlvccn/bmtc_transferattackvid)**</td>
        </tr>
        <tr>
     <td><b>2025-05-23</b></td>
@@ -2930,6 +2945,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-05-28</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-28</b></td>
+    <td><b>Wolf Hidden in Sheep's Conversations: Toward Harmless Data-Based Backdoor Attacks for Jailbreaking Large Language Models</b></td>
+    <td>Jiawei Kong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17601">2505.17601</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-27</h3>
 
 <table>
@@ -2962,6 +2999,13 @@ layout: default
     <td><b>Multi-level Certified Defense Against Poisoning Attacks in Offline Reinforcement Learning</b></td>
     <td>Shijie Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.20621">2505.20621</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-05-27</b></td>
+    <td><b>Backdoors in DRL: Four Environments Focusing on In-distribution Triggers</b></td>
+    <td>Chace Ashcraft et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.17248">2505.17248</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -3053,13 +3097,6 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-05-23</b></td>
-    <td><b>Wolf Hidden in Sheep's Conversations: Toward Harmless Data-Based Backdoor Attacks for Jailbreaking Large Language Models</b></td>
-    <td>Jiawei Kong et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.17601">2505.17601</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-23</b></td>
     <td><b>Ranking Free RAG: Replacing Re-ranking with Selection in RAG for Sensitive Domains</b></td>
     <td>Yash Saxena et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.16014">2505.16014</a></td>
@@ -3094,13 +3131,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-05-22</b></td>
-    <td><b>Backdoors in DRL: Four Environments Focusing on In-distribution Triggers</b></td>
-    <td>Chace Ashcraft et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.17248">2505.17248</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2025-05-22</b></td>
     <td><b>BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization</b></td>
@@ -5030,7 +5060,7 @@ layout: default
     <td><b>Prefill-Based Jailbreak: A Novel Approach of Bypassing LLM Safety Boundary</b></td>
     <td>Yakai Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2504.21038">2504.21038</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/star5o/Prefill-based-Jailbreak)**</td>
        </tr>
        <tr>
     <td><b>2025-04-28</b></td>
@@ -5630,7 +5660,7 @@ layout: default
     <td><b>Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning</b></td>
     <td>Hui Ma et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.19263">2505.19263</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/maggiemh/bafdp)**</td>
        </tr>
    </tbody>
 </table>
@@ -5731,7 +5761,7 @@ layout: default
     <td><b>ATR-Bench: A Federated Learning Benchmark for Adaptation, Trust, and Reasoning</b></td>
     <td>Tajamul Ashraf et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.16850">2505.16850</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/tajamul21/atr-bench)**</td>
        </tr>
        <tr>
     <td><b>2025-05-22</b></td>
@@ -8613,7 +8643,7 @@ layout: default
     <td><b>Think Twice before Adaptation: Improving Adaptability of DeepFake Detection via Online Test-Time Adaptation</b></td>
     <td>Hong-Hanh Nguyen-Le et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.18787">2505.18787</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/honghanh2104/t2a-think-twice-before-adaptation)**</td>
        </tr>
        <tr>
     <td><b>2025-05-24</b></td>
@@ -8627,7 +8657,7 @@ layout: default
     <td><b>Preserving AUC Fairness in Learning with Noisy Protected Groups</b></td>
     <td>Mingyang Wu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.18532">2505.18532</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/purdue-m2/auc_fairness_with_noisy_groups)**</td>
        </tr>
    </tbody>
 </table>
@@ -8649,7 +8679,7 @@ layout: default
     <td><b>CAMME: Adaptive Deepfake Image Detection with Multi-Modal Cross-Attention</b></td>
     <td>Naseem Khan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.18035">2505.18035</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/magnet300/camme)**</td>
        </tr>
        <tr>
     <td><b>2025-05-23</b></td>
@@ -10145,6 +10175,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-05-28</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-28</b></td>
+    <td><b>Diagnosing and Resolving Cloud Platform Instability with Multi-modal RAG LLMs</b></td>
+    <td>Yifan Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21419">2505.21419</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-27</h3>
 
 <table>
@@ -10219,7 +10271,7 @@ layout: default
     <td><b>Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration</b></td>
     <td>Zijun Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.21471">2505.21471</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/thunlp-mt/extagents)**</td>
        </tr>
        <tr>
     <td><b>2025-05-27</b></td>
@@ -10282,13 +10334,6 @@ layout: default
     <td><b>GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation</b></td>
     <td>Naizhu Jin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.21425">2505.21425</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-27</b></td>
-    <td><b>Diagnosing and Resolving Cloud Platform Instability with Multi-modal RAG LLMs</b></td>
-    <td>Yifan Wang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.21419">2505.21419</a></td>
     <td>null</td>
        </tr>
        <tr>
