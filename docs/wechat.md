@@ -21,6 +21,11 @@
 
 <h3>2025-05-29</h3>
 
+- 2025-05-29, **SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM Agents**, Kunlun Zhu et.al., Paper: [http://arxiv.org/abs/2505.23559](http://arxiv.org/abs/2505.23559)
+- 2025-05-29, **TRAP: Targeted Redirecting of Agentic Preferences**, Hangoo Kang et.al., Paper: [http://arxiv.org/abs/2505.23518](http://arxiv.org/abs/2505.23518)
+- 2025-05-29, **Adaptive Jailbreaking Strategies Based on the Semantic Understanding Capabilities of Large Language Models**, Mingyu Yu et.al., Paper: [http://arxiv.org/abs/2505.23404](http://arxiv.org/abs/2505.23404)
+- 2025-05-29, **Adversarial Semantic and Label Perturbation Attack for Pedestrian Attribute Recognition**, Weizhe Kong et.al., Paper: [http://arxiv.org/abs/2505.23313](http://arxiv.org/abs/2505.23313)
+- 2025-05-29, **Disrupting Vision-Language Model-Driven Navigation Services via Adversarial Object Fusion**, Chunlong Xie et.al., Paper: [http://arxiv.org/abs/2505.23266](http://arxiv.org/abs/2505.23266)
 - 2025-05-29, **The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**, Aixuan Li et.al., Paper: [http://arxiv.org/abs/2505.22499](http://arxiv.org/abs/2505.22499)
 <p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
@@ -583,6 +588,9 @@
 
 <h3>2025-05-29</h3>
 
+- 2025-05-29, **Distributed Federated Learning for Vehicular Network Security: Anomaly Detection Benefits and Multi-Domain Attack Threats**, Utku Demir et.al., Paper: [http://arxiv.org/abs/2505.23706](http://arxiv.org/abs/2505.23706)
+- 2025-05-29, **Merge Hijacking: Backdoor Attacks to Model Merging of Large Language Models**, Zenghui Yuan et.al., Paper: [http://arxiv.org/abs/2505.23561](http://arxiv.org/abs/2505.23561)
+- 2025-05-29, **DyePack: Provably Flagging Test Set Contamination in LLMs Using Backdoors**, Yize Cheng et.al., Paper: [http://arxiv.org/abs/2505.23001](http://arxiv.org/abs/2505.23001)
 - 2025-05-29, **Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach**, Huazi Pan et.al., Paper: [http://arxiv.org/abs/2505.16403](http://arxiv.org/abs/2505.16403)
 <p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
@@ -1137,8 +1145,18 @@
 
 ## Data privacy
 
+<h3>2025-05-29</h3>
+
+- 2025-05-29, **Position: Federated Foundation Language Model Post-Training Should Focus on Open-Source Models**, Nikita Agrawal et.al., Paper: [http://arxiv.org/abs/2505.23593](http://arxiv.org/abs/2505.23593)
+- 2025-05-29, **Does Machine Unlearning Truly Remove Model Knowledge? A Framework for Auditing Unlearning in LLMs**, Haokun Chen et.al., Paper: [http://arxiv.org/abs/2505.23270](http://arxiv.org/abs/2505.23270)
+- 2025-05-29, **Loss-Guided Model Sharing and Local Learning Correction in Decentralized Federated Learning for Crop Disease Classification**, Denis Mamba Kabala et.al., Paper: [http://arxiv.org/abs/2505.23063](http://arxiv.org/abs/2505.23063)
+- 2025-05-29, **Deep Modeling and Optimization of Medical Image Classification**, Yihang Wu et.al., Paper: [http://arxiv.org/abs/2505.23040](http://arxiv.org/abs/2505.23040)
+- 2025-05-29, **EL4NER: Ensemble Learning for Named Entity Recognition via Multiple Small-Parameter Large Language Models**, Yuzhen Xiao et.al., Paper: [http://arxiv.org/abs/2505.23038](http://arxiv.org/abs/2505.23038)
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
+
 <h3>2025-05-28</h3>
 
+- 2025-05-28, **TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE**, Tong Sun et.al., Paper: [http://arxiv.org/abs/2505.22735](http://arxiv.org/abs/2505.22735)
 - 2025-05-28, **Evolution of repositories and privacy laws: commit activities in the GDPR and CCPA era**, Georgia M. Kapitsaki et.al., Paper: [http://arxiv.org/abs/2505.22234](http://arxiv.org/abs/2505.22234)
 <p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
@@ -1746,6 +1764,7 @@
 
 <h3>2025-05-29</h3>
 
+- 2025-05-29, **Few-Shot Speech Deepfake Detection Adaptation with Gaussian Processes**, Neta Glazer et.al., Paper: [http://arxiv.org/abs/2505.23619](http://arxiv.org/abs/2505.23619)
 - 2025-05-29, **Beyond Face Swapping: A Diffusion-Based Digital Human Benchmark for Multimodal Deepfake Detection**, Jiaxin Liu et.al., Paper: [http://arxiv.org/abs/2505.16512](http://arxiv.org/abs/2505.16512)
 <p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
@@ -2101,6 +2120,26 @@
 
 <h3>2025-05-29</h3>
 
+- 2025-05-29, **From Chat Logs to Collective Insights: Aggregative Question Answering**, Wentao Zhang et.al., Paper: [http://arxiv.org/abs/2505.23765](http://arxiv.org/abs/2505.23765)
+- 2025-05-29, **DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning**, Ziyin Zhang et.al., Paper: [http://arxiv.org/abs/2505.23754](http://arxiv.org/abs/2505.23754)
+- 2025-05-29, **ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks**, Akashah Shabbir et.al., Paper: [http://arxiv.org/abs/2505.23752](http://arxiv.org/abs/2505.23752)
+- 2025-05-29, **MAGREF: Masked Guidance for Any-Reference Video Generation**, Yufan Deng et.al., Paper: [http://arxiv.org/abs/2505.23742](http://arxiv.org/abs/2505.23742)
+- 2025-05-29, **Bounded Rationality for LLMs: Satisficing Alignment at Inference-Time**, Mohamad Chehade et.al., Paper: [http://arxiv.org/abs/2505.23729](http://arxiv.org/abs/2505.23729)
+- 2025-05-29, **MuLoCo: Muon is a practical inner optimizer for DiLoCo**, Benjamin Thérien et.al., Paper: [http://arxiv.org/abs/2505.23725](http://arxiv.org/abs/2505.23725)
+- 2025-05-29, **SC-LoRA: Balancing Efficient Fine-tuning and Knowledge Preservation via Subspace-Constrained LoRA**, Minrui Luo et.al., Paper: [http://arxiv.org/abs/2505.23724](http://arxiv.org/abs/2505.23724)
+- 2025-05-29, **ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering**, Zexi Liu et.al., Paper: [http://arxiv.org/abs/2505.23723](http://arxiv.org/abs/2505.23723)
+- 2025-05-29, **Label-Guided In-Context Learning for Named Entity Recognition**, Fan Bai et.al., Paper: [http://arxiv.org/abs/2505.23722](http://arxiv.org/abs/2505.23722)
+- 2025-05-29, **Don't Take the Premise for Granted: Evaluating the Premise Critique Ability of Large Language Models**, Jinzhe Li et.al., Paper: [http://arxiv.org/abs/2505.23715](http://arxiv.org/abs/2505.23715)
+- 2025-05-29, **SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models**, Zixiang Xu et.al., Paper: [http://arxiv.org/abs/2505.23713](http://arxiv.org/abs/2505.23713)
+- 2025-05-29, **Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability**, Ruida Wang et.al., Paper: [http://arxiv.org/abs/2505.23703](http://arxiv.org/abs/2505.23703)
+- 2025-05-29, **Can LLMs Reason Abstractly Over Math Word Problems Without CoT? Disentangling Abstract Formulation From Arithmetic Computation**, Ziling Cheng et.al., Paper: [http://arxiv.org/abs/2505.23701](http://arxiv.org/abs/2505.23701)
+- 2025-05-29, **Data-to-Dashboard: Multi-Agent LLM Framework for Insightful Visualization in Enterprise Analytics**, Ran Zhang et.al., Paper: [http://arxiv.org/abs/2505.23695](http://arxiv.org/abs/2505.23695)
+- 2025-05-29, **VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC Videos**, Tingyu Song et.al., Paper: [http://arxiv.org/abs/2505.23693](http://arxiv.org/abs/2505.23693)
+- 2025-05-29, **ToolHaystack: Stress-Testing Tool-Augmented Language Models in Realistic Long-Term Interactions**, Beong-woo Kwak et.al., Paper: [http://arxiv.org/abs/2505.23662](http://arxiv.org/abs/2505.23662)
+- 2025-05-29, **OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**, Size Wu et.al., Paper: [http://arxiv.org/abs/2505.23661](http://arxiv.org/abs/2505.23661)
+- 2025-05-29, **Active Layer-Contrastive Decoding Reduces Hallucination in Large Language Model Generation**, Hongxiang Zhang et.al., Paper: [http://arxiv.org/abs/2505.23657](http://arxiv.org/abs/2505.23657)
+- 2025-05-29, **ARC: Argument Representation and Coverage Analysis for Zero-Shot Long Document Summarization with Instruction Following LLMs**, Mohamed Elaraby et.al., Paper: [http://arxiv.org/abs/2505.23654](http://arxiv.org/abs/2505.23654)
+- 2025-05-29, **How does Transformer Learn Implicit Reasoning?**, Jiaran Ye et.al., Paper: [http://arxiv.org/abs/2505.23653](http://arxiv.org/abs/2505.23653)
 - 2025-05-29, **Agent-UniRAG: A Trainable Open-Source LLM Agent Framework for Unified Retrieval-Augmented Generation Systems**, Hoang Pham et.al., Paper: [http://arxiv.org/abs/2505.22571](http://arxiv.org/abs/2505.22571)
 <p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
