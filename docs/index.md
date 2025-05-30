@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-05-29</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-29</b></td>
+    <td><b>The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector</b></td>
+    <td>Aixuan Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.22499">2505.22499</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-28</h3>
 
 <table>
@@ -41,13 +63,6 @@ layout: default
     <td><b>Adversarially Robust AI-Generated Image Detection for Free: An Information Theoretic Perspective</b></td>
     <td>Ruixuan Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.22604">2505.22604</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-28</b></td>
-    <td><b>The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector</b></td>
-    <td>Aixuan Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.22499">2505.22499</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -3001,6 +3016,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-05-29</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-29</b></td>
+    <td><b>Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach</b></td>
+    <td>Huazi Pan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16403">2505.16403</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-28</h3>
 
 <table>
@@ -3192,13 +3229,6 @@ layout: default
     <td><b>BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization</b></td>
     <td>Xueyang Zhou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.16640">2505.16640</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-22</b></td>
-    <td><b>Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach</b></td>
-    <td>Huazi Pan et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.16403">2505.16403</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -8637,6 +8667,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-05-29</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-29</b></td>
+    <td><b>Beyond Face Swapping: A Diffusion-Based Digital Human Benchmark for Multimodal Deepfake Detection</b></td>
+    <td>Jiaxin Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16512">2505.16512</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-28</h3>
 
 <table>
@@ -8822,13 +8874,6 @@ layout: default
     <td><b>Do DeepFake Attribution Models Generalize?</b></td>
     <td>Spiros Baxavanakis et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.21520">2505.21520</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-22</b></td>
-    <td><b>Beyond Face Swapping: A Diffusion-Based Digital Human Benchmark for Multimodal Deepfake Detection</b></td>
-    <td>Jiaxin Liu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.16512">2505.16512</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -10296,6 +10341,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-05-29</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-29</b></td>
+    <td><b>Agent-UniRAG: A Trainable Open-Source LLM Agent Framework for Unified Retrieval-Augmented Generation Systems</b></td>
+    <td>Hoang Pham et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.22571">2505.22571</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-28</h3>
 
 <table>
@@ -10426,13 +10493,6 @@ layout: default
     <td><b>Fusion Steering: Prompt-Specific Activation Control</b></td>
     <td>Waldemar Chang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.22572">2505.22572</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-28</b></td>
-    <td><b>Agent-UniRAG: A Trainable Open-Source LLM Agent Framework for Unified Retrieval-Augmented Generation Systems</b></td>
-    <td>Hoang Pham et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.22571">2505.22571</a></td>
     <td>null</td>
        </tr>
        <tr>
