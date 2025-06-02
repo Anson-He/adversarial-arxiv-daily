@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-05-30</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-30</b></td>
+    <td><b>Adversarially Robust AI-Generated Image Detection for Free: An Information Theoretic Perspective</b></td>
+    <td>Ruixuan Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.22604">2505.22604</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-29</h3>
 
 <table>
@@ -41,7 +63,7 @@ layout: default
     <td><b>SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM Agents</b></td>
     <td>Kunlun Zhu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.23559">2505.23559</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ulab-uiuc/safescientist)**</td>
        </tr>
        <tr>
     <td><b>2025-05-29</b></td>
@@ -62,7 +84,7 @@ layout: default
     <td><b>Adversarial Semantic and Label Perturbation Attack for Pedestrian Attribute Recognition</b></td>
     <td>Weizhe Kong et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.23313">2505.23313</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/event-ahu/openpar)**</td>
        </tr>
        <tr>
     <td><b>2025-05-29</b></td>
@@ -93,13 +115,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-05-28</b></td>
-    <td><b>Adversarially Robust AI-Generated Image Detection for Free: An Information Theoretic Perspective</b></td>
-    <td>Ruixuan Zhang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.22604">2505.22604</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2025-05-28</b></td>
     <td><b>Understanding Adversarial Training with Energy-based Models</b></td>
@@ -5719,7 +5734,7 @@ layout: default
 
 ## Data privacy
 
-<h3>2025-05-29</h3>
+<h3>2025-05-30</h3>
 
 <table>
    <thead>
@@ -5733,12 +5748,27 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-05-29</b></td>
+    <td><b>2025-05-30</b></td>
     <td><b>Position: Federated Foundation Language Model Post-Training Should Focus on Open-Source Models</b></td>
     <td>Nikita Agrawal et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.23593">2505.23593</a></td>
     <td>null</td>
        </tr>
+   </tbody>
+</table>
+<h3>2025-05-29</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
        <tr>
     <td><b>2025-05-29</b></td>
     <td><b>Does Machine Unlearning Truly Remove Model Knowledge? A Framework for Auditing Unlearning in LLMs</b></td>
@@ -5758,7 +5788,7 @@ layout: default
     <td><b>Deep Modeling and Optimization of Medical Image Classification</b></td>
     <td>Yihang Wu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.23040">2505.23040</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/aipmlab/skincancersimulation)**</td>
        </tr>
        <tr>
     <td><b>2025-05-29</b></td>
@@ -10461,6 +10491,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-05-30</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-30</b></td>
+    <td><b>OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation</b></td>
+    <td>Size Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.23661">2505.23661</a></td>
+    <td>**[link](https://github.com/wusize/openuni)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-29</h3>
 
 <table>
@@ -10486,21 +10538,21 @@ layout: default
     <td><b>DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning</b></td>
     <td>Ziyin Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.23754">2505.23754</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jiahao004/deeptheorem)**</td>
        </tr>
        <tr>
     <td><b>2025-05-29</b></td>
     <td><b>ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks</b></td>
     <td>Akashah Shabbir et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.23752">2505.23752</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mbzuai-oryx/thinkgeo)**</td>
        </tr>
        <tr>
     <td><b>2025-05-29</b></td>
     <td><b>MAGREF: Masked Guidance for Any-Reference Video Generation</b></td>
     <td>Yufan Deng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.23742">2505.23742</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/magref-video/magref)**</td>
        </tr>
        <tr>
     <td><b>2025-05-29</b></td>
@@ -10528,28 +10580,28 @@ layout: default
     <td><b>ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering</b></td>
     <td>Zexi Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.23723">2505.23723</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/zeroxleo/ml-agent)**</td>
        </tr>
        <tr>
     <td><b>2025-05-29</b></td>
     <td><b>Label-Guided In-Context Learning for Named Entity Recognition</b></td>
     <td>Fan Bai et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.23722">2505.23722</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/bflashcp3f/deer)**</td>
        </tr>
        <tr>
     <td><b>2025-05-29</b></td>
     <td><b>Don't Take the Premise for Granted: Evaluating the Premise Critique Ability of Large Language Models</b></td>
     <td>Jinzhe Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.23715">2505.23715</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/mlgroupjlu/premise_critique)**</td>
        </tr>
        <tr>
     <td><b>2025-05-29</b></td>
     <td><b>SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models</b></td>
     <td>Zixiang Xu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.23713">2505.23713</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/xzx34/socialmaze)**</td>
        </tr>
        <tr>
     <td><b>2025-05-29</b></td>
@@ -10570,27 +10622,20 @@ layout: default
     <td><b>Data-to-Dashboard: Multi-Agent LLM Framework for Insightful Visualization in Enterprise Analytics</b></td>
     <td>Ran Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.23695">2505.23695</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/77luvc/d2d_data2dashboard)**</td>
        </tr>
        <tr>
     <td><b>2025-05-29</b></td>
     <td><b>VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC Videos</b></td>
     <td>Tingyu Song et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.23693">2505.23693</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/sighingsnow/vf-eval)**</td>
        </tr>
        <tr>
     <td><b>2025-05-29</b></td>
     <td><b>ToolHaystack: Stress-Testing Tool-Augmented Language Models in Realistic Long-Term Interactions</b></td>
     <td>Beong-woo Kwak et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.23662">2505.23662</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-29</b></td>
-    <td><b>OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation</b></td>
-    <td>Size Wu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.23661">2505.23661</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -10612,7 +10657,7 @@ layout: default
     <td><b>How does Transformer Learn Implicit Reasoning?</b></td>
     <td>Jiaran Ye et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.23653">2505.23653</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jiaran-ye/implicitreasoning)**</td>
        </tr>
        <tr>
     <td><b>2025-05-29</b></td>
