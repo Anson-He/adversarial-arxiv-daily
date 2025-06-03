@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-05-31</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-31</b></td>
+    <td><b>Practical Adversarial Attacks on Stochastic Bandits via Fake Data Injection</b></td>
+    <td>Qirun Zeng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.21938">2505.21938</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-30</h3>
 
 <table>
@@ -176,13 +198,6 @@ layout: default
     <td><b>Seeing the Threat: Vulnerabilities in Vision-Language Models to Adversarial Attack</b></td>
     <td>Juan Ren et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.21967">2505.21967</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-28</b></td>
-    <td><b>Practical Adversarial Attacks on Stochastic Bandits via Fake Data Injection</b></td>
-    <td>Qirun Zeng et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.21938">2505.21938</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -3115,6 +3130,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-05-31</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-31</b></td>
+    <td><b>Security Concerns for Large Language Models: A Survey</b></td>
+    <td>Miles Q. Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.18889">2505.18889</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-30</h3>
 
 <table>
@@ -3308,13 +3345,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-05-24</b></td>
-    <td><b>Security Concerns for Large Language Models: A Survey</b></td>
-    <td>Miles Q. Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.18889">2505.18889</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2025-05-24</b></td>
     <td><b>Benchmarking Poisoning Attacks against Retrieval-Augmented Generation</b></td>
@@ -8952,6 +8982,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-05-31</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-05-31</b></td>
+    <td><b>Beyond Face Swapping: A Diffusion-Based Digital Human Benchmark for Multimodal Deepfake Detection</b></td>
+    <td>Jiaxin Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16512">2505.16512</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-30</h3>
 
 <table>
@@ -9006,13 +9058,6 @@ layout: default
     <td><b>Few-Shot Speech Deepfake Detection Adaptation with Gaussian Processes</b></td>
     <td>Neta Glazer et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.23619">2505.23619</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-29</b></td>
-    <td><b>Beyond Face Swapping: A Diffusion-Based Digital Human Benchmark for Multimodal Deepfake Detection</b></td>
-    <td>Jiaxin Liu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.16512">2505.16512</a></td>
     <td>null</td>
        </tr>
    </tbody>
