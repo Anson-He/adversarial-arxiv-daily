@@ -1802,6 +1802,11 @@
 
 ## Forensics
 
+<h3>2025-06-01</h3>
+
+- 2025-06-01, **Replay Attacks Against Audio Deepfake Detection**, Nicolas Müller et.al., Paper: [http://arxiv.org/abs/2505.14862](http://arxiv.org/abs/2505.14862)
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+
 <h3>2025-05-31</h3>
 
 - 2025-05-31, **Beyond Face Swapping: A Diffusion-Based Digital Human Benchmark for Multimodal Deepfake Detection**, Jiaxin Liu et.al., Paper: [http://arxiv.org/abs/2505.16512](http://arxiv.org/abs/2505.16512)
@@ -1868,7 +1873,6 @@
 
 <h3>2025-05-20</h3>
 
-- 2025-05-20, **Replay Attacks Against Audio Deepfake Detection**, Nicolas Müller et.al., Paper: [http://arxiv.org/abs/2505.14862](http://arxiv.org/abs/2505.14862)
 - 2025-05-20, **Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing**, Yang Xiao et.al., Paper: [http://arxiv.org/abs/2505.14601](http://arxiv.org/abs/2505.14601)
 - 2025-05-20, **Source Verification for Speech Deepfakes**, Viola Negroni et.al., Paper: [http://arxiv.org/abs/2505.14188](http://arxiv.org/abs/2505.14188)
 - 2025-05-20, **Naturalness-Aware Curriculum Learning with Dynamic Temperature for Speech Deepfake Detection**, Taewoo Kim et.al., Paper: [http://arxiv.org/abs/2505.13976](http://arxiv.org/abs/2505.13976)
@@ -2169,6 +2173,11 @@
 
 ## AIGC
 
+<h3>2025-06-02</h3>
+
+- 2025-06-02, **Guiding Generative Storytelling with Knowledge Graphs**, Zhijun Pan et.al., Paper: [http://arxiv.org/abs/2505.24803](http://arxiv.org/abs/2505.24803)
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+
 <h3>2025-05-30</h3>
 
 - 2025-05-30, **Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**, Yaxin Luo et.al., Paper: [http://arxiv.org/abs/2505.24878](http://arxiv.org/abs/2505.24878)
@@ -2188,7 +2197,6 @@
 - 2025-05-30, **Improving Reliability and Explainability of Medical Question Answering through Atomic Fact Checking in Retrieval-Augmented LLMs**, Juraj Vladika et.al., Paper: [http://arxiv.org/abs/2505.24830](http://arxiv.org/abs/2505.24830)
 - 2025-05-30, **LegalEval-Q: A New Benchmark for The Quality Evaluation of LLM-Generated Legal Text**, Li yunhan et.al., Paper: [http://arxiv.org/abs/2505.24826](http://arxiv.org/abs/2505.24826)
 - 2025-05-30, **PhySense: Principle-Based Physics Reasoning Benchmarking for Large Language Models**, Yinggan Xu et.al., Paper: [http://arxiv.org/abs/2505.24823](http://arxiv.org/abs/2505.24823)
-- 2025-05-30, **Guiding Generative Storytelling with Knowledge Graphs**, Zhijun Pan et.al., Paper: [http://arxiv.org/abs/2505.24803](http://arxiv.org/abs/2505.24803)
 - 2025-05-30, **Inference Acceleration of Autoregressive Normalizing Flows by Selective Jacobi Decoding**, Jiaru Zhang et.al., Paper: [http://arxiv.org/abs/2505.24791](http://arxiv.org/abs/2505.24791)
 - 2025-05-30, **Drop Dropout on Single-Epoch Language Model Pretraining**, Houjun Liu et.al., Paper: [http://arxiv.org/abs/2505.24788](http://arxiv.org/abs/2505.24788)
 - 2025-05-30, **OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**, Size Wu et.al., Paper: [http://arxiv.org/abs/2505.23661](http://arxiv.org/abs/2505.23661), Code: **[https://github.com/wusize/openuni](https://github.com/wusize/openuni)**

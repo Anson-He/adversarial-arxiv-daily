@@ -8982,6 +8982,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-06-01</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-01</b></td>
+    <td><b>Replay Attacks Against Audio Deepfake Detection</b></td>
+    <td>Nicolas Müller et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.14862">2505.14862</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-31</h3>
 
 <table>
@@ -9300,13 +9322,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-05-20</b></td>
-    <td><b>Replay Attacks Against Audio Deepfake Detection</b></td>
-    <td>Nicolas Müller et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.14862">2505.14862</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2025-05-20</b></td>
     <td><b>Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing</b></td>
@@ -10714,6 +10729,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-06-02</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-02</b></td>
+    <td><b>Guiding Generative Storytelling with Knowledge Graphs</b></td>
+    <td>Zhijun Pan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.24803">2505.24803</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-05-30</h3>
 
 <table>
@@ -10844,13 +10881,6 @@ layout: default
     <td><b>PhySense: Principle-Based Physics Reasoning Benchmarking for Large Language Models</b></td>
     <td>Yinggan Xu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.24823">2505.24823</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-30</b></td>
-    <td><b>Guiding Generative Storytelling with Knowledge Graphs</b></td>
-    <td>Zhijun Pan et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.24803">2505.24803</a></td>
     <td>null</td>
        </tr>
        <tr>
