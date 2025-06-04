@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -8982,6 +8982,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-06-03</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-03</b></td>
+    <td><b>Beyond Face Swapping: A Diffusion-Based Digital Human Benchmark for Multimodal Deepfake Detection</b></td>
+    <td>Jiaxin Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.16512">2505.16512</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-01</h3>
 
 <table>
@@ -9000,28 +9022,6 @@ layout: default
     <td><b>Replay Attacks Against Audio Deepfake Detection</b></td>
     <td>Nicolas Müller et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.14862">2505.14862</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-05-31</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-05-31</b></td>
-    <td><b>Beyond Face Swapping: A Diffusion-Based Digital Human Benchmark for Multimodal Deepfake Detection</b></td>
-    <td>Jiaxin Liu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.16512">2505.16512</a></td>
     <td>null</td>
        </tr>
    </tbody>
