@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -3315,6 +3315,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-06-04</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-04</b></td>
+    <td><b>DyePack: Provably Flagging Test Set Contamination in LLMs Using Backdoors</b></td>
+    <td>Yize Cheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.23001">2505.23001</a></td>
+    <td>**[link](https://github.com/chengez/DyePack)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-03</h3>
 
 <table>
@@ -3334,13 +3356,6 @@ layout: default
     <td>Bogdan Chornomaz et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.03075">2506.03075</a></td>
     <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-03</b></td>
-    <td><b>DyePack: Provably Flagging Test Set Contamination in LLMs Using Backdoors</b></td>
-    <td>Yize Cheng et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.23001">2505.23001</a></td>
-    <td>**[link](https://github.com/chengez/DyePack)**</td>
        </tr>
    </tbody>
 </table>
@@ -5236,7 +5251,7 @@ layout: default
 
 ## Generative models safety
 
-<h3>2025-06-03</h3>
+<h3>2025-06-04</h3>
 
 <table>
    <thead>
@@ -5250,7 +5265,7 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-06-03</b></td>
+    <td><b>2025-06-04</b></td>
     <td><b>Should LLM Safety Be More Than Refusing Harmful Instructions?</b></td>
     <td>Utsav Maskey et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.02442">2506.02442</a></td>
@@ -6201,7 +6216,7 @@ layout: default
 
 ## Data privacy
 
-<h3>2025-06-03</h3>
+<h3>2025-06-04</h3>
 
 <table>
    <thead>
@@ -6215,12 +6230,27 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-06-03</b></td>
-    <td><b>Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs</b></td>
+    <td><b>2025-06-04</b></td>
+    <td><b>PC-MoE: Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs</b></td>
     <td>Ze Yu Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.02965">2506.02965</a></td>
     <td>null</td>
        </tr>
+   </tbody>
+</table>
+<h3>2025-06-03</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
        <tr>
     <td><b>2025-06-03</b></td>
     <td><b>An Algorithmic Pipeline for GDPR-Compliant Healthcare Data Anonymisation: Moving Toward Standardisation</b></td>
@@ -11303,6 +11333,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-06-04</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-04</b></td>
+    <td><b>Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback</b></td>
+    <td>Xiaoying Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.03106">2506.03106</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-03</h3>
 
 <table>
@@ -11363,13 +11415,6 @@ layout: default
     <td><b>AUTOCIRCUIT-RL: Reinforcement Learning-Driven LLM for Automated Circuit Topology Generation</b></td>
     <td>Prashanth Vijayaraghavan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.03122">2506.03122</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-03</b></td>
-    <td><b>Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback</b></td>
-    <td>Xiaoying Zhang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.03106">2506.03106</a></td>
     <td>null</td>
        </tr>
        <tr>
