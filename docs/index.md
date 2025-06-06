@@ -38,6 +38,48 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-06-05</b></td>
+    <td><b>Identifying and Understanding Cross-Class Features in Adversarial Training</b></td>
+    <td>Zeming Wei et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05032">2506.05032</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Robustness as Architecture: Designing IQA Models to Withstand Adversarial Perturbations</b></td>
+    <td>Igor Meleshin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.04951">2506.04951</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Fool the Stoplight: Realistic Adversarial Patch Attacks on Traffic Light Detectors</b></td>
+    <td>Svetlana Pavlitska et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.04823">2506.04823</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Influence Functions for Edge Edits in Non-Convex Graph Neural Networks</b></td>
+    <td>Jaeseung Heo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.04694">2506.04694</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Towards Better Generalization via Distributional Input Projection Network</b></td>
+    <td>Yifan Hao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.04690">2506.04690</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Normative Conflicts and Shallow AI Alignment</b></td>
+    <td>Raphaël Millière et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.04679">2506.04679</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
     <td><b>RAID: A Dataset for Testing the Adversarial Robustness of AI-Generated Image Detectors</b></td>
     <td>Hicham Eddoubi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.03988">2506.03988</a></td>
@@ -94,6 +136,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-06-03</b></td>
+    <td><b>Dynamic Epsilon Scheduling: A Multi-Factor Adaptive Perturbation Budget for Adversarial Training</b></td>
+    <td>Alan Mitkiy et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.04263">2506.04263</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-06-03</b></td>
     <td><b>Adversarial Attacks on Robotic Vision Language Action Models</b></td>
@@ -3380,6 +3429,42 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-06-05</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking</b></td>
+    <td>Yu-Feng Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.04879">2506.04879</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>SRD: Reinforcement-Learned Semantic Perturbation for Backdoor Defense in VLMs</b></td>
+    <td>Shuhan Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.04743">2506.04743</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem</b></td>
+    <td>Hao Song et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.02040">2506.02040</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-04</h3>
 
 <table>
@@ -3487,13 +3572,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-05-31</b></td>
-    <td><b>Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem</b></td>
-    <td>Hao Song et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.02040">2506.02040</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2025-05-31</b></td>
     <td><b>Security Concerns for Large Language Models: A Survey</b></td>
@@ -5330,6 +5408,35 @@ layout: default
 
 ## Generative models safety
 
+<h3>2025-06-05</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets</b></td>
+    <td>Lei Hsiung et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05346">2506.05346</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Evaluating Prompt-Driven Chinese Large Language Models: The Influence of Persona Assignment on Stereotypes and Safeguards</b></td>
+    <td>Geng Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.04975">2506.04975</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-04</h3>
 
 <table>
@@ -6295,6 +6402,35 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-06-05</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Federated Isolation Forest for Efficient Anomaly Detection on Edge IoT Systems</b></td>
+    <td>Pavle Vasiljevic et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05138">2506.05138</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Software Bill of Materials in Software Supply Chain Security A Systematic Literature Review</b></td>
+    <td>Eric O'Donoghue et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.03507">2506.03507</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-04</h3>
 
 <table>
@@ -6313,13 +6449,6 @@ layout: default
     <td><b>Privacy and Security Threat for OpenAI GPTs</b></td>
     <td>Wei Wenying et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.04036">2506.04036</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-04</b></td>
-    <td><b>Software Bill of Materials in Software Supply Chain Security A Systematic Literature Review</b></td>
-    <td>Eric O'Donoghue et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.03507">2506.03507</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -9637,9 +9766,38 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-06-05</b></td>
+    <td><b>Practical Manipulation Model for Robust Deepfake Detection</b></td>
+    <td>Benedikt Hopf et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05119">2506.05119</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
     <td><b>STOPA: A Database of Systematic VariaTion Of DeePfake Audio for Open-Set Source Tracing and Attribution</b></td>
     <td>Anton Firc et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.19644">2505.19644</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-06-04</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-04</b></td>
+    <td><b>AuthGuard: Generalizable Deepfake Detection via Language Guidance</b></td>
+    <td>Guangyu Shen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.04501">2506.04501</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -11477,6 +11635,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-06-05</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets</b></td>
+    <td>Lei Hsiung et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05346">2506.05346</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Inference-Time Hyper-Scaling with KV Cache Compression</b></td>
+    <td>Adrian Łańcucki et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05345">2506.05345</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs</b></td>
+    <td>Jiahui Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05344">2506.05344</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>ContentV: Efficient Training of Video Generation Models with Limited Compute</b></td>
+    <td>Wenfeng Lin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05343">2506.05343</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning</b></td>
+    <td>Xingjian Ran et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05341">2506.05341</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>VideoMolmo: Spatio-Temporal Grounding Meets Pointing</b></td>
+    <td>Ghazi Shazan Ahmad et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05336">2506.05336</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Search Arena: Analyzing Search-Augmented LLMs</b></td>
+    <td>Mihran Miroyan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05334">2506.05334</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Unleashing Hour-Scale Video Training for Long Video-Language Understanding</b></td>
+    <td>Jingyang Lin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05332">2506.05332</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>MINT-CoT: Enabling Interleaved Visual Tokens in Mathematical Chain-of-Thought Reasoning</b></td>
+    <td>Xinyan Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05331">2506.05331</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>LSM-2: Learning from Incomplete Wearable Sensor Data</b></td>
+    <td>Maxwell A. Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05321">2506.05321</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay</b></td>
+    <td>Yifan Sun et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05316">2506.05316</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models</b></td>
+    <td>Taha Entesari et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05314">2506.05314</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Learning normalized image densities via dual score matching</b></td>
+    <td>Florentin Guth et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05310">2506.05310</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games</b></td>
+    <td>Niv Eckhaus et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05309">2506.05309</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>ProRefine: Inference-time Prompt Refinement with Textual Feedback</b></td>
+    <td>Deepak Pandita et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05305">2506.05305</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos</b></td>
+    <td>Weifeng Lin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05302">2506.05302</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Sample Complexity and Representation Ability of Test-time Scaling Paradigms</b></td>
+    <td>Baihe Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05295">2506.05295</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>Micro-Act: Mitigate Knowledge Conflict in Question Answering via Actionable Self-Reasoning</b></td>
+    <td>Nan Huo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05278">2506.05278</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>How to Unlock Time Series Editing? Diffusion-Driven Approach with Multi-Grained Control</b></td>
+    <td>Hao Yu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05276">2506.05276</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos</b></td>
+    <td>Animesh Gupta et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05274">2506.05274</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-04</h3>
 
 <table>
