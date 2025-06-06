@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,7 +23,7 @@ layout: default
 
 ## Adversarial attacks
 
-<h3>2025-06-04</h3>
+<h3>2025-06-05</h3>
 
 <table>
    <thead>
@@ -37,12 +37,27 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-06-04</b></td>
+    <td><b>2025-06-05</b></td>
     <td><b>RAID: A Dataset for Testing the Adversarial Robustness of AI-Generated Image Detectors</b></td>
     <td>Hicham Eddoubi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.03988">2506.03988</a></td>
     <td>null</td>
        </tr>
+   </tbody>
+</table>
+<h3>2025-06-04</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
        <tr>
     <td><b>2025-06-04</b></td>
     <td><b>Prediction Inconsistency Helps Achieve Generalizable Detection of Adversarial Examples</b></td>
@@ -105,7 +120,7 @@ layout: default
     <td><b>Tarallo: Evading Behavioral Malware Detectors in the Problem Space</b></td>
     <td>Gabriele Digregorio et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.02660">2506.02660</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/necst/Tarallo)**</td>
        </tr>
        <tr>
     <td><b>2025-06-03</b></td>
@@ -9607,6 +9622,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-06-05</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-05</b></td>
+    <td><b>STOPA: A Database of Systematic VariaTion Of DeePfake Audio for Open-Set Source Tracing and Attribution</b></td>
+    <td>Anton Firc et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.19644">2505.19644</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-03</h3>
 
 <table>
@@ -9864,13 +9901,6 @@ layout: default
     <td><b>ArVoice: A Multi-Speaker Dataset for Arabic Speech Synthesis</b></td>
     <td>Hawau Olamide Toyin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.20506">2505.20506</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-26</b></td>
-    <td><b>STOPA: A Database of Systematic VariaTion Of DeePfake Audio for Open-Set Source Tracing and Attribution</b></td>
-    <td>Anton Firc et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.19644">2505.19644</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -11465,7 +11495,7 @@ layout: default
     <td><b>Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector</b></td>
     <td>Boyong He et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.04211">2506.04211</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/heboyong/Diffusion-Domain-Teacher)**</td>
        </tr>
        <tr>
     <td><b>2025-06-04</b></td>
