@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.06
+## Updated on 2025.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -183,7 +183,7 @@ layout: default
     <td><b>Adversarial control of synchronization in complex oscillator networks</b></td>
     <td>Yasutoshi Nagahama et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.02403">2506.02403</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/kztakemoto/advSync)**</td>
        </tr>
        <tr>
     <td><b>2025-06-03</b></td>
@@ -11744,7 +11744,7 @@ layout: default
     <td><b>Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games</b></td>
     <td>Niv Eckhaus et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.05309">2506.05309</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/niveck/LLMafia)**</td>
        </tr>
        <tr>
     <td><b>2025-06-05</b></td>
