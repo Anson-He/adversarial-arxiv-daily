@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.07
+## Updated on 2025.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -9993,7 +9993,7 @@ layout: default
     <td><b>Few-Shot Speech Deepfake Detection Adaptation with Gaussian Processes</b></td>
     <td>Neta Glazer et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.23619">2505.23619</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/NetaGlazer/ADD-GP)**</td>
        </tr>
    </tbody>
 </table>
