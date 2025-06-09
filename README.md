@@ -19,10 +19,19 @@
 
 ## Adversarial attacks
 
+<h3>2025-06-06</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-06**|**SATversary: Adversarial Attacks on Satellite Fingerprinting**|Joshua Smailes et.al.|[2506.06119](http://arxiv.org/abs/2506.06119)|null|
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+
 <h3>2025-06-05</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Efficient Robust Conformal Prediction via Lipschitz-Bounded Networks**|Thomas Massena et.al.|[2506.05434](http://arxiv.org/abs/2506.05434)|null|
+|**2025-06-05**|**Explainer-guided Targeted Adversarial Attacks against Binary Code Similarity Detection Models**|Mingjie Chen et.al.|[2506.05430](http://arxiv.org/abs/2506.05430)|null|
 |**2025-06-05**|**Identifying and Understanding Cross-Class Features in Adversarial Training**|Zeming Wei et.al.|[2506.05032](http://arxiv.org/abs/2506.05032)|null|
 |**2025-06-05**|**Robustness as Architecture: Designing IQA Models to Withstand Adversarial Perturbations**|Igor Meleshin et.al.|[2506.04951](http://arxiv.org/abs/2506.04951)|null|
 |**2025-06-05**|**Fool the Stoplight: Realistic Adversarial Patch Attacks on Traffic Light Detectors**|Svetlana Pavlitska et.al.|[2506.04823](http://arxiv.org/abs/2506.04823)|null|
@@ -36,6 +45,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Poisoning Behavioral-based Worker Selection in Mobile Crowdsensing using Generative Adversarial Networks**|Ruba Nasser et.al.|[2506.05403](http://arxiv.org/abs/2506.05403)|null|
+|**2025-06-04**|**Sylva: Tailoring Personalized Adversarial Defense in Pre-trained Models via Collaborative Fine-tuning**|Tianyu Qi et.al.|[2506.05402](http://arxiv.org/abs/2506.05402)|null|
 |**2025-06-04**|**Prediction Inconsistency Helps Achieve Generalizable Detection of Adversarial Examples**|Sicong Han et.al.|[2506.03765](http://arxiv.org/abs/2506.03765)|null|
 |**2025-06-04**|**Robustness of Prompting: Enhancing Robustness of Large Language Models Against Prompting Attacks**|Lin Mu et.al.|[2506.03627](http://arxiv.org/abs/2506.03627)|null|
 |**2025-06-04**|**Across Programming Language Silos: A Study on Cross-Lingual Retrieval-augmented Code Generation**|Qiming Zhu et.al.|[2506.03535](http://arxiv.org/abs/2506.03535)|null|
@@ -45,6 +56,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Attacking Attention of Foundation Models Disrupts Downstream Tasks**|Hondamunige Prasanna Silva et.al.|[2506.05394](http://arxiv.org/abs/2506.05394)|null|
 |**2025-06-03**|**Dynamic Epsilon Scheduling: A Multi-Factor Adaptive Perturbation Budget for Adversarial Training**|Alan Mitkiy et.al.|[2506.04263](http://arxiv.org/abs/2506.04263)|null|
 |**2025-06-03**|**Adversarial Attacks on Robotic Vision Language Action Models**|Eliot Krzysztof Jones et.al.|[2506.03350](http://arxiv.org/abs/2506.03350)|null|
 |**2025-06-03**|**Privacy Leaks by Adversaries: Adversarial Iterations for Membership Inference Attack**|Jing Xue et.al.|[2506.02711](http://arxiv.org/abs/2506.02711)|null|
@@ -809,6 +821,15 @@
 
 ## Poisoning attacks
 
+<h3>2025-06-06</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-06**|**Joint-GCG: Unified Gradient-Based Poisoning Attacks on Retrieval-Augmented Generation Systems**|Haowei Wang et.al.|[2506.06151](http://arxiv.org/abs/2506.06151)|null|
+|**2025-06-06**|**SATversary: Adversarial Attacks on Satellite Fingerprinting**|Joshua Smailes et.al.|[2506.06119](http://arxiv.org/abs/2506.06119)|null|
+|**2025-06-06**|**What Really is a Member? Discrediting Membership Inference via Poisoning**|Neal Mangaokar et.al.|[2506.06003](http://arxiv.org/abs/2506.06003)|null|
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+
 <h3>2025-06-05</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -822,6 +843,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Robust Anti-Backdoor Instruction Tuning in LVLMs**|Yuan Xun et.al.|[2506.05401](http://arxiv.org/abs/2506.05401)|null|
 |**2025-06-04**|**VLMs Can Aggregate Scattered Training Patches**|Zhanhui Zhou et.al.|[2506.03614](http://arxiv.org/abs/2506.03614)|null|
 |**2025-06-04**|**DyePack: Provably Flagging Test Set Contamination in LLMs Using Backdoors**|Yize Cheng et.al.|[2505.23001](http://arxiv.org/abs/2505.23001)|**[link](https://github.com/chengez/DyePack)**|
 <p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
@@ -1349,6 +1371,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Interpretation Meets Safety: A Survey on Interpretation Methods and Tools for Improving LLM Safety**|Seongmin Lee et.al.|[2506.05451](http://arxiv.org/abs/2506.05451)|null|
 |**2025-06-05**|**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets**|Lei Hsiung et.al.|[2506.05346](http://arxiv.org/abs/2506.05346)|null|
 |**2025-06-05**|**Evaluating Prompt-Driven Chinese Large Language Models: The Influence of Persona Assignment on Stereotypes and Safeguards**|Geng Liu et.al.|[2506.04975](http://arxiv.org/abs/2506.04975)|null|
 <p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
@@ -1644,6 +1667,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Towards Lifecycle Unlearning Commitment Management: Measuring Sample-level Unlearning Completeness**|Cheng-Long Wang et.al.|[2506.06112](http://arxiv.org/abs/2506.06112)|null|
+|**2025-06-06**|**Simple Yet Effective: Extracting Private Data Across Clients in Federated Fine-Tuning of Large Language Models**|Yingqi Hu et.al.|[2506.06060](http://arxiv.org/abs/2506.06060)|null|
+|**2025-06-06**|**Mitigating Catastrophic Forgetting with Adaptive Transformer Block Expansion in Federated Fine-Tuning**|Yujia Huo et.al.|[2506.05977](http://arxiv.org/abs/2506.05977)|null|
+|**2025-06-06**|**Small Models, Big Support: A Local LLM Framework for Teacher-Centric Content Creation and Assessment using RAG and CAG**|Zarreen Reza et.al.|[2506.05925](http://arxiv.org/abs/2506.05925)|null|
+|**2025-06-06**|**When Better Features Mean Greater Risks: The Performance-Privacy Trade-Off in Contrastive Learning**|Ruining Sun et.al.|[2506.05743](http://arxiv.org/abs/2506.05743)|null|
+|**2025-06-06**|**FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model**|Md Jueal Mia et.al.|[2506.05640](http://arxiv.org/abs/2506.05640)|null|
 |**2025-06-06**|**Rethinking Machine Unlearning in Image Generation Models**|Renyang Liu et.al.|[2506.02761](http://arxiv.org/abs/2506.02761)|null|
 |**2025-06-06**|**Federated Foundation Model for GI Endoscopy Images**|Alina Devkota et.al.|[2505.24108](http://arxiv.org/abs/2505.24108)|null|
 <p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
@@ -2523,10 +2552,19 @@
 
 ## Forensics
 
+<h3>2025-06-06</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-06**|**DeepFake Doctor: Diagnosing and Treating Audio-Video Fake Detection**|Marcel Klemt et.al.|[2506.05851](http://arxiv.org/abs/2506.05851)|null|
+|**2025-06-06**|**TADA: Training-free Attribution and Out-of-Domain Detection of Audio Deepfakes**|Adriana Stan et.al.|[2506.05802](http://arxiv.org/abs/2506.05802)|null|
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+
 <h3>2025-06-05</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**SocialDF: Benchmark Dataset and Detection Model for Mitigating Harmful Deepfake Content on Social Media Platforms**|Arnesh Batra et.al.|[2506.05538](http://arxiv.org/abs/2506.05538)|null|
 |**2025-06-05**|**Practical Manipulation Model for Robust Deepfake Detection**|Benedikt Hopf et.al.|[2506.05119](http://arxiv.org/abs/2506.05119)|null|
 |**2025-06-05**|**STOPA: A Database of Systematic VariaTion Of DeePfake Audio for Open-Set Source Tracing and Attribution**|Anton Firc et.al.|[2505.19644](http://arxiv.org/abs/2505.19644)|null|
 <p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
@@ -2593,6 +2631,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Speaking images. A novel framework for the automated self-description of artworks**|Valentine Bernasconi et.al.|[2506.05368](http://arxiv.org/abs/2506.05368)|null|
 |**2025-05-28**|**Tell me Habibi, is it Real or Fake?**|Kartik Kuckreja et.al.|[2505.22581](http://arxiv.org/abs/2505.22581)|null|
 <p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
@@ -3056,6 +3095,32 @@
 
 
 ## AIGC
+
+<h3>2025-06-06</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-06**|**Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**|Yuanzhe Hu et.al.|[2506.06280](http://arxiv.org/abs/2506.06280)|null|
+|**2025-06-06**|**CoMemo: LVLMs Need Image Context with Image Memory**|Shi Liu et.al.|[2506.06279](http://arxiv.org/abs/2506.06279)|null|
+|**2025-06-06**|**Distillation Robustifies Unlearning**|Bruce W. Lee et.al.|[2506.06278](http://arxiv.org/abs/2506.06278)|null|
+|**2025-06-06**|**STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis**|Jiatao Gu et.al.|[2506.06276](http://arxiv.org/abs/2506.06276)|null|
+|**2025-06-06**|**AdvSumm: Adversarial Training for Bias Mitigation in Text Summarization**|Mukur Gupta et.al.|[2506.06273](http://arxiv.org/abs/2506.06273)|null|
+|**2025-06-06**|**PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time**|Weizhi Zhang et.al.|[2506.06254](http://arxiv.org/abs/2506.06254)|null|
+|**2025-06-06**|**Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models**|Zahra Babaiee et.al.|[2506.06242](http://arxiv.org/abs/2506.06242)|null|
+|**2025-06-06**|**Bridging External and Parametric Knowledge: Mitigating Hallucination of LLMs with Shared-Private Semantic Synergy in Dual-Stream Knowledge**|Yi Sui et.al.|[2506.06240](http://arxiv.org/abs/2506.06240)|null|
+|**2025-06-06**|**CompilerGPT: Leveraging Large Language Models for Analyzing and Acting on Compiler Optimization Reports**|Peter Pirkelbauer et.al.|[2506.06227](http://arxiv.org/abs/2506.06227)|null|
+|**2025-06-06**|**PROVSYN: Synthesizing Provenance Graphs for Data Augmentation in Intrusion Detection Systems**|Yi Huang et.al.|[2506.06226](http://arxiv.org/abs/2506.06226)|null|
+|**2025-06-06**|**Can Theoretical Physics Research Benefit from Language Agents?**|Sirui Lu et.al.|[2506.06214](http://arxiv.org/abs/2506.06214)|null|
+|**2025-06-06**|**Model-Driven Graph Contrastive Learning**|Ali Azizpour et.al.|[2506.06212](http://arxiv.org/abs/2506.06212)|null|
+|**2025-06-06**|**Building Models of Neurological Language**|Henry Watkins et.al.|[2506.06208](http://arxiv.org/abs/2506.06208)|null|
+|**2025-06-06**|**Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning**|Sheng Chen et.al.|[2506.06205](http://arxiv.org/abs/2506.06205)|null|
+|**2025-06-06**|**Does It Run and Is That Enough? Revisiting Text-to-Chart Generation with a Multi-Agent Approach**|James Ford et.al.|[2506.06175](http://arxiv.org/abs/2506.06175)|null|
+|**2025-06-06**|**Technical Report for Egocentric Mistake Detection for the HoloAssist Challenge**|Constantin Patsch et.al.|[2506.06174](http://arxiv.org/abs/2506.06174)|null|
+|**2025-06-06**|**The Lock-in Hypothesis: Stagnation by Algorithm**|Tianyi Alex Qiu et.al.|[2506.06166](http://arxiv.org/abs/2506.06166)|null|
+|**2025-06-06**|**Recommender systems, stigmergy, and the tyranny of popularity**|Zackary Okun Dunivin et.al.|[2506.06162](http://arxiv.org/abs/2506.06162)|null|
+|**2025-06-06**|**ENMA: Tokenwise Autoregression for Generative Neural PDE Operators**|Armand Kassaï Koupaï et.al.|[2506.06158](http://arxiv.org/abs/2506.06158)|null|
+|**2025-06-06**|**Masked Language Models are Good Heterogeneous Graph Generalizers**|Jinyu Yang et.al.|[2506.06157](http://arxiv.org/abs/2506.06157)|null|
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 <h3>2025-06-05</h3>
 
