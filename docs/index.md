@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.08
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -6402,6 +6402,35 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-06-06</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-06</b></td>
+    <td><b>Rethinking Machine Unlearning in Image Generation Models</b></td>
+    <td>Renyang Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.02761">2506.02761</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-06</b></td>
+    <td><b>Federated Foundation Model for GI Endoscopy Images</b></td>
+    <td>Alina Devkota et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2505.24108">2505.24108</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-05</h3>
 
 <table>
@@ -6492,13 +6521,6 @@ layout: default
     <td><b>CLONE: Customizing LLMs for Efficient Latency-Aware Inference at the Edge</b></td>
     <td>Chunlin Tian et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.02847">2506.02847</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-03</b></td>
-    <td><b>Rethinking Machine Unlearning in Image Generation Models</b></td>
-    <td>Renyang Liu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.02761">2506.02761</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -6629,13 +6651,6 @@ layout: default
     <td><b>Structuring Radiology Reports: Challenging LLMs with Lightweight Models</b></td>
     <td>Johannes Moll et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.00200">2506.00200</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-05-30</b></td>
-    <td><b>Federated Foundation Model for GI Endoscopy Images</b></td>
-    <td>Alina Devkota et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2505.24108">2505.24108</a></td>
     <td>null</td>
        </tr>
        <tr>
