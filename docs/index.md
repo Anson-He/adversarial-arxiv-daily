@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -119,7 +119,7 @@ layout: default
     <td><b>RAID: A Dataset for Testing the Adversarial Robustness of AI-Generated Image Detectors</b></td>
     <td>Hicham Eddoubi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.03988">2506.03988</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/pralab/raid)**</td>
        </tr>
    </tbody>
 </table>
@@ -205,7 +205,7 @@ layout: default
     <td><b>Adversarial Attacks on Robotic Vision Language Action Models</b></td>
     <td>Eliot Krzysztof Jones et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.03350">2506.03350</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/eliotjones1/robogcg)**</td>
        </tr>
        <tr>
     <td><b>2025-06-03</b></td>
@@ -3583,7 +3583,7 @@ layout: default
     <td><b>VLMs Can Aggregate Scattered Training Patches</b></td>
     <td>Zhanhui Zhou et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.03614">2506.03614</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/zhziszz/visual-stitching)**</td>
        </tr>
        <tr>
     <td><b>2025-06-04</b></td>
@@ -5584,7 +5584,7 @@ layout: default
     <td><b>ReGA: Representation-Guided Abstraction for Model-based Safeguarding of LLMs</b></td>
     <td>Zeming Wei et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.01770">2506.01770</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/weizeming/rega)**</td>
        </tr>
    </tbody>
 </table>
@@ -5628,7 +5628,7 @@ layout: default
     <td><b>Learning Safety Constraints for Large Language Models</b></td>
     <td>Xin Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.24445">2505.24445</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/lasgroup/safetypolytope)**</td>
        </tr>
        <tr>
     <td><b>2025-05-30</b></td>
@@ -5766,7 +5766,7 @@ layout: default
     <td><b>MixAT: Combining Continuous and Discrete Adversarial Training for LLMs</b></td>
     <td>Csaba Dékány et.al.</td>
     <td><a href="#http://arxiv.org/abs/2505.16947">2505.16947</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/insait-institute/mixat)**</td>
        </tr>
    </tbody>
 </table>
@@ -6569,7 +6569,7 @@ layout: default
     <td><b>Rethinking Machine Unlearning in Image Generation Models</b></td>
     <td>Renyang Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.02761">2506.02761</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ryliu68/igmu)**</td>
        </tr>
        <tr>
     <td><b>2025-06-06</b></td>
@@ -6663,7 +6663,7 @@ layout: default
     <td><b>ThinkTank: A Framework for Generalizing Domain-Specific AI Agent Systems into Universal Collaborative Intelligence Platforms</b></td>
     <td>Praneet Sai Madhu Surabhi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.02931">2506.02931</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/taugroup/thinktank)**</td>
        </tr>
        <tr>
     <td><b>2025-06-03</b></td>
@@ -10099,7 +10099,7 @@ layout: default
     <td><b>Multiverse Through Deepfakes: The MultiFakeVerse Dataset of Person-Centric Visual and Conceptual Manipulations</b></td>
     <td>Parul Gupta et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.00868">2506.00868</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/parul-gupta/multifakeverse)**</td>
        </tr>
        <tr>
     <td><b>2025-06-01</b></td>
@@ -10128,7 +10128,7 @@ layout: default
     <td><b>XMAD-Bench: Cross-Domain Multilingual Audio Deepfake Benchmark</b></td>
     <td>Ioan-Paul Ciobanu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.00462">2506.00462</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/ristea/xmad-bench)**</td>
        </tr>
        <tr>
     <td><b>2025-05-31</b></td>
