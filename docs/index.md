@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,42 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-06-10</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Towards Robust Deep Reinforcement Learning against Environmental State Perturbation</b></td>
+    <td>Chenxu Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08961">2506.08961</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>AdversariaL attacK sAfety aLIgnment(ALKALI): Safeguarding LLMs through GRACE: Geometric Representation-Aware Contrastive Enhancement- Introducing Adversarial Vulnerability Quality Index (AVQI)</b></td>
+    <td>Danush Khanna et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08885">2506.08885</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Efficient Robust Conformal Prediction via Lipschitz-Bounded Networks</b></td>
+    <td>Thomas Massena et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05434">2506.05434</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-09</h3>
 
 <table>
@@ -36,6 +72,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-06-09</b></td>
+    <td><b>SHIELD: Secure Hypernetworks for Incremental Expansion Learning Defense</b></td>
+    <td>Patryk Krukowski et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08255">2506.08255</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-06-09</b></td>
     <td><b>Adversarial Attack Classification and Robustness Testing for Large Language Models for Code</b></td>
@@ -178,13 +221,6 @@ layout: default
     <td><b>Exploring Adversarial Watermarking in Transformer-Based Models: Transferability and Robustness Against Defense Mechanism for Medical Images</b></td>
     <td>Rifat Sadik et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.06389">2506.06389</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-05</b></td>
-    <td><b>Efficient Robust Conformal Prediction via Lipschitz-Bounded Networks</b></td>
-    <td>Thomas Massena et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.05434">2506.05434</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -3608,6 +3644,49 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-06-10</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>WGLE:Backdoor-free and Multi-bit Black-box Watermarking for Graph Neural Networks</b></td>
+    <td>Tingzhi Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08602">2506.08602</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Single-Node Trigger Backdoor Attacks in Graph-Based Recommendation Systems</b></td>
+    <td>Runze Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08401">2506.08401</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>SPBA: Utilizing Speech Large Language Model for Backdoor Attacks on Speech Classification Models</b></td>
+    <td>Wenhan Yao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08346">2506.08346</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Your Agent Can Defend Itself against Backdoor Attacks</b></td>
+    <td>Li Changjiang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08336">2506.08336</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-09</h3>
 
 <table>
@@ -6827,6 +6906,35 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-06-10</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>DIsoN: Decentralized Isolation Networks for Out-of-Distribution Detection in Medical Imaging</b></td>
+    <td>Felix Wagner et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09024">2506.09024</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>A Privacy-Preserving Federated Learning Framework for Generalizable CBCT to Synthetic CT Translation in Head and Neck</b></td>
+    <td>Ciro Benito Raggio et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08654">2506.08654</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-09</h3>
 
 <table>
@@ -6840,6 +6948,20 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-06-09</b></td>
+    <td><b>FedGA-Tree: Federated Decision Tree using Genetic Algorithm</b></td>
+    <td>Anh V Nguyen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08176">2506.08176</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-09</b></td>
+    <td><b>A Systematic Literature Review on Continuous Integration and Deployment (CI/CD) for Secure Cloud Computing</b></td>
+    <td>Sabbir M. Saleh et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08055">2506.08055</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-06-09</b></td>
     <td><b>Understanding the Error Sensitivity of Privacy-Aware Computing</b></td>
@@ -10348,6 +10470,42 @@ layout: default
 
 ## Forensics
 
+<h3>2025-06-10</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Context-aware TFL: A Universal Context-aware Contrastive Learning Framework for Temporal Forgery Localization</b></td>
+    <td>Qilin Yin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08493">2506.08493</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Multimodal Zero-Shot Framework for Deepfake Hate Speech Detection in Low-Resource Languages</b></td>
+    <td>Rishabh Ranjan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08372">2506.08372</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Towards Generalized Source Tracing for Codec-Based Deepfake Speech</b></td>
+    <td>Xuanjun Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.07294">2506.07294</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-09</h3>
 
 <table>
@@ -10366,28 +10524,6 @@ layout: default
     <td><b>Lightweight Joint Audio-Visual Deepfake Detection via Single-Stream Multi-Modal Learning Framework</b></td>
     <td>Kuiyuan Zhang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.07358">2506.07358</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-06-08</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-06-08</b></td>
-    <td><b>Towards Generalized Source Tracing for Codec-Based Deepfake Speech</b></td>
-    <td>Xuanjun Chen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.07294">2506.07294</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -12348,6 +12484,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-06-10</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering</b></td>
+    <td>Yuki Imajuku et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09050">2506.09050</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning</b></td>
+    <td>Li Kang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09049">2506.09049</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Understanding Task Vectors in In-Context Learning: Emergence, Functionality, and Limitations</b></td>
+    <td>Yuxin Dong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09048">2506.09048</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Agentic Neural Networks: Self-Evolving Multi-Agent Systems via Textual Backpropagation</b></td>
+    <td>Xiaowen Ma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09046">2506.09046</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better</b></td>
+    <td>Dianyi Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09040">2506.09040</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions</b></td>
+    <td>Polina Kirichenko et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09038">2506.09038</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>FZOO: Fast Zeroth-Order Optimizer for Fine-Tuning Large Language Models towards Adam-Scale Speed</b></td>
+    <td>Sizhe Dang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09034">2506.09034</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning</b></td>
+    <td>Haozhen Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09033">2506.09033</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Diffuse and Disperse: Image Generation with Representation Regularization</b></td>
+    <td>Runqian Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09027">2506.09027</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>e3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs</b></td>
+    <td>Amrith Setlur et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09026">2506.09026</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Comparing human and LLM proofreading in L2 writing: Impact on lexical and syntactic features</b></td>
+    <td>Hakyung Sung et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09021">2506.09021</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Edit Flows: Flow Matching with Edit Operations</b></td>
+    <td>Marton Havasi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09018">2506.09018</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Learning to Reason Across Parallel Samples for LLM Reasoning</b></td>
+    <td>Jianing Qi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09014">2506.09014</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Branched Schrödinger Bridge Matching</b></td>
+    <td>Sophia Tang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09007">2506.09007</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Boosting Rust Unit Test Coverage through Hybrid Program Analysis and Large Language Models</b></td>
+    <td>Bei Chu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09002">2506.09002</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Do Concept Replacement Techniques Really Erase Unacceptable Concepts?</b></td>
+    <td>Anudeep Das et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08991">2506.08991</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning</b></td>
+    <td>Xiao Liang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08989">2506.08989</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>AdaDec: Uncertainty-Guided Adaptive Decoding for LLM-based Code Generation</b></td>
+    <td>Kaifeng He et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08980">2506.08980</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>ADAM: Autonomous Discovery and Annotation Model using LLMs for Context-Aware Annotations</b></td>
+    <td>Amirreza Rouhi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08968">2506.08968</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model</b></td>
+    <td>Ailin Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08967">2506.08967</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-09</h3>
 
 <table>
