@@ -38,6 +38,41 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-06-11</b></td>
+    <td><b>A look at adversarial attacks on radio waveforms from discrete latent space</b></td>
+    <td>Attanasia Garuso et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09896">2506.09896</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Evasion Attacks Against Bayesian Predictive Models</b></td>
+    <td>Pablo G. Arce et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09640">2506.09640</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Effective Red-Teaming of Policy-Adherent Agents</b></td>
+    <td>Itay Nakash et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09600">2506.09600</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge</b></td>
+    <td>Songze Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09443">2506.09443</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Adversarial Surrogate Risk Bounds for Binary Classification</b></td>
+    <td>Natalie S. Frank et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09348">2506.09348</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
     <td><b>AdversariaL attacK sAfety aLIgnment(ALKALI): Safeguarding LLMs through GRACE: Geometric Representation-Aware Contrastive Enhancement- Introducing Adversarial Vulnerability Quality Index (AVQI)</b></td>
     <td>Danush Khanna et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.08885">2506.08885</a></td>
@@ -58,6 +93,20 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies</b></td>
+    <td>Mojtaba Nafez et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09237">2506.09237</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-10</b></td>
+    <td><b>Adversarial Text Generation with Dynamic Contextual Perturbation</b></td>
+    <td>Hetvi Waghela et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09148">2506.09148</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-06-10</b></td>
     <td><b>Towards Robust Deep Reinforcement Learning against Environmental State Perturbation</b></td>
@@ -3674,6 +3723,27 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-06-11</b></td>
+    <td><b>Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols</b></td>
+    <td>Longzhu He et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09803">2506.09803</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Evasion Attacks Against Bayesian Predictive Models</b></td>
+    <td>Pablo G. Arce et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09640">2506.09640</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning</b></td>
+    <td>Songze Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09562">2506.09562</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
     <td><b>Your Agent Can Defend Itself against Backdoor Attacks</b></td>
     <td>Li Changjiang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.08336">2506.08336</a></td>
@@ -6936,6 +7006,42 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-06-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Knockoffs Inference under Privacy Constraints</b></td>
+    <td>Zhanrui Cai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09690">2506.09690</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Wavelet Scattering Transform and Fourier Representation for Offline Detection of Malicious Clients in Federated Learning</b></td>
+    <td>Alessandro Licciardi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09674">2506.09674</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>A Survey on the Role of Artificial Intelligence and Machine Learning in 6G-V2X Applications</b></td>
+    <td>Donglin Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09512">2506.09512</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-10</h3>
 
 <table>
@@ -10515,6 +10621,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-06-11</b></td>
+    <td><b>Unmasking real-world audio deepfakes: A data-centric approach</b></td>
+    <td>David Combei et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09606">2506.09606</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
     <td><b>TADA: Training-free Attribution and Out-of-Domain Detection of Audio Deepfakes</b></td>
     <td>Adriana Stan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.05802">2506.05802</a></td>
@@ -12542,6 +12655,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling</b></td>
+    <td>Tim Z. Xiao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09998">2506.09998</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring</b></td>
+    <td>Yang Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09996">2506.09996</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation</b></td>
+    <td>Xinyu Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09991">2506.09991</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Step-by-step Instructions and a Simple Tabular Output Format Improve the Dependency Parsing Accuracy of LLMs</b></td>
+    <td>Hiroshi Matsuda et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09983">2506.09983</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>When Detection Fails: The Power of Fine-Tuned Models to Generate Human-Like Social Media Text</b></td>
+    <td>Hillary Dawkins et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09975">2506.09975</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>SRLAgent: Enhancing Self-Regulated Learning Skills through Gamification and LLM Assistance</b></td>
+    <td>Wentao Ge et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09968">2506.09968</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing</b></td>
+    <td>Junfei Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09965">2506.09965</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge</b></td>
+    <td>Sahar Abdelnabi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09956">2506.09956</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Query-Focused Retrieval Heads Improve Long-Context Reasoning and Re-ranking</b></td>
+    <td>Wuwei Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09944">2506.09944</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>VerIF: Verification Engineering for Reinforcement Learning in Instruction Following</b></td>
+    <td>Hao Peng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09942">2506.09942</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants</b></td>
+    <td>Zheng Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09902">2506.09902</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>The Emergence of Abstract Thought in Large Language Models Beyond Any Language</b></td>
+    <td>Yuxin Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09890">2506.09890</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Attention Head Embeddings with Trainable Deep Kernels for Hallucination Detection in LLMs</b></td>
+    <td>Rodion Oblovatny et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09886">2506.09886</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Causal Sufficiency and Necessity Improves Chain-of-Thought Reasoning</b></td>
+    <td>Xiangning Yu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09853">2506.09853</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Dataset of News Articles with Provenance Metadata for Media Relevance Assessment</b></td>
+    <td>Tomas Peterka et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09847">2506.09847</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>A Deep Generative Model for the Simulation of Discrete Karst Networks</b></td>
+    <td>Dany Lauzon et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09832">2506.09832</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>EmoNet-Voice: A Fine-Grained, Expert-Verified Benchmark for Speech Emotion Detection</b></td>
+    <td>Christoph Schuhmann et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09827">2506.09827</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Metritocracy: Representative Metrics for Lite Benchmarks</b></td>
+    <td>Ariel Procaccia et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09813">2506.09813</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Do LLMs Give Psychometrically Plausible Responses in Educational Assessments?</b></td>
+    <td>Andreas Säuberli et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09796">2506.09796</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Where Journalism Silenced Voices: Exploring Discrimination in the Representation of Indigenous Communities in Bangladesh</b></td>
+    <td>Abhijit Paul et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09771">2506.09771</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-06-11</b></td>
     <td><b>Comparing human and LLM proofreading in L2 writing: Impact on lexical and syntactic features</b></td>

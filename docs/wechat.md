@@ -21,11 +21,18 @@
 
 <h3>2025-06-11</h3>
 
+- 2025-06-11, **A look at adversarial attacks on radio waveforms from discrete latent space**, Attanasia Garuso et.al., Paper: [http://arxiv.org/abs/2506.09896](http://arxiv.org/abs/2506.09896)
+- 2025-06-11, **Evasion Attacks Against Bayesian Predictive Models**, Pablo G. Arce et.al., Paper: [http://arxiv.org/abs/2506.09640](http://arxiv.org/abs/2506.09640)
+- 2025-06-11, **Effective Red-Teaming of Policy-Adherent Agents**, Itay Nakash et.al., Paper: [http://arxiv.org/abs/2506.09600](http://arxiv.org/abs/2506.09600)
+- 2025-06-11, **LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge**, Songze Li et.al., Paper: [http://arxiv.org/abs/2506.09443](http://arxiv.org/abs/2506.09443)
+- 2025-06-11, **Adversarial Surrogate Risk Bounds for Binary Classification**, Natalie S. Frank et.al., Paper: [http://arxiv.org/abs/2506.09348](http://arxiv.org/abs/2506.09348)
 - 2025-06-11, **AdversariaL attacK sAfety aLIgnment(ALKALI): Safeguarding LLMs through GRACE: Geometric Representation-Aware Contrastive Enhancement- Introducing Adversarial Vulnerability Quality Index (AVQI)**, Danush Khanna et.al., Paper: [http://arxiv.org/abs/2506.08885](http://arxiv.org/abs/2506.08885)
 <p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 <h3>2025-06-10</h3>
 
+- 2025-06-10, **PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies**, Mojtaba Nafez et.al., Paper: [http://arxiv.org/abs/2506.09237](http://arxiv.org/abs/2506.09237)
+- 2025-06-10, **Adversarial Text Generation with Dynamic Contextual Perturbation**, Hetvi Waghela et.al., Paper: [http://arxiv.org/abs/2506.09148](http://arxiv.org/abs/2506.09148)
 - 2025-06-10, **Towards Robust Deep Reinforcement Learning against Environmental State Perturbation**, Chenxu Wang et.al., Paper: [http://arxiv.org/abs/2506.08961](http://arxiv.org/abs/2506.08961)
 - 2025-06-10, **Efficient Robust Conformal Prediction via Lipschitz-Bounded Networks**, Thomas Massena et.al., Paper: [http://arxiv.org/abs/2506.05434](http://arxiv.org/abs/2506.05434)
 <p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
@@ -699,6 +706,9 @@
 
 <h3>2025-06-11</h3>
 
+- 2025-06-11, **Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols**, Longzhu He et.al., Paper: [http://arxiv.org/abs/2506.09803](http://arxiv.org/abs/2506.09803)
+- 2025-06-11, **Evasion Attacks Against Bayesian Predictive Models**, Pablo G. Arce et.al., Paper: [http://arxiv.org/abs/2506.09640](http://arxiv.org/abs/2506.09640)
+- 2025-06-11, **TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning**, Songze Li et.al., Paper: [http://arxiv.org/abs/2506.09562](http://arxiv.org/abs/2506.09562)
 - 2025-06-11, **Your Agent Can Defend Itself against Backdoor Attacks**, Li Changjiang et.al., Paper: [http://arxiv.org/abs/2506.08336](http://arxiv.org/abs/2506.08336)
 <p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
@@ -1381,6 +1391,13 @@
 
 
 ## Data privacy
+
+<h3>2025-06-11</h3>
+
+- 2025-06-11, **Knockoffs Inference under Privacy Constraints**, Zhanrui Cai et.al., Paper: [http://arxiv.org/abs/2506.09690](http://arxiv.org/abs/2506.09690)
+- 2025-06-11, **Wavelet Scattering Transform and Fourier Representation for Offline Detection of Malicious Clients in Federated Learning**, Alessandro Licciardi et.al., Paper: [http://arxiv.org/abs/2506.09674](http://arxiv.org/abs/2506.09674)
+- 2025-06-11, **A Survey on the Role of Artificial Intelligence and Machine Learning in 6G-V2X Applications**, Donglin Wang et.al., Paper: [http://arxiv.org/abs/2506.09512](http://arxiv.org/abs/2506.09512)
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 <h3>2025-06-10</h3>
 
@@ -2097,6 +2114,7 @@
 
 <h3>2025-06-11</h3>
 
+- 2025-06-11, **Unmasking real-world audio deepfakes: A data-centric approach**, David Combei et.al., Paper: [http://arxiv.org/abs/2506.09606](http://arxiv.org/abs/2506.09606)
 - 2025-06-11, **TADA: Training-free Attribution and Out-of-Domain Detection of Audio Deepfakes**, Adriana Stan et.al., Paper: [http://arxiv.org/abs/2506.05802](http://arxiv.org/abs/2506.05802)
 <p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
@@ -2525,6 +2543,26 @@
 
 <h3>2025-06-11</h3>
 
+- 2025-06-11, **Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling**, Tim Z. Xiao et.al., Paper: [http://arxiv.org/abs/2506.09998](http://arxiv.org/abs/2506.09998)
+- 2025-06-11, **From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring**, Yang Li et.al., Paper: [http://arxiv.org/abs/2506.09996](http://arxiv.org/abs/2506.09996)
+- 2025-06-11, **Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation**, Xinyu Yang et.al., Paper: [http://arxiv.org/abs/2506.09991](http://arxiv.org/abs/2506.09991)
+- 2025-06-11, **Step-by-step Instructions and a Simple Tabular Output Format Improve the Dependency Parsing Accuracy of LLMs**, Hiroshi Matsuda et.al., Paper: [http://arxiv.org/abs/2506.09983](http://arxiv.org/abs/2506.09983)
+- 2025-06-11, **When Detection Fails: The Power of Fine-Tuned Models to Generate Human-Like Social Media Text**, Hillary Dawkins et.al., Paper: [http://arxiv.org/abs/2506.09975](http://arxiv.org/abs/2506.09975)
+- 2025-06-11, **SRLAgent: Enhancing Self-Regulated Learning Skills through Gamification and LLM Assistance**, Wentao Ge et.al., Paper: [http://arxiv.org/abs/2506.09968](http://arxiv.org/abs/2506.09968)
+- 2025-06-11, **Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**, Junfei Wu et.al., Paper: [http://arxiv.org/abs/2506.09965](http://arxiv.org/abs/2506.09965)
+- 2025-06-11, **LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge**, Sahar Abdelnabi et.al., Paper: [http://arxiv.org/abs/2506.09956](http://arxiv.org/abs/2506.09956)
+- 2025-06-11, **Query-Focused Retrieval Heads Improve Long-Context Reasoning and Re-ranking**, Wuwei Zhang et.al., Paper: [http://arxiv.org/abs/2506.09944](http://arxiv.org/abs/2506.09944)
+- 2025-06-11, **VerIF: Verification Engineering for Reinforcement Learning in Instruction Following**, Hao Peng et.al., Paper: [http://arxiv.org/abs/2506.09942](http://arxiv.org/abs/2506.09942)
+- 2025-06-11, **PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants**, Zheng Zhao et.al., Paper: [http://arxiv.org/abs/2506.09902](http://arxiv.org/abs/2506.09902)
+- 2025-06-11, **The Emergence of Abstract Thought in Large Language Models Beyond Any Language**, Yuxin Chen et.al., Paper: [http://arxiv.org/abs/2506.09890](http://arxiv.org/abs/2506.09890)
+- 2025-06-11, **Attention Head Embeddings with Trainable Deep Kernels for Hallucination Detection in LLMs**, Rodion Oblovatny et.al., Paper: [http://arxiv.org/abs/2506.09886](http://arxiv.org/abs/2506.09886)
+- 2025-06-11, **Causal Sufficiency and Necessity Improves Chain-of-Thought Reasoning**, Xiangning Yu et.al., Paper: [http://arxiv.org/abs/2506.09853](http://arxiv.org/abs/2506.09853)
+- 2025-06-11, **Dataset of News Articles with Provenance Metadata for Media Relevance Assessment**, Tomas Peterka et.al., Paper: [http://arxiv.org/abs/2506.09847](http://arxiv.org/abs/2506.09847)
+- 2025-06-11, **A Deep Generative Model for the Simulation of Discrete Karst Networks**, Dany Lauzon et.al., Paper: [http://arxiv.org/abs/2506.09832](http://arxiv.org/abs/2506.09832)
+- 2025-06-11, **EmoNet-Voice: A Fine-Grained, Expert-Verified Benchmark for Speech Emotion Detection**, Christoph Schuhmann et.al., Paper: [http://arxiv.org/abs/2506.09827](http://arxiv.org/abs/2506.09827)
+- 2025-06-11, **Metritocracy: Representative Metrics for Lite Benchmarks**, Ariel Procaccia et.al., Paper: [http://arxiv.org/abs/2506.09813](http://arxiv.org/abs/2506.09813)
+- 2025-06-11, **Do LLMs Give Psychometrically Plausible Responses in Educational Assessments?**, Andreas Säuberli et.al., Paper: [http://arxiv.org/abs/2506.09796](http://arxiv.org/abs/2506.09796)
+- 2025-06-11, **Where Journalism Silenced Voices: Exploring Discrimination in the Representation of Indigenous Communities in Bangladesh**, Abhijit Paul et.al., Paper: [http://arxiv.org/abs/2506.09771](http://arxiv.org/abs/2506.09771)
 - 2025-06-11, **Comparing human and LLM proofreading in L2 writing: Impact on lexical and syntactic features**, Hakyung Sung et.al., Paper: [http://arxiv.org/abs/2506.09021](http://arxiv.org/abs/2506.09021)
 - 2025-06-11, **Boosting Rust Unit Test Coverage through Hybrid Program Analysis and Large Language Models**, Bei Chu et.al., Paper: [http://arxiv.org/abs/2506.09002](http://arxiv.org/abs/2506.09002)
 - 2025-06-11, **Towards Better Code Generation: Adaptive Decoding with Uncertainty Guidance**, Kaifeng He et.al., Paper: [http://arxiv.org/abs/2506.08980](http://arxiv.org/abs/2506.08980)
