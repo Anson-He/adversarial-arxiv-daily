@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-06-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>AdversariaL attacK sAfety aLIgnment(ALKALI): Safeguarding LLMs through GRACE: Geometric Representation-Aware Contrastive Enhancement- Introducing Adversarial Vulnerability Quality Index (AVQI)</b></td>
+    <td>Danush Khanna et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08885">2506.08885</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-10</h3>
 
 <table>
@@ -41,13 +63,6 @@ layout: default
     <td><b>Towards Robust Deep Reinforcement Learning against Environmental State Perturbation</b></td>
     <td>Chenxu Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.08961">2506.08961</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-10</b></td>
-    <td><b>AdversariaL attacK sAfety aLIgnment(ALKALI): Safeguarding LLMs through GRACE: Geometric Representation-Aware Contrastive Enhancement- Introducing Adversarial Vulnerability Quality Index (AVQI)</b></td>
-    <td>Danush Khanna et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.08885">2506.08885</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -3644,6 +3659,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-06-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Your Agent Can Defend Itself against Backdoor Attacks</b></td>
+    <td>Li Changjiang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08336">2506.08336</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-10</h3>
 
 <table>
@@ -3676,13 +3713,6 @@ layout: default
     <td><b>SPBA: Utilizing Speech Large Language Model for Backdoor Attacks on Speech Classification Models</b></td>
     <td>Wenhan Yao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.08346">2506.08346</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-10</b></td>
-    <td><b>Your Agent Can Defend Itself against Backdoor Attacks</b></td>
-    <td>Li Changjiang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.08336">2506.08336</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -10470,6 +10500,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-06-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>TADA: Training-free Attribution and Out-of-Domain Detection of Audio Deepfakes</b></td>
+    <td>Adriana Stan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.05802">2506.05802</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-10</h3>
 
 <table>
@@ -10575,13 +10627,6 @@ layout: default
     <td><b>DeepFake Doctor: Diagnosing and Treating Audio-Video Fake Detection</b></td>
     <td>Marcel Klemt et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.05851">2506.05851</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-06</b></td>
-    <td><b>TADA: Training-free Attribution and Out-of-Domain Detection of Audio Deepfakes</b></td>
-    <td>Adriana Stan et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.05802">2506.05802</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -12484,6 +12529,42 @@ layout: default
 
 ## AIGC
 
+<h3>2025-06-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Comparing human and LLM proofreading in L2 writing: Impact on lexical and syntactic features</b></td>
+    <td>Hakyung Sung et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09021">2506.09021</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Boosting Rust Unit Test Coverage through Hybrid Program Analysis and Large Language Models</b></td>
+    <td>Bei Chu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09002">2506.09002</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>Towards Better Code Generation: Adaptive Decoding with Uncertainty Guidance</b></td>
+    <td>Kaifeng He et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.08980">2506.08980</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-10</h3>
 
 <table>
@@ -12569,13 +12650,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-06-10</b></td>
-    <td><b>Comparing human and LLM proofreading in L2 writing: Impact on lexical and syntactic features</b></td>
-    <td>Hakyung Sung et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.09021">2506.09021</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-10</b></td>
     <td><b>Edit Flows: Flow Matching with Edit Operations</b></td>
     <td>Marton Havasi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.09018">2506.09018</a></td>
@@ -12597,13 +12671,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-06-10</b></td>
-    <td><b>Boosting Rust Unit Test Coverage through Hybrid Program Analysis and Large Language Models</b></td>
-    <td>Bei Chu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.09002">2506.09002</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-10</b></td>
     <td><b>Do Concept Replacement Techniques Really Erase Unacceptable Concepts?</b></td>
     <td>Anudeep Das et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.08991">2506.08991</a></td>
@@ -12614,13 +12681,6 @@ layout: default
     <td><b>SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning</b></td>
     <td>Xiao Liang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.08989">2506.08989</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-10</b></td>
-    <td><b>AdaDec: Uncertainty-Guided Adaptive Decoding for LLM-based Code Generation</b></td>
-    <td>Kaifeng He et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.08980">2506.08980</a></td>
     <td>null</td>
        </tr>
        <tr>
