@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -3708,6 +3708,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-06-12</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning</b></td>
+    <td>Songze Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09562">2506.09562</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-11</h3>
 
 <table>
@@ -3733,13 +3755,6 @@ layout: default
     <td><b>Evasion Attacks Against Bayesian Predictive Models</b></td>
     <td>Pablo G. Arce et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.09640">2506.09640</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-11</b></td>
-    <td><b>TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning</b></td>
-    <td>Songze Li et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.09562">2506.09562</a></td>
     <td>null</td>
        </tr>
        <tr>
