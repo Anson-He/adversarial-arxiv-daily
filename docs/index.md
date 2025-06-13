@@ -23,6 +23,56 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-06-12</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Lattice Climber Attack: Adversarial attacks for randomized mixtures of classifiers</b></td>
+    <td>Lucas Gnecco-Heredia et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10888">2506.10888</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Efficiency Robustness of Dynamic Deep Learning Systems</b></td>
+    <td>Ravishka Rathnasuriya et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10831">2506.10831</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Unsourced Adversarial CAPTCHA: A Bi-Phase Adversarial CAPTCHA Framework</b></td>
+    <td>Xia Du et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10685">2506.10685</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Assessing the Resilience of Automotive Intrusion Detection Systems to Adversarial Manipulation</b></td>
+    <td>Stefano Longari et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10620">2506.10620</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Boosting Adversarial Transferability for Hyperspectral Image Classification Using 3D Structure-invariant Transformation and Intermediate Feature Distance</b></td>
+    <td>Chun Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10459">2506.10459</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-11</h3>
 
 <table>
@@ -36,6 +86,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>GenBreak: Red Teaming Text-to-Image Generators Using Large Language Models</b></td>
+    <td>Zilong Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10047">2506.10047</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-06-11</b></td>
     <td><b>A look at adversarial attacks on radio waveforms from discrete latent space</b></td>
@@ -3723,6 +3780,27 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-06-12</b></td>
+    <td><b>ME: Trigger Element Combination Backdoor Attack on Copyright Infringement</b></td>
+    <td>Feiyu Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10776">2506.10776</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>TED-LaST: Towards Robust Backdoor Defense Against Adaptive Attacks</b></td>
+    <td>Xiaoxing Mo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10722">2506.10722</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Data Shifts Hurt CoT: A Theoretical Study</b></td>
+    <td>Lang Yin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10647">2506.10647</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
     <td><b>TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning</b></td>
     <td>Songze Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.09562">2506.09562</a></td>
@@ -3743,6 +3821,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-06-11</b></td>
+    <td><b>FedMLAC: Mutual Learning Driven Heterogeneous Federated Audio Classification</b></td>
+    <td>Jun Bai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10207">2506.10207</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-06-11</b></td>
     <td><b>Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols</b></td>
@@ -5911,6 +5996,28 @@ layout: default
 
 ## Generative models safety
 
+<h3>2025-06-12</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors</b></td>
+    <td>Chen Yueh-Han et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10949">2506.10949</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-09</h3>
 
 <table>
@@ -7021,6 +7128,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-06-12</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Federated Learning within Global Energy Budget over Heterogeneous Edge Accelerators</b></td>
+    <td>Roopkatha Banerjee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10413">2506.10413</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-11</h3>
 
 <table>
@@ -7099,6 +7228,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-06-09</b></td>
+    <td><b>Private Memorization Editing: Turning Memorization into a Defense to Strengthen Data Privacy in Large Language Models</b></td>
+    <td>Elena Sofia Ruzzetti et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10024">2506.10024</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-06-09</b></td>
     <td><b>FedGA-Tree: Federated Decision Tree using Genetic Algorithm</b></td>
@@ -10621,6 +10757,42 @@ layout: default
 
 ## Forensics
 
+<h3>2025-06-12</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Enhancing Deepfake Detection using SE Block Attention with CNN</b></td>
+    <td>Subhram Dasgupta et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10683">2506.10683</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>LLMs Are Not Yet Ready for Deepfake Image Detection</b></td>
+    <td>Shahroz Tariq et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10474">2506.10474</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>TikTok's Research API: Problems Without Explanations</b></td>
+    <td>Carlos Entrena-Serrano et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.09746">2506.09746</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-11</h3>
 
 <table>
@@ -12657,6 +12829,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-06-12</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis</b></td>
+    <td>Weiliang Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10981">2506.10981</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>GenWorld: Towards Detecting AI-generated Real-world Simulation Videos</b></td>
+    <td>Weiliang Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10975">2506.10975</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>AutoMind: Adaptive Knowledgeable Agent for Automated Data Science</b></td>
+    <td>Yixin Ou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10974">2506.10974</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Farseer: A Refined Scaling Law in Large Language Models</b></td>
+    <td>Houyi Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10972">2506.10972</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation</b></td>
+    <td>Ning Gao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10966">2506.10966</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning</b></td>
+    <td>Yuxuan Luo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10963">2506.10963</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark</b></td>
+    <td>Kangwei Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10960">2506.10960</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks</b></td>
+    <td>Lianghong Guo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10954">2506.10954</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Build the web for agents, not agents for the web</b></td>
+    <td>Xing Han Lù et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10953">2506.10953</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors</b></td>
+    <td>Chen Yueh-Han et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10949">2506.10949</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Execution Guided Line-by-Line Code Generation</b></td>
+    <td>Boaz Lavon et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10948">2506.10948</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models</b></td>
+    <td>Evelyn Ma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10946">2506.10946</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Self-Adapting Language Models</b></td>
+    <td>Adam Zweiger et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10943">2506.10943</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Dynamic Epistemic Friction in Dialogue</b></td>
+    <td>Timothy Obiso et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10934">2506.10934</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>The Role of Generative AI in Facilitating Social Interactions: A Scoping Review</b></td>
+    <td>T. T. J. E. Arets et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10927">2506.10927</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Robustly Improving LLM Fairness in Realistic Settings via Interpretability</b></td>
+    <td>Adam Karvonen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10922">2506.10922</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Decomposing MLP Activations into Interpretable Features via Semi-Nonnegative Matrix Factorization</b></td>
+    <td>Or Shafran et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10920">2506.10920</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Magistral</b></td>
+    <td>Mistral-AI et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10910">2506.10910</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>Beyond Gold Standards: Epistemic Ensemble of LLM Judges for Formal Mathematical Reasoning</b></td>
+    <td>Lan Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10903">2506.10903</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-12</b></td>
+    <td><b>GenPlanX. Generation of Plans and Execution</b></td>
+    <td>Daniel Borrajo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10897">2506.10897</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-11</h3>
 
 <table>
