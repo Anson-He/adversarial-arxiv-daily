@@ -32,16 +32,16 @@
 
 - 2025-06-11, **GenBreak: Red Teaming Text-to-Image Generators Using Large Language Models**, Zilong Wang et.al., Paper: [http://arxiv.org/abs/2506.10047](http://arxiv.org/abs/2506.10047)
 - 2025-06-11, **A look at adversarial attacks on radio waveforms from discrete latent space**, Attanasia Garuso et.al., Paper: [http://arxiv.org/abs/2506.09896](http://arxiv.org/abs/2506.09896)
-- 2025-06-11, **Evasion Attacks Against Bayesian Predictive Models**, Pablo G. Arce et.al., Paper: [http://arxiv.org/abs/2506.09640](http://arxiv.org/abs/2506.09640)
+- 2025-06-11, **Evasion Attacks Against Bayesian Predictive Models**, Pablo G. Arce et.al., Paper: [http://arxiv.org/abs/2506.09640](http://arxiv.org/abs/2506.09640), Code: **[https://github.com/pablogarciarce/advreg](https://github.com/pablogarciarce/advreg)**
 - 2025-06-11, **Effective Red-Teaming of Policy-Adherent Agents**, Itay Nakash et.al., Paper: [http://arxiv.org/abs/2506.09600](http://arxiv.org/abs/2506.09600)
-- 2025-06-11, **LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge**, Songze Li et.al., Paper: [http://arxiv.org/abs/2506.09443](http://arxiv.org/abs/2506.09443)
+- 2025-06-11, **LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge**, Songze Li et.al., Paper: [http://arxiv.org/abs/2506.09443](http://arxiv.org/abs/2506.09443), Code: **[https://github.com/s3ic-lab/robustjudge](https://github.com/s3ic-lab/robustjudge)**
 - 2025-06-11, **Adversarial Surrogate Risk Bounds for Binary Classification**, Natalie S. Frank et.al., Paper: [http://arxiv.org/abs/2506.09348](http://arxiv.org/abs/2506.09348)
 - 2025-06-11, **AdversariaL attacK sAfety aLIgnment(ALKALI): Safeguarding LLMs through GRACE: Geometric Representation-Aware Contrastive Enhancement- Introducing Adversarial Vulnerability Quality Index (AVQI)**, Danush Khanna et.al., Paper: [http://arxiv.org/abs/2506.08885](http://arxiv.org/abs/2506.08885)
 <p align=right>(<a href=#updated-on-20250614>back to top</a>)</p>
 
 <h3>2025-06-10</h3>
 
-- 2025-06-10, **PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies**, Mojtaba Nafez et.al., Paper: [http://arxiv.org/abs/2506.09237](http://arxiv.org/abs/2506.09237)
+- 2025-06-10, **PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies**, Mojtaba Nafez et.al., Paper: [http://arxiv.org/abs/2506.09237](http://arxiv.org/abs/2506.09237), Code: **[https://github.com/rohban-lab/patchgaurd](https://github.com/rohban-lab/patchgaurd)**
 - 2025-06-10, **Adversarial Text Generation with Dynamic Contextual Perturbation**, Hetvi Waghela et.al., Paper: [http://arxiv.org/abs/2506.09148](http://arxiv.org/abs/2506.09148)
 - 2025-06-10, **Towards Robust Deep Reinforcement Learning against Environmental State Perturbation**, Chenxu Wang et.al., Paper: [http://arxiv.org/abs/2506.08961](http://arxiv.org/abs/2506.08961)
 - 2025-06-10, **Efficient Robust Conformal Prediction via Lipschitz-Bounded Networks**, Thomas Massena et.al., Paper: [http://arxiv.org/abs/2506.05434](http://arxiv.org/abs/2506.05434)
@@ -51,7 +51,7 @@
 
 - 2025-06-09, **SHIELD: Secure Hypernetworks for Incremental Expansion Learning Defense**, Patryk Krukowski et.al., Paper: [http://arxiv.org/abs/2506.08255](http://arxiv.org/abs/2506.08255)
 - 2025-06-09, **Adversarial Attack Classification and Robustness Testing for Large Language Models for Code**, Yang Liu et.al., Paper: [http://arxiv.org/abs/2506.07942](http://arxiv.org/abs/2506.07942)
-- 2025-06-09, **Enhancing Adversarial Robustness with Conformal Prediction: A Framework for Guaranteed Model Reliability**, Jie Bao et.al., Paper: [http://arxiv.org/abs/2506.07804](http://arxiv.org/abs/2506.07804)
+- 2025-06-09, **Enhancing Adversarial Robustness with Conformal Prediction: A Framework for Guaranteed Model Reliability**, Jie Bao et.al., Paper: [http://arxiv.org/abs/2506.07804](http://arxiv.org/abs/2506.07804), Code: **[https://github.com/bjbbbb/enhancing-adversarial-robustness-with-conformal-prediction](https://github.com/bjbbbb/enhancing-adversarial-robustness-with-conformal-prediction)**
 - 2025-06-09, **ProARD: progressive adversarial robustness distillation: provide wide range of robust students**, Seyedhamidreza Mousavi et.al., Paper: [http://arxiv.org/abs/2506.07666](http://arxiv.org/abs/2506.07666)
 - 2025-06-09, **Explore the vulnerability of black-box models via diffusion models**, Jiacheng Shi et.al., Paper: [http://arxiv.org/abs/2506.07590](http://arxiv.org/abs/2506.07590)
 <p align=right>(<a href=#updated-on-20250614>back to top</a>)</p>
@@ -726,7 +726,7 @@
 
 - 2025-06-11, **FedMLAC: Mutual Learning Driven Heterogeneous Federated Audio Classification**, Jun Bai et.al., Paper: [http://arxiv.org/abs/2506.10207](http://arxiv.org/abs/2506.10207)
 - 2025-06-11, **Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols**, Longzhu He et.al., Paper: [http://arxiv.org/abs/2506.09803](http://arxiv.org/abs/2506.09803)
-- 2025-06-11, **Evasion Attacks Against Bayesian Predictive Models**, Pablo G. Arce et.al., Paper: [http://arxiv.org/abs/2506.09640](http://arxiv.org/abs/2506.09640)
+- 2025-06-11, **Evasion Attacks Against Bayesian Predictive Models**, Pablo G. Arce et.al., Paper: [http://arxiv.org/abs/2506.09640](http://arxiv.org/abs/2506.09640), Code: **[https://github.com/pablogarciarce/advreg](https://github.com/pablogarciarce/advreg)**
 - 2025-06-11, **Your Agent Can Defend Itself against Backdoor Attacks**, Li Changjiang et.al., Paper: [http://arxiv.org/abs/2506.08336](http://arxiv.org/abs/2506.08336)
 <p align=right>(<a href=#updated-on-20250614>back to top</a>)</p>
 
@@ -739,7 +739,7 @@
 
 <h3>2025-06-09</h3>
 
-- 2025-06-09, **Circumventing Backdoor Space via Weight Symmetry**, Jie Peng et.al., Paper: [http://arxiv.org/abs/2506.07467](http://arxiv.org/abs/2506.07467)
+- 2025-06-09, **Circumventing Backdoor Space via Weight Symmetry**, Jie Peng et.al., Paper: [http://arxiv.org/abs/2506.07467](http://arxiv.org/abs/2506.07467), Code: **[https://github.com/jiepeng104/tsc](https://github.com/jiepeng104/tsc)**
 <p align=right>(<a href=#updated-on-20250614>back to top</a>)</p>
 
 <h3>2025-06-08</h3>
@@ -1171,7 +1171,7 @@
 
 <h3>2025-06-12</h3>
 
-- 2025-06-12, **Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**, Chen Yueh-Han et.al., Paper: [http://arxiv.org/abs/2506.10949](http://arxiv.org/abs/2506.10949)
+- 2025-06-12, **Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**, Chen Yueh-Han et.al., Paper: [http://arxiv.org/abs/2506.10949](http://arxiv.org/abs/2506.10949), Code: **[https://github.com/yuehhanchen/monitoring-decomposition-attack](https://github.com/yuehhanchen/monitoring-decomposition-attack)**
 <p align=right>(<a href=#updated-on-20250614>back to top</a>)</p>
 
 <h3>2025-06-09</h3>
@@ -2150,7 +2150,7 @@
 
 <h3>2025-06-11</h3>
 
-- 2025-06-11, **Unmasking real-world audio deepfakes: A data-centric approach**, David Combei et.al., Paper: [http://arxiv.org/abs/2506.09606](http://arxiv.org/abs/2506.09606)
+- 2025-06-11, **Unmasking real-world audio deepfakes: A data-centric approach**, David Combei et.al., Paper: [http://arxiv.org/abs/2506.09606](http://arxiv.org/abs/2506.09606), Code: **[https://github.com/davidcombei/ai4t](https://github.com/davidcombei/ai4t)**
 - 2025-06-11, **TADA: Training-free Attribution and Out-of-Domain Detection of Audio Deepfakes**, Adriana Stan et.al., Paper: [http://arxiv.org/abs/2506.05802](http://arxiv.org/abs/2506.05802)
 <p align=right>(<a href=#updated-on-20250614>back to top</a>)</p>
 
@@ -2586,9 +2586,9 @@
 - 2025-06-12, **GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation**, Ning Gao et.al., Paper: [http://arxiv.org/abs/2506.10966](http://arxiv.org/abs/2506.10966)
 - 2025-06-12, **MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning**, Yuxuan Luo et.al., Paper: [http://arxiv.org/abs/2506.10963](http://arxiv.org/abs/2506.10963)
 - 2025-06-12, **ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark**, Kangwei Liu et.al., Paper: [http://arxiv.org/abs/2506.10960](http://arxiv.org/abs/2506.10960)
-- 2025-06-12, **SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**, Lianghong Guo et.al., Paper: [http://arxiv.org/abs/2506.10954](http://arxiv.org/abs/2506.10954)
+- 2025-06-12, **SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**, Lianghong Guo et.al., Paper: [http://arxiv.org/abs/2506.10954](http://arxiv.org/abs/2506.10954), Code: **[https://github.com/deepsoftwareanalytics/swe-factory](https://github.com/deepsoftwareanalytics/swe-factory)**
 - 2025-06-12, **Build the web for agents, not agents for the web**, Xing Han Lù et.al., Paper: [http://arxiv.org/abs/2506.10953](http://arxiv.org/abs/2506.10953)
-- 2025-06-12, **Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**, Chen Yueh-Han et.al., Paper: [http://arxiv.org/abs/2506.10949](http://arxiv.org/abs/2506.10949)
+- 2025-06-12, **Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**, Chen Yueh-Han et.al., Paper: [http://arxiv.org/abs/2506.10949](http://arxiv.org/abs/2506.10949), Code: **[https://github.com/yuehhanchen/monitoring-decomposition-attack](https://github.com/yuehhanchen/monitoring-decomposition-attack)**
 - 2025-06-12, **Execution Guided Line-by-Line Code Generation**, Boaz Lavon et.al., Paper: [http://arxiv.org/abs/2506.10948](http://arxiv.org/abs/2506.10948)
 - 2025-06-12, **GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models**, Evelyn Ma et.al., Paper: [http://arxiv.org/abs/2506.10946](http://arxiv.org/abs/2506.10946)
 - 2025-06-12, **Self-Adapting Language Models**, Adam Zweiger et.al., Paper: [http://arxiv.org/abs/2506.10943](http://arxiv.org/abs/2506.10943)

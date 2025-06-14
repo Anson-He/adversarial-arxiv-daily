@@ -105,7 +105,7 @@ layout: default
     <td><b>Evasion Attacks Against Bayesian Predictive Models</b></td>
     <td>Pablo G. Arce et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.09640">2506.09640</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/pablogarciarce/advreg)**</td>
        </tr>
        <tr>
     <td><b>2025-06-11</b></td>
@@ -119,7 +119,7 @@ layout: default
     <td><b>LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge</b></td>
     <td>Songze Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.09443">2506.09443</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/s3ic-lab/robustjudge)**</td>
        </tr>
        <tr>
     <td><b>2025-06-11</b></td>
@@ -155,7 +155,7 @@ layout: default
     <td><b>PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies</b></td>
     <td>Mojtaba Nafez et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.09237">2506.09237</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/rohban-lab/patchgaurd)**</td>
        </tr>
        <tr>
     <td><b>2025-06-10</b></td>
@@ -212,7 +212,7 @@ layout: default
     <td><b>Enhancing Adversarial Robustness with Conformal Prediction: A Framework for Guaranteed Model Reliability</b></td>
     <td>Jie Bao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.07804">2506.07804</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/bjbbbb/enhancing-adversarial-robustness-with-conformal-prediction)**</td>
        </tr>
        <tr>
     <td><b>2025-06-09</b></td>
@@ -3840,7 +3840,7 @@ layout: default
     <td><b>Evasion Attacks Against Bayesian Predictive Models</b></td>
     <td>Pablo G. Arce et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.09640">2506.09640</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/pablogarciarce/advreg)**</td>
        </tr>
        <tr>
     <td><b>2025-06-11</b></td>
@@ -3905,7 +3905,7 @@ layout: default
     <td><b>Circumventing Backdoor Space via Weight Symmetry</b></td>
     <td>Jie Peng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.07467">2506.07467</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/jiepeng104/tsc)**</td>
        </tr>
    </tbody>
 </table>
@@ -6014,7 +6014,7 @@ layout: default
     <td><b>Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors</b></td>
     <td>Chen Yueh-Han et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.10949">2506.10949</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yuehhanchen/monitoring-decomposition-attack)**</td>
        </tr>
    </tbody>
 </table>
@@ -10811,7 +10811,7 @@ layout: default
     <td><b>Unmasking real-world audio deepfakes: A data-centric approach</b></td>
     <td>David Combei et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.09606">2506.09606</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/davidcombei/ai4t)**</td>
        </tr>
        <tr>
     <td><b>2025-06-11</b></td>
@@ -12896,7 +12896,7 @@ layout: default
     <td><b>SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks</b></td>
     <td>Lianghong Guo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.10954">2506.10954</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/deepsoftwareanalytics/swe-factory)**</td>
        </tr>
        <tr>
     <td><b>2025-06-12</b></td>
@@ -12910,7 +12910,7 @@ layout: default
     <td><b>Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors</b></td>
     <td>Chen Yueh-Han et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.10949">2506.10949</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yuehhanchen/monitoring-decomposition-attack)**</td>
        </tr>
        <tr>
     <td><b>2025-06-12</b></td>
