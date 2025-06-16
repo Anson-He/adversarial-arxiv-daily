@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -12829,6 +12829,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-06-13</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-13</b></td>
+    <td><b>MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning</b></td>
+    <td>Yuxuan Luo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.10963">2506.10963</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-12</h3>
 
 <table>
@@ -12875,13 +12897,6 @@ layout: default
     <td><b>GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation</b></td>
     <td>Ning Gao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.10966">2506.10966</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-12</b></td>
-    <td><b>MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning</b></td>
-    <td>Yuxuan Luo et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.10963">2506.10963</a></td>
     <td>null</td>
        </tr>
        <tr>
