@@ -19,6 +19,17 @@
 
 ## Adversarial attacks
 
+<h3>2025-06-13</h3>
+
+- 2025-06-13, **Improving Large Language Model Safety with Contrastive Representation Learning**, Samuel Simko et.al., Paper: [http://arxiv.org/abs/2506.11938](http://arxiv.org/abs/2506.11938)
+- 2025-06-13, **A Neural Rejection System Against Universal Adversarial Perturbations in Radio Signal Classification**, Lu Zhang et.al., Paper: [http://arxiv.org/abs/2506.11901](http://arxiv.org/abs/2506.11901)
+- 2025-06-13, **Attention-based Adversarial Robust Distillation in Radio Signal Classifications for Low-Power IoT Devices**, Lu Zhang et.al., Paper: [http://arxiv.org/abs/2506.11892](http://arxiv.org/abs/2506.11892)
+- 2025-06-13, **TrustGLM: Evaluating the Robustness of GraphLLMs Against Prompt, Text, and Structure Attacks**, Qihai Zhang et.al., Paper: [http://arxiv.org/abs/2506.11844](http://arxiv.org/abs/2506.11844)
+- 2025-06-13, **Differential Privacy in Machine Learning: From Symbolic AI to LLMs**, Francisco Aguilera-Martínez et.al., Paper: [http://arxiv.org/abs/2506.11687](http://arxiv.org/abs/2506.11687)
+- 2025-06-13, **KCES: Training-Free Defense for Robust Graph Neural Networks via Kernel Complexity**, Yaning Jia et.al., Paper: [http://arxiv.org/abs/2506.11611](http://arxiv.org/abs/2506.11611)
+- 2025-06-13, **Investigating Vulnerabilities and Defenses Against Audio-Visual Attacks: A Comprehensive Survey Emphasizing Multimodal Models**, Jinming Wen et.al., Paper: [http://arxiv.org/abs/2506.11521](http://arxiv.org/abs/2506.11521)
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+
 <h3>2025-06-12</h3>
 
 - 2025-06-12, **Lattice Climber Attack: Adversarial attacks for randomized mixtures of classifiers**, Lucas Gnecco-Heredia et.al., Paper: [http://arxiv.org/abs/2506.10888](http://arxiv.org/abs/2506.10888)
@@ -714,8 +725,15 @@
 
 ## Poisoning attacks
 
+<h3>2025-06-13</h3>
+
+- 2025-06-13, **Investigating Vulnerabilities and Defenses Against Audio-Visual Attacks: A Comprehensive Survey Emphasizing Multimodal Models**, Jinming Wen et.al., Paper: [http://arxiv.org/abs/2506.11521](http://arxiv.org/abs/2506.11521)
+- 2025-06-13, **Bias Amplification in RAG: Poisoning Knowledge Retrieval to Steer LLMs**, Linlin Wang et.al., Paper: [http://arxiv.org/abs/2506.11415](http://arxiv.org/abs/2506.11415)
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+
 <h3>2025-06-12</h3>
 
+- 2025-06-12, **Collapsing Sequence-Level Data-Policy Coverage via Poisoning Attack in Offline Reinforcement Learning**, Xue Zhou et.al., Paper: [http://arxiv.org/abs/2506.11172](http://arxiv.org/abs/2506.11172)
 - 2025-06-12, **ME: Trigger Element Combination Backdoor Attack on Copyright Infringement**, Feiyu Yang et.al., Paper: [http://arxiv.org/abs/2506.10776](http://arxiv.org/abs/2506.10776)
 - 2025-06-12, **TED-LaST: Towards Robust Backdoor Defense Against Adaptive Attacks**, Xiaoxing Mo et.al., Paper: [http://arxiv.org/abs/2506.10722](http://arxiv.org/abs/2506.10722)
 - 2025-06-12, **Data Shifts Hurt CoT: A Theoretical Study**, Lang Yin et.al., Paper: [http://arxiv.org/abs/2506.10647](http://arxiv.org/abs/2506.10647)
@@ -1194,6 +1212,7 @@
 
 <h3>2025-06-06</h3>
 
+- 2025-06-06, **The Scales of Justitia: A Comprehensive Survey on Safety Evaluation of LLMs**, Songyang Liu et.al., Paper: [http://arxiv.org/abs/2506.11094](http://arxiv.org/abs/2506.11094)
 - 2025-06-06, **Saffron-1: Towards an Inference Scaling Paradigm for LLM Safety Assurance**, Ruizhong Qiu et.al., Paper: [http://arxiv.org/abs/2506.06444](http://arxiv.org/abs/2506.06444)
 <p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
@@ -1414,6 +1433,11 @@
 
 
 ## Data privacy
+
+<h3>2025-06-13</h3>
+
+- 2025-06-13, **AutoGen Driven Multi Agent Framework for Iterative Crime Data Analysis and Prediction**, Syeda Kisaa Fatima et.al., Paper: [http://arxiv.org/abs/2506.11475](http://arxiv.org/abs/2506.11475)
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
 <h3>2025-06-12</h3>
 
@@ -2141,6 +2165,13 @@
 
 ## Forensics
 
+<h3>2025-06-13</h3>
+
+- 2025-06-13, **From Sharpness to Better Generalization for Speech Deepfake Detection**, Wen Huang et.al., Paper: [http://arxiv.org/abs/2506.11532](http://arxiv.org/abs/2506.11532)
+- 2025-06-13, **FAME: A Lightweight Spatio-Temporal Network for Model Attribution of Face-Swap Deepfakes**, Wasim Ahmad et.al., Paper: [http://arxiv.org/abs/2506.11477](http://arxiv.org/abs/2506.11477), Code: **[https://github.com/wasim004/FAME](https://github.com/wasim004/FAME)**
+- 2025-06-13, **A Watermark for Auto-Regressive Image Generation Models**, Yihan Wu et.al., Paper: [http://arxiv.org/abs/2506.11371](http://arxiv.org/abs/2506.11371)
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+
 <h3>2025-06-12</h3>
 
 - 2025-06-12, **Enhancing Deepfake Detection using SE Block Attention with CNN**, Subhram Dasgupta et.al., Paper: [http://arxiv.org/abs/2506.10683](http://arxiv.org/abs/2506.10683)
@@ -2579,6 +2610,26 @@
 
 <h3>2025-06-13</h3>
 
+- 2025-06-13, **code_transformed: The Influence of Large Language Models on Code**, Yuliang Xu et.al., Paper: [http://arxiv.org/abs/2506.12014](http://arxiv.org/abs/2506.12014)
+- 2025-06-13, **Tracing LLM Reasoning Processes with Strategic Games: A Framework for Planning, Revision, and Resource-Constrained Decision Making**, Xiaopeng Yuan et.al., Paper: [http://arxiv.org/abs/2506.12012](http://arxiv.org/abs/2506.12012)
+- 2025-06-13, **How Visual Representations Map to Language Feature Space in Multimodal LLMs**, Constantin Venhoff et.al., Paper: [http://arxiv.org/abs/2506.11976](http://arxiv.org/abs/2506.11976)
+- 2025-06-13, **A Robust Local Fréchet Regression Using Unbalanced Neural Optimal Transport with Applications to Dynamic Single-cell Genomics Data**, Binghao Yan et.al., Paper: [http://arxiv.org/abs/2506.11969](http://arxiv.org/abs/2506.11969)
+- 2025-06-13, **Improving Large Language Model Safety with Contrastive Representation Learning**, Samuel Simko et.al., Paper: [http://arxiv.org/abs/2506.11938](http://arxiv.org/abs/2506.11938)
+- 2025-06-13, **Feedback Friction: LLMs Struggle to Fully Incorporate External Feedback**, Dongwei Jiang et.al., Paper: [http://arxiv.org/abs/2506.11930](http://arxiv.org/abs/2506.11930)
+- 2025-06-13, **LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?**, Zihan Zheng et.al., Paper: [http://arxiv.org/abs/2506.11928](http://arxiv.org/abs/2506.11928)
+- 2025-06-13, **Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation**, Min-Seop Kwak et.al., Paper: [http://arxiv.org/abs/2506.11924](http://arxiv.org/abs/2506.11924)
+- 2025-06-13, **TreeRL: LLM Reinforcement Learning with On-Policy Tree Search**, Zhenyu Hou et.al., Paper: [http://arxiv.org/abs/2506.11902](http://arxiv.org/abs/2506.11902)
+- 2025-06-13, **Towards a Cascaded LLM Framework for Cost-effective Human-AI Decision-Making**, Claudio Fanconi et.al., Paper: [http://arxiv.org/abs/2506.11887](http://arxiv.org/abs/2506.11887)
+- 2025-06-13, **Beyond Homogeneous Attention: Memory-Efficient LLMs via Fourier-Approximated KV Cache**, Xiaoran Liu et.al., Paper: [http://arxiv.org/abs/2506.11886](http://arxiv.org/abs/2506.11886)
+- 2025-06-13, **Addressing Bias in LLMs: Strategies and Application to Fair AI-based Recruitment**, Alejandro Peña et.al., Paper: [http://arxiv.org/abs/2506.11880](http://arxiv.org/abs/2506.11880)
+- 2025-06-13, **A Short Survey on Formalising Software Requirements using Large Language Models**, Arshad Beg et.al., Paper: [http://arxiv.org/abs/2506.11874](http://arxiv.org/abs/2506.11874)
+- 2025-06-13, **LLM-based Dynamic Differential Testing for Database Connectors with Reinforcement Learning-Guided Prompt Selection**, Ce Lyu et.al., Paper: [http://arxiv.org/abs/2506.11870](http://arxiv.org/abs/2506.11870)
+- 2025-06-13, **Post Persona Alignment for Multi-Session Dialogue Generation**, Yi-Pei Chen et.al., Paper: [http://arxiv.org/abs/2506.11857](http://arxiv.org/abs/2506.11857)
+- 2025-06-13, **TrustGLM: Evaluating the Robustness of GraphLLMs Against Prompt, Text, and Structure Attacks**, Qihai Zhang et.al., Paper: [http://arxiv.org/abs/2506.11844](http://arxiv.org/abs/2506.11844)
+- 2025-06-13, **Your Ride, Your Rules: Psychology and Cognition Enabled Automated Driving Systems**, Zhipeng Bao et.al., Paper: [http://arxiv.org/abs/2506.11842](http://arxiv.org/abs/2506.11842)
+- 2025-06-13, **Revealing Political Bias in LLMs through Structured Multi-Agent Debate**, Aishwarya Bandaru et.al., Paper: [http://arxiv.org/abs/2506.11825](http://arxiv.org/abs/2506.11825)
+- 2025-06-13, **Rethinking Multilingual Vision-Language Translation: Dataset, Evaluation, and Adaptation**, Xintong Wang et.al., Paper: [http://arxiv.org/abs/2506.11820](http://arxiv.org/abs/2506.11820)
+- 2025-06-13, **On the Performance of LLMs for Real Estate Appraisal**, Margot Geerts et.al., Paper: [http://arxiv.org/abs/2506.11812](http://arxiv.org/abs/2506.11812)
 - 2025-06-13, **MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning**, Yuxuan Luo et.al., Paper: [http://arxiv.org/abs/2506.10963](http://arxiv.org/abs/2506.10963)
 <p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
