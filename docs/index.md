@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -105,14 +105,14 @@ layout: default
     <td><b>Lattice Climber Attack: Adversarial attacks for randomized mixtures of classifiers</b></td>
     <td>Lucas Gnecco-Heredia et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.10888">2506.10888</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/lucasgneccoh/lattice_climber_attack)**</td>
        </tr>
        <tr>
     <td><b>2025-06-12</b></td>
     <td><b>Efficiency Robustness of Dynamic Deep Learning Systems</b></td>
     <td>Ravishka Rathnasuriya et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.10831">2506.10831</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/anonymous-sok/sok_submission)**</td>
        </tr>
        <tr>
     <td><b>2025-06-12</b></td>
@@ -6096,7 +6096,7 @@ layout: default
 
 ## Generative models safety
 
-<h3>2025-06-12</h3>
+<h3>2025-06-14</h3>
 
 <table>
    <thead>
@@ -6110,7 +6110,7 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-06-12</b></td>
+    <td><b>2025-06-14</b></td>
     <td><b>Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors</b></td>
     <td>Chen Yueh-Han et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.10949">2506.10949</a></td>
@@ -6179,7 +6179,7 @@ layout: default
     <td><b>AlphaSteer: Learning Refusal Steering with Principled Null-Space Constraint</b></td>
     <td>Leheng Sheng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.07022">2506.07022</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/alphalab-ustc/alphasteer)**</td>
        </tr>
    </tbody>
 </table>
@@ -6230,7 +6230,7 @@ layout: default
     <td><b>Saffron-1: Towards an Inference Scaling Paradigm for LLM Safety Assurance</b></td>
     <td>Ruizhong Qiu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.06444">2506.06444</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/q-rz/saffron)**</td>
        </tr>
    </tbody>
 </table>
@@ -7498,7 +7498,7 @@ layout: default
     <td><b>Towards Lifecycle Unlearning Commitment Management: Measuring Sample-level Unlearning Completeness</b></td>
     <td>Cheng-Long Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.06112">2506.06112</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/happy2git/unlearning_inference_iam)**</td>
        </tr>
        <tr>
     <td><b>2025-06-06</b></td>
@@ -10983,7 +10983,7 @@ layout: default
     <td><b>TADA: Training-free Attribution and Out-of-Domain Detection of Audio Deepfakes</b></td>
     <td>Adriana Stan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.05802">2506.05802</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/adrianastan/tada)**</td>
        </tr>
    </tbody>
 </table>
