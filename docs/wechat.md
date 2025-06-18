@@ -19,6 +19,13 @@
 
 ## Adversarial attacks
 
+<h3>2025-06-17</h3>
+
+- 2025-06-17, **Busting the Paper Ballot: Voting Meets Adversarial Machine Learning**, Kaleel Mahmood et.al., Paper: [http://arxiv.org/abs/2506.14582](http://arxiv.org/abs/2506.14582)
+- 2025-06-17, **Doppelgänger Method: Breaking Role Consistency in LLM Agent via Prompt-based Transferable Adversarial Attack**, Daewon Kang et.al., Paper: [http://arxiv.org/abs/2506.14539](http://arxiv.org/abs/2506.14539)
+- 2025-06-17, **A Comparative Study on Proactive and Passive Detection of Deepfake Speech**, Chia-Hua Wu et.al., Paper: [http://arxiv.org/abs/2506.14398](http://arxiv.org/abs/2506.14398)
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+
 <h3>2025-06-16</h3>
 
 - 2025-06-16, **Navigating the Black Box: Leveraging LLMs for Effective Text-Level Graph Injection Attacks**, Yuefei Lyu et.al., Paper: [http://arxiv.org/abs/2506.13276](http://arxiv.org/abs/2506.13276)
@@ -1493,6 +1500,18 @@
 
 ## Data privacy
 
+<h3>2025-06-17</h3>
+
+- 2025-06-17, **SoK: Privacy-Enhancing Technologies in Artificial Intelligence**, Nouha Oualha et.al., Paper: [http://arxiv.org/abs/2506.14576](http://arxiv.org/abs/2506.14576)
+- 2025-06-17, **CausalDiffTab: Mixed-Type Causal-Aware Diffusion for Tabular Data Generation**, Jia-Chen Zhang et.al., Paper: [http://arxiv.org/abs/2506.14206](http://arxiv.org/abs/2506.14206)
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+
+<h3>2025-06-16</h3>
+
+- 2025-06-16, **Unlearning Isn't Invisible: Detecting Unlearning Traces in LLMs from Model Outputs**, Yiwei Chen et.al., Paper: [http://arxiv.org/abs/2506.14003](http://arxiv.org/abs/2506.14003)
+- 2025-06-16, **ReinDSplit: Reinforced Dynamic Split Learning for Pest Recognition in Precision Agriculture**, Vishesh Kumar Tanwar et.al., Paper: [http://arxiv.org/abs/2506.13935](http://arxiv.org/abs/2506.13935)
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+
 <h3>2025-06-15</h3>
 
 - 2025-06-15, **Privacy-Preserving Federated Learning against Malicious Clients Based on Verifiable Functional Encryption**, Nina Cai et.al., Paper: [http://arxiv.org/abs/2506.12846](http://arxiv.org/abs/2506.12846)
@@ -2235,6 +2254,12 @@
 
 ## Forensics
 
+<h3>2025-06-17</h3>
+
+- 2025-06-17, **A Comparative Study on Proactive and Passive Detection of Deepfake Speech**, Chia-Hua Wu et.al., Paper: [http://arxiv.org/abs/2506.14398](http://arxiv.org/abs/2506.14398)
+- 2025-06-17, **Manipulated Regions Localization For Partially Deepfake Audio: A Survey**, Jiayi He et.al., Paper: [http://arxiv.org/abs/2506.14396](http://arxiv.org/abs/2506.14396)
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+
 <h3>2025-06-15</h3>
 
 - 2025-06-15, **Governments Should Mandate Tiered Anonymity on Social-Media Platforms to Counter Deepfakes and LLM-Driven Mass Misinformation**, David Khachaturov et.al., Paper: [http://arxiv.org/abs/2506.12814](http://arxiv.org/abs/2506.12814)
@@ -2691,6 +2716,26 @@
 
 <h3>2025-06-17</h3>
 
+- 2025-06-17, **Large Language Models -- the Future of Fundamental Physics?**, Caroline Heneka et.al., Paper: [http://arxiv.org/abs/2506.14757](http://arxiv.org/abs/2506.14757)
+- 2025-06-17, **Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**, Ring Team et.al., Paper: [http://arxiv.org/abs/2506.14731](http://arxiv.org/abs/2506.14731)
+- 2025-06-17, **AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes**, Jiahao Qiu et.al., Paper: [http://arxiv.org/abs/2506.14728](http://arxiv.org/abs/2506.14728)
+- 2025-06-17, **Adaptive Accompaniment with ReaLchords**, Yusong Wu et.al., Paper: [http://arxiv.org/abs/2506.14723](http://arxiv.org/abs/2506.14723)
+- 2025-06-17, **Unified Software Engineering agent as AI Software Engineer**, Leonhard Applis et.al., Paper: [http://arxiv.org/abs/2506.14683](http://arxiv.org/abs/2506.14683)
+- 2025-06-17, **AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models**, Ads Dawson et.al., Paper: [http://arxiv.org/abs/2506.14682](http://arxiv.org/abs/2506.14682)
+- 2025-06-17, **Massive Supervised Fine-tuning Experiments Reveal How Data, Layer, and Training Factors Shape LLM Alignment Quality**, Yuto Harada et.al., Paper: [http://arxiv.org/abs/2506.14681](http://arxiv.org/abs/2506.14681)
+- 2025-06-17, **Issue Retrieval and Verification Enhanced Supplementary Code Comment Generation**, Yanzhen Zou et.al., Paper: [http://arxiv.org/abs/2506.14649](http://arxiv.org/abs/2506.14649)
+- 2025-06-17, **Passing the Turing Test in Political Discourse: Fine-Tuning LLMs to Mimic Polarized Social Media Comments**, . Pazzaglia et.al., Paper: [http://arxiv.org/abs/2506.14645](http://arxiv.org/abs/2506.14645)
+- 2025-06-17, **Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot**, Xiang Cheng et.al., Paper: [http://arxiv.org/abs/2506.14641](http://arxiv.org/abs/2506.14641)
+- 2025-06-17, **AIn't Nothing But a Survey? Using Large Language Models for Coding German Open-Ended Survey Responses on Survey Motivation**, Leah von der Heyde et.al., Paper: [http://arxiv.org/abs/2506.14634](http://arxiv.org/abs/2506.14634)
+- 2025-06-17, **Probabilistic Aggregation and Targeted Embedding Optimization for Collective Moral Reasoning in Large Language Models**, Chenchen Yuan et.al., Paper: [http://arxiv.org/abs/2506.14625](http://arxiv.org/abs/2506.14625)
+- 2025-06-17, **Guaranteed Guess: A Language Modeling Approach for CISC-to-RISC Transpilation with Testing Guarantees**, Ahmed Heakl et.al., Paper: [http://arxiv.org/abs/2506.14606](http://arxiv.org/abs/2506.14606)
+- 2025-06-17, **Align Your Flow: Scaling Continuous-Time Flow Map Distillation**, Amirmojtaba Sabour et.al., Paper: [http://arxiv.org/abs/2506.14603](http://arxiv.org/abs/2506.14603)
+- 2025-06-17, **NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving**, Ren Xin et.al., Paper: [http://arxiv.org/abs/2506.14589](http://arxiv.org/abs/2506.14589)
+- 2025-06-17, **GenerationPrograms: Fine-grained Attribution with Executable Programs**, David Wan et.al., Paper: [http://arxiv.org/abs/2506.14580](http://arxiv.org/abs/2506.14580)
+- 2025-06-17, **AlphaDecay:Module-wise Weight Decay for Heavy-Tailed Balancing in LLMs**, Di He et.al., Paper: [http://arxiv.org/abs/2506.14562](http://arxiv.org/abs/2506.14562)
+- 2025-06-17, **Doppelgänger Method: Breaking Role Consistency in LLM Agent via Prompt-based Transferable Adversarial Attack**, Daewon Kang et.al., Paper: [http://arxiv.org/abs/2506.14539](http://arxiv.org/abs/2506.14539)
+- 2025-06-17, **Automatic Qiskit Code Refactoring Using Large Language Models**, José Manuel Suárez et.al., Paper: [http://arxiv.org/abs/2506.14535](http://arxiv.org/abs/2506.14535)
+- 2025-06-17, **M2BeamLLM: Multimodal Sensing-empowered mmWave Beam Prediction with Large Language Models**, Can Zheng et.al., Paper: [http://arxiv.org/abs/2506.14532](http://arxiv.org/abs/2506.14532)
 - 2025-06-17, **Prefix-Tuning+: Modernizing Prefix-Tuning by Decoupling the Prefix from Attention**, Haonan Wang et.al., Paper: [http://arxiv.org/abs/2506.13674](http://arxiv.org/abs/2506.13674)
 <p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
