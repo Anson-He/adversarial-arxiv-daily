@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -6319,6 +6319,28 @@ layout: default
 
 ## Generative models safety
 
+<h3>2025-06-17</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-17</b></td>
+    <td><b>Safe-Child-LLM: A Developmental Benchmark for Evaluating LLM Safety in Child-LLM Interactions</b></td>
+    <td>Junfeng Jiao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.13510">2506.13510</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-16</h3>
 
 <table>
@@ -6337,13 +6359,6 @@ layout: default
     <td><b>We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems</b></td>
     <td>Junfeng Fang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.13666">2506.13666</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-16</b></td>
-    <td><b>Safe-Child-LLM: A Developmental Benchmark for Evaluating LLM Safety in Child-AI Interactions</b></td>
-    <td>Junfeng Jiao et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.13510">2506.13510</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -13377,6 +13392,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-06-17</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-17</b></td>
+    <td><b>Prefix-Tuning+: Modernizing Prefix-Tuning by Decoupling the Prefix from Attention</b></td>
+    <td>Haonan Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.13674">2506.13674</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-16</h3>
 
 <table>
@@ -13507,13 +13544,6 @@ layout: default
     <td><b>Turning Down the Heat: A Critical Analysis of Min-p Sampling in Language Models</b></td>
     <td>Rylan Schaeffer et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.13681">2506.13681</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-16</b></td>
-    <td><b>Prefix-Tuning+: Modernizing Prefix-Tuning through Attention Independent Prefix Data</b></td>
-    <td>Haonan Wang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.13674">2506.13674</a></td>
     <td>null</td>
        </tr>
        <tr>
