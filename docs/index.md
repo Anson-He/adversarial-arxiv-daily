@@ -221,7 +221,7 @@ layout: default
     <td><b>Improving Large Language Model Safety with Contrastive Representation Learning</b></td>
     <td>Samuel Simko et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.11938">2506.11938</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/samuelsimko/crl-llm-defense)**</td>
        </tr>
        <tr>
     <td><b>2025-06-13</b></td>
@@ -4071,7 +4071,7 @@ layout: default
     <td><b>EBS-CFL: Efficient and Byzantine-robust Secure Clustered Federated Learning</b></td>
     <td>Zhiqiang Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.13612">2506.13612</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/lee-va/ebs-cfl)**</td>
        </tr>
        <tr>
     <td><b>2025-06-16</b></td>
@@ -6439,7 +6439,7 @@ layout: default
     <td><b>LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning</b></td>
     <td>Gabrel J. Perin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.15606">2506.15606</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/vita-group/lox)**</td>
        </tr>
    </tbody>
 </table>
@@ -6483,7 +6483,7 @@ layout: default
     <td><b>We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems</b></td>
     <td>Junfeng Fang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.13666">2506.13666</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/littlelittlenine/safemcp)**</td>
        </tr>
    </tbody>
 </table>
@@ -11535,7 +11535,7 @@ layout: default
     <td><b>From Sharpness to Better Generalization for Speech Deepfake Detection</b></td>
     <td>Wen Huang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.11532">2506.11532</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/nii-yamagishilab/SAM-AntiSpoofing)**</td>
        </tr>
        <tr>
     <td><b>2025-06-13</b></td>
@@ -13664,7 +13664,7 @@ layout: default
     <td><b>Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model</b></td>
     <td>Anirud Aggarwal et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.15682">2506.15682</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/aniaggarwal/ecad)**</td>
        </tr>
        <tr>
     <td><b>2025-06-18</b></td>
@@ -13713,7 +13713,7 @@ layout: default
     <td><b>LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning</b></td>
     <td>Gabrel J. Perin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.15606">2506.15606</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/vita-group/lox)**</td>
        </tr>
        <tr>
     <td><b>2025-06-18</b></td>
@@ -13734,14 +13734,14 @@ layout: default
     <td><b>One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution</b></td>
     <td>Yujing Sun et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.15591">2506.15591</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/yjsunnn/dloral)**</td>
        </tr>
        <tr>
     <td><b>2025-06-18</b></td>
     <td><b>Gender Inclusivity Fairness Index (GIFI): A Multilevel Framework for Evaluating Gender Diversity in Large Language Models</b></td>
     <td>Zhengyang Shan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.15568">2506.15568</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/zhengyangshan/gifi)**</td>
        </tr>
        <tr>
     <td><b>2025-06-18</b></td>
