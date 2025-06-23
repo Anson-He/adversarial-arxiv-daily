@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -4009,6 +4009,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-06-19</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-19</b></td>
+    <td><b>Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments</b></td>
+    <td>Xuan Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.13205">2506.13205</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-18</h3>
 
 <table>
@@ -4085,13 +4107,6 @@ layout: default
     <td><b>Mitigating Safety Fallback in Editing-based Backdoor Injection on LLMs</b></td>
     <td>Houcheng Jiang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.13285">2506.13285</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-16</b></td>
-    <td><b>Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments</b></td>
-    <td>Xuan Wang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.13205">2506.13205</a></td>
     <td>null</td>
        </tr>
        <tr>
