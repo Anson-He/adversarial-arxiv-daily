@@ -23,6 +23,85 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-06-20</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model</b></td>
+    <td>Side Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17162">2506.17162</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Robust Training with Data Augmentation for Medical Imaging Classification</b></td>
+    <td>Josué Martínez-Martínez et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17133">2506.17133</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Large Language Model Unlearning for Source Code</b></td>
+    <td>Xue Jiang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17125">2506.17125</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>DepthVanish: Optimizing Adversarial Interval Structures for Stereo-Depth-Invisible Patches</b></td>
+    <td>Yun Xing et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.16690">2506.16690</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-06-19</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-19</b></td>
+    <td><b>Robustness Evaluation of OCR-based Visual Document Understanding under Multi-Modal Adversarial Attacks</b></td>
+    <td>Dong Nguyen Tien et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.16407">2506.16407</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-19</b></td>
+    <td><b>MBA: Multimodal Bidirectional Attack for Referring Expression Segmentation Models</b></td>
+    <td>Xingbai Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.16157">2506.16157</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-19</b></td>
+    <td><b>Adversarial Attacks and Detection in Visual Place Recognition for Safer Robot Navigation</b></td>
+    <td>Connor Malone et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.15988">2506.15988</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-18</h3>
 
 <table>
@@ -36,6 +115,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-06-18</b></td>
+    <td><b>VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service</b></td>
+    <td>Xiasi Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.15755">2506.15755</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-06-18</b></td>
     <td><b>Insights on Adversarial Attacks for Tabular Machine Learning via a Systematic Literature Review</b></td>
@@ -123,6 +209,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-06-15</b></td>
+    <td><b>The Safety Reminder: A Soft Prompt to Reactivate Delayed Safety Awareness in Vision-Language Models</b></td>
+    <td>Peiyuan Tang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.15734">2506.15734</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-06-15</b></td>
     <td><b>Constraint-Guided Prediction Refinement via Deterministic Diffusion Trajectories</b></td>
@@ -4024,6 +4117,20 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-06-19</b></td>
+    <td><b>SecureFed: A Two-Phase Framework for Detecting Malicious Clients in Federated Learning</b></td>
+    <td>Likhitha Annapurna Kavuri et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.16458">2506.16458</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-19</b></td>
+    <td><b>Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models</b></td>
+    <td>Biao Yi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.16447">2506.16447</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-19</b></td>
     <td><b>Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments</b></td>
     <td>Xuan Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.13205">2506.13205</a></td>
@@ -7670,6 +7777,42 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-06-19</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-19</b></td>
+    <td><b>SecureFed: A Two-Phase Framework for Detecting Malicious Clients in Federated Learning</b></td>
+    <td>Likhitha Annapurna Kavuri et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.16458">2506.16458</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-19</b></td>
+    <td><b>FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models</b></td>
+    <td>Xinting Liao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.16218">2506.16218</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-19</b></td>
+    <td><b>Leveraging Optimal Transport for Distributed Two-Sample Testing: An Integrated Transportation Distance-based Framework</b></td>
+    <td>Zhengqi Lin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.16047">2506.16047</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-18</h3>
 
 <table>
@@ -7683,6 +7826,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-06-18</b></td>
+    <td><b>PNCS:Power-Norm Cosine Similarity for Diverse Client Selection in Federated Learning</b></td>
+    <td>Liangyan Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.15923">2506.15923</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-06-18</b></td>
     <td><b>Mapping Caregiver Needs to AI Chatbot Design: Strengths and Gaps in Mental Health Support for Alzheimer's and Dementia Caregivers</b></td>
@@ -11459,6 +11609,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-06-20</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Loupe: A Generalizable and Adaptive Framework for Image Forgery Detection</b></td>
+    <td>Yuchu Jiang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.16819">2506.16819</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-17</h3>
 
 <table>
@@ -13647,6 +13819,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-06-20</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>No Free Lunch: Rethinking Internal Feedback for LLM Reasoning</b></td>
+    <td>Yanzhi Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17219">2506.17219</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Fine-Tuning Lowers Safety and Disrupts Evaluation Consistency</b></td>
+    <td>Kathleen C. Fraser et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17209">2506.17209</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Dissecting the SWE-Bench Leaderboards: Profiling Submitters and Architectures of LLM- and Agent-Based Repair Systems</b></td>
+    <td>Matias Martinez et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17208">2506.17208</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Confidence Scoring for LLM-Generated SQL in Supply Chain Data Extraction</b></td>
+    <td>Jiekai Ma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17203">2506.17203</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation</b></td>
+    <td>Jianglong Ye et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17198">2506.17198</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Schrödinger Bridge Matching for Tree-Structured Costs and Entropic Wasserstein Barycentres</b></td>
+    <td>Samuel Howard et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17197">2506.17197</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Detecting LLM-Generated Short Answers and Effects on Learner Performance</b></td>
+    <td>Shambhavi Bhushan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17196">2506.17196</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Towards AI Search Paradigm</b></td>
+    <td>Yuchen Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17188">2506.17188</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Deep generative models as the probability transformation functions</b></td>
+    <td>Vitalii Bondar et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17171">2506.17171</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>The MedPerturb Dataset: What Non-Content Perturbations Reveal About Human and Clinical LLM Decision Making</b></td>
+    <td>Abinitha Gourabathina et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17163">2506.17163</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Do We Need Large VLMs for Spotting Soccer Actions?</b></td>
+    <td>Ritabrata Chakraborty et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17144">2506.17144</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification</b></td>
+    <td>David Jacob Drexlin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17140">2506.17140</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Large Language Model Unlearning for Source Code</b></td>
+    <td>Xue Jiang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17125">2506.17125</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>When Can Model-Free Reinforcement Learning be Enough for Thinking?</b></td>
+    <td>Josiah P. Hanna et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17124">2506.17124</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving</b></td>
+    <td>Chuxue Cao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17104">2506.17104</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Chain-of-Thought Prompting Obscures Hallucination Cues in Large Language Models: An Empirical Evaluation</b></td>
+    <td>Jiahao Cheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17088">2506.17088</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Tower+: Bridging Generality and Translation Specialization in Multilingual LLMs</b></td>
+    <td>Ricardo Rei et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17080">2506.17080</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Simultaneous Translation with Offline Speech and LLM Models in CUNI Submission to IWSLT 2025</b></td>
+    <td>Dominik Macháček et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17077">2506.17077</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>LLM-Based Bot Broadens the Range of Arguments in Online Discussions, Even When Transparently Disclosed as AI</b></td>
+    <td>Valeria Vuk et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17073">2506.17073</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>Empowering Near-Field Communications in Low-Altitude Economy with LLM: Fundamentals, Potentials, Solutions, and Future Directions</b></td>
+    <td>Zhuo Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17067">2506.17067</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-18</h3>
 
 <table>

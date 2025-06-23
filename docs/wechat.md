@@ -19,8 +19,24 @@
 
 ## Adversarial attacks
 
+<h3>2025-06-20</h3>
+
+- 2025-06-20, **Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model**, Side Liu et.al., Paper: [http://arxiv.org/abs/2506.17162](http://arxiv.org/abs/2506.17162)
+- 2025-06-20, **Robust Training with Data Augmentation for Medical Imaging Classification**, Josué Martínez-Martínez et.al., Paper: [http://arxiv.org/abs/2506.17133](http://arxiv.org/abs/2506.17133)
+- 2025-06-20, **Large Language Model Unlearning for Source Code**, Xue Jiang et.al., Paper: [http://arxiv.org/abs/2506.17125](http://arxiv.org/abs/2506.17125)
+- 2025-06-20, **DepthVanish: Optimizing Adversarial Interval Structures for Stereo-Depth-Invisible Patches**, Yun Xing et.al., Paper: [http://arxiv.org/abs/2506.16690](http://arxiv.org/abs/2506.16690)
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+
+<h3>2025-06-19</h3>
+
+- 2025-06-19, **Robustness Evaluation of OCR-based Visual Document Understanding under Multi-Modal Adversarial Attacks**, Dong Nguyen Tien et.al., Paper: [http://arxiv.org/abs/2506.16407](http://arxiv.org/abs/2506.16407)
+- 2025-06-19, **MBA: Multimodal Bidirectional Attack for Referring Expression Segmentation Models**, Xingbai Chen et.al., Paper: [http://arxiv.org/abs/2506.16157](http://arxiv.org/abs/2506.16157)
+- 2025-06-19, **Adversarial Attacks and Detection in Visual Place Recognition for Safer Robot Navigation**, Connor Malone et.al., Paper: [http://arxiv.org/abs/2506.15988](http://arxiv.org/abs/2506.15988)
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+
 <h3>2025-06-18</h3>
 
+- 2025-06-18, **VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service**, Xiasi Wang et.al., Paper: [http://arxiv.org/abs/2506.15755](http://arxiv.org/abs/2506.15755)
 - 2025-06-18, **Insights on Adversarial Attacks for Tabular Machine Learning via a Systematic Literature Review**, Salijona Dyrmishi et.al., Paper: [http://arxiv.org/abs/2506.15506](http://arxiv.org/abs/2506.15506)
 <p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
@@ -39,6 +55,7 @@
 
 <h3>2025-06-15</h3>
 
+- 2025-06-15, **The Safety Reminder: A Soft Prompt to Reactivate Delayed Safety Awareness in Vision-Language Models**, Peiyuan Tang et.al., Paper: [http://arxiv.org/abs/2506.15734](http://arxiv.org/abs/2506.15734)
 - 2025-06-15, **Constraint-Guided Prediction Refinement via Deterministic Diffusion Trajectories**, Pantelis Dogoulis et.al., Paper: [http://arxiv.org/abs/2506.12911](http://arxiv.org/abs/2506.12911)
 - 2025-06-15, **Intriguing Frequency Interpretation of Adversarial Robustness for CNNs and ViTs**, Lu Chen et.al., Paper: [http://arxiv.org/abs/2506.12875](http://arxiv.org/abs/2506.12875)
 - 2025-06-15, **Active Adversarial Noise Suppression for Image Forgery Localization**, Rongxuan Peng et.al., Paper: [http://arxiv.org/abs/2506.12871](http://arxiv.org/abs/2506.12871)
@@ -762,6 +779,8 @@
 
 <h3>2025-06-19</h3>
 
+- 2025-06-19, **SecureFed: A Two-Phase Framework for Detecting Malicious Clients in Federated Learning**, Likhitha Annapurna Kavuri et.al., Paper: [http://arxiv.org/abs/2506.16458](http://arxiv.org/abs/2506.16458)
+- 2025-06-19, **Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models**, Biao Yi et.al., Paper: [http://arxiv.org/abs/2506.16447](http://arxiv.org/abs/2506.16447)
 - 2025-06-19, **Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments**, Xuan Wang et.al., Paper: [http://arxiv.org/abs/2506.13205](http://arxiv.org/abs/2506.13205)
 <p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
@@ -1524,8 +1543,16 @@
 
 ## Data privacy
 
+<h3>2025-06-19</h3>
+
+- 2025-06-19, **SecureFed: A Two-Phase Framework for Detecting Malicious Clients in Federated Learning**, Likhitha Annapurna Kavuri et.al., Paper: [http://arxiv.org/abs/2506.16458](http://arxiv.org/abs/2506.16458)
+- 2025-06-19, **FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models**, Xinting Liao et.al., Paper: [http://arxiv.org/abs/2506.16218](http://arxiv.org/abs/2506.16218)
+- 2025-06-19, **Leveraging Optimal Transport for Distributed Two-Sample Testing: An Integrated Transportation Distance-based Framework**, Zhengqi Lin et.al., Paper: [http://arxiv.org/abs/2506.16047](http://arxiv.org/abs/2506.16047)
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+
 <h3>2025-06-18</h3>
 
+- 2025-06-18, **PNCS:Power-Norm Cosine Similarity for Diverse Client Selection in Federated Learning**, Liangyan Li et.al., Paper: [http://arxiv.org/abs/2506.15923](http://arxiv.org/abs/2506.15923)
 - 2025-06-18, **Mapping Caregiver Needs to AI Chatbot Design: Strengths and Gaps in Mental Health Support for Alzheimer's and Dementia Caregivers**, Jiayue Melissa Shi et.al., Paper: [http://arxiv.org/abs/2506.15047](http://arxiv.org/abs/2506.15047)
 <p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
@@ -2284,6 +2311,11 @@
 
 ## Forensics
 
+<h3>2025-06-20</h3>
+
+- 2025-06-20, **Loupe: A Generalizable and Adaptive Framework for Image Forgery Detection**, Yuchu Jiang et.al., Paper: [http://arxiv.org/abs/2506.16819](http://arxiv.org/abs/2506.16819)
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+
 <h3>2025-06-17</h3>
 
 - 2025-06-17, **A Comparative Study on Proactive and Passive Detection of Deepfake Speech**, Chia-Hua Wu et.al., Paper: [http://arxiv.org/abs/2506.14398](http://arxiv.org/abs/2506.14398), Code: **[https://github.com/nii-yamagishilab/antispoofing-watermark](https://github.com/nii-yamagishilab/antispoofing-watermark)**
@@ -2743,6 +2775,30 @@
 
 
 ## AIGC
+
+<h3>2025-06-20</h3>
+
+- 2025-06-20, **No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**, Yanzhi Zhang et.al., Paper: [http://arxiv.org/abs/2506.17219](http://arxiv.org/abs/2506.17219)
+- 2025-06-20, **Fine-Tuning Lowers Safety and Disrupts Evaluation Consistency**, Kathleen C. Fraser et.al., Paper: [http://arxiv.org/abs/2506.17209](http://arxiv.org/abs/2506.17209)
+- 2025-06-20, **Dissecting the SWE-Bench Leaderboards: Profiling Submitters and Architectures of LLM- and Agent-Based Repair Systems**, Matias Martinez et.al., Paper: [http://arxiv.org/abs/2506.17208](http://arxiv.org/abs/2506.17208)
+- 2025-06-20, **Confidence Scoring for LLM-Generated SQL in Supply Chain Data Extraction**, Jiekai Ma et.al., Paper: [http://arxiv.org/abs/2506.17203](http://arxiv.org/abs/2506.17203)
+- 2025-06-20, **Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation**, Jianglong Ye et.al., Paper: [http://arxiv.org/abs/2506.17198](http://arxiv.org/abs/2506.17198)
+- 2025-06-20, **Schrödinger Bridge Matching for Tree-Structured Costs and Entropic Wasserstein Barycentres**, Samuel Howard et.al., Paper: [http://arxiv.org/abs/2506.17197](http://arxiv.org/abs/2506.17197)
+- 2025-06-20, **Detecting LLM-Generated Short Answers and Effects on Learner Performance**, Shambhavi Bhushan et.al., Paper: [http://arxiv.org/abs/2506.17196](http://arxiv.org/abs/2506.17196)
+- 2025-06-20, **Towards AI Search Paradigm**, Yuchen Li et.al., Paper: [http://arxiv.org/abs/2506.17188](http://arxiv.org/abs/2506.17188)
+- 2025-06-20, **Deep generative models as the probability transformation functions**, Vitalii Bondar et.al., Paper: [http://arxiv.org/abs/2506.17171](http://arxiv.org/abs/2506.17171)
+- 2025-06-20, **The MedPerturb Dataset: What Non-Content Perturbations Reveal About Human and Clinical LLM Decision Making**, Abinitha Gourabathina et.al., Paper: [http://arxiv.org/abs/2506.17163](http://arxiv.org/abs/2506.17163)
+- 2025-06-20, **Do We Need Large VLMs for Spotting Soccer Actions?**, Ritabrata Chakraborty et.al., Paper: [http://arxiv.org/abs/2506.17144](http://arxiv.org/abs/2506.17144)
+- 2025-06-20, **MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification**, David Jacob Drexlin et.al., Paper: [http://arxiv.org/abs/2506.17140](http://arxiv.org/abs/2506.17140)
+- 2025-06-20, **Large Language Model Unlearning for Source Code**, Xue Jiang et.al., Paper: [http://arxiv.org/abs/2506.17125](http://arxiv.org/abs/2506.17125)
+- 2025-06-20, **When Can Model-Free Reinforcement Learning be Enough for Thinking?**, Josiah P. Hanna et.al., Paper: [http://arxiv.org/abs/2506.17124](http://arxiv.org/abs/2506.17124)
+- 2025-06-20, **Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving**, Chuxue Cao et.al., Paper: [http://arxiv.org/abs/2506.17104](http://arxiv.org/abs/2506.17104)
+- 2025-06-20, **Chain-of-Thought Prompting Obscures Hallucination Cues in Large Language Models: An Empirical Evaluation**, Jiahao Cheng et.al., Paper: [http://arxiv.org/abs/2506.17088](http://arxiv.org/abs/2506.17088)
+- 2025-06-20, **Tower+: Bridging Generality and Translation Specialization in Multilingual LLMs**, Ricardo Rei et.al., Paper: [http://arxiv.org/abs/2506.17080](http://arxiv.org/abs/2506.17080)
+- 2025-06-20, **Simultaneous Translation with Offline Speech and LLM Models in CUNI Submission to IWSLT 2025**, Dominik Macháček et.al., Paper: [http://arxiv.org/abs/2506.17077](http://arxiv.org/abs/2506.17077)
+- 2025-06-20, **LLM-Based Bot Broadens the Range of Arguments in Online Discussions, Even When Transparently Disclosed as AI**, Valeria Vuk et.al., Paper: [http://arxiv.org/abs/2506.17073](http://arxiv.org/abs/2506.17073)
+- 2025-06-20, **Empowering Near-Field Communications in Low-Altitude Economy with LLM: Fundamentals, Potentials, Solutions, and Future Directions**, Zhuo Xu et.al., Paper: [http://arxiv.org/abs/2506.17067](http://arxiv.org/abs/2506.17067)
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 <h3>2025-06-18</h3>
 
