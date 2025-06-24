@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -7777,6 +7777,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-06-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-21</b></td>
+    <td><b>Unlearning Isn't Invisible: Detecting Unlearning Traces in LLMs from Model Outputs</b></td>
+    <td>Yiwei Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.14003">2506.14003</a></td>
+    <td>**[link](https://github.com/optml-group/unlearn-trace)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-19</h3>
 
 <table>
@@ -7884,13 +7906,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-06-16</b></td>
-    <td><b>Unlearning Isn't Invisible: Detecting Unlearning Traces in LLMs from Model Outputs</b></td>
-    <td>Yiwei Chen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.14003">2506.14003</a></td>
-    <td>**[link](https://github.com/optml-group/unlearn-trace)**</td>
-       </tr>
        <tr>
     <td><b>2025-06-16</b></td>
     <td><b>ReinDSplit: Reinforced Dynamic Split Learning for Pest Recognition in Precision Agriculture</b></td>
