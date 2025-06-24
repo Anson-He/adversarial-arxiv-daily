@@ -23,6 +23,100 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-06-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>Amplifying Machine Learning Attacks Through Strategic Compositions</b></td>
+    <td>Yugeng Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18870">2506.18870</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>SpaNN: Detecting Multiple Adversarial Patches on CNNs by Spanning Saliency Thresholds</b></td>
+    <td>Mauricio Byrd Victorica et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18591">2506.18591</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>DUMB and DUMBer: Is Adversarial Training Worth It in the Real World?</b></td>
+    <td>Francesco Marchiori et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18516">2506.18516</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>Sharpening the Spear: Adaptive Expert-Guided Adversarial Attack Against DRL-based Autonomous Driving Policies</b></td>
+    <td>Junchao Fan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18304">2506.18304</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>Semantic Structure-Aware Generative Attacks for Enhanced Adversarial Transferability</b></td>
+    <td>Jongoh Jeong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18248">2506.18248</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-06-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-22</b></td>
+    <td><b>DRO-Augment Framework: Robustness by Synergizing Wasserstein Distributionally Robust Optimization and Data Augmentation</b></td>
+    <td>Jiaming Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17874">2506.17874</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-06-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-21</b></td>
+    <td><b>Optimization-Free Patch Attack on Stereo Depth Estimation</b></td>
+    <td>Hangcheng Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17632">2506.17632</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-20</h3>
 
 <table>
@@ -4102,6 +4196,50 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-06-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-22</b></td>
+    <td><b>Generalization under Byzantine & Poisoning Attacks: Tight Stability Bounds in Robust Distributed Learning</b></td>
+    <td>Thomas Boudou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18020">2506.18020</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-06-20</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>CUBA: Controlled Untargeted Backdoor Attack against Deep Neural Networks</b></td>
+    <td>Yinghao Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17350">2506.17350</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-19</h3>
 
 <table>
@@ -7777,6 +7915,50 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-06-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>Federated Learning from Molecules to Processes: A Perspective</b></td>
+    <td>Jan G. Rittig et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18525">2506.18525</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-06-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-22</b></td>
+    <td><b>Federated Learning-Based Data Collaboration Method for Enhancing Edge Cloud AI System Security Using Large Language Models</b></td>
+    <td>Huaiying Luo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18087">2506.18087</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-21</h3>
 
 <table>
@@ -7796,6 +7978,28 @@ layout: default
     <td>Yiwei Chen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.14003">2506.14003</a></td>
     <td>**[link](https://github.com/optml-group/unlearn-trace)**</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-06-20</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-20</b></td>
+    <td><b>AI based Content Creation and Product Recommendation Applications in E-commerce: An Ethical overview</b></td>
+    <td>Aditi Madhusudan Jain et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17370">2506.17370</a></td>
+    <td>null</td>
        </tr>
    </tbody>
 </table>
@@ -7848,6 +8052,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-06-18</b></td>
+    <td><b>Tracking GPTs Third Party Service: Automation, Analysis, and Insights</b></td>
+    <td>Chuan Yan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17315">2506.17315</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-06-18</b></td>
     <td><b>PNCS:Power-Norm Cosine Similarity for Diverse Client Selection in Federated Learning</b></td>
@@ -11624,6 +11835,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-06-21</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-21</b></td>
+    <td><b>SELFI: Selective Fusion of Identity for Generalizable Deepfake Detection</b></td>
+    <td>Younghun Kim et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17592">2506.17592</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-20</h3>
 
 <table>
@@ -11642,6 +11875,28 @@ layout: default
     <td><b>Loupe: A Generalizable and Adaptive Framework for Image Forgery Detection</b></td>
     <td>Yuchu Jiang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.16819">2506.16819</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-06-18</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-18</b></td>
+    <td><b>I Know Which LLM Wrote Your Code Last Summer: LLM generated Code Stylometry for Authorship Attribution</b></td>
+    <td>Tamas Bisztray et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17323">2506.17323</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -13834,6 +14089,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-06-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation</b></td>
+    <td>Kaiyi Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18899">2506.18899</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations</b></td>
+    <td>Jiaming Han et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18898">2506.18898</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>MinD: Unified Visual Imagination and Control via Hierarchical World Models</b></td>
+    <td>Xiaowei Chi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18897">2506.18897</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs</b></td>
+    <td>Jiaru Zou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18896">2506.18896</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>Steering Conceptual Bias via Transformer Latent-Subspace Activation</b></td>
+    <td>Vansh Sharma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18887">2506.18887</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>Let Your Video Listen to Your Music!</b></td>
+    <td>Xinyu Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18881">2506.18881</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization</b></td>
+    <td>Yiyou Sun et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18880">2506.18880</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>CommVQ: Commutative Vector Quantization for KV Cache Compression</b></td>
+    <td>Junyan Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18879">2506.18879</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>OmniGen2: Exploration to Advanced Multimodal Generation</b></td>
+    <td>Chenyuan Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18871">2506.18871</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation</b></td>
+    <td>Qijun Gan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18866">2506.18866</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning</b></td>
+    <td>Yuhao Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18841">2506.18841</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories</b></td>
+    <td>Islem Bouzenia et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18824">2506.18824</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>RWESummary: A Framework and Test for Choosing Large Language Models to Summarize Real-World Evidence (RWE) Studies</b></td>
+    <td>Arjun Mukerji et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18819">2506.18819</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction</b></td>
+    <td>Jiachi Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18795">2506.18795</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>3D Arena: An Open Platform for Generative 3D Evaluation</b></td>
+    <td>Dylan Ebert et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18787">2506.18787</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>TRIZ Agents: A Multi-Agent LLM Approach for TRIZ-Based Innovation</b></td>
+    <td>Kamil Szczepanik et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18783">2506.18783</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>Existing LLMs Are Not Self-Consistent For Simple Tasks</b></td>
+    <td>Zhenru Lin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18781">2506.18781</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>DefFusionNet: Learning Multimodal Goal Shapes for Deformable Object Manipulation via a Diffusion-based Probabilistic Model</b></td>
+    <td>Bao Thach et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18779">2506.18779</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>Programming by Backprop: LLMs Acquire Reusable Algorithmic Abstractions During Code Training</b></td>
+    <td>Jonathan Cook et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18777">2506.18777</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>ContinualFlow: Learning and Unlearning with Neural Flow Matching</b></td>
+    <td>Lorenzo Simone et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18747">2506.18747</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-20</h3>
 
 <table>

@@ -19,6 +19,31 @@
 
 ## Adversarial attacks
 
+<h3>2025-06-23</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-23**|**Amplifying Machine Learning Attacks Through Strategic Compositions**|Yugeng Liu et.al.|[2506.18870](http://arxiv.org/abs/2506.18870)|null|
+|**2025-06-23**|**SpaNN: Detecting Multiple Adversarial Patches on CNNs by Spanning Saliency Thresholds**|Mauricio Byrd Victorica et.al.|[2506.18591](http://arxiv.org/abs/2506.18591)|null|
+|**2025-06-23**|**DUMB and DUMBer: Is Adversarial Training Worth It in the Real World?**|Francesco Marchiori et.al.|[2506.18516](http://arxiv.org/abs/2506.18516)|null|
+|**2025-06-23**|**Sharpening the Spear: Adaptive Expert-Guided Adversarial Attack Against DRL-based Autonomous Driving Policies**|Junchao Fan et.al.|[2506.18304](http://arxiv.org/abs/2506.18304)|null|
+|**2025-06-23**|**Semantic Structure-Aware Generative Attacks for Enhanced Adversarial Transferability**|Jongoh Jeong et.al.|[2506.18248](http://arxiv.org/abs/2506.18248)|null|
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+
+<h3>2025-06-22</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-22**|**DRO-Augment Framework: Robustness by Synergizing Wasserstein Distributionally Robust Optimization and Data Augmentation**|Jiaming Hu et.al.|[2506.17874](http://arxiv.org/abs/2506.17874)|null|
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+
+<h3>2025-06-21</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-21**|**Optimization-Free Patch Attack on Stereo Depth Estimation**|Hangcheng Liu et.al.|[2506.17632](http://arxiv.org/abs/2506.17632)|null|
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+
 <h3>2025-06-20</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -962,6 +987,20 @@
 
 
 ## Poisoning attacks
+
+<h3>2025-06-22</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-22**|**Generalization under Byzantine & Poisoning Attacks: Tight Stability Bounds in Robust Distributed Learning**|Thomas Boudou et.al.|[2506.18020](http://arxiv.org/abs/2506.18020)|null|
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+
+<h3>2025-06-20</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-20**|**CUBA: Controlled Untargeted Backdoor Attack against Deep Neural Networks**|Yinghao Wu et.al.|[2506.17350](http://arxiv.org/abs/2506.17350)|null|
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 <h3>2025-06-19</h3>
 
@@ -1983,11 +2022,32 @@
 
 ## Data privacy
 
+<h3>2025-06-23</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-23**|**Federated Learning from Molecules to Processes: A Perspective**|Jan G. Rittig et.al.|[2506.18525](http://arxiv.org/abs/2506.18525)|null|
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+
+<h3>2025-06-22</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-22**|**Federated Learning-Based Data Collaboration Method for Enhancing Edge Cloud AI System Security Using Large Language Models**|Huaiying Luo et.al.|[2506.18087](http://arxiv.org/abs/2506.18087)|null|
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+
 <h3>2025-06-21</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-21**|**Unlearning Isn't Invisible: Detecting Unlearning Traces in LLMs from Model Outputs**|Yiwei Chen et.al.|[2506.14003](http://arxiv.org/abs/2506.14003)|**[link](https://github.com/optml-group/unlearn-trace)**|
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+
+<h3>2025-06-20</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-20**|**AI based Content Creation and Product Recommendation Applications in E-commerce: An Ethical overview**|Aditi Madhusudan Jain et.al.|[2506.17370](http://arxiv.org/abs/2506.17370)|null|
 <p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 <h3>2025-06-19</h3>
@@ -2003,6 +2063,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**Tracking GPTs Third Party Service: Automation, Analysis, and Insights**|Chuan Yan et.al.|[2506.17315](http://arxiv.org/abs/2506.17315)|null|
 |**2025-06-18**|**PNCS:Power-Norm Cosine Similarity for Diverse Client Selection in Federated Learning**|Liangyan Li et.al.|[2506.15923](http://arxiv.org/abs/2506.15923)|null|
 |**2025-06-18**|**Mapping Caregiver Needs to AI Chatbot Design: Strengths and Gaps in Mental Health Support for Alzheimer's and Dementia Caregivers**|Jiayue Melissa Shi et.al.|[2506.15047](http://arxiv.org/abs/2506.15047)|null|
 <p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
@@ -2989,11 +3050,25 @@
 
 ## Forensics
 
+<h3>2025-06-21</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-21**|**SELFI: Selective Fusion of Identity for Generalizable Deepfake Detection**|Younghun Kim et.al.|[2506.17592](http://arxiv.org/abs/2506.17592)|null|
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+
 <h3>2025-06-20</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-20**|**Loupe: A Generalizable and Adaptive Framework for Image Forgery Detection**|Yuchu Jiang et.al.|[2506.16819](http://arxiv.org/abs/2506.16819)|null|
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+
+<h3>2025-06-18</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-18**|**I Know Which LLM Wrote Your Code Last Summer: LLM generated Code Stylometry for Authorship Attribution**|Tamas Bisztray et.al.|[2506.17323](http://arxiv.org/abs/2506.17323)|null|
 <p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 <h3>2025-06-17</h3>
@@ -3611,6 +3686,32 @@
 
 
 ## AIGC
+
+<h3>2025-06-23</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-23**|**FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation**|Kaiyi Huang et.al.|[2506.18899](http://arxiv.org/abs/2506.18899)|null|
+|**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898](http://arxiv.org/abs/2506.18898)|null|
+|**2025-06-23**|**MinD: Unified Visual Imagination and Control via Hierarchical World Models**|Xiaowei Chi et.al.|[2506.18897](http://arxiv.org/abs/2506.18897)|null|
+|**2025-06-23**|**ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs**|Jiaru Zou et.al.|[2506.18896](http://arxiv.org/abs/2506.18896)|null|
+|**2025-06-23**|**Steering Conceptual Bias via Transformer Latent-Subspace Activation**|Vansh Sharma et.al.|[2506.18887](http://arxiv.org/abs/2506.18887)|null|
+|**2025-06-23**|**Let Your Video Listen to Your Music!**|Xinyu Zhang et.al.|[2506.18881](http://arxiv.org/abs/2506.18881)|null|
+|**2025-06-23**|**OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization**|Yiyou Sun et.al.|[2506.18880](http://arxiv.org/abs/2506.18880)|null|
+|**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
+|**2025-06-23**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
+|**2025-06-23**|**OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation**|Qijun Gan et.al.|[2506.18866](http://arxiv.org/abs/2506.18866)|null|
+|**2025-06-23**|**LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning**|Yuhao Wu et.al.|[2506.18841](http://arxiv.org/abs/2506.18841)|null|
+|**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824](http://arxiv.org/abs/2506.18824)|null|
+|**2025-06-23**|**RWESummary: A Framework and Test for Choosing Large Language Models to Summarize Real-World Evidence (RWE) Studies**|Arjun Mukerji et.al.|[2506.18819](http://arxiv.org/abs/2506.18819)|null|
+|**2025-06-23**|**FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction**|Jiachi Chen et.al.|[2506.18795](http://arxiv.org/abs/2506.18795)|null|
+|**2025-06-23**|**3D Arena: An Open Platform for Generative 3D Evaluation**|Dylan Ebert et.al.|[2506.18787](http://arxiv.org/abs/2506.18787)|null|
+|**2025-06-23**|**TRIZ Agents: A Multi-Agent LLM Approach for TRIZ-Based Innovation**|Kamil Szczepanik et.al.|[2506.18783](http://arxiv.org/abs/2506.18783)|null|
+|**2025-06-23**|**Existing LLMs Are Not Self-Consistent For Simple Tasks**|Zhenru Lin et.al.|[2506.18781](http://arxiv.org/abs/2506.18781)|null|
+|**2025-06-23**|**DefFusionNet: Learning Multimodal Goal Shapes for Deformable Object Manipulation via a Diffusion-based Probabilistic Model**|Bao Thach et.al.|[2506.18779](http://arxiv.org/abs/2506.18779)|null|
+|**2025-06-23**|**Programming by Backprop: LLMs Acquire Reusable Algorithmic Abstractions During Code Training**|Jonathan Cook et.al.|[2506.18777](http://arxiv.org/abs/2506.18777)|null|
+|**2025-06-23**|**ContinualFlow: Learning and Unlearning with Neural Flow Matching**|Lorenzo Simone et.al.|[2506.18747](http://arxiv.org/abs/2506.18747)|null|
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 <h3>2025-06-20</h3>
 
