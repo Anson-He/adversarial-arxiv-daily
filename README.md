@@ -19,6 +19,13 @@
 
 ## Adversarial attacks
 
+<h3>2025-06-24</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-24**|**Adversarial Attacks on Deep Learning-Based False Data Injection Detection in Differential Relays**|Ahmad Mohammad Saber et.al.|[2506.19302](http://arxiv.org/abs/2506.19302)|null|
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
+
 <h3>2025-06-23</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -67,6 +74,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**PolyGuard: Massive Multi-Domain Safety Policy-Grounded Guardrail Dataset**|Mintong Kang et.al.|[2506.19054](http://arxiv.org/abs/2506.19054)|null|
 |**2025-06-18**|**VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service**|Xiasi Wang et.al.|[2506.15755](http://arxiv.org/abs/2506.15755)|null|
 |**2025-06-18**|**Insights on Adversarial Attacks for Tabular Machine Learning via a Systematic Literature Review**|Salijona Dyrmishi et.al.|[2506.15506](http://arxiv.org/abs/2506.15506)|null|
 <p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
@@ -987,6 +995,13 @@
 
 
 ## Poisoning attacks
+
+<h3>2025-06-24</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-24**|**Identifying Physically Realizable Triggers for Backdoored Face Recognition Networks**|Ankita Raj et.al.|[2506.19533](http://arxiv.org/abs/2506.19533)|null|
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 <h3>2025-06-22</h3>
 
@@ -2026,6 +2041,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**ReBoot: Encrypted Training of Deep Neural Networks with CKKS Bootstrapping**|Alberto Pirillo et.al.|[2506.19693](http://arxiv.org/abs/2506.19693)|null|
+|**2025-06-24**|**Automated Detection of Pre-training Text in Black-box LLMs**|Ruihan Hu et.al.|[2506.19399](http://arxiv.org/abs/2506.19399)|null|
+|**2025-06-24**|**Behavioral Anomaly Detection in Distributed Systems via Federated Contrastive Learning**|Renzi Meng et.al.|[2506.19246](http://arxiv.org/abs/2506.19246)|null|
 |**2025-06-24**|**FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models**|Xinting Liao et.al.|[2506.16218](http://arxiv.org/abs/2506.16218)|null|
 <p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
@@ -2033,6 +2051,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications**|Jinyang Li et.al.|[2506.18951](http://arxiv.org/abs/2506.18951)|null|
 |**2025-06-23**|**Federated Learning from Molecules to Processes: A Perspective**|Jan G. Rittig et.al.|[2506.18525](http://arxiv.org/abs/2506.18525)|null|
 <p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
@@ -3056,6 +3075,13 @@
 
 ## Forensics
 
+<h3>2025-06-23</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-23**|**IndieFake Dataset: A Benchmark Dataset for Audio Deepfake Detection**|Abhay Kumar et.al.|[2506.19014](http://arxiv.org/abs/2506.19014)|null|
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
+
 <h3>2025-06-21</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -3692,6 +3718,32 @@
 
 
 ## AIGC
+
+<h3>2025-06-24</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-24**|**JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning**|Ai Han et.al.|[2506.19846](http://arxiv.org/abs/2506.19846)|null|
+|**2025-06-24**|**MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration**|Yucheng Zhou et.al.|[2506.19835](http://arxiv.org/abs/2506.19835)|null|
+|**2025-06-24**|**A standard transformer and attention with linear biases for molecular conformer generation**|Viatcheslav Gurev et.al.|[2506.19834](http://arxiv.org/abs/2506.19834)|null|
+|**2025-06-24**|**ProxelGen: Generating Proteins as 3D Densities**|Felix Faltings et.al.|[2506.19820](http://arxiv.org/abs/2506.19820)|null|
+|**2025-06-24**|**KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality**|Baochang Ren et.al.|[2506.19807](http://arxiv.org/abs/2506.19807)|null|
+|**2025-06-24**|**LLM-Based Social Simulations Require a Boundary**|Zengqing Wu et.al.|[2506.19806](http://arxiv.org/abs/2506.19806)|null|
+|**2025-06-24**|**KnowML: Improving Generalization of ML-NIDS with Attack Knowledge Graphs**|Xin Fan Guo et.al.|[2506.19802](http://arxiv.org/abs/2506.19802)|null|
+|**2025-06-24**|**Why Do Open-Source LLMs Struggle with Data Analysis? A Systematic Empirical Study**|Yuqi Zhu et.al.|[2506.19794](http://arxiv.org/abs/2506.19794)|null|
+|**2025-06-24**|**Line ratio identification of external photoevaporation**|Tyger Peake et.al.|[2506.19788](http://arxiv.org/abs/2506.19788)|null|
+|**2025-06-24**|**SAGE: Strategy-Adaptive Generation Engine for Query Rewriting**|Teng Wang et.al.|[2506.19783](http://arxiv.org/abs/2506.19783)|null|
+|**2025-06-24**|**Alleviating User-Sensitive bias with Fair Generative Sequential Recommendation Model**|Yang Liu et.al.|[2506.19777](http://arxiv.org/abs/2506.19777)|null|
+|**2025-06-24**|**Canary in the Mine: An LLM Augmented Survey of Disciplinary Complaints to the Ordre des ingénieurs du Québec (OIQ)**|Tammy Mackenzie et.al.|[2506.19775](http://arxiv.org/abs/2506.19775)|null|
+|**2025-06-24**|**Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**|Jun Wang et.al.|[2506.19774](http://arxiv.org/abs/2506.19774)|null|
+|**2025-06-24**|**Automatic Prompt Optimization for Knowledge Graph Construction: Insights from an Empirical Study**|Nandana Mihindukulasooriya et.al.|[2506.19773](http://arxiv.org/abs/2506.19773)|null|
+|**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
+|**2025-06-24**|**SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning**|Yuqian Fu et.al.|[2506.19767](http://arxiv.org/abs/2506.19767)|null|
+|**2025-06-24**|**Arabic Dialect Classification using RNNs, Transformers, and Large Language Models: A Comparative Analysis**|Omar A. Essameldin et.al.|[2506.19753](http://arxiv.org/abs/2506.19753)|null|
+|**2025-06-24**|**Noise Consistency Training: A Native Approach for One-Step Generator in Learning Additional Controls**|Yihong Luo et.al.|[2506.19741](http://arxiv.org/abs/2506.19741)|null|
+|**2025-06-24**|**Breaking Barriers: Do Reinforcement Post Training Gains Transfer To Unseen Domains?**|Chuxuan Hu et.al.|[2506.19733](http://arxiv.org/abs/2506.19733)|null|
+|**2025-06-24**|**Who Does What in Deep Learning? Multidimensional Game-Theoretic Attribution of Function of Neural Units**|Shrey Dixit et.al.|[2506.19732](http://arxiv.org/abs/2506.19732)|null|
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 <h3>2025-06-23</h3>
 

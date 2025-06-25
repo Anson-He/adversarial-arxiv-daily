@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-06-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>Adversarial Attacks on Deep Learning-Based False Data Injection Detection in Differential Relays</b></td>
+    <td>Ahmad Mohammad Saber et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19302">2506.19302</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-23</h3>
 
 <table>
@@ -209,6 +231,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-06-18</b></td>
+    <td><b>PolyGuard: Massive Multi-Domain Safety Policy-Grounded Guardrail Dataset</b></td>
+    <td>Mintong Kang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19054">2506.19054</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-06-18</b></td>
     <td><b>VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service</b></td>
@@ -4196,6 +4225,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-06-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>Identifying Physically Realizable Triggers for Backdoored Face Recognition Networks</b></td>
+    <td>Ankita Raj et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19533">2506.19533</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-22</h3>
 
 <table>
@@ -7930,6 +7981,27 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-06-24</b></td>
+    <td><b>ReBoot: Encrypted Training of Deep Neural Networks with CKKS Bootstrapping</b></td>
+    <td>Alberto Pirillo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19693">2506.19693</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>Automated Detection of Pre-training Text in Black-box LLMs</b></td>
+    <td>Ruihan Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19399">2506.19399</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>Behavioral Anomaly Detection in Distributed Systems via Federated Contrastive Learning</b></td>
+    <td>Renzi Meng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19246">2506.19246</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
     <td><b>FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models</b></td>
     <td>Xinting Liao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.16218">2506.16218</a></td>
@@ -7950,6 +8022,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications</b></td>
+    <td>Jinyang Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.18951">2506.18951</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-06-23</b></td>
     <td><b>Federated Learning from Molecules to Processes: A Perspective</b></td>
@@ -11850,6 +11929,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-06-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-23</b></td>
+    <td><b>IndieFake Dataset: A Benchmark Dataset for Audio Deepfake Detection</b></td>
+    <td>Abhay Kumar et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19014">2506.19014</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-21</h3>
 
 <table>
@@ -14104,6 +14205,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-06-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning</b></td>
+    <td>Ai Han et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19846">2506.19846</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration</b></td>
+    <td>Yucheng Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19835">2506.19835</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>A standard transformer and attention with linear biases for molecular conformer generation</b></td>
+    <td>Viatcheslav Gurev et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19834">2506.19834</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>ProxelGen: Generating Proteins as 3D Densities</b></td>
+    <td>Felix Faltings et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19820">2506.19820</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality</b></td>
+    <td>Baochang Ren et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19807">2506.19807</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>LLM-Based Social Simulations Require a Boundary</b></td>
+    <td>Zengqing Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19806">2506.19806</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>KnowML: Improving Generalization of ML-NIDS with Attack Knowledge Graphs</b></td>
+    <td>Xin Fan Guo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19802">2506.19802</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>Why Do Open-Source LLMs Struggle with Data Analysis? A Systematic Empirical Study</b></td>
+    <td>Yuqi Zhu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19794">2506.19794</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>Line ratio identification of external photoevaporation</b></td>
+    <td>Tyger Peake et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19788">2506.19788</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>SAGE: Strategy-Adaptive Generation Engine for Query Rewriting</b></td>
+    <td>Teng Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19783">2506.19783</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>Alleviating User-Sensitive bias with Fair Generative Sequential Recommendation Model</b></td>
+    <td>Yang Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19777">2506.19777</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>Canary in the Mine: An LLM Augmented Survey of Disciplinary Complaints to the Ordre des ingénieurs du Québec (OIQ)</b></td>
+    <td>Tammy Mackenzie et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19775">2506.19775</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation</b></td>
+    <td>Jun Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19774">2506.19774</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>Automatic Prompt Optimization for Knowledge Graph Construction: Insights from an Empirical Study</b></td>
+    <td>Nandana Mihindukulasooriya et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19773">2506.19773</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects</b></td>
+    <td>Shulan Ruan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19769">2506.19769</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning</b></td>
+    <td>Yuqian Fu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19767">2506.19767</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>Arabic Dialect Classification using RNNs, Transformers, and Large Language Models: A Comparative Analysis</b></td>
+    <td>Omar A. Essameldin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19753">2506.19753</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>Noise Consistency Training: A Native Approach for One-Step Generator in Learning Additional Controls</b></td>
+    <td>Yihong Luo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19741">2506.19741</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>Breaking Barriers: Do Reinforcement Post Training Gains Transfer To Unseen Domains?</b></td>
+    <td>Chuxuan Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19733">2506.19733</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>Who Does What in Deep Learning? Multidimensional Game-Theoretic Attribution of Function of Neural Units</b></td>
+    <td>Shrey Dixit et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19732">2506.19732</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-23</h3>
 
 <table>

@@ -19,6 +19,11 @@
 
 ## Adversarial attacks
 
+<h3>2025-06-24</h3>
+
+- 2025-06-24, **Adversarial Attacks on Deep Learning-Based False Data Injection Detection in Differential Relays**, Ahmad Mohammad Saber et.al., Paper: [http://arxiv.org/abs/2506.19302](http://arxiv.org/abs/2506.19302)
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
+
 <h3>2025-06-23</h3>
 
 - 2025-06-23, **Amplifying Machine Learning Attacks Through Strategic Compositions**, Yugeng Liu et.al., Paper: [http://arxiv.org/abs/2506.18870](http://arxiv.org/abs/2506.18870)
@@ -55,6 +60,7 @@
 
 <h3>2025-06-18</h3>
 
+- 2025-06-18, **PolyGuard: Massive Multi-Domain Safety Policy-Grounded Guardrail Dataset**, Mintong Kang et.al., Paper: [http://arxiv.org/abs/2506.19054](http://arxiv.org/abs/2506.19054)
 - 2025-06-18, **VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service**, Xiasi Wang et.al., Paper: [http://arxiv.org/abs/2506.15755](http://arxiv.org/abs/2506.15755)
 - 2025-06-18, **Insights on Adversarial Attacks for Tabular Machine Learning via a Systematic Literature Review**, Salijona Dyrmishi et.al., Paper: [http://arxiv.org/abs/2506.15506](http://arxiv.org/abs/2506.15506)
 <p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
@@ -795,6 +801,11 @@
 
 
 ## Poisoning attacks
+
+<h3>2025-06-24</h3>
+
+- 2025-06-24, **Identifying Physically Realizable Triggers for Backdoored Face Recognition Networks**, Ankita Raj et.al., Paper: [http://arxiv.org/abs/2506.19533](http://arxiv.org/abs/2506.19533)
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 <h3>2025-06-22</h3>
 
@@ -1574,11 +1585,15 @@
 
 <h3>2025-06-24</h3>
 
+- 2025-06-24, **ReBoot: Encrypted Training of Deep Neural Networks with CKKS Bootstrapping**, Alberto Pirillo et.al., Paper: [http://arxiv.org/abs/2506.19693](http://arxiv.org/abs/2506.19693)
+- 2025-06-24, **Automated Detection of Pre-training Text in Black-box LLMs**, Ruihan Hu et.al., Paper: [http://arxiv.org/abs/2506.19399](http://arxiv.org/abs/2506.19399)
+- 2025-06-24, **Behavioral Anomaly Detection in Distributed Systems via Federated Contrastive Learning**, Renzi Meng et.al., Paper: [http://arxiv.org/abs/2506.19246](http://arxiv.org/abs/2506.19246)
 - 2025-06-24, **FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models**, Xinting Liao et.al., Paper: [http://arxiv.org/abs/2506.16218](http://arxiv.org/abs/2506.16218)
 <p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 <h3>2025-06-23</h3>
 
+- 2025-06-23, **SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications**, Jinyang Li et.al., Paper: [http://arxiv.org/abs/2506.18951](http://arxiv.org/abs/2506.18951)
 - 2025-06-23, **Federated Learning from Molecules to Processes: A Perspective**, Jan G. Rittig et.al., Paper: [http://arxiv.org/abs/2506.18525](http://arxiv.org/abs/2506.18525)
 <p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
@@ -2364,6 +2379,11 @@
 
 ## Forensics
 
+<h3>2025-06-23</h3>
+
+- 2025-06-23, **IndieFake Dataset: A Benchmark Dataset for Audio Deepfake Detection**, Abhay Kumar et.al., Paper: [http://arxiv.org/abs/2506.19014](http://arxiv.org/abs/2506.19014)
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
+
 <h3>2025-06-21</h3>
 
 - 2025-06-21, **SELFI: Selective Fusion of Identity for Generalizable Deepfake Detection**, Younghun Kim et.al., Paper: [http://arxiv.org/abs/2506.17592](http://arxiv.org/abs/2506.17592)
@@ -2838,6 +2858,30 @@
 
 
 ## AIGC
+
+<h3>2025-06-24</h3>
+
+- 2025-06-24, **JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning**, Ai Han et.al., Paper: [http://arxiv.org/abs/2506.19846](http://arxiv.org/abs/2506.19846)
+- 2025-06-24, **MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration**, Yucheng Zhou et.al., Paper: [http://arxiv.org/abs/2506.19835](http://arxiv.org/abs/2506.19835)
+- 2025-06-24, **A standard transformer and attention with linear biases for molecular conformer generation**, Viatcheslav Gurev et.al., Paper: [http://arxiv.org/abs/2506.19834](http://arxiv.org/abs/2506.19834)
+- 2025-06-24, **ProxelGen: Generating Proteins as 3D Densities**, Felix Faltings et.al., Paper: [http://arxiv.org/abs/2506.19820](http://arxiv.org/abs/2506.19820)
+- 2025-06-24, **KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality**, Baochang Ren et.al., Paper: [http://arxiv.org/abs/2506.19807](http://arxiv.org/abs/2506.19807)
+- 2025-06-24, **LLM-Based Social Simulations Require a Boundary**, Zengqing Wu et.al., Paper: [http://arxiv.org/abs/2506.19806](http://arxiv.org/abs/2506.19806)
+- 2025-06-24, **KnowML: Improving Generalization of ML-NIDS with Attack Knowledge Graphs**, Xin Fan Guo et.al., Paper: [http://arxiv.org/abs/2506.19802](http://arxiv.org/abs/2506.19802)
+- 2025-06-24, **Why Do Open-Source LLMs Struggle with Data Analysis? A Systematic Empirical Study**, Yuqi Zhu et.al., Paper: [http://arxiv.org/abs/2506.19794](http://arxiv.org/abs/2506.19794)
+- 2025-06-24, **Line ratio identification of external photoevaporation**, Tyger Peake et.al., Paper: [http://arxiv.org/abs/2506.19788](http://arxiv.org/abs/2506.19788)
+- 2025-06-24, **SAGE: Strategy-Adaptive Generation Engine for Query Rewriting**, Teng Wang et.al., Paper: [http://arxiv.org/abs/2506.19783](http://arxiv.org/abs/2506.19783)
+- 2025-06-24, **Alleviating User-Sensitive bias with Fair Generative Sequential Recommendation Model**, Yang Liu et.al., Paper: [http://arxiv.org/abs/2506.19777](http://arxiv.org/abs/2506.19777)
+- 2025-06-24, **Canary in the Mine: An LLM Augmented Survey of Disciplinary Complaints to the Ordre des ingénieurs du Québec (OIQ)**, Tammy Mackenzie et.al., Paper: [http://arxiv.org/abs/2506.19775](http://arxiv.org/abs/2506.19775)
+- 2025-06-24, **Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**, Jun Wang et.al., Paper: [http://arxiv.org/abs/2506.19774](http://arxiv.org/abs/2506.19774)
+- 2025-06-24, **Automatic Prompt Optimization for Knowledge Graph Construction: Insights from an Empirical Study**, Nandana Mihindukulasooriya et.al., Paper: [http://arxiv.org/abs/2506.19773](http://arxiv.org/abs/2506.19773)
+- 2025-06-24, **A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**, Shulan Ruan et.al., Paper: [http://arxiv.org/abs/2506.19769](http://arxiv.org/abs/2506.19769)
+- 2025-06-24, **SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning**, Yuqian Fu et.al., Paper: [http://arxiv.org/abs/2506.19767](http://arxiv.org/abs/2506.19767)
+- 2025-06-24, **Arabic Dialect Classification using RNNs, Transformers, and Large Language Models: A Comparative Analysis**, Omar A. Essameldin et.al., Paper: [http://arxiv.org/abs/2506.19753](http://arxiv.org/abs/2506.19753)
+- 2025-06-24, **Noise Consistency Training: A Native Approach for One-Step Generator in Learning Additional Controls**, Yihong Luo et.al., Paper: [http://arxiv.org/abs/2506.19741](http://arxiv.org/abs/2506.19741)
+- 2025-06-24, **Breaking Barriers: Do Reinforcement Post Training Gains Transfer To Unseen Domains?**, Chuxuan Hu et.al., Paper: [http://arxiv.org/abs/2506.19733](http://arxiv.org/abs/2506.19733)
+- 2025-06-24, **Who Does What in Deep Learning? Multidimensional Game-Theoretic Attribution of Function of Neural Units**, Shrey Dixit et.al., Paper: [http://arxiv.org/abs/2506.19732](http://arxiv.org/abs/2506.19732)
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 <h3>2025-06-23</h3>
 
