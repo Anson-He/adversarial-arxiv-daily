@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -192,7 +192,7 @@ layout: default
     <td><b>Adversarial Attacks and Detection in Visual Place Recognition for Safer Robot Navigation</b></td>
     <td>Connor Malone et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.15988">2506.15988</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/QVPR/aarapsiproject)**</td>
        </tr>
    </tbody>
 </table>
@@ -7915,6 +7915,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-06-24</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models</b></td>
+    <td>Xinting Liao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.16218">2506.16218</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-23</h3>
 
 <table>
@@ -8021,13 +8043,6 @@ layout: default
     <td><b>SecureFed: A Two-Phase Framework for Detecting Malicious Clients in Federated Learning</b></td>
     <td>Likhitha Annapurna Kavuri et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.16458">2506.16458</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-19</b></td>
-    <td><b>FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models</b></td>
-    <td>Xinting Liao et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.16218">2506.16218</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -8173,7 +8188,7 @@ layout: default
     <td><b>OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics</b></td>
     <td>Vineeth Dorna et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.12618">2506.12618</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/locuslab/open-unlearning)**</td>
        </tr>
    </tbody>
 </table>
@@ -11875,7 +11890,7 @@ layout: default
     <td><b>Loupe: A Generalizable and Adaptive Framework for Image Forgery Detection</b></td>
     <td>Yuchu Jiang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.16819">2506.16819</a></td>
-    <td>null</td>
+    <td>**[link](https://github.com/kamichanw/loupe)**</td>
        </tr>
    </tbody>
 </table>
