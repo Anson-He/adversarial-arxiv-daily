@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -41,6 +41,13 @@ layout: default
     <td><b>Adversarial Attacks on Deep Learning-Based False Data Injection Detection in Differential Relays</b></td>
     <td>Ahmad Mohammad Saber et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.19302">2506.19302</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>DRO-Augment Framework: Robustness by Synergizing Wasserstein Distributionally Robust Optimization and Data Augmentation</b></td>
+    <td>Jiaming Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.17874">2506.17874</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -91,28 +98,6 @@ layout: default
     <td><b>Semantic Structure-Aware Generative Attacks for Enhanced Adversarial Transferability</b></td>
     <td>Jongoh Jeong et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.18248">2506.18248</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-06-22</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-06-22</b></td>
-    <td><b>DRO-Augment Framework: Robustness by Synergizing Wasserstein Distributionally Robust Optimization and Data Augmentation</b></td>
-    <td>Jiaming Hu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.17874">2506.17874</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -4225,6 +4210,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-06-25</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments</b></td>
+    <td>Xuan Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.13205">2506.13205</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-24</h3>
 
 <table>
@@ -4316,13 +4323,6 @@ layout: default
     <td><b>Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models</b></td>
     <td>Biao Yi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.16447">2506.16447</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-19</b></td>
-    <td><b>Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments</b></td>
-    <td>Xuan Wang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.13205">2506.13205</a></td>
     <td>null</td>
        </tr>
    </tbody>
