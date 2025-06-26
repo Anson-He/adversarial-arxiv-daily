@@ -23,6 +23,35 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-06-25</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Vulnerability Disclosure through Adaptive Black-Box Adversarial Attacks on NIDS</b></td>
+    <td>Sabrine Ennaji et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20576">2506.20576</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Multimodal Representation Learning and Fusion</b></td>
+    <td>Qihang Jin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20494">2506.20494</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-24</h3>
 
 <table>
@@ -98,6 +127,28 @@ layout: default
     <td><b>Semantic Structure-Aware Generative Attacks for Enhanced Adversarial Transferability</b></td>
     <td>Jongoh Jeong et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.18248">2506.18248</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-06-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-22</b></td>
+    <td><b>An Attack Method for Medical Insurance Claim Fraud Detection based on Generative Adversarial Network</b></td>
+    <td>Yining Pang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.19871">2506.19871</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -4225,6 +4276,20 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-06-25</b></td>
+    <td><b>Client Clustering Meets Knowledge Sharing: Enhancing Privacy and Robustness in Personalized Peer-to-Peer Learning</b></td>
+    <td>Mohammad Mahdi Maheri et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20413">2506.20413</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Don't Hash Me Like That: Exposing and Mitigating Hash-Induced Unfairness in Local Differential Privacy</b></td>
+    <td>Berkay Kemal Balioglu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20290">2506.20290</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
     <td><b>Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments</b></td>
     <td>Xuan Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.13205">2506.13205</a></td>
@@ -7966,6 +8031,49 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-06-25</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>WallStreetFeds: Client-Specific Tokens as Investment Vehicles in Federated Learning</b></td>
+    <td>Arno Geimer et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20518">2506.20518</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Client Clustering Meets Knowledge Sharing: Enhancing Privacy and Robustness in Personalized Peer-to-Peer Learning</b></td>
+    <td>Mohammad Mahdi Maheri et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20413">2506.20413</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>FedBKD: Distilled Federated Learning to Embrace Gerneralization and Personalization on Non-IID Data</b></td>
+    <td>Yushan Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20245">2506.20245</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Personalized Mental State Evaluation in Human-Robot Interaction using Federated Learning</b></td>
+    <td>Andrea Bussolan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20212">2506.20212</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-24</h3>
 
 <table>
@@ -11929,6 +12037,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-06-25</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Pay Less Attention to Deceptive Artifacts: Robust Detection of Compressed Deepfakes on Online Social Networks</b></td>
+    <td>Manyi Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20548">2506.20548</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-23</h3>
 
 <table>
@@ -14205,6 +14335,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-06-25</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Inside you are many wolves: Using cognitive models to interpret value trade-offs in LLMs</b></td>
+    <td>Sonia K. Murthy et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20666">2506.20666</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind</b></td>
+    <td>Andrei Lupu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20664">2506.20664</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Memento: Note-Taking for Your Future Self</b></td>
+    <td>Chao Wan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20642">2506.20642</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Telegrapher's Generative Model via Kac Flows</b></td>
+    <td>Richard Duong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20641">2506.20641</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>AI Assistants to Enhance and Exploit the PETSc Knowledge Base</b></td>
+    <td>Barry Smith et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20608">2506.20608</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm</b></td>
+    <td>Baixiang Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20606">2506.20606</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Video Perception Models for 3D Scene Synthesis</b></td>
+    <td>Rui Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20601">2506.20601</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>SFNet: Fusion of Spatial and Frequency-Domain Features for Remote Sensing Image Forgery Detection</b></td>
+    <td>Ji Qi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20599">2506.20599</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Fine-Tuning and Prompt Engineering of LLMs, for the Creation of Multi-Agent AI for Addressing Sustainable Protein Production Challenges</b></td>
+    <td>Alexander D. Kalian et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20598">2506.20598</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>AI in the Writing Process: How Purposeful AI Support Fosters Student Writing</b></td>
+    <td>Momin N. Siddiqui et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20595">2506.20595</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency</b></td>
+    <td>Renyi Zhong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20558">2506.20558</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Large Language Model-Driven Code Compliance Checking in Building Information Modeling</b></td>
+    <td>Soumya Madireddy et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20551">2506.20551</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>When Life Gives You Samples: The Benefits of Scaling up Inference Compute for Multilingual LLMs</b></td>
+    <td>Ammar Khairi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20544">2506.20544</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>WattsOnAI: Measuring, Analyzing, and Visualizing Energy and Carbon Footprint of AI Workloads</b></td>
+    <td>Hongzhen Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20535">2506.20535</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios</b></td>
+    <td>Wenbin Gan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20531">2506.20531</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Asymmetric REINFORCE for off-Policy Reinforcement Learning: Balancing positive and negative rewards</b></td>
+    <td>Charles Arnal et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20520">2506.20520</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>BotHash: Efficient and Training-Free Bot Detection Through Approximate Nearest Neighbor</b></td>
+    <td>Edoardo Di Paolo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20503">2506.20503</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>ReCode: Updating Code API Knowledge with Reinforcement Learning</b></td>
+    <td>Haoze Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20495">2506.20495</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions</b></td>
+    <td>Shuo Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20488">2506.20488</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>GPTailor: Large Language Model Pruning Through Layer Cutting and Stitching</b></td>
+    <td>Guinan Su et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20480">2506.20480</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-24</h3>
 
 <table>
