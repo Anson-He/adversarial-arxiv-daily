@@ -19,10 +19,25 @@
 
 ## Adversarial attacks
 
+<h3>2025-06-26</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-26**|**Generative Adversarial Evasion and Out-of-Distribution Detection for UAV Cyber-Attacks**|Deepak Kumar Panda et.al.|[2506.21142](http://arxiv.org/abs/2506.21142)|null|
+|**2025-06-26**|**Curriculum-Guided Antifragile Reinforcement Learning for Secure UAV Deconfliction under Observation-Space Attacks**|Deepak Kumar Panda et.al.|[2506.21129](http://arxiv.org/abs/2506.21129)|null|
+|**2025-06-26**|**Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments**|Deepak Kumar Panda et.al.|[2506.21127](http://arxiv.org/abs/2506.21127)|null|
+|**2025-06-26**|**Boosting Generative Adversarial Transferability with Self-supervised Vision Transformer Features**|Shangbo Wu et.al.|[2506.21046](http://arxiv.org/abs/2506.21046)|null|
+|**2025-06-26**|**E-FreeM2: Efficient Training-Free Multi-Scale and Cross-Modal News Verification via MLLMs**|Van-Hoang Phan et.al.|[2506.20944](http://arxiv.org/abs/2506.20944)|null|
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
+
 <h3>2025-06-25</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**Empowering Digital Agriculture: A Privacy-Preserving Framework for Data Sharing and Collaborative Research**|Osama Zafar et.al.|[2506.20872](http://arxiv.org/abs/2506.20872)|null|
+|**2025-06-25**|**Universal and Efficient Detection of Adversarial Data through Nonuniform Impact on Network Layers**|Furkan Mumcu et.al.|[2506.20816](http://arxiv.org/abs/2506.20816)|null|
+|**2025-06-25**|**Poster: Enhancing GNN Robustness for Network Intrusion Detection via Agent-based Analysis**|Zhonghao Zhan et.al.|[2506.20806](http://arxiv.org/abs/2506.20806)|null|
+|**2025-06-25**|**On Convolutions, Intrinsic Dimension, and Diffusion Models**|Kin Kwan Leung et.al.|[2506.20705](http://arxiv.org/abs/2506.20705)|null|
 |**2025-06-25**|**Vulnerability Disclosure through Adaptive Black-Box Adversarial Attacks on NIDS**|Sabrine Ennaji et.al.|[2506.20576](http://arxiv.org/abs/2506.20576)|null|
 |**2025-06-25**|**Multimodal Representation Learning and Fusion**|Qihang Jin et.al.|[2506.20494](http://arxiv.org/abs/2506.20494)|null|
 <p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
@@ -1004,6 +1019,14 @@
 
 
 ## Poisoning attacks
+
+<h3>2025-06-26</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-26**|**E-FreeM2: Efficient Training-Free Multi-Scale and Cross-Modal News Verification via MLLMs**|Van-Hoang Phan et.al.|[2506.20944](http://arxiv.org/abs/2506.20944)|null|
+|**2025-06-26**|**SPA: Towards More Stealth and Persistent Backdoor Attacks in Federated Learning**|Chengcheng Zhu et.al.|[2506.20931](http://arxiv.org/abs/2506.20931)|null|
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 <h3>2025-06-25</h3>
 
@@ -2068,6 +2091,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Progressive Size-Adaptive Federated Learning: A Comprehensive Framework for Heterogeneous Multi-Modal Data Systems**|Sajid Hussain et.al.|[2506.20685](http://arxiv.org/abs/2506.20685)|null|
 |**2025-06-24**|**ReBoot: Encrypted Training of Deep Neural Networks with CKKS Bootstrapping**|Alberto Pirillo et.al.|[2506.19693](http://arxiv.org/abs/2506.19693)|null|
 |**2025-06-24**|**Automated Detection of Pre-training Text in Black-box LLMs**|Ruihan Hu et.al.|[2506.19399](http://arxiv.org/abs/2506.19399)|null|
 |**2025-06-24**|**Behavioral Anomaly Detection in Distributed Systems via Federated Contrastive Learning**|Renzi Meng et.al.|[2506.19246](http://arxiv.org/abs/2506.19246)|null|
@@ -3106,6 +3130,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Post-training for Deepfake Speech Detection**|Wanying Ge et.al.|[2506.21090](http://arxiv.org/abs/2506.21090)|null|
 |**2025-06-26**|**IndieFake Dataset: A Benchmark Dataset for Audio Deepfake Detection**|Abhay Kumar et.al.|[2506.19014](http://arxiv.org/abs/2506.19014)|null|
 <p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
@@ -3752,6 +3777,32 @@
 
 
 ## AIGC
+
+<h3>2025-06-26</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551](http://arxiv.org/abs/2506.21551)|null|
+|**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550](http://arxiv.org/abs/2506.21550)|null|
+|**2025-06-26**|**Exploring the Design Space of 3D MLLMs for CT Report Generation**|Mohammed Baharoon et.al.|[2506.21535](http://arxiv.org/abs/2506.21535)|null|
+|**2025-06-26**|**"What's Up, Doc?": Analyzing How Users Seek Health Information in Large-Scale Conversational AI Datasets**|Akshay Paruchuri et.al.|[2506.21532](http://arxiv.org/abs/2506.21532)|null|
+|**2025-06-26**|**Potemkin Understanding in Large Language Models**|Marina Mancoridis et.al.|[2506.21521](http://arxiv.org/abs/2506.21521)|null|
+|**2025-06-26**|**Enhancing User Engagement in Socially-Driven Dialogue through Interactive LLM Alignments**|Jiashuo Wang et.al.|[2506.21497](http://arxiv.org/abs/2506.21497)|null|
+|**2025-06-26**|**Bridging Offline and Online Reinforcement Learning for LLMs**|Jack Lanchantin et.al.|[2506.21495](http://arxiv.org/abs/2506.21495)|null|
+|**2025-06-26**|**Controllable 3D Placement of Objects with Scene-Aware Diffusion Models**|Mohamed Omran et.al.|[2506.21446](http://arxiv.org/abs/2506.21446)|null|
+|**2025-06-26**|**Text2Cypher Across Languages: Evaluating Foundational Models Beyond English**|Makbule Gulcin Ozsoy et.al.|[2506.21445](http://arxiv.org/abs/2506.21445)|null|
+|**2025-06-26**|**Domain Knowledge-Enhanced LLMs for Fraud and Concept Drift Detection**|Ali Şenol et.al.|[2506.21443](http://arxiv.org/abs/2506.21443)|null|
+|**2025-06-26**|**Flow-Based Single-Step Completion for Efficient and Expressive Policy Learning**|Prajwal Koirala et.al.|[2506.21427](http://arxiv.org/abs/2506.21427)|null|
+|**2025-06-26**|**XVerse: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation**|Bowen Chen et.al.|[2506.21416](http://arxiv.org/abs/2506.21416)|null|
+|**2025-06-26**|**Scalable Bayesian Low-Rank Adaptation of Large Language Models via Stochastic Variational Subspace Inference**|Colin Samplawski et.al.|[2506.21408](http://arxiv.org/abs/2506.21408)|null|
+|**2025-06-26**|**Leveraging LLM-Assisted Query Understanding for Live Retrieval-Augmented Generation**|Guanting Dong et.al.|[2506.21384](http://arxiv.org/abs/2506.21384)|null|
+|**2025-06-26**|**Structuralist Approach to AI Literary Criticism: Leveraging Greimas Semiotic Square for Large Language Models**|Fangzhou Dong et.al.|[2506.21360](http://arxiv.org/abs/2506.21360)|null|
+|**2025-06-26**|**CoPa-SG: Dense Scene Graphs with Parametric and Proto-Relations**|Julian Lorenz et.al.|[2506.21357](http://arxiv.org/abs/2506.21357)|null|
+|**2025-06-26**|**DynamicBench: Evaluating Real-Time Report Generation in Large Language Models**|Jingyao Li et.al.|[2506.21343](http://arxiv.org/abs/2506.21343)|null|
+|**2025-06-26**|**Latent Prototype Routing: Achieving Near-Perfect Load Balancing in Mixture-of-Experts**|Jiajie Yang et.al.|[2506.21328](http://arxiv.org/abs/2506.21328)|null|
+|**2025-06-26**|**Multimodal LLMs for Visualization Reconstruction and Understanding**|Can Liu et.al.|[2506.21319](http://arxiv.org/abs/2506.21319)|null|
+|**2025-06-26**|**Exploring Adapter Design Tradeoffs for Low Resource Music Generation**|Atharva Mehta et.al.|[2506.21298](http://arxiv.org/abs/2506.21298)|null|
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 <h3>2025-06-25</h3>
 

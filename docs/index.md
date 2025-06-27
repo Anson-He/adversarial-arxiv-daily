@@ -23,6 +23,56 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-06-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Generative Adversarial Evasion and Out-of-Distribution Detection for UAV Cyber-Attacks</b></td>
+    <td>Deepak Kumar Panda et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21142">2506.21142</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Curriculum-Guided Antifragile Reinforcement Learning for Secure UAV Deconfliction under Observation-Space Attacks</b></td>
+    <td>Deepak Kumar Panda et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21129">2506.21129</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments</b></td>
+    <td>Deepak Kumar Panda et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21127">2506.21127</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Boosting Generative Adversarial Transferability with Self-supervised Vision Transformer Features</b></td>
+    <td>Shangbo Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21046">2506.21046</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>E-FreeM2: Efficient Training-Free Multi-Scale and Cross-Modal News Verification via MLLMs</b></td>
+    <td>Van-Hoang Phan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20944">2506.20944</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-25</h3>
 
 <table>
@@ -36,6 +86,34 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Empowering Digital Agriculture: A Privacy-Preserving Framework for Data Sharing and Collaborative Research</b></td>
+    <td>Osama Zafar et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20872">2506.20872</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Universal and Efficient Detection of Adversarial Data through Nonuniform Impact on Network Layers</b></td>
+    <td>Furkan Mumcu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20816">2506.20816</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>Poster: Enhancing GNN Robustness for Network Intrusion Detection via Agent-based Analysis</b></td>
+    <td>Zhonghao Zhan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20806">2506.20806</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-25</b></td>
+    <td><b>On Convolutions, Intrinsic Dimension, and Diffusion Models</b></td>
+    <td>Kin Kwan Leung et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20705">2506.20705</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-06-25</b></td>
     <td><b>Vulnerability Disclosure through Adaptive Black-Box Adversarial Attacks on NIDS</b></td>
@@ -4261,6 +4339,35 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-06-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>E-FreeM2: Efficient Training-Free Multi-Scale and Cross-Modal News Verification via MLLMs</b></td>
+    <td>Van-Hoang Phan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20944">2506.20944</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>SPA: Towards More Stealth and Persistent Backdoor Attacks in Federated Learning</b></td>
+    <td>Chengcheng Zhu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20931">2506.20931</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-25</h3>
 
 <table>
@@ -8087,6 +8194,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-06-24</b></td>
+    <td><b>Progressive Size-Adaptive Federated Learning: A Comprehensive Framework for Heterogeneous Multi-Modal Data Systems</b></td>
+    <td>Sajid Hussain et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.20685">2506.20685</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-06-24</b></td>
     <td><b>ReBoot: Encrypted Training of Deep Neural Networks with CKKS Bootstrapping</b></td>
@@ -12052,6 +12166,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-06-26</b></td>
+    <td><b>Post-training for Deepfake Speech Detection</b></td>
+    <td>Wanying Ge et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21090">2506.21090</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
     <td><b>IndieFake Dataset: A Benchmark Dataset for Audio Deepfake Detection</b></td>
     <td>Abhay Kumar et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.19014">2506.19014</a></td>
@@ -14335,6 +14456,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-06-26</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test</b></td>
+    <td>Ziyue Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21551">2506.21551</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale</b></td>
+    <td>Xiaona Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21550">2506.21550</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Exploring the Design Space of 3D MLLMs for CT Report Generation</b></td>
+    <td>Mohammed Baharoon et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21535">2506.21535</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>"What's Up, Doc?": Analyzing How Users Seek Health Information in Large-Scale Conversational AI Datasets</b></td>
+    <td>Akshay Paruchuri et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21532">2506.21532</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Potemkin Understanding in Large Language Models</b></td>
+    <td>Marina Mancoridis et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21521">2506.21521</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Enhancing User Engagement in Socially-Driven Dialogue through Interactive LLM Alignments</b></td>
+    <td>Jiashuo Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21497">2506.21497</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Bridging Offline and Online Reinforcement Learning for LLMs</b></td>
+    <td>Jack Lanchantin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21495">2506.21495</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Controllable 3D Placement of Objects with Scene-Aware Diffusion Models</b></td>
+    <td>Mohamed Omran et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21446">2506.21446</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Text2Cypher Across Languages: Evaluating Foundational Models Beyond English</b></td>
+    <td>Makbule Gulcin Ozsoy et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21445">2506.21445</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Domain Knowledge-Enhanced LLMs for Fraud and Concept Drift Detection</b></td>
+    <td>Ali Şenol et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21443">2506.21443</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Flow-Based Single-Step Completion for Efficient and Expressive Policy Learning</b></td>
+    <td>Prajwal Koirala et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21427">2506.21427</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>XVerse: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation</b></td>
+    <td>Bowen Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21416">2506.21416</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Scalable Bayesian Low-Rank Adaptation of Large Language Models via Stochastic Variational Subspace Inference</b></td>
+    <td>Colin Samplawski et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21408">2506.21408</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Leveraging LLM-Assisted Query Understanding for Live Retrieval-Augmented Generation</b></td>
+    <td>Guanting Dong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21384">2506.21384</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Structuralist Approach to AI Literary Criticism: Leveraging Greimas Semiotic Square for Large Language Models</b></td>
+    <td>Fangzhou Dong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21360">2506.21360</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>CoPa-SG: Dense Scene Graphs with Parametric and Proto-Relations</b></td>
+    <td>Julian Lorenz et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21357">2506.21357</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>DynamicBench: Evaluating Real-Time Report Generation in Large Language Models</b></td>
+    <td>Jingyao Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21343">2506.21343</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Latent Prototype Routing: Achieving Near-Perfect Load Balancing in Mixture-of-Experts</b></td>
+    <td>Jiajie Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21328">2506.21328</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Multimodal LLMs for Visualization Reconstruction and Understanding</b></td>
+    <td>Can Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21319">2506.21319</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
+    <td><b>Exploring Adapter Design Tradeoffs for Low Resource Music Generation</b></td>
+    <td>Atharva Mehta et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21298">2506.21298</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-25</h3>
 
 <table>
