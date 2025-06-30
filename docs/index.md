@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-06-27</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</b></td>
+    <td>Stanley Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21874">2506.21874</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-26</h3>
 
 <table>
@@ -4339,6 +4361,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-06-27</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>Adversarial Threats in Quantum Machine Learning: A Survey of Attacks and Defenses</b></td>
+    <td>Archisman Ghosh et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21842">2506.21842</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-26</h3>
 
 <table>
@@ -12166,6 +12210,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-06-26</b></td>
+    <td><b>CAST: Cross-Attentive Spatio-Temporal feature fusion for Deepfake detection</b></td>
+    <td>Aryan Thakre et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.21711">2506.21711</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-26</b></td>
     <td><b>Post-training for Deepfake Speech Detection</b></td>
     <td>Wanying Ge et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.21090">2506.21090</a></td>
@@ -14456,6 +14507,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-06-27</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy</b></td>
+    <td>Yuhao Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22432">2506.22432</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements</b></td>
+    <td>Bingchen Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22419">2506.22419</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>Refining Czech GEC: Insights from a Multi-Experiment Approach</b></td>
+    <td>Petr Pechman et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22402">2506.22402</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization</b></td>
+    <td>Danush Khanna et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22396">2506.22396</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>What Makes ChatGPT Effective for Software Issue Resolution? An Empirical Study of Developer-ChatGPT Conversations in GitHub</b></td>
+    <td>Ramtin Ehsani et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22390">2506.22390</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment</b></td>
+    <td>Yue Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22385">2506.22385</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>Probabilistic Optimality for Inference-time Scaling</b></td>
+    <td>Youkang Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22376">2506.22376</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>Towards Fair Rankings: Leveraging LLMs for Gender Bias Detection and Measurement</b></td>
+    <td>Maryam Mousavian et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22372">2506.22372</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny</b></td>
+    <td>Carolina Carreira et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22370">2506.22370</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>Concept-Level AI for Telecom: Moving Beyond Large Language Models</b></td>
+    <td>Viswanath Kumarskandpriya et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22359">2506.22359</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>Optimal Estimation of Watermark Proportions in Hybrid AI-Human Texts</b></td>
+    <td>Xiang Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22343">2506.22343</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>Evaluating Scoring Bias in LLM-as-a-Judge</b></td>
+    <td>Qingquan Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22316">2506.22316</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>Detection of Personal Data in Structured Datasets Using a Large Language Model</b></td>
+    <td>Albert Agisha Ntwali et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22305">2506.22305</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>Unfolding Generative Flows with Koopman Operators: Fast and Interpretable Sampling</b></td>
+    <td>Erkan Turan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22304">2506.22304</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>Rethinking Visual Token Reduction in LVLMs under Cross-modal Misalignment</b></td>
+    <td>Rui Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22283">2506.22283</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>Public Service Algorithm: towards a transparent, explainable, and scalable content curation for news content based on editorial values</b></td>
+    <td>Ahmad Mel et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22270">2506.22270</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>Towards Operational Data Analytics Chatbots -- Virtual Knowledge Graph is All You Need</b></td>
+    <td>Junaid Ahmed Khan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22267">2506.22267</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>Leveraging In-Context Learning for Political Bias Testing of LLMs</b></td>
+    <td>Patrick Haller et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22232">2506.22232</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>Adapting University Policies for Generative AI: Opportunities, Challenges, and Policy Solutions in Higher Education</b></td>
+    <td>Russell Beale et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22231">2506.22231</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-06-27</b></td>
+    <td><b>UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses</b></td>
+    <td>Weronika Łajewska et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.22210">2506.22210</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-26</h3>
 
 <table>

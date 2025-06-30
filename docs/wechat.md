@@ -19,6 +19,11 @@
 
 ## Adversarial attacks
 
+<h3>2025-06-27</h3>
+
+- 2025-06-27, **On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling**, Stanley Wu et.al., Paper: [http://arxiv.org/abs/2506.21874](http://arxiv.org/abs/2506.21874)
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+
 <h3>2025-06-26</h3>
 
 - 2025-06-26, **Generative Adversarial Evasion and Out-of-Distribution Detection for UAV Cyber-Attacks**, Deepak Kumar Panda et.al., Paper: [http://arxiv.org/abs/2506.21142](http://arxiv.org/abs/2506.21142)
@@ -821,6 +826,11 @@
 
 
 ## Poisoning attacks
+
+<h3>2025-06-27</h3>
+
+- 2025-06-27, **Adversarial Threats in Quantum Machine Learning: A Survey of Attacks and Defenses**, Archisman Ghosh et.al., Paper: [http://arxiv.org/abs/2506.21842](http://arxiv.org/abs/2506.21842)
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 <h3>2025-06-26</h3>
 
@@ -2422,6 +2432,7 @@
 
 <h3>2025-06-26</h3>
 
+- 2025-06-26, **CAST: Cross-Attentive Spatio-Temporal feature fusion for Deepfake detection**, Aryan Thakre et.al., Paper: [http://arxiv.org/abs/2506.21711](http://arxiv.org/abs/2506.21711)
 - 2025-06-26, **Post-training for Deepfake Speech Detection**, Wanying Ge et.al., Paper: [http://arxiv.org/abs/2506.21090](http://arxiv.org/abs/2506.21090)
 - 2025-06-26, **IndieFake Dataset: A Benchmark Dataset for Audio Deepfake Detection**, Abhay Kumar et.al., Paper: [http://arxiv.org/abs/2506.19014](http://arxiv.org/abs/2506.19014)
 <p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
@@ -2905,6 +2916,30 @@
 
 
 ## AIGC
+
+<h3>2025-06-27</h3>
+
+- 2025-06-27, **Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**, Yuhao Liu et.al., Paper: [http://arxiv.org/abs/2506.22432](http://arxiv.org/abs/2506.22432)
+- 2025-06-27, **The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements**, Bingchen Zhao et.al., Paper: [http://arxiv.org/abs/2506.22419](http://arxiv.org/abs/2506.22419)
+- 2025-06-27, **Refining Czech GEC: Insights from a Multi-Experiment Approach**, Petr Pechman et.al., Paper: [http://arxiv.org/abs/2506.22402](http://arxiv.org/abs/2506.22402)
+- 2025-06-27, **QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**, Danush Khanna et.al., Paper: [http://arxiv.org/abs/2506.22396](http://arxiv.org/abs/2506.22396)
+- 2025-06-27, **What Makes ChatGPT Effective for Software Issue Resolution? An Empirical Study of Developer-ChatGPT Conversations in GitHub**, Ramtin Ehsani et.al., Paper: [http://arxiv.org/abs/2506.22390](http://arxiv.org/abs/2506.22390)
+- 2025-06-27, **Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment**, Yue Zhang et.al., Paper: [http://arxiv.org/abs/2506.22385](http://arxiv.org/abs/2506.22385)
+- 2025-06-27, **Probabilistic Optimality for Inference-time Scaling**, Youkang Wang et.al., Paper: [http://arxiv.org/abs/2506.22376](http://arxiv.org/abs/2506.22376)
+- 2025-06-27, **Towards Fair Rankings: Leveraging LLMs for Gender Bias Detection and Measurement**, Maryam Mousavian et.al., Paper: [http://arxiv.org/abs/2506.22372](http://arxiv.org/abs/2506.22372)
+- 2025-06-27, **Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny**, Carolina Carreira et.al., Paper: [http://arxiv.org/abs/2506.22370](http://arxiv.org/abs/2506.22370)
+- 2025-06-27, **Concept-Level AI for Telecom: Moving Beyond Large Language Models**, Viswanath Kumarskandpriya et.al., Paper: [http://arxiv.org/abs/2506.22359](http://arxiv.org/abs/2506.22359)
+- 2025-06-27, **Optimal Estimation of Watermark Proportions in Hybrid AI-Human Texts**, Xiang Li et.al., Paper: [http://arxiv.org/abs/2506.22343](http://arxiv.org/abs/2506.22343)
+- 2025-06-27, **Evaluating Scoring Bias in LLM-as-a-Judge**, Qingquan Li et.al., Paper: [http://arxiv.org/abs/2506.22316](http://arxiv.org/abs/2506.22316)
+- 2025-06-27, **Detection of Personal Data in Structured Datasets Using a Large Language Model**, Albert Agisha Ntwali et.al., Paper: [http://arxiv.org/abs/2506.22305](http://arxiv.org/abs/2506.22305)
+- 2025-06-27, **Unfolding Generative Flows with Koopman Operators: Fast and Interpretable Sampling**, Erkan Turan et.al., Paper: [http://arxiv.org/abs/2506.22304](http://arxiv.org/abs/2506.22304)
+- 2025-06-27, **Rethinking Visual Token Reduction in LVLMs under Cross-modal Misalignment**, Rui Xu et.al., Paper: [http://arxiv.org/abs/2506.22283](http://arxiv.org/abs/2506.22283)
+- 2025-06-27, **Public Service Algorithm: towards a transparent, explainable, and scalable content curation for news content based on editorial values**, Ahmad Mel et.al., Paper: [http://arxiv.org/abs/2506.22270](http://arxiv.org/abs/2506.22270)
+- 2025-06-27, **Towards Operational Data Analytics Chatbots -- Virtual Knowledge Graph is All You Need**, Junaid Ahmed Khan et.al., Paper: [http://arxiv.org/abs/2506.22267](http://arxiv.org/abs/2506.22267)
+- 2025-06-27, **Leveraging In-Context Learning for Political Bias Testing of LLMs**, Patrick Haller et.al., Paper: [http://arxiv.org/abs/2506.22232](http://arxiv.org/abs/2506.22232)
+- 2025-06-27, **Adapting University Policies for Generative AI: Opportunities, Challenges, and Policy Solutions in Higher Education**, Russell Beale et.al., Paper: [http://arxiv.org/abs/2506.22231](http://arxiv.org/abs/2506.22231)
+- 2025-06-27, **UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses**, Weronika Łajewska et.al., Paper: [http://arxiv.org/abs/2506.22210](http://arxiv.org/abs/2506.22210)
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 <h3>2025-06-26</h3>
 
