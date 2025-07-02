@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -14869,7 +14869,7 @@ layout: default
 
 ## AIGC
 
-<h3>2025-06-30</h3>
+<h3>2025-07-01</h3>
 
 <table>
    <thead>
@@ -14883,12 +14883,34 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-06-30</b></td>
+    <td><b>2025-07-01</b></td>
     <td><b>Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives</b></td>
-    <td>Dong Sixun et.al.</td>
+    <td>Sixun Dong et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.24124">2506.24124</a></td>
     <td>null</td>
        </tr>
+       <tr>
+    <td><b>2025-07-01</b></td>
+    <td><b>SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning</b></td>
+    <td>Bo Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.24119">2506.24119</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-06-30</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
        <tr>
     <td><b>2025-06-30</b></td>
     <td><b>Calligrapher: Freestyle Text Image Customization</b></td>
@@ -14908,13 +14930,6 @@ layout: default
     <td><b>Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime</b></td>
     <td>Yuqing Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.24120">2506.24120</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-30</b></td>
-    <td><b>SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning</b></td>
-    <td>Bo Liu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.24119">2506.24119</a></td>
     <td>null</td>
        </tr>
        <tr>
