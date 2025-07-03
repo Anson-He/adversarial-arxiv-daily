@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -4504,6 +4504,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-07-02</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-02</b></td>
+    <td><b>A Practical and Secure Byzantine Robust Aggregator</b></td>
+    <td>De Zhang Lee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.23183">2506.23183</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-30</h3>
 
 <table>
@@ -4529,28 +4551,6 @@ layout: default
     <td><b>Privacy-Preserving Federated Learning Scheme with Mitigating Model Poisoning Attacks: Vulnerabilities and Countermeasures</b></td>
     <td>Jiahui Wu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.23622">2506.23622</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-06-29</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-06-29</b></td>
-    <td><b>A Practical and Secure Byzantine Robust Aggregator</b></td>
-    <td>De Zhang Lee et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.23183">2506.23183</a></td>
     <td>null</td>
        </tr>
    </tbody>
