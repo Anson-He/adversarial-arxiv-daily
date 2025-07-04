@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-07-03</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>Robustness of Misinformation Classification Systems to Adversarial Examples Through BeamAttack</b></td>
+    <td>Arnisa Fazla et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.23661">2506.23661</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-02</h3>
 
 <table>
@@ -127,13 +149,6 @@ layout: default
     <td><b>A Unified Framework for Stealthy Adversarial Generation via Latent Optimization and Transferability Enhancement</b></td>
     <td>Gaozheng Pei et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.23676">2506.23676</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-30</b></td>
-    <td><b>Robustness of Misinformation Classification Systems to Adversarial Examples Through BeamAttack</b></td>
-    <td>Arnisa Fazla et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.23661">2506.23661</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -15135,6 +15150,35 @@ layout: default
 
 ## AIGC
 
+<h3>2025-07-03</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations</b></td>
+    <td>Wenhao Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.01930">2507.01930</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>Decision-Oriented Text Evaluation</b></td>
+    <td>Yu-Shiang Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.01923">2507.01923</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-02</h3>
 
 <table>
@@ -15174,20 +15218,6 @@ layout: default
     <td><b>The Thin Line Between Comprehension and Persuasion in LLMs</b></td>
     <td>Adrian de Wynter et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.01936">2507.01936</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-02</b></td>
-    <td><b>Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations</b></td>
-    <td>Wenhao Wang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.01930">2507.01930</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-02</b></td>
-    <td><b>Decision-oriented Text Evaluation</b></td>
-    <td>Yu-Shiang Huang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.01923">2507.01923</a></td>
     <td>null</td>
        </tr>
        <tr>
