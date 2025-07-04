@@ -4584,6 +4584,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-07-03</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users</b></td>
+    <td>Almog Hilel et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02850">2507.02850</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-02</h3>
 
 <table>
@@ -8556,6 +8578,35 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-07-03</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>VeFIA: An Efficient Inference Auditing Framework for Vertical Federated Collaborative Software</b></td>
+    <td>Chung-ju Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02376">2507.02376</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>Flotilla: A scalable, modular and resilient federated learning framework for heterogeneous resources</b></td>
+    <td>Roopkatha Banerjee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02295">2507.02295</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-02</h3>
 
 <table>
@@ -12714,6 +12765,35 @@ layout: default
 
 ## Forensics
 
+<h3>2025-07-03</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>Fair Deepfake Detectors Can Generalize</b></td>
+    <td>Harry Cheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02645">2507.02645</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection</b></td>
+    <td>Taehoon Kim et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02398">2507.02398</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-02</h3>
 
 <table>
@@ -15163,6 +15243,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real</b></td>
+    <td>Renhao Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02864">2507.02864</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>RefTok: Reference-Based Tokenization for Video Generation</b></td>
+    <td>Xiang Fan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02862">2507.02862</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching</b></td>
+    <td>Xin Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02860">2507.02860</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation</b></td>
+    <td>Jiaer Xia et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02859">2507.02859</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>Requirements Elicitation Follow-Up Question Generation</b></td>
+    <td>Yuchen Shen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02858">2507.02858</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>Answer Matching Outperforms Multiple Choice for Language Model Evaluation</b></td>
+    <td>Nikhil Chandak et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02856">2507.02856</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs</b></td>
+    <td>Purbesh Mitra et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02851">2507.02851</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users</b></td>
+    <td>Almog Hilel et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02850">2507.02850</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>LLM-Driven Treatment Effect Estimation Under Inference Time Text Confounding</b></td>
+    <td>Yuchen Ma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02843">2507.02843</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason</b></td>
+    <td>Kaiyi Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02841">2507.02841</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>SynapseRoute: An Auto-Route Switching Framework on Dual-State Large Language Model</b></td>
+    <td>Wencheng Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02822">2507.02822</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>Multimodal Mathematical Reasoning with Diverse Solving Perspective</b></td>
+    <td>Wenhao Shi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02804">2507.02804</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models</b></td>
+    <td>Riccardo Cantini et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02799">2507.02799</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>Moral Responsibility or Obedience: What Do We Want from AI?</b></td>
+    <td>Joseph Boland et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02788">2507.02788</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>Self-Correction Bench: Revealing and Addressing the Self-Correction Blind Spot in LLMs</b></td>
+    <td>Ken Tsui et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02778">2507.02778</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs</b></td>
+    <td>Yuzhang Xie et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02773">2507.02773</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>Grounding Intelligence in Movement</b></td>
+    <td>Melanie Segado et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02771">2507.02771</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>DeSTA2.5-Audio: Toward General-Purpose Large Audio Language Model with Self-Generated Cross-Modal Alignment</b></td>
+    <td>Ke-Han Lu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02768">2507.02768</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>Knowledge Protocol Engineering: A New Paradigm for AI in Domain-Specific Knowledge Work</b></td>
+    <td>Guangwei Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02760">2507.02760</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-03</b></td>
+    <td><b>Who's Sorry Now: User Preferences Among Rote, Empathic, and Explanatory Apologies from LLM Chatbots</b></td>
+    <td>Zahra Ashktorab et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02745">2507.02745</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-03</b></td>
     <td><b>Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations</b></td>

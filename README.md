@@ -1082,6 +1082,13 @@
 
 ## Poisoning attacks
 
+<h3>2025-07-03</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-03**|**LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users**|Almog Hilel et.al.|[2507.02850](http://arxiv.org/abs/2507.02850)|null|
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+
 <h3>2025-07-02</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -2183,6 +2190,14 @@
 
 ## Data privacy
 
+<h3>2025-07-03</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-03**|**VeFIA: An Efficient Inference Auditing Framework for Vertical Federated Collaborative Software**|Chung-ju Huang et.al.|[2507.02376](http://arxiv.org/abs/2507.02376)|null|
+|**2025-07-03**|**Flotilla: A scalable, modular and resilient federated learning framework for heterogeneous resources**|Roopkatha Banerjee et.al.|[2507.02295](http://arxiv.org/abs/2507.02295)|null|
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+
 <h3>2025-07-02</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -3272,6 +3287,14 @@
 
 ## Forensics
 
+<h3>2025-07-03</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-03**|**Fair Deepfake Detectors Can Generalize**|Harry Cheng et.al.|[2507.02645](http://arxiv.org/abs/2507.02645)|null|
+|**2025-07-03**|**Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection**|Taehoon Kim et.al.|[2507.02398](http://arxiv.org/abs/2507.02398)|null|
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+
 <h3>2025-07-02</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -3966,6 +3989,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real**|Renhao Wang et.al.|[2507.02864](http://arxiv.org/abs/2507.02864)|null|
+|**2025-07-03**|**RefTok: Reference-Based Tokenization for Video Generation**|Xiang Fan et.al.|[2507.02862](http://arxiv.org/abs/2507.02862)|null|
+|**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860](http://arxiv.org/abs/2507.02860)|null|
+|**2025-07-03**|**Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation**|Jiaer Xia et.al.|[2507.02859](http://arxiv.org/abs/2507.02859)|null|
+|**2025-07-03**|**Requirements Elicitation Follow-Up Question Generation**|Yuchen Shen et.al.|[2507.02858](http://arxiv.org/abs/2507.02858)|null|
+|**2025-07-03**|**Answer Matching Outperforms Multiple Choice for Language Model Evaluation**|Nikhil Chandak et.al.|[2507.02856](http://arxiv.org/abs/2507.02856)|null|
+|**2025-07-03**|**MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs**|Purbesh Mitra et.al.|[2507.02851](http://arxiv.org/abs/2507.02851)|null|
+|**2025-07-03**|**LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users**|Almog Hilel et.al.|[2507.02850](http://arxiv.org/abs/2507.02850)|null|
+|**2025-07-03**|**LLM-Driven Treatment Effect Estimation Under Inference Time Text Confounding**|Yuchen Ma et.al.|[2507.02843](http://arxiv.org/abs/2507.02843)|null|
+|**2025-07-03**|**StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason**|Kaiyi Zhang et.al.|[2507.02841](http://arxiv.org/abs/2507.02841)|null|
+|**2025-07-03**|**SynapseRoute: An Auto-Route Switching Framework on Dual-State Large Language Model**|Wencheng Zhang et.al.|[2507.02822](http://arxiv.org/abs/2507.02822)|null|
+|**2025-07-03**|**Multimodal Mathematical Reasoning with Diverse Solving Perspective**|Wenhao Shi et.al.|[2507.02804](http://arxiv.org/abs/2507.02804)|null|
+|**2025-07-03**|**Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models**|Riccardo Cantini et.al.|[2507.02799](http://arxiv.org/abs/2507.02799)|null|
+|**2025-07-03**|**Moral Responsibility or Obedience: What Do We Want from AI?**|Joseph Boland et.al.|[2507.02788](http://arxiv.org/abs/2507.02788)|null|
+|**2025-07-03**|**Self-Correction Bench: Revealing and Addressing the Self-Correction Blind Spot in LLMs**|Ken Tsui et.al.|[2507.02778](http://arxiv.org/abs/2507.02778)|null|
+|**2025-07-03**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773](http://arxiv.org/abs/2507.02773)|null|
+|**2025-07-03**|**Grounding Intelligence in Movement**|Melanie Segado et.al.|[2507.02771](http://arxiv.org/abs/2507.02771)|null|
+|**2025-07-03**|**DeSTA2.5-Audio: Toward General-Purpose Large Audio Language Model with Self-Generated Cross-Modal Alignment**|Ke-Han Lu et.al.|[2507.02768](http://arxiv.org/abs/2507.02768)|null|
+|**2025-07-03**|**Knowledge Protocol Engineering: A New Paradigm for AI in Domain-Specific Knowledge Work**|Guangwei Zhang et.al.|[2507.02760](http://arxiv.org/abs/2507.02760)|null|
+|**2025-07-03**|**Who's Sorry Now: User Preferences Among Rote, Empathic, and Explanatory Apologies from LLM Chatbots**|Zahra Ashktorab et.al.|[2507.02745](http://arxiv.org/abs/2507.02745)|null|
 |**2025-07-03**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
 |**2025-07-03**|**Decision-Oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
 <p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
