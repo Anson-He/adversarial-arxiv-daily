@@ -19,10 +19,42 @@
 
 ## Adversarial attacks
 
+<h3>2025-07-07</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-07**|**Robustifying 3D Perception through Least-Squares Multi-Agent Graphs Object Tracking**|Maria Damanaki et.al.|[2507.04762](http://arxiv.org/abs/2507.04762)|null|
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+
+<h3>2025-07-06</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-06**|**Tail-aware Adversarial Attacks: A Distributional Approach to Efficient LLM Jailbreaking**|Tim Beyer et.al.|[2507.04446](http://arxiv.org/abs/2507.04446)|null|
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+
+<h3>2025-07-05</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-05**|**Hierarchical Testing with Rabbit Optimization for Industrial Cyber-Physical Systems**|Jinwei Hu et.al.|[2507.04100](http://arxiv.org/abs/2507.04100)|null|
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+
+<h3>2025-07-04</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-04**|**When There Is No Decoder: Removing Watermarks from Stable Diffusion Models in a No-box Setting**|Xiaodong Wu et.al.|[2507.03646](http://arxiv.org/abs/2507.03646)|null|
+|**2025-07-04**|**On the Limits of Robust Control Under Adversarial Disturbances**|Paul Trodden et.al.|[2507.03630](http://arxiv.org/abs/2507.03630)|null|
+|**2025-07-04**|**Beyond Weaponization: NLP Security for Medium and Lower-Resourced Languages in Their Own Right**|Heather Lent et.al.|[2507.03473](http://arxiv.org/abs/2507.03473)|null|
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+
 <h3>2025-07-03</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Adopting a human developmental visual diet yields robust, shape-based AI vision**|Zejin Lu et.al.|[2507.03168](http://arxiv.org/abs/2507.03168)|null|
+|**2025-07-03**|**On the Mathematical Impossibility of Safe Universal Approximators**|Jasper Yao et.al.|[2507.03031](http://arxiv.org/abs/2507.03031)|null|
 |**2025-07-03**|**Robustness of Misinformation Classification Systems to Adversarial Examples Through BeamAttack**|Arnisa Fazla et.al.|[2506.23661](http://arxiv.org/abs/2506.23661)|null|
 <p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
@@ -47,6 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Concept-based Adversarial Attack: a Probabilistic Perspective**|Andi Zhang et.al.|[2507.02965](http://arxiv.org/abs/2507.02965)|null|
 |**2025-06-30**|**STACK: Adversarial Attacks on LLM Safeguard Pipelines**|Ian R. McKenzie et.al.|[2506.24068](http://arxiv.org/abs/2506.24068)|null|
 |**2025-06-30**|**Consensus-based optimization for closed-box adversarial attacks and a connection to evolution strategies**|Tim Roith et.al.|[2506.24048](http://arxiv.org/abs/2506.24048)|null|
 |**2025-06-30**|**Quickest Detection of Adversarial Attacks Against Correlated Equilibria**|Kiarash Kazari et.al.|[2506.24040](http://arxiv.org/abs/2506.24040)|null|
@@ -1082,6 +1115,31 @@
 
 ## Poisoning attacks
 
+<h3>2025-07-07</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-07**|**CLIP-Guided Backdoor Defense through Entropy-Based Poisoned Dataset Separation**|Binyan Xu et.al.|[2507.05113](http://arxiv.org/abs/2507.05113)|null|
+|**2025-07-07**|**The Hidden Threat in Plain Text: Attacking RAG Data Loaders**|Alberto Castagnaro et.al.|[2507.05093](http://arxiv.org/abs/2507.05093)|null|
+|**2025-07-07**|**BackFed: An Efficient & Standardized Benchmark Suite for Backdoor Attacks in Federated Learning**|Thinh Dao et.al.|[2507.04903](http://arxiv.org/abs/2507.04903)|null|
+|**2025-07-07**|**Beyond Training-time Poisoning: Component-level and Post-training Backdoors in Deep Reinforcement Learning**|Sanyam Vyas et.al.|[2507.04883](http://arxiv.org/abs/2507.04883)|null|
+|**2025-07-07**|**Losing Control: Data Poisoning Attack on Guided Diffusion via ControlNet**|Raz Lapid et.al.|[2507.04726](http://arxiv.org/abs/2507.04726)|null|
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+
+<h3>2025-07-06</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-06**|**A Practical and Secure Byzantine Robust Aggregator**|De Zhang Lee et.al.|[2506.23183](http://arxiv.org/abs/2506.23183)|null|
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+
+<h3>2025-07-05</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-05**|**Addressing The Devastating Effects Of Single-Task Data Poisoning In Exemplar-Free Continual Learning**|Stanisław Pawlak et.al.|[2507.04106](http://arxiv.org/abs/2507.04106)|null|
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+
 <h3>2025-07-03</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -1097,7 +1155,6 @@
 |**2025-07-02**|**Graph Representation-based Model Poisoning on Federated LLMs in CyberEdge Networks**|Hanlin Cai et.al.|[2507.01694](http://arxiv.org/abs/2507.01694)|null|
 |**2025-07-02**|**Survivability of Backdoor Attacks on Unconstrained Face Recognition Systems**|Quentin Le Roux et.al.|[2507.01607](http://arxiv.org/abs/2507.01607)|null|
 |**2025-07-02**|**ICLShield: Exploring and Mitigating In-Context Learning Backdoor Attacks**|Zhiyao Ren et.al.|[2507.01321](http://arxiv.org/abs/2507.01321)|null|
-|**2025-07-02**|**A Practical and Secure Byzantine Robust Aggregator**|De Zhang Lee et.al.|[2506.23183](http://arxiv.org/abs/2506.23183)|null|
 <p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 <h3>2025-07-01</h3>
@@ -1826,6 +1883,13 @@
 
 ## Generative models safety
 
+<h3>2025-07-06</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-06**|**Tail-aware Adversarial Attacks: A Distributional Approach to Efficient LLM Jailbreaking**|Tim Beyer et.al.|[2507.04446](http://arxiv.org/abs/2507.04446)|null|
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+
 <h3>2025-06-18</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -2190,10 +2254,33 @@
 
 ## Data privacy
 
+<h3>2025-07-07</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-07**|**Cascade: Token-Sharded Private LLM Inference**|Rahul Thomas et.al.|[2507.05228](http://arxiv.org/abs/2507.05228)|null|
+|**2025-07-07**|**ICAS: Detecting Training Data from Autoregressive Image Generative Models**|Hongyao Yu et.al.|[2507.05068](http://arxiv.org/abs/2507.05068)|null|
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+
+<h3>2025-07-06</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-06**|**Ethics by Design: A Lifecycle Framework for Trustworthy AI in Medical Imaging From Transparent Data Governance to Clinically Validated Deployment**|Umer Sadiq Khan et.al.|[2507.04249](http://arxiv.org/abs/2507.04249)|null|
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+
+<h3>2025-07-04</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-04**|**Generating realistic patient data**|Tabea Brandt et.al.|[2507.03423](http://arxiv.org/abs/2507.03423)|null|
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+
 <h3>2025-07-03</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**On Demographic Transformation: Why We Need to Think Beyond Silos**|Nicholle Mae Amor Tan Maravilla et.al.|[2507.03129](http://arxiv.org/abs/2507.03129)|null|
 |**2025-07-03**|**VeFIA: An Efficient Inference Auditing Framework for Vertical Federated Collaborative Software**|Chung-ju Huang et.al.|[2507.02376](http://arxiv.org/abs/2507.02376)|null|
 |**2025-07-03**|**Flotilla: A scalable, modular and resilient federated learning framework for heterogeneous resources**|Roopkatha Banerjee et.al.|[2507.02295](http://arxiv.org/abs/2507.02295)|null|
 <p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
@@ -3095,6 +3182,13 @@
 
 ## Model Privacy
 
+<h3>2025-07-06</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-06**|**PrivTuner with Homomorphic Encryption and LoRA: A P3EFT Scheme for Privacy-Preserving Parameter-Efficient Fine-Tuning of AI Foundation Models**|Yang Li et.al.|[2410.00433](http://arxiv.org/abs/2410.00433)|null|
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+
 <h3>2025-06-03</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -3235,13 +3329,6 @@
 |**2024-10-24**|**Does Differential Privacy Impact Bias in Pretrained NLP Models?**|Md. Khairul Islam et.al.|[2410.18749](http://arxiv.org/abs/2410.18749)|**[link](https://github.com/khairulislam/dp-on-nlp-bias)**|
 <p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
-<h3>2024-10-01</h3>
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-|**2024-10-01**|**PrivTuner with Homomorphic Encryption and LoRA: A P3EFT Scheme for Privacy-Preserving Parameter-Efficient Fine-Tuning of AI Foundation Models**|Yang Li et.al.|[2410.00433](http://arxiv.org/abs/2410.00433)|null|
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
-
 <h3>2024-09-10</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -3286,6 +3373,15 @@
 
 
 ## Forensics
+
+<h3>2025-07-04</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-04**|**Robust Localization of Partially Fake Speech: Metrics, Models, and Out-of-Domain Evaluation**|Hieu-Thi Luong et.al.|[2507.03468](http://arxiv.org/abs/2507.03468)|null|
+|**2025-07-04**|**Deepfakes in Criminal Investigations: Interdisciplinary Research Directions for CMC Research**|Lorenz Meinen et.al.|[2507.03457](http://arxiv.org/abs/2507.03457)|null|
+|**2025-07-04**|**De-Fake: Style based Anomaly Deepfake Detection**|Sudev Kumar Padhi et.al.|[2507.03334](http://arxiv.org/abs/2507.03334)|null|
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 <h3>2025-07-03</h3>
 
@@ -3984,6 +4080,32 @@
 
 
 ## AIGC
+
+<h3>2025-07-07</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
+|**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257](http://arxiv.org/abs/2507.05257)|null|
+|**2025-07-07**|**Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning**|Yana Wei et.al.|[2507.05255](http://arxiv.org/abs/2507.05255)|null|
+|**2025-07-07**|**Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models**|Ziqi Miao et.al.|[2507.05248](http://arxiv.org/abs/2507.05248)|null|
+|**2025-07-07**|**Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent Collaboration**|Benjamin Li et.al.|[2507.05244](http://arxiv.org/abs/2507.05244)|null|
+|**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/abs/2507.05240)|null|
+|**2025-07-07**|**Cascade: Token-Sharded Private LLM Inference**|Rahul Thomas et.al.|[2507.05228](http://arxiv.org/abs/2507.05228)|null|
+|**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Zongyan Han et.al.|[2507.05211](http://arxiv.org/abs/2507.05211)|null|
+|**2025-07-07**|**MedGemma Technical Report**|Andrew Sellergren et.al.|[2507.05201](http://arxiv.org/abs/2507.05201)|null|
+|**2025-07-07**|**In-Context Learning as an Effective Estimator of Functional Correctness of LLM-Generated Code**|Susmita Das et.al.|[2507.05200](http://arxiv.org/abs/2507.05200)|null|
+|**2025-07-07**|**Train-before-Test Harmonizes Language Model Rankings**|Guanhua Zhang et.al.|[2507.05195](http://arxiv.org/abs/2507.05195)|null|
+|**2025-07-07**|**From Fragments to Facts: A Curriculum-Driven DPO Approach for Generating Hindi News Veracity Explanations**|Pulkit Bansal et.al.|[2507.05179](http://arxiv.org/abs/2507.05179)|null|
+|**2025-07-07**|**CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale**|Jonathan Hyun et.al.|[2507.05178](http://arxiv.org/abs/2507.05178)|null|
+|**2025-07-07**|**A Dynamical Systems Perspective on the Analysis of Neural Networks**|Dennis Chemnitz et.al.|[2507.05164](http://arxiv.org/abs/2507.05164)|null|
+|**2025-07-07**|**4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous Capture**|Yutian Chen et.al.|[2507.05163](http://arxiv.org/abs/2507.05163)|null|
+|**2025-07-07**|**AI Generated Text Detection Using Instruction Fine-tuned Large Language and Transformer-Based Models**|Chinnappa Guggilla et.al.|[2507.05157](http://arxiv.org/abs/2507.05157)|null|
+|**2025-07-07**|**Interpretable Mnemonic Generation for Kanji Learning via Expectation-Maximization**|Jaewook Lee et.al.|[2507.05137](http://arxiv.org/abs/2507.05137)|null|
+|**2025-07-07**|**SMART: Simulated Students Aligned with Item Response Theory for Question Difficulty Prediction**|Alexander Scarlatos et.al.|[2507.05129](http://arxiv.org/abs/2507.05129)|null|
+|**2025-07-07**|**An Evaluation of Large Language Models on Text Summarization Tasks Using Prompt Engineering Techniques**|Walid Mohamed Aly et.al.|[2507.05123](http://arxiv.org/abs/2507.05123)|null|
+|**2025-07-07**|**VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots**|Danil S. Grigorev et.al.|[2507.05118](http://arxiv.org/abs/2507.05118)|null|
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 <h3>2025-07-03</h3>
 
