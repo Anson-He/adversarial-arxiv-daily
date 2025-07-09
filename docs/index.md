@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -4755,6 +4755,13 @@ layout: default
     <td><a href="#http://arxiv.org/abs/2507.04726">2507.04726</a></td>
     <td>null</td>
        </tr>
+       <tr>
+    <td><b>2025-07-07</b></td>
+    <td><b>LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users</b></td>
+    <td>Almog Hilel et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02850">2507.02850</a></td>
+    <td>null</td>
+       </tr>
    </tbody>
 </table>
 <h3>2025-07-06</h3>
@@ -4797,28 +4804,6 @@ layout: default
     <td><b>Addressing The Devastating Effects Of Single-Task Data Poisoning In Exemplar-Free Continual Learning</b></td>
     <td>Stanisław Pawlak et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.04106">2507.04106</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-07-03</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-07-03</b></td>
-    <td><b>LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users</b></td>
-    <td>Almog Hilel et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.02850">2507.02850</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -15578,6 +15563,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-07-08</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>MedGemma Technical Report</b></td>
+    <td>Andrew Sellergren et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.05201">2507.05201</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-07</h3>
 
 <table>
@@ -15645,13 +15652,6 @@ layout: default
     <td><b>All in One: Visual-Description-Guided Unified Point Cloud Segmentation</b></td>
     <td>Zongyan Han et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.05211">2507.05211</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-07</b></td>
-    <td><b>MedGemma Technical Report</b></td>
-    <td>Andrew Sellergren et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.05201">2507.05201</a></td>
     <td>null</td>
        </tr>
        <tr>
