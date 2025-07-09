@@ -23,6 +23,49 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-07-08</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>ScoreAdv: Score-based Targeted Generation of Natural Adversarial Examples via Diffusion Models</b></td>
+    <td>Chihan Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06078">2507.06078</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>CAVGAN: Unifying Jailbreak and Defense of LLMs via Generative Adversarial Attacks on their Internal Representations</b></td>
+    <td>Xiaohu Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06043">2507.06043</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>RabakBench: Scaling Human Annotations to Construct Localized Multilingual Safety Benchmarks for Low-Resource Languages</b></td>
+    <td>Gabriel Chua et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.05980">2507.05980</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial Perspective</b></td>
+    <td>Shuo Shao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.05622">2507.05622</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-07</h3>
 
 <table>
@@ -80,6 +123,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-05</b></td>
+    <td><b>A Survey on Proactive Defense Strategies Against Misinformation in Large Language Models</b></td>
+    <td>Shuliang Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.05288">2507.05288</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-05</b></td>
     <td><b>Hierarchical Testing with Rabbit Optimization for Industrial Cyber-Physical Systems</b></td>
@@ -4707,6 +4757,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-07-08</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>Asynchronous Event Error-Minimizing Noise for Safeguarding Event Dataset</b></td>
+    <td>Ruofei Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.05728">2507.05728</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-07</h3>
 
 <table>
@@ -8795,6 +8867,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-07-08</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>Communication-Efficient Module-Wise Federated Learning for Grasp Pose Detection in Cluttered Environments</b></td>
+    <td>Woonsang Kang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.05861">2507.05861</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-07</h3>
 
 <table>
@@ -13062,6 +13156,50 @@ layout: default
 
 ## Forensics
 
+<h3>2025-07-08</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>Ensemble-Based Deepfake Detection using State-of-the-Art Models with Robust Cross-Dataset Generalisation</b></td>
+    <td>Haroon Wahab et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.05996">2507.05996</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-07-07</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-07</b></td>
+    <td><b>CorrDetail: Visual Detail Enhanced Self-Correction for Face Forgery Detection</b></td>
+    <td>Binjia Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.05302">2507.05302</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-04</h3>
 
 <table>
@@ -15576,6 +15714,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers</b></td>
+    <td>Zhiyuan Peng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06223">2507.06223</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>DS@GT at CheckThat! 2025: Ensemble Methods for Detection of Scientific Discourse on Social Media</b></td>
+    <td>Ayush Parikh et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06205">2507.06205</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>Differential Mamba</b></td>
+    <td>Nadav Schneider et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06204">2507.06204</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>A Survey on Latent Reasoning</b></td>
+    <td>Rui-Jie Zhu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06203">2507.06203</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>UQLM: A Python Package for Uncertainty Quantification in Large Language Models</b></td>
+    <td>Dylan Bouchard et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06196">2507.06196</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>SQLBarber: A System Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads</b></td>
+    <td>Jiale Lao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06192">2507.06192</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>Hidden Prompts in Manuscripts Exploit AI-Assisted Peer Review</b></td>
+    <td>Zhicheng Lin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06185">2507.06185</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>Data-Semantics-Aware Recommendation of Diverse Pivot Tables</b></td>
+    <td>Whanhee Cho et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06171">2507.06171</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>Skywork-R1V3 Technical Report</b></td>
+    <td>Wei Shen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06167">2507.06167</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>Large Language Models Predict Human Well-being -- But Not Equally Everywhere</b></td>
+    <td>Pat Pataranutaporn et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06141">2507.06141</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>Coding Triangle: How Does Large Language Model Understand Code?</b></td>
+    <td>Taolin Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06138">2507.06138</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>NeoBabel: A Multilingual Open Tower for Visual Generation</b></td>
+    <td>Mohammad Mahdi Derakhshani et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06137">2507.06137</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety</b></td>
+    <td>Sanidhya Vijayvargiya et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06134">2507.06134</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>PrefixAgent: An LLM-Powered Design Framework for Efficient Prefix Adder Optimization</b></td>
+    <td>Dongsheng Zuo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06127">2507.06127</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>Omni-Video: Democratizing Unified Video Understanding and Generation</b></td>
+    <td>Zhiyu Tan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06119">2507.06119</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>Speech Quality Assessment Model Based on Mixture of Experts: System-Level Performance Enhancement and Utterance-Level Challenge Analysis</b></td>
+    <td>Xintong Hu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06116">2507.06116</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models</b></td>
+    <td>Bo Pang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06057">2507.06057</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>Entropy-Memorization Law: Evaluating Memorization Difficulty of Data in LLMs</b></td>
+    <td>Yizhan Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06056">2507.06056</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>Kernel Trace Distance: Quantum Statistical Metric between Measures through RKHS Density Operators</b></td>
+    <td>Arturo Castellanos et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06055">2507.06055</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>Hierarchical Interaction Summarization and Contrastive Prompting for Explainable Recommendations</b></td>
+    <td>Yibin Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06044">2507.06044</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-08</b></td>
     <td><b>MedGemma Technical Report</b></td>

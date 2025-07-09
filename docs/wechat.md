@@ -19,6 +19,14 @@
 
 ## Adversarial attacks
 
+<h3>2025-07-08</h3>
+
+- 2025-07-08, **ScoreAdv: Score-based Targeted Generation of Natural Adversarial Examples via Diffusion Models**, Chihan Huang et.al., Paper: [http://arxiv.org/abs/2507.06078](http://arxiv.org/abs/2507.06078)
+- 2025-07-08, **CAVGAN: Unifying Jailbreak and Defense of LLMs via Generative Adversarial Attacks on their Internal Representations**, Xiaohu Li et.al., Paper: [http://arxiv.org/abs/2507.06043](http://arxiv.org/abs/2507.06043)
+- 2025-07-08, **RabakBench: Scaling Human Annotations to Construct Localized Multilingual Safety Benchmarks for Low-Resource Languages**, Gabriel Chua et.al., Paper: [http://arxiv.org/abs/2507.05980](http://arxiv.org/abs/2507.05980)
+- 2025-07-08, **DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial Perspective**, Shuo Shao et.al., Paper: [http://arxiv.org/abs/2507.05622](http://arxiv.org/abs/2507.05622)
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+
 <h3>2025-07-07</h3>
 
 - 2025-07-07, **Robustifying 3D Perception through Least-Squares Multi-Agent Graphs Object Tracking**, Maria Damanaki et.al., Paper: [http://arxiv.org/abs/2507.04762](http://arxiv.org/abs/2507.04762)
@@ -31,6 +39,7 @@
 
 <h3>2025-07-05</h3>
 
+- 2025-07-05, **A Survey on Proactive Defense Strategies Against Misinformation in Large Language Models**, Shuliang Liu et.al., Paper: [http://arxiv.org/abs/2507.05288](http://arxiv.org/abs/2507.05288)
 - 2025-07-05, **Hierarchical Testing with Rabbit Optimization for Industrial Cyber-Physical Systems**, Jinwei Hu et.al., Paper: [http://arxiv.org/abs/2507.04100](http://arxiv.org/abs/2507.04100)
 <p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
@@ -895,6 +904,11 @@
 
 ## Poisoning attacks
 
+<h3>2025-07-08</h3>
+
+- 2025-07-08, **Asynchronous Event Error-Minimizing Noise for Safeguarding Event Dataset**, Ruofei Wang et.al., Paper: [http://arxiv.org/abs/2507.05728](http://arxiv.org/abs/2507.05728)
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+
 <h3>2025-07-07</h3>
 
 - 2025-07-07, **CLIP-Guided Backdoor Defense through Entropy-Based Poisoned Dataset Separation**, Binyan Xu et.al., Paper: [http://arxiv.org/abs/2507.05113](http://arxiv.org/abs/2507.05113)
@@ -1745,6 +1759,11 @@
 
 
 ## Data privacy
+
+<h3>2025-07-08</h3>
+
+- 2025-07-08, **Communication-Efficient Module-Wise Federated Learning for Grasp Pose Detection in Cluttered Environments**, Woonsang Kang et.al., Paper: [http://arxiv.org/abs/2507.05861](http://arxiv.org/abs/2507.05861)
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 <h3>2025-07-07</h3>
 
@@ -2604,6 +2623,16 @@
 
 ## Forensics
 
+<h3>2025-07-08</h3>
+
+- 2025-07-08, **Ensemble-Based Deepfake Detection using State-of-the-Art Models with Robust Cross-Dataset Generalisation**, Haroon Wahab et.al., Paper: [http://arxiv.org/abs/2507.05996](http://arxiv.org/abs/2507.05996)
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+
+<h3>2025-07-07</h3>
+
+- 2025-07-07, **CorrDetail: Visual Detail Enhanced Self-Correction for Face Forgery Detection**, Binjia Zhou et.al., Paper: [http://arxiv.org/abs/2507.05302](http://arxiv.org/abs/2507.05302)
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+
 <h3>2025-07-04</h3>
 
 - 2025-07-04, **Robust Localization of Partially Fake Speech: Metrics, Models, and Out-of-Domain Evaluation**, Hieu-Thi Luong et.al., Paper: [http://arxiv.org/abs/2507.03468](http://arxiv.org/abs/2507.03468)
@@ -3133,6 +3162,26 @@
 
 <h3>2025-07-08</h3>
 
+- 2025-07-08, **Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers**, Zhiyuan Peng et.al., Paper: [http://arxiv.org/abs/2507.06223](http://arxiv.org/abs/2507.06223)
+- 2025-07-08, **DS@GT at CheckThat! 2025: Ensemble Methods for Detection of Scientific Discourse on Social Media**, Ayush Parikh et.al., Paper: [http://arxiv.org/abs/2507.06205](http://arxiv.org/abs/2507.06205)
+- 2025-07-08, **Differential Mamba**, Nadav Schneider et.al., Paper: [http://arxiv.org/abs/2507.06204](http://arxiv.org/abs/2507.06204)
+- 2025-07-08, **A Survey on Latent Reasoning**, Rui-Jie Zhu et.al., Paper: [http://arxiv.org/abs/2507.06203](http://arxiv.org/abs/2507.06203)
+- 2025-07-08, **UQLM: A Python Package for Uncertainty Quantification in Large Language Models**, Dylan Bouchard et.al., Paper: [http://arxiv.org/abs/2507.06196](http://arxiv.org/abs/2507.06196)
+- 2025-07-08, **SQLBarber: A System Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads**, Jiale Lao et.al., Paper: [http://arxiv.org/abs/2507.06192](http://arxiv.org/abs/2507.06192)
+- 2025-07-08, **Hidden Prompts in Manuscripts Exploit AI-Assisted Peer Review**, Zhicheng Lin et.al., Paper: [http://arxiv.org/abs/2507.06185](http://arxiv.org/abs/2507.06185)
+- 2025-07-08, **Data-Semantics-Aware Recommendation of Diverse Pivot Tables**, Whanhee Cho et.al., Paper: [http://arxiv.org/abs/2507.06171](http://arxiv.org/abs/2507.06171)
+- 2025-07-08, **Skywork-R1V3 Technical Report**, Wei Shen et.al., Paper: [http://arxiv.org/abs/2507.06167](http://arxiv.org/abs/2507.06167)
+- 2025-07-08, **Large Language Models Predict Human Well-being -- But Not Equally Everywhere**, Pat Pataranutaporn et.al., Paper: [http://arxiv.org/abs/2507.06141](http://arxiv.org/abs/2507.06141)
+- 2025-07-08, **Coding Triangle: How Does Large Language Model Understand Code?**, Taolin Zhang et.al., Paper: [http://arxiv.org/abs/2507.06138](http://arxiv.org/abs/2507.06138)
+- 2025-07-08, **NeoBabel: A Multilingual Open Tower for Visual Generation**, Mohammad Mahdi Derakhshani et.al., Paper: [http://arxiv.org/abs/2507.06137](http://arxiv.org/abs/2507.06137)
+- 2025-07-08, **OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety**, Sanidhya Vijayvargiya et.al., Paper: [http://arxiv.org/abs/2507.06134](http://arxiv.org/abs/2507.06134)
+- 2025-07-08, **PrefixAgent: An LLM-Powered Design Framework for Efficient Prefix Adder Optimization**, Dongsheng Zuo et.al., Paper: [http://arxiv.org/abs/2507.06127](http://arxiv.org/abs/2507.06127)
+- 2025-07-08, **Omni-Video: Democratizing Unified Video Understanding and Generation**, Zhiyu Tan et.al., Paper: [http://arxiv.org/abs/2507.06119](http://arxiv.org/abs/2507.06119)
+- 2025-07-08, **Speech Quality Assessment Model Based on Mixture of Experts: System-Level Performance Enhancement and Utterance-Level Challenge Analysis**, Xintong Hu et.al., Paper: [http://arxiv.org/abs/2507.06116](http://arxiv.org/abs/2507.06116)
+- 2025-07-08, **FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models**, Bo Pang et.al., Paper: [http://arxiv.org/abs/2507.06057](http://arxiv.org/abs/2507.06057)
+- 2025-07-08, **Entropy-Memorization Law: Evaluating Memorization Difficulty of Data in LLMs**, Yizhan Huang et.al., Paper: [http://arxiv.org/abs/2507.06056](http://arxiv.org/abs/2507.06056)
+- 2025-07-08, **Kernel Trace Distance: Quantum Statistical Metric between Measures through RKHS Density Operators**, Arturo Castellanos et.al., Paper: [http://arxiv.org/abs/2507.06055](http://arxiv.org/abs/2507.06055)
+- 2025-07-08, **Hierarchical Interaction Summarization and Contrastive Prompting for Explainable Recommendations**, Yibin Liu et.al., Paper: [http://arxiv.org/abs/2507.06044](http://arxiv.org/abs/2507.06044)
 - 2025-07-08, **MedGemma Technical Report**, Andrew Sellergren et.al., Paper: [http://arxiv.org/abs/2507.05201](http://arxiv.org/abs/2507.05201)
 <p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
