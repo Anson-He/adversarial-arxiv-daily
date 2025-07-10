@@ -38,6 +38,27 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-07-09</b></td>
+    <td><b>Robust and Safe Traffic Sign Recognition using N-version with Weighted Voting</b></td>
+    <td>Linyun Gao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06907">2507.06907</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Distributed Fault-Tolerant Multi-Robot Cooperative Localization in Adversarial Environments</b></td>
+    <td>Tohid Kargar Tasooji et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06750">2507.06750</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>On the Robustness of Verbal Confidence of LLMs in Adversarial Attacks</b></td>
+    <td>Stephen Obadinma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06489">2507.06489</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
     <td><b>Tail-aware Adversarial Attacks: A Distributional Approach to Efficient LLM Jailbreaking</b></td>
     <td>Tim Beyer et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.04446">2507.04446</a></td>
@@ -58,6 +79,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>Reward Models Can Improve Themselves: Reward-Guided Adversarial Failure Mode Discovery for Robust Reward Modeling</b></td>
+    <td>Pankayaraj Pathmanathan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06419">2507.06419</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-08</b></td>
     <td><b>ScoreAdv: Score-based Targeted Generation of Natural Adversarial Examples via Diffusion Models</b></td>
@@ -123,6 +151,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-05</b></td>
+    <td><b>False Alarms, Real Damage: Adversarial Attacks Using LLM-based Models on Text-based Cyber Threat Intelligence Systems</b></td>
+    <td>Samaneh Shafee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06252">2507.06252</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-05</b></td>
     <td><b>A Survey on Proactive Defense Strategies Against Misinformation in Large Language Models</b></td>
@@ -4757,6 +4792,35 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-07-09</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation</b></td>
+    <td>Ziang Ye et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06899">2507.06899</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover</b></td>
+    <td>Matteo Lupinacci et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06850">2507.06850</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-08</h3>
 
 <table>
@@ -4792,6 +4856,20 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-07</b></td>
+    <td><b>Q-Detection: A Quantum-Classical Hybrid Poisoning Attack Detection Method</b></td>
+    <td>Haoqi He et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06262">2507.06262</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-07</b></td>
+    <td><b>Phantom Subgroup Poisoning: Stealth Attacks on Federated Recommender Systems</b></td>
+    <td>Bo Yan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06258">2507.06258</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-07</b></td>
     <td><b>CLIP-Guided Backdoor Defense through Entropy-Based Poisoned Dataset Separation</b></td>
@@ -4871,6 +4949,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-05</b></td>
+    <td><b>False Alarms, Real Damage: Adversarial Attacks Using LLM-based Models on Text-based Cyber Threat Intelligence Systems</b></td>
+    <td>Samaneh Shafee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06252">2507.06252</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-05</b></td>
     <td><b>Addressing The Devastating Effects Of Single-Task Data Poisoning In Exemplar-Free Continual Learning</b></td>
@@ -8867,6 +8952,35 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-07-09</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants</b></td>
+    <td>Wei Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06888">2507.06888</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Intrinsic Training Signals for Federated Learning Aggregation</b></td>
+    <td>Cosimo Fiorini et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06813">2507.06813</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-08</h3>
 
 <table>
@@ -13156,6 +13270,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-07-09</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Open-Set Source Tracing of Audio Deepfake Systems</b></td>
+    <td>Nicholas Klein et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06470">2507.06470</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-08</h3>
 
 <table>
@@ -15714,6 +15850,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor</b></td>
+    <td>Vatsal Agarwal et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07106">2507.07106</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models</b></td>
+    <td>Tiezheng Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07104">2507.07104</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Evaluating Attribute Confusion in Fashion Text-to-Image Generation</b></td>
+    <td>Ziyue Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07079">2507.07079</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Boosting Parameter Efficiency in LLM-Based Recommendation through Sophisticated Pruning</b></td>
+    <td>Shanle Zheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07064">2507.07064</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Evaluating Large Multimodal Models for Nutrition Analysis: A Benchmark Enriched with Contextual Metadata</b></td>
+    <td>Bruce Coburn et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07048">2507.07048</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>5C Prompt Contracts: A Minimalist, Creative-Friendly, Token-Efficient Design Framework for Individual and SME LLM Usage</b></td>
+    <td>Ugur Ari et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07045">2507.07045</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>First Return, Entropy-Eliciting Explore</b></td>
+    <td>Tianyu Zheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07017">2507.07017</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Learning Deliberately, Acting Intuitively: Unlocking Test-Time Reasoning in Multimodal LLMs</b></td>
+    <td>Yahan Yu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06999">2507.06999</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>The User-Centric Geo-Experience: An LLM-Powered Framework for Enhanced Planning, Navigation, and Dynamic Adaptation</b></td>
+    <td>Jieren Deng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06993">2507.06993</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation</b></td>
+    <td>Qilong Xing et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06992">2507.06992</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Are They All Good? Evaluating the Quality of CoTs in LLM-based Code Generation</b></td>
+    <td>Binquan Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06980">2507.06980</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting</b></td>
+    <td>Fei Teng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06971">2507.06971</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Investigating the Robustness of Retrieval-Augmented Generation at the Query Level</b></td>
+    <td>Sezen Perçin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06956">2507.06956</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Rethinking Verification for LLM Code Generation: From Generation to Testing</b></td>
+    <td>Zihan Ma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06920">2507.06920</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Exploring LLMs for Predicting Tutor Strategy and Student Outcomes in Dialogues</b></td>
+    <td>Fareya Ikram et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06910">2507.06910</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>MultiJustice: A Chinese Dataset for Multi-Party, Multi-Charge Legal Prediction</b></td>
+    <td>Xiao Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06909">2507.06909</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model</b></td>
+    <td>Jing Liang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06892">2507.06892</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>DiffSpectra: Molecular Structure Elucidation from Spectra using Diffusion Models</b></td>
+    <td>Liang Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06853">2507.06853</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover</b></td>
+    <td>Matteo Lupinacci et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06850">2507.06850</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Shifting from Ranking to Set Selection for Retrieval Augmented Generation</b></td>
+    <td>Dahyun Lee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06838">2507.06838</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-09</b></td>
     <td><b>Skywork-R1V3 Technical Report</b></td>
