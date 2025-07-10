@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-07-09</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Tail-aware Adversarial Attacks: A Distributional Approach to Efficient LLM Jailbreaking</b></td>
+    <td>Tim Beyer et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.04446">2507.04446</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-08</h3>
 
 <table>
@@ -84,28 +106,6 @@ layout: default
     <td><b>Robustifying 3D Perception through Least-Squares Multi-Agent Graphs Object Tracking</b></td>
     <td>Maria Damanaki et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.04762">2507.04762</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-07-06</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-07-06</b></td>
-    <td><b>Tail-aware Adversarial Attacks: A Distributional Approach to Efficient LLM Jailbreaking</b></td>
-    <td>Tim Beyer et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.04446">2507.04446</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -7611,7 +7611,7 @@ layout: default
 
 ## Generative models safety
 
-<h3>2025-07-06</h3>
+<h3>2025-07-09</h3>
 
 <table>
    <thead>
@@ -7625,11 +7625,18 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-07-06</b></td>
+    <td><b>2025-07-09</b></td>
     <td><b>Tail-aware Adversarial Attacks: A Distributional Approach to Efficient LLM Jailbreaking</b></td>
     <td>Tim Beyer et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.04446">2507.04446</a></td>
     <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Saffron-1: Safety Inference Scaling</b></td>
+    <td>Ruizhong Qiu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.06444">2506.06444</a></td>
+    <td>**[link](https://github.com/q-rz/saffron)**</td>
        </tr>
    </tbody>
 </table>
@@ -7856,13 +7863,6 @@ layout: default
     <td>Songyang Liu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2506.11094">2506.11094</a></td>
     <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-06-06</b></td>
-    <td><b>Saffron-1: Towards an Inference Scaling Paradigm for LLM Safety Assurance</b></td>
-    <td>Ruizhong Qiu et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.06444">2506.06444</a></td>
-    <td>**[link](https://github.com/q-rz/saffron)**</td>
        </tr>
    </tbody>
 </table>
@@ -15701,6 +15701,42 @@ layout: default
 
 ## AIGC
 
+<h3>2025-07-09</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Skywork-R1V3 Technical Report</b></td>
+    <td>Wei Shen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06167">2507.06167</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Omni-Video: Democratizing Unified Video Understanding and Generation</b></td>
+    <td>Zhiyu Tan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06119">2507.06119</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models</b></td>
+    <td>Bo Pang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06057">2507.06057</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-08</h3>
 
 <table>
@@ -15772,13 +15808,6 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-07-08</b></td>
-    <td><b>Skywork-R1V3 Technical Report</b></td>
-    <td>Wei Shen et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.06167">2507.06167</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-08</b></td>
     <td><b>Large Language Models Predict Human Well-being -- But Not Equally Everywhere</b></td>
     <td>Pat Pataranutaporn et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.06141">2507.06141</a></td>
@@ -15814,23 +15843,9 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-07-08</b></td>
-    <td><b>Omni-Video: Democratizing Unified Video Understanding and Generation</b></td>
-    <td>Zhiyu Tan et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.06119">2507.06119</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-08</b></td>
     <td><b>Speech Quality Assessment Model Based on Mixture of Experts: System-Level Performance Enhancement and Utterance-Level Challenge Analysis</b></td>
     <td>Xintong Hu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.06116">2507.06116</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-08</b></td>
-    <td><b>FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models</b></td>
-    <td>Bo Pang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.06057">2507.06057</a></td>
     <td>null</td>
        </tr>
        <tr>
