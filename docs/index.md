@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -4792,6 +4792,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-07-10</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover</b></td>
+    <td>Matteo Lupinacci et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06850">2507.06850</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-09</h3>
 
 <table>
@@ -4810,13 +4832,6 @@ layout: default
     <td><b>VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation</b></td>
     <td>Ziang Ye et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.06899">2507.06899</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-09</b></td>
-    <td><b>The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover</b></td>
-    <td>Matteo Lupinacci et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.06850">2507.06850</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -12673,6 +12688,28 @@ layout: default
 
 ## Model Privacy
 
+<h3>2025-07-10</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Bayes-Nash Generative Privacy Against Membership Inference Attacks</b></td>
+    <td>Tao Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2410.07414">2410.07414</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-06</h3>
 
 <table>
@@ -12757,28 +12794,6 @@ layout: default
     <td><b>From Models to Network Topologies: A Topology Inference Attack in Decentralized Federated Learning</b></td>
     <td>Chao Feng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2501.03119">2501.03119</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-05-05</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-05-05</b></td>
-    <td><b>Bayes-Nash Generative Privacy Against Membership Inference Attacks</b></td>
-    <td>Tao Zhang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2410.07414">2410.07414</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -13270,6 +13285,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-07-10</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection</b></td>
+    <td>Taehoon Kim et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.02398">2507.02398</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-09</h3>
 
 <table>
@@ -13390,13 +13427,6 @@ layout: default
     <td><b>Fair Deepfake Detectors Can Generalize</b></td>
     <td>Harry Cheng et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.02645">2507.02645</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-03</b></td>
-    <td><b>Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection</b></td>
-    <td>Taehoon Kim et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.02398">2507.02398</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -15837,6 +15867,56 @@ layout: default
 
 ## AIGC
 
+<h3>2025-07-10</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting</b></td>
+    <td>Fei Teng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06971">2507.06971</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Rethinking Verification for LLM Code Generation: From Generation to Testing</b></td>
+    <td>Zihan Ma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06920">2507.06920</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model</b></td>
+    <td>Jing Liang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06892">2507.06892</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover</b></td>
+    <td>Matteo Lupinacci et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06850">2507.06850</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Shifting from Ranking to Set Selection for Retrieval Augmented Generation</b></td>
+    <td>Dahyun Lee et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06838">2507.06838</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-09</h3>
 
 <table>
@@ -15929,23 +16009,9 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-07-09</b></td>
-    <td><b>Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting</b></td>
-    <td>Fei Teng et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.06971">2507.06971</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-09</b></td>
     <td><b>Investigating the Robustness of Retrieval-Augmented Generation at the Query Level</b></td>
     <td>Sezen Perçin et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.06956">2507.06956</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-09</b></td>
-    <td><b>Rethinking Verification for LLM Code Generation: From Generation to Testing</b></td>
-    <td>Zihan Ma et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.06920">2507.06920</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -15964,30 +16030,9 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-07-09</b></td>
-    <td><b>Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model</b></td>
-    <td>Jing Liang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.06892">2507.06892</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-09</b></td>
     <td><b>DiffSpectra: Molecular Structure Elucidation from Spectra using Diffusion Models</b></td>
     <td>Liang Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.06853">2507.06853</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-09</b></td>
-    <td><b>The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover</b></td>
-    <td>Matteo Lupinacci et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.06850">2507.06850</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-09</b></td>
-    <td><b>Shifting from Ranking to Set Selection for Retrieval Augmented Generation</b></td>
-    <td>Dahyun Lee et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.06838">2507.06838</a></td>
     <td>null</td>
        </tr>
        <tr>
