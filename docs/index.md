@@ -23,6 +23,49 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-07-10</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Identifying the Smallest Adversarial Load Perturbations that Render DC-OPF Infeasible</b></td>
+    <td>Samuel Chevalier et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07850">2507.07850</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>SCOOTER: A Human Evaluation Framework for Unrestricted Adversarial Examples</b></td>
+    <td>Dren Fazlija et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07776">2507.07776</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>TRIX- Trading Adversarial Fairness via Mixed Adversarial Training</b></td>
+    <td>Tejaswini Medi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07768">2507.07768</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>One Object, Multiple Lies: A Benchmark for Cross-task Adversarial Attack on Unified Vision-Language Models</b></td>
+    <td>Jiale Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07709">2507.07709</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-09</h3>
 
 <table>
@@ -36,6 +79,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>Exploiting Edge Features for Transferable Adversarial Attacks in Distributed Machine Learning</b></td>
+    <td>Giulio Rossolini et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07259">2507.07259</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-09</b></td>
     <td><b>Robust and Safe Traffic Sign Recognition using N-version with Weighted Voting</b></td>
@@ -4807,6 +4857,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-07-10</b></td>
+    <td><b>Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking</b></td>
+    <td>Qiangqiang Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07483">2507.07483</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
     <td><b>The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover</b></td>
     <td>Matteo Lupinacci et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.06850">2507.06850</a></td>
@@ -8967,6 +9024,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-07-10</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking</b></td>
+    <td>Qiangqiang Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07483">2507.07483</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-09</h3>
 
 <table>
@@ -8980,6 +9059,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-09</b></td>
+    <td><b>FedP3E: Privacy-Preserving Prototype Exchange for Non-IID IoT Malware Detection in Cross-Silo Federated Learning</b></td>
+    <td>Rami Darwish et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07258">2507.07258</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-09</b></td>
     <td><b>Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants</b></td>
@@ -15880,6 +15966,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>PyVision: Agentic Vision with Dynamic Tooling</b></td>
+    <td>Shitian Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07998">2507.07998</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs</b></td>
+    <td>Ziyue Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07996">2507.07996</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs</b></td>
+    <td>Jeongseok Hyun et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07990">2507.07990</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Automating Expert-Level Medical Reasoning Evaluation of Large Language Models</b></td>
+    <td>Shuang Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07988">2507.07988</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Performance and Practical Considerations of Large and Small Language Models in Clinical Decision Support in Rheumatology</b></td>
+    <td>Sabine Felde et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07983">2507.07983</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Defending Against Prompt Injection With a Few DefensiveTokens</b></td>
+    <td>Sizhe Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07974">2507.07974</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Scaling RL to Long Videos</b></td>
+    <td>Yukang Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07966">2507.07966</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>MIRIX: Multi-Agent Memory System for LLM-Based Agents</b></td>
+    <td>Yu Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07957">2507.07957</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Dynamic Chunking for End-to-End Hierarchical Sequence Modeling</b></td>
+    <td>Sukjun Hwang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07955">2507.07955</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Low Resource Reconstruction Attacks Through Benign Prompts</b></td>
+    <td>Sol Yarkoni et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07947">2507.07947</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Can Large Language Models Improve Phishing Defense? A Large-Scale Controlled Experiment on Warning Dialogue Explanations</b></td>
+    <td>Federico Maria Cau et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07916">2507.07916</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>DTECT: Dynamic Topic Explorer & Context Tracker</b></td>
+    <td>Suman Adhya et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07910">2507.07910</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Agentic Retrieval of Topics and Insights from Earnings Calls</b></td>
+    <td>Anant Gupta et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07906">2507.07906</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Automating MD simulations for Proteins using Large language Models: NAMD-Agent</b></td>
+    <td>Achuth Chandrasekhar et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07887">2507.07887</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Edge-ASR: Towards Low-Bit Quantization of Automatic Speech Recognition Models</b></td>
+    <td>Chen Feng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07877">2507.07877</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Mitigating Watermark Stealing Attacks in Generative Models via Multi-Key Watermarking</b></td>
+    <td>Toluwani Aremu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07871">2507.07871</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>DocCHA: Towards LLM-Augmented Interactive Online diagnosis System</b></td>
+    <td>Xinyi Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07870">2507.07870</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on Retrieval-Augmented Generation systems</b></td>
+    <td>Youngjoon Jang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07847">2507.07847</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving</b></td>
+    <td>Lu Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07818">2507.07818</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Understanding and Controlling Repetition Neurons and Induction Heads in In-Context Learning</b></td>
+    <td>Nhi Hoai Doan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07810">2507.07810</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-10</b></td>
     <td><b>Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting</b></td>

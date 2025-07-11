@@ -19,8 +19,17 @@
 
 ## Adversarial attacks
 
+<h3>2025-07-10</h3>
+
+- 2025-07-10, **Identifying the Smallest Adversarial Load Perturbations that Render DC-OPF Infeasible**, Samuel Chevalier et.al., Paper: [http://arxiv.org/abs/2507.07850](http://arxiv.org/abs/2507.07850)
+- 2025-07-10, **SCOOTER: A Human Evaluation Framework for Unrestricted Adversarial Examples**, Dren Fazlija et.al., Paper: [http://arxiv.org/abs/2507.07776](http://arxiv.org/abs/2507.07776)
+- 2025-07-10, **TRIX- Trading Adversarial Fairness via Mixed Adversarial Training**, Tejaswini Medi et.al., Paper: [http://arxiv.org/abs/2507.07768](http://arxiv.org/abs/2507.07768)
+- 2025-07-10, **One Object, Multiple Lies: A Benchmark for Cross-task Adversarial Attack on Unified Vision-Language Models**, Jiale Zhao et.al., Paper: [http://arxiv.org/abs/2507.07709](http://arxiv.org/abs/2507.07709)
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+
 <h3>2025-07-09</h3>
 
+- 2025-07-09, **Exploiting Edge Features for Transferable Adversarial Attacks in Distributed Machine Learning**, Giulio Rossolini et.al., Paper: [http://arxiv.org/abs/2507.07259](http://arxiv.org/abs/2507.07259)
 - 2025-07-09, **Robust and Safe Traffic Sign Recognition using N-version with Weighted Voting**, Linyun Gao et.al., Paper: [http://arxiv.org/abs/2507.06907](http://arxiv.org/abs/2507.06907)
 - 2025-07-09, **Distributed Fault-Tolerant Multi-Robot Cooperative Localization in Adversarial Environments**, Tohid Kargar Tasooji et.al., Paper: [http://arxiv.org/abs/2507.06750](http://arxiv.org/abs/2507.06750)
 - 2025-07-09, **On the Robustness of Verbal Confidence of LLMs in Adversarial Attacks**, Stephen Obadinma et.al., Paper: [http://arxiv.org/abs/2507.06489](http://arxiv.org/abs/2507.06489)
@@ -911,6 +920,7 @@
 
 <h3>2025-07-10</h3>
 
+- 2025-07-10, **Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking**, Qiangqiang Wu et.al., Paper: [http://arxiv.org/abs/2507.07483](http://arxiv.org/abs/2507.07483)
 - 2025-07-10, **The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover**, Matteo Lupinacci et.al., Paper: [http://arxiv.org/abs/2507.06850](http://arxiv.org/abs/2507.06850)
 <p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
@@ -1778,8 +1788,14 @@
 
 ## Data privacy
 
+<h3>2025-07-10</h3>
+
+- 2025-07-10, **Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking**, Qiangqiang Wu et.al., Paper: [http://arxiv.org/abs/2507.07483](http://arxiv.org/abs/2507.07483)
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+
 <h3>2025-07-09</h3>
 
+- 2025-07-09, **FedP3E: Privacy-Preserving Prototype Exchange for Non-IID IoT Malware Detection in Cross-Silo Federated Learning**, Rami Darwish et.al., Paper: [http://arxiv.org/abs/2507.07258](http://arxiv.org/abs/2507.07258)
 - 2025-07-09, **Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants**, Wei Chen et.al., Paper: [http://arxiv.org/abs/2507.06888](http://arxiv.org/abs/2507.06888)
 - 2025-07-09, **Intrinsic Training Signals for Federated Learning Aggregation**, Cosimo Fiorini et.al., Paper: [http://arxiv.org/abs/2507.06813](http://arxiv.org/abs/2507.06813)
 <p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
@@ -3195,6 +3211,26 @@
 
 <h3>2025-07-10</h3>
 
+- 2025-07-10, **PyVision: Agentic Vision with Dynamic Tooling**, Shitian Zhao et.al., Paper: [http://arxiv.org/abs/2507.07998](http://arxiv.org/abs/2507.07998)
+- 2025-07-10, **Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs**, Ziyue Li et.al., Paper: [http://arxiv.org/abs/2507.07996](http://arxiv.org/abs/2507.07996)
+- 2025-07-10, **Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**, Jeongseok Hyun et.al., Paper: [http://arxiv.org/abs/2507.07990](http://arxiv.org/abs/2507.07990)
+- 2025-07-10, **Automating Expert-Level Medical Reasoning Evaluation of Large Language Models**, Shuang Zhou et.al., Paper: [http://arxiv.org/abs/2507.07988](http://arxiv.org/abs/2507.07988)
+- 2025-07-10, **Performance and Practical Considerations of Large and Small Language Models in Clinical Decision Support in Rheumatology**, Sabine Felde et.al., Paper: [http://arxiv.org/abs/2507.07983](http://arxiv.org/abs/2507.07983)
+- 2025-07-10, **Defending Against Prompt Injection With a Few DefensiveTokens**, Sizhe Chen et.al., Paper: [http://arxiv.org/abs/2507.07974](http://arxiv.org/abs/2507.07974)
+- 2025-07-10, **Scaling RL to Long Videos**, Yukang Chen et.al., Paper: [http://arxiv.org/abs/2507.07966](http://arxiv.org/abs/2507.07966)
+- 2025-07-10, **MIRIX: Multi-Agent Memory System for LLM-Based Agents**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2507.07957](http://arxiv.org/abs/2507.07957)
+- 2025-07-10, **Dynamic Chunking for End-to-End Hierarchical Sequence Modeling**, Sukjun Hwang et.al., Paper: [http://arxiv.org/abs/2507.07955](http://arxiv.org/abs/2507.07955)
+- 2025-07-10, **Low Resource Reconstruction Attacks Through Benign Prompts**, Sol Yarkoni et.al., Paper: [http://arxiv.org/abs/2507.07947](http://arxiv.org/abs/2507.07947)
+- 2025-07-10, **Can Large Language Models Improve Phishing Defense? A Large-Scale Controlled Experiment on Warning Dialogue Explanations**, Federico Maria Cau et.al., Paper: [http://arxiv.org/abs/2507.07916](http://arxiv.org/abs/2507.07916)
+- 2025-07-10, **DTECT: Dynamic Topic Explorer & Context Tracker**, Suman Adhya et.al., Paper: [http://arxiv.org/abs/2507.07910](http://arxiv.org/abs/2507.07910)
+- 2025-07-10, **Agentic Retrieval of Topics and Insights from Earnings Calls**, Anant Gupta et.al., Paper: [http://arxiv.org/abs/2507.07906](http://arxiv.org/abs/2507.07906)
+- 2025-07-10, **Automating MD simulations for Proteins using Large language Models: NAMD-Agent**, Achuth Chandrasekhar et.al., Paper: [http://arxiv.org/abs/2507.07887](http://arxiv.org/abs/2507.07887)
+- 2025-07-10, **Edge-ASR: Towards Low-Bit Quantization of Automatic Speech Recognition Models**, Chen Feng et.al., Paper: [http://arxiv.org/abs/2507.07877](http://arxiv.org/abs/2507.07877)
+- 2025-07-10, **Mitigating Watermark Stealing Attacks in Generative Models via Multi-Key Watermarking**, Toluwani Aremu et.al., Paper: [http://arxiv.org/abs/2507.07871](http://arxiv.org/abs/2507.07871)
+- 2025-07-10, **DocCHA: Towards LLM-Augmented Interactive Online diagnosis System**, Xinyi Liu et.al., Paper: [http://arxiv.org/abs/2507.07870](http://arxiv.org/abs/2507.07870)
+- 2025-07-10, **From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on Retrieval-Augmented Generation systems**, Youngjoon Jang et.al., Paper: [http://arxiv.org/abs/2507.07847](http://arxiv.org/abs/2507.07847)
+- 2025-07-10, **MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**, Lu Xu et.al., Paper: [http://arxiv.org/abs/2507.07818](http://arxiv.org/abs/2507.07818)
+- 2025-07-10, **Understanding and Controlling Repetition Neurons and Induction Heads in In-Context Learning**, Nhi Hoai Doan et.al., Paper: [http://arxiv.org/abs/2507.07810](http://arxiv.org/abs/2507.07810)
 - 2025-07-10, **Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**, Fei Teng et.al., Paper: [http://arxiv.org/abs/2507.06971](http://arxiv.org/abs/2507.06971)
 - 2025-07-10, **Rethinking Verification for LLM Code Generation: From Generation to Testing**, Zihan Ma et.al., Paper: [http://arxiv.org/abs/2507.06920](http://arxiv.org/abs/2507.06920)
 - 2025-07-10, **Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**, Jing Liang et.al., Paper: [http://arxiv.org/abs/2507.06892](http://arxiv.org/abs/2507.06892)
