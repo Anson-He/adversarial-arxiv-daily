@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -4842,6 +4842,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-07-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover</b></td>
+    <td>Matteo Lupinacci et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.06850">2507.06850</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-10</h3>
 
 <table>
@@ -4860,13 +4882,6 @@ layout: default
     <td><b>Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking</b></td>
     <td>Qiangqiang Wu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.07483">2507.07483</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-10</b></td>
-    <td><b>The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover</b></td>
-    <td>Matteo Lupinacci et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.06850">2507.06850</a></td>
     <td>null</td>
        </tr>
    </tbody>
