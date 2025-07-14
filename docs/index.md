@@ -23,6 +23,49 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-07-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>Towards Imperceptible JPEG Image Hiding: Multi-range Representations-driven Adversarial Stego Generation</b></td>
+    <td>Junxue Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08343">2507.08343</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots</b></td>
+    <td>Yang Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08303">2507.08303</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>Lightweight Safety Guardrails via Synthetic Data and RL-guided Adversarial Training</b></td>
+    <td>Aleksei Ilin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08284">2507.08284</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>Admissibility of Stein Shrinkage for Batch Normalization in the Presence of Adversarial Attacks</b></td>
+    <td>Sofia Ivolgina et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08261">2507.08261</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-10</h3>
 
 <table>
@@ -36,6 +79,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Adaptive Diffusion Denoised Smoothing : Certified Robustness via Randomized Smoothing with Differentially Private Guided Denoising Diffusion</b></td>
+    <td>Frederick Shpilevskiy et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08163">2507.08163</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-10</b></td>
     <td><b>Identifying the Smallest Adversarial Load Perturbations that Render DC-OPF Infeasible</b></td>
@@ -7812,6 +7862,50 @@ layout: default
        </tr>
    </tbody>
 </table>
+<h3>2025-07-08</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-08</b></td>
+    <td><b>Circumventing Safety Alignment in Large Language Models Through Embedding Space Toxicity Attenuation</b></td>
+    <td>Zhibo Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08020">2507.08020</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-07-06</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-06</b></td>
+    <td><b>Mass-Scale Analysis of In-the-Wild Conversations Reveals Complexity Bounds on LLM Jailbreaking</b></td>
+    <td>Aldan Creo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08014">2507.08014</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-06-18</h3>
 
 <table>
@@ -9052,6 +9146,20 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>Pushing the Boundaries of Immersion and Storytelling: A Technical Review of Unreal Engine</b></td>
+    <td>Oleksandra Sobchyshak et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08142">2507.08142</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>An Enhanced Privacy-preserving Federated Few-shot Learning Framework for Respiratory Disease Diagnosis</b></td>
+    <td>Ming Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08050">2507.08050</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-10</b></td>
     <td><b>Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking</b></td>
@@ -13386,6 +13494,28 @@ layout: default
 
 ## Forensics
 
+<h3>2025-07-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>Phoneme-Level Analysis for Person-of-Interest Speech Deepfake Detection</b></td>
+    <td>Davide Salvi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08626">2507.08626</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-10</h3>
 
 <table>
@@ -15968,6 +16098,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-07-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective</b></td>
+    <td>Hangjie Yuan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08801">2507.08801</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>NeuralOS: Towards Simulating Operating Systems via Neural Generative Models</b></td>
+    <td>Luke Rivard et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08800">2507.08800</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>One Token to Fool LLM-as-a-Judge</b></td>
+    <td>Yulai Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08794">2507.08794</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>BlockFFN: Towards End-Side Acceleration-Friendly Mixture-of-Experts with Chunk-Level Activation Sparsity</b></td>
+    <td>Chenyang Song et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08771">2507.08771</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>Multilingual Multimodal Software Developer for Code Generation</b></td>
+    <td>Linzheng Chai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08719">2507.08719</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>Unreal is all you need: Multimodal ISAC Data Simulation with Only One Engine</b></td>
+    <td>Kongwu Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08716">2507.08716</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>elsciRL: Integrating Language Solutions into Reinforcement Learning Problem Settings</b></td>
+    <td>Philip Osborne et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08705">2507.08705</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>KG-Attention: Knowledge Graph-Guided Attention at Test-Time via Bidirectional Information Aggregation</b></td>
+    <td>Songlin Zhai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08704">2507.08704</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way</b></td>
+    <td>Rajarshi Roy et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08679">2507.08679</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>LLMCup: Ranking-Enhanced Comment Updating with LLMs</b></td>
+    <td>Hua Ge et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08671">2507.08671</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>KELPS: A Framework for Verified Multi-Language Autoformalization via Semantic-Syntactic Alignment</b></td>
+    <td>Jiyao Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08665">2507.08665</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>Introspection of Thought Helps AI Agents</b></td>
+    <td>Haoran Sun et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08664">2507.08664</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>Leanabell-Prover-V2: Verifier-integrated Reasoning for Formal Theorem Proving via Reinforcement Learning</b></td>
+    <td>Xingguang Ji et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08649">2507.08649</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>NL in the Middle: Code Translation with LLMs and Intermediate Representations</b></td>
+    <td>Chi-en Amy Tai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08627">2507.08627</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>A comprehensive study of LLM-based argument classification: from LLAMA through GPT-4o to Deepseek-R1</b></td>
+    <td>Marcin Pietroń et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08621">2507.08621</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>Agentic Large Language Models for Conceptual Systems Engineering and Design</b></td>
+    <td>Soheyl Massoudi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08619">2507.08619</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>AgentsNet: Coordination and Collaborative Reasoning in Multi-Agent LLMs</b></td>
+    <td>Florian Grötschla et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08616">2507.08616</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>Emergent Natural Language with Communication Games for Improving Image Captioning Capabilities without Additional Data</b></td>
+    <td>Parag Dutta et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08610">2507.08610</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>Unlocking Speech Instruction Data Potential with Query Rewriting</b></td>
+    <td>Yonghua Hei et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08603">2507.08603</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>To Trade or Not to Trade: An Agentic Approach to Estimating Market Risk Improves Trading Decisions</b></td>
+    <td>Dimitrios Emmanoulopoulos et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08584">2507.08584</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-10</h3>
 
 <table>
