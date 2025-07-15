@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -13494,6 +13494,50 @@ layout: default
 
 ## Forensics
 
+<h3>2025-07-14</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>De-Fake: Style based Anomaly Deepfake Detection</b></td>
+    <td>Sudev Kumar Padhi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.03334">2507.03334</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-07-13</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-13</b></td>
+    <td><b>Robust Localization of Partially Fake Speech: Metrics, Models, and Out-of-Domain Evaluation</b></td>
+    <td>Hieu-Thi Luong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.03468">2507.03468</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-11</h3>
 
 <table>
@@ -13619,23 +13663,9 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-07-04</b></td>
-    <td><b>Robust Localization of Partially Fake Speech: Metrics, Models, and Out-of-Domain Evaluation</b></td>
-    <td>Hieu-Thi Luong et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.03468">2507.03468</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-04</b></td>
     <td><b>Deepfakes in Criminal Investigations: Interdisciplinary Research Directions for CMC Research</b></td>
     <td>Lorenz Meinen et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.03457">2507.03457</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-04</b></td>
-    <td><b>De-Fake: Style based Anomaly Deepfake Detection</b></td>
-    <td>Sudev Kumar Padhi et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.03334">2507.03334</a></td>
     <td>null</td>
        </tr>
    </tbody>
