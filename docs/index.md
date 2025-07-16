@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,99 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-07-14</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>BURN: Backdoor Unlearning via Adversarial Boundary Analysis</b></td>
+    <td>Yanghao Su et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10491">2507.10491</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Some remarks on gradient dominance and LQR policy optimization</b></td>
+    <td>Eduardo D. Sontag et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10452">2507.10452</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Bridging Robustness and Generalization Against Word Substitution Attacks in NLP via the Growth Bound Matrix Approach</b></td>
+    <td>Mohammed Bouri et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10330">2507.10330</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Transferring Styles for Reduced Texture Bias and Improved Robustness in Semantic Segmentation Networks</b></td>
+    <td>Ben Hamscher et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10239">2507.10239</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Explicit Vulnerability Generation with LLMs: An Investigation Beyond Adversarial Attacks</b></td>
+    <td>Emir Bosnak et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10054">2507.10054</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving</b></td>
+    <td>Yixun Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.09993">2507.09993</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>AdvGrasp: Adversarial Attacks on Robotic Grasping from a Physical Perspective</b></td>
+    <td>Xiaofei Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.09857">2507.09857</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>SCOOTER: A Human Evaluation Framework for Unrestricted Adversarial Examples</b></td>
+    <td>Dren Fazlija et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.07776">2507.07776</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-07-12</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-12</b></td>
+    <td><b>Adversarial Activation Patching: A Framework for Detecting and Mitigating Emergent Deception in Safety-Aligned Transformers</b></td>
+    <td>Santhosh Kumar Ravindran et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.09406">2507.09406</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-11</h3>
 
 <table>
@@ -36,6 +129,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>VIP: Visual Information Protection through Adversarial Attacks on Vision-Language Models</b></td>
+    <td>Hanene F. Z. Brachemi Meftah et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08982">2507.08982</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-11</b></td>
     <td><b>Towards Imperceptible JPEG Image Hiding: Multi-range Representations-driven Adversarial Stego Generation</b></td>
@@ -91,13 +191,6 @@ layout: default
     <td><b>Identifying the Smallest Adversarial Load Perturbations that Render DC-OPF Infeasible</b></td>
     <td>Samuel Chevalier et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.07850">2507.07850</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-10</b></td>
-    <td><b>SCOOTER: A Human Evaluation Framework for Unrestricted Adversarial Examples</b></td>
-    <td>Dren Fazlija et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.07776">2507.07776</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -4892,6 +4985,57 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-07-15</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>Asynchronous Event Error-Minimizing Noise for Safeguarding Event Dataset</b></td>
+    <td>Ruofei Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.05728">2507.05728</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-07-14</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>BURN: Backdoor Unlearning via Adversarial Boundary Analysis</b></td>
+    <td>Yanghao Su et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10491">2507.10491</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>HASSLE: A Self-Supervised Learning Enhanced Hijacking Attack on Vertical Federated Learning</b></td>
+    <td>Weiyang He et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10162">2507.10162</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-11</h3>
 
 <table>
@@ -4905,6 +5049,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>Exploiting Leaderboards for Large-Scale Distribution of Malicious Models</b></td>
+    <td>Anshuman Suri et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08983">2507.08983</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-11</b></td>
     <td><b>The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover</b></td>
@@ -4951,31 +5102,16 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-07-09</b></td>
+    <td><b>RAG Safety: Exploring Knowledge Poisoning Attacks to Retrieval-Augmented Generation</b></td>
+    <td>Tianzhe Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08862">2507.08862</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-09</b></td>
     <td><b>VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation</b></td>
     <td>Ziang Ye et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.06899">2507.06899</a></td>
-    <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-07-08</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-07-08</b></td>
-    <td><b>Asynchronous Event Error-Minimizing Noise for Safeguarding Event Dataset</b></td>
-    <td>Ruofei Wang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.05728">2507.05728</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -9133,6 +9269,115 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-07-15</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>Efficient Private Inference Based on Helper-Assisted Malicious Security Dishonest Majority MPC</b></td>
+    <td>Kaiwen Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.09607">2507.09607</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-07-14</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Split Happens: Combating Advanced Threats with Split Learning and Function Secret Sharing</b></td>
+    <td>Tanveer Khan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10494">2507.10494</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping</b></td>
+    <td>Obaidullah Zaland et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10158">2507.10158</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Secure and Efficient UAV-Based Face Detection via Homomorphic Encryption and Edge Computing</b></td>
+    <td>Nguyen Van Duc et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.09860">2507.09860</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-07-13</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-13</b></td>
+    <td><b>Federated Learning with Graph-Based Aggregation for Traffic Forecasting</b></td>
+    <td>Audri Banik et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.09805">2507.09805</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-13</b></td>
+    <td><b>DRAGD: A Federated Unlearning Data Reconstruction Attack Based on Gradient Differences</b></td>
+    <td>Bocheng Ju et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.09602">2507.09602</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-07-12</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-12</b></td>
+    <td><b>Optimal Differentially Private Ranking from Pairwise Comparisons</b></td>
+    <td>T. Tony Cai et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.09388">2507.09388</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-10</h3>
 
 <table>
@@ -13509,6 +13754,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-07-14</b></td>
+    <td><b>LayLens: Improving Deepfake Understanding through Simplified Explanations</b></td>
+    <td>Abhijeet Narang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10066">2507.10066</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
     <td><b>De-Fake: Style based Anomaly Deepfake Detection</b></td>
     <td>Sudev Kumar Padhi et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.03334">2507.03334</a></td>
@@ -13538,6 +13790,28 @@ layout: default
        </tr>
    </tbody>
 </table>
+<h3>2025-07-12</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-12</b></td>
+    <td><b>Encryption and Authentication with a Lensless Camera Based on a Programmable Mask</b></td>
+    <td>Eric Bezzam et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.09236">2507.09236</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-11</h3>
 
 <table>
@@ -13551,6 +13825,20 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>Detecting Deepfake Talking Heads from Facial Biometric Anomalies</b></td>
+    <td>Justin D. Norman et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08917">2507.08917</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>Fair-FLIP: Fair Deepfake Detection with Fairness-Oriented Final Layer Input Prioritising</b></td>
+    <td>Tomasz Szandala et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08912">2507.08912</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-11</b></td>
     <td><b>Phoneme-Level Analysis for Person-of-Interest Speech Deepfake Detection</b></td>
@@ -13573,6 +13861,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-10</b></td>
+    <td><b>A Multi-Level Strategy for Deepfake Content Moderation under EU Regulation</b></td>
+    <td>Max-Paul Förster et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.08879">2507.08879</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-10</b></td>
     <td><b>Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection</b></td>
@@ -13639,6 +13934,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-07</b></td>
+    <td><b>Evaluating Fake Music Detection Performance Under Audio Augmentations</b></td>
+    <td>Tomasz Sroka et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10447">2507.10447</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-07</b></td>
     <td><b>CorrDetail: Visual Detail Enhanced Self-Correction for Face Forgery Detection</b></td>
@@ -16128,6 +16430,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-07-14</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation</b></td>
+    <td>Juyi Sheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10543">2507.10543</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Fusing LLM Capabilities with Routing Data</b></td>
+    <td>Tao Feng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10540">2507.10540</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks</b></td>
+    <td>Hongchao Jiang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10535">2507.10535</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination</b></td>
+    <td>Mingqi Wu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10532">2507.10532</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Accurate generation of chemical reaction transition states by conditional flow matching</b></td>
+    <td>Ping Tuo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10530">2507.10530</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>DeepResearch $^{\text{Eco}}$ : A Recursive Agentic Workflow for Complex Scientific Question Answering in Ecology</b></td>
+    <td>Jennifer D'Souza et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10522">2507.10522</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Can You Detect the Difference?</b></td>
+    <td>İsmail Tarım et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10475">2507.10475</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>MLAR: Multi-layer Large Language Model-based Robotic Process Automation Applicant Tracking</b></td>
+    <td>Mohamed T. Younes et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10472">2507.10472</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>From BERT to Qwen: Hate Detection across architectures</b></td>
+    <td>Ariadna Mon et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10468">2507.10468</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Logic layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems</b></td>
+    <td>Hammad Atta et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10457">2507.10457</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Referential ambiguity and clarification requests: comparing human and LLM behaviour</b></td>
+    <td>Chris Madge et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10445">2507.10445</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Towards Emotion Co-regulation with LLM-powered Socially Assistive Robots: Integrating LLM Prompts and Robotic Behaviors to Support Parent-Neurodivergent Child Dyads</b></td>
+    <td>Jing Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10427">2507.10427</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Zorse: Optimizing LLM Training Efficiency on Heterogeneous GPU Clusters</b></td>
+    <td>Runsheng Benson Guo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10392">2507.10392</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Leveraging RAG-LLMs for Urban Mobility Simulation and Analysis</b></td>
+    <td>Yue Ding et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10382">2507.10382</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Using AI to replicate human experimental results: a motion study</b></td>
+    <td>Rosa Illan Castillo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10342">2507.10342</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>AssertCoder: LLM-Based Assertion Generation via Multimodal Specification Extraction</b></td>
+    <td>Enyuan Tian et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10338">2507.10338</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Grammar-Guided Evolutionary Search for Discrete Prompt Optimisation</b></td>
+    <td>Muzhaffar Hazman et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10326">2507.10326</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching</b></td>
+    <td>Yuhan Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10318">2507.10318</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>DisCo: Towards Distinct and Coherent Visual Encapsulation in Video MLLMs</b></td>
+    <td>Jiahe Zhao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10302">2507.10302</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>Prompt Informed Reinforcement Learning for Visual Coverage Path Planning</b></td>
+    <td>Venkat Margapuri et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10284">2507.10284</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-11</h3>
 
 <table>
