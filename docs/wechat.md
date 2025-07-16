@@ -19,8 +19,14 @@
 
 ## Adversarial attacks
 
+<h3>2025-07-15</h3>
+
+- 2025-07-15, **Crafting Imperceptible On-Manifold Adversarial Attacks for Tabular Data**, Zhipeng He et.al., Paper: [http://arxiv.org/abs/2507.10998](http://arxiv.org/abs/2507.10998)
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+
 <h3>2025-07-14</h3>
 
+- 2025-07-14, **REAL-IoT: Characterizing GNN Intrusion Detection Robustness under Practical Adversarial Attack**, Zhonghao Zhan et.al., Paper: [http://arxiv.org/abs/2507.10836](http://arxiv.org/abs/2507.10836)
 - 2025-07-14, **BURN: Backdoor Unlearning via Adversarial Boundary Analysis**, Yanghao Su et.al., Paper: [http://arxiv.org/abs/2507.10491](http://arxiv.org/abs/2507.10491)
 - 2025-07-14, **Some remarks on gradient dominance and LQR policy optimization**, Eduardo D. Sontag et.al., Paper: [http://arxiv.org/abs/2507.10452](http://arxiv.org/abs/2507.10452)
 - 2025-07-14, **Bridging Robustness and Generalization Against Word Substitution Attacks in NLP via the Growth Bound Matrix Approach**, Mohammed Bouri et.al., Paper: [http://arxiv.org/abs/2507.10330](http://arxiv.org/abs/2507.10330)
@@ -946,17 +952,21 @@
 
 <h3>2025-07-15</h3>
 
+- 2025-07-15, **Multi-Trigger Poisoning Amplifies Backdoor Vulnerabilities in LLMs**, Sanhanat Sivapiromrat et.al., Paper: [http://arxiv.org/abs/2507.11112](http://arxiv.org/abs/2507.11112)
+- 2025-07-15, **MT4DP: Data Poisoning Attack Detection for DL-based Code Search Models via Metamorphic Testing**, Gong Chen et.al., Paper: [http://arxiv.org/abs/2507.11092](http://arxiv.org/abs/2507.11092)
 - 2025-07-15, **Asynchronous Event Error-Minimizing Noise for Safeguarding Event Dataset**, Ruofei Wang et.al., Paper: [http://arxiv.org/abs/2507.05728](http://arxiv.org/abs/2507.05728)
 <p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 <h3>2025-07-14</h3>
 
+- 2025-07-14, **3S-Attack: Spatial, Spectral and Semantic Invisible Backdoor Attack Against DNN Models**, Jianyao Yin et.al., Paper: [http://arxiv.org/abs/2507.10733](http://arxiv.org/abs/2507.10733)
 - 2025-07-14, **BURN: Backdoor Unlearning via Adversarial Boundary Analysis**, Yanghao Su et.al., Paper: [http://arxiv.org/abs/2507.10491](http://arxiv.org/abs/2507.10491)
 - 2025-07-14, **HASSLE: A Self-Supervised Learning Enhanced Hijacking Attack on Vertical Federated Learning**, Weiyang He et.al., Paper: [http://arxiv.org/abs/2507.10162](http://arxiv.org/abs/2507.10162)
 <p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 <h3>2025-07-11</h3>
 
+- 2025-07-11, **When and Where do Data Poisons Attack Textual Inversion?**, Jeremy Styborski et.al., Paper: [http://arxiv.org/abs/2507.10578](http://arxiv.org/abs/2507.10578)
 - 2025-07-11, **Exploiting Leaderboards for Large-Scale Distribution of Malicious Models**, Anshuman Suri et.al., Paper: [http://arxiv.org/abs/2507.08983](http://arxiv.org/abs/2507.08983)
 - 2025-07-11, **The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover**, Matteo Lupinacci et.al., Paper: [http://arxiv.org/abs/2507.06850](http://arxiv.org/abs/2507.06850)
 <p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
@@ -1843,6 +1853,7 @@
 
 <h3>2025-07-14</h3>
 
+- 2025-07-14, **Past, Present and Future: Exploring Adaptive AI in Software Development Bots**, Omar Elsisi et.al., Paper: [http://arxiv.org/abs/2507.10822](http://arxiv.org/abs/2507.10822)
 - 2025-07-14, **Split Happens: Combating Advanced Threats with Split Learning and Function Secret Sharing**, Tanveer Khan et.al., Paper: [http://arxiv.org/abs/2507.10494](http://arxiv.org/abs/2507.10494)
 - 2025-07-14, **MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping**, Obaidullah Zaland et.al., Paper: [http://arxiv.org/abs/2507.10158](http://arxiv.org/abs/2507.10158)
 - 2025-07-14, **Secure and Efficient UAV-Based Face Detection via Homomorphic Encryption and Edge Computing**, Nguyen Van Duc et.al., Paper: [http://arxiv.org/abs/2507.09860](http://arxiv.org/abs/2507.09860)
@@ -1850,6 +1861,7 @@
 
 <h3>2025-07-13</h3>
 
+- 2025-07-13, **FedGSCA: Medical Federated Learning with Global Sample Selector and Client Adaptive Adjuster under Label Noise**, Mengwen Ye et.al., Paper: [http://arxiv.org/abs/2507.10611](http://arxiv.org/abs/2507.10611)
 - 2025-07-13, **Federated Learning with Graph-Based Aggregation for Traffic Forecasting**, Audri Banik et.al., Paper: [http://arxiv.org/abs/2507.09805](http://arxiv.org/abs/2507.09805)
 - 2025-07-13, **DRAGD: A Federated Unlearning Data Reconstruction Attack Based on Gradient Differences**, Bocheng Ju et.al., Paper: [http://arxiv.org/abs/2507.09602](http://arxiv.org/abs/2507.09602)
 <p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
@@ -1857,6 +1869,11 @@
 <h3>2025-07-12</h3>
 
 - 2025-07-12, **Optimal Differentially Private Ranking from Pairwise Comparisons**, T. Tony Cai et.al., Paper: [http://arxiv.org/abs/2507.09388](http://arxiv.org/abs/2507.09388)
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+
+<h3>2025-07-11</h3>
+
+- 2025-07-11, **An Offline Mobile Conversational Agent for Mental Health Support: Learning from Emotional Dialogues and Psychological Texts with Student-Centered Evaluation**, Vimaleswar A et.al., Paper: [http://arxiv.org/abs/2507.10580](http://arxiv.org/abs/2507.10580)
 <p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 <h3>2025-07-10</h3>
@@ -2598,6 +2615,11 @@
 
 ## Model Privacy
 
+<h3>2025-07-15</h3>
+
+- 2025-07-15, **What Should LLMs Forget? Quantifying Personal Data in LLMs for Right-to-Be-Forgotten Requests**, Dimitri Staufer et.al., Paper: [http://arxiv.org/abs/2507.11128](http://arxiv.org/abs/2507.11128)
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+
 <h3>2025-07-10</h3>
 
 - 2025-07-10, **Bayes-Nash Generative Privacy Against Membership Inference Attacks**, Tao Zhang et.al., Paper: [http://arxiv.org/abs/2410.07414](http://arxiv.org/abs/2410.07414)
@@ -3304,6 +3326,30 @@
 
 
 ## AIGC
+
+<h3>2025-07-15</h3>
+
+- 2025-07-15, **How Many Instructions Can LLMs Follow at Once?**, Daniel Jaroslawicz et.al., Paper: [http://arxiv.org/abs/2507.11538](http://arxiv.org/abs/2507.11538)
+- 2025-07-15, **DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**, Yinsheng Li et.al., Paper: [http://arxiv.org/abs/2507.11527](http://arxiv.org/abs/2507.11527)
+- 2025-07-15, **LLM-based ambiguity detection in natural language instructions for collaborative surgical robots**, Ana Davila et.al., Paper: [http://arxiv.org/abs/2507.11525](http://arxiv.org/abs/2507.11525)
+- 2025-07-15, **AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**, Shiyi Yang et.al., Paper: [http://arxiv.org/abs/2507.11515](http://arxiv.org/abs/2507.11515)
+- 2025-07-15, **Real-World Summarization: When Evaluation Reaches Its Limits**, Patrícia Schmidtová et.al., Paper: [http://arxiv.org/abs/2507.11508](http://arxiv.org/abs/2507.11508)
+- 2025-07-15, **MIRAGE: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving**, Ruihao Li et.al., Paper: [http://arxiv.org/abs/2507.11507](http://arxiv.org/abs/2507.11507)
+- 2025-07-15, **HUG-VAS: A Hierarchical NURBS-Based Generative Model for Aortic Geometry Synthesis and Controllable Editing**, Pan Du et.al., Paper: [http://arxiv.org/abs/2507.11474](http://arxiv.org/abs/2507.11474)
+- 2025-07-15, **REVA: Supporting LLM-Generated Programming Feedback Validation at Scale Through User Attention-based Adaptation**, Xiaohang Tang et.al., Paper: [http://arxiv.org/abs/2507.11470](http://arxiv.org/abs/2507.11470)
+- 2025-07-15, **Modeling Code: Is Text All You Need?**, Daniel Nichols et.al., Paper: [http://arxiv.org/abs/2507.11467](http://arxiv.org/abs/2507.11467)
+- 2025-07-15, **LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**, Yaoxian Dong et.al., Paper: [http://arxiv.org/abs/2507.11457](http://arxiv.org/abs/2507.11457)
+- 2025-07-15, **Implementing Adaptations for Vision AutoRegressive Model**, Kaif Shaikh et.al., Paper: [http://arxiv.org/abs/2507.11441](http://arxiv.org/abs/2507.11441)
+- 2025-07-15, **Towards Reliable Objective Evaluation Metrics for Generative Singing Voice Separation Models**, Paul A. Bereuter et.al., Paper: [http://arxiv.org/abs/2507.11427](http://arxiv.org/abs/2507.11427)
+- 2025-07-15, **Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**, Yanjian Zhang et.al., Paper: [http://arxiv.org/abs/2507.11423](http://arxiv.org/abs/2507.11423)
+- 2025-07-15, **Quantifying the Energy Consumption and Carbon Emissions of LLM Inference via Simulations**, Miray Özcan et.al., Paper: [http://arxiv.org/abs/2507.11417](http://arxiv.org/abs/2507.11417)
+- 2025-07-15, **Seq vs Seq: An Open Suite of Paired Encoders and Decoders**, Orion Weller et.al., Paper: [http://arxiv.org/abs/2507.11412](http://arxiv.org/abs/2507.11412)
+- 2025-07-15, **KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?**, Soumadeep Saha et.al., Paper: [http://arxiv.org/abs/2507.11408](http://arxiv.org/abs/2507.11408)
+- 2025-07-15, **DCR: Quantifying Data Contamination in LLMs Evaluation**, Cheng Xu et.al., Paper: [http://arxiv.org/abs/2507.11405](http://arxiv.org/abs/2507.11405)
+- 2025-07-15, **Step-wise Policy for Rare-tool Knowledge (SPaRK): Offline RL that Drives Diverse Tool Use in LLMs**, Gabriel Bo et.al., Paper: [http://arxiv.org/abs/2507.11371](http://arxiv.org/abs/2507.11371)
+- 2025-07-15, **What is the Best Process Model Representation? A Comparative Analysis for Process Modeling with Large Language Models**, Alexis Brissard et.al., Paper: [http://arxiv.org/abs/2507.11356](http://arxiv.org/abs/2507.11356)
+- 2025-07-15, **Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces**, Yunhao Yang et.al., Paper: [http://arxiv.org/abs/2507.11352](http://arxiv.org/abs/2507.11352)
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 <h3>2025-07-14</h3>
 

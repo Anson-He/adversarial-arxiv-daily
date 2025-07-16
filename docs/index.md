@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-07-15</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>Crafting Imperceptible On-Manifold Adversarial Attacks for Tabular Data</b></td>
+    <td>Zhipeng He et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10998">2507.10998</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-14</h3>
 
 <table>
@@ -36,6 +58,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>REAL-IoT: Characterizing GNN Intrusion Detection Robustness under Practical Adversarial Attack</b></td>
+    <td>Zhonghao Zhan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10836">2507.10836</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-14</b></td>
     <td><b>BURN: Backdoor Unlearning via Adversarial Boundary Analysis</b></td>
@@ -5000,6 +5029,20 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-07-15</b></td>
+    <td><b>Multi-Trigger Poisoning Amplifies Backdoor Vulnerabilities in LLMs</b></td>
+    <td>Sanhanat Sivapiromrat et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11112">2507.11112</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>MT4DP: Data Poisoning Attack Detection for DL-based Code Search Models via Metamorphic Testing</b></td>
+    <td>Gong Chen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11092">2507.11092</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
     <td><b>Asynchronous Event Error-Minimizing Noise for Safeguarding Event Dataset</b></td>
     <td>Ruofei Wang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.05728">2507.05728</a></td>
@@ -5020,6 +5063,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-14</b></td>
+    <td><b>3S-Attack: Spatial, Spectral and Semantic Invisible Backdoor Attack Against DNN Models</b></td>
+    <td>Jianyao Yin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10733">2507.10733</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-14</b></td>
     <td><b>BURN: Backdoor Unlearning via Adversarial Boundary Analysis</b></td>
@@ -5049,6 +5099,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>When and Where do Data Poisons Attack Textual Inversion?</b></td>
+    <td>Jeremy Styborski et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10578">2507.10578</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-11</b></td>
     <td><b>Exploiting Leaderboards for Large-Scale Distribution of Malicious Models</b></td>
@@ -9306,6 +9363,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-07-14</b></td>
+    <td><b>Past, Present and Future: Exploring Adaptive AI in Software Development Bots</b></td>
+    <td>Omar Elsisi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10822">2507.10822</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-14</b></td>
     <td><b>Split Happens: Combating Advanced Threats with Split Learning and Function Secret Sharing</b></td>
     <td>Tanveer Khan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.10494">2507.10494</a></td>
@@ -9342,6 +9406,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-07-13</b></td>
+    <td><b>FedGSCA: Medical Federated Learning with Global Sample Selector and Client Adaptive Adjuster under Label Noise</b></td>
+    <td>Mengwen Ye et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10611">2507.10611</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-13</b></td>
     <td><b>Federated Learning with Graph-Based Aggregation for Traffic Forecasting</b></td>
     <td>Audri Banik et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.09805">2507.09805</a></td>
@@ -9374,6 +9445,28 @@ layout: default
     <td><b>Optimal Differentially Private Ranking from Pairwise Comparisons</b></td>
     <td>T. Tony Cai et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.09388">2507.09388</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-07-11</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-11</b></td>
+    <td><b>An Offline Mobile Conversational Agent for Mental Health Support: Learning from Emotional Dialogues and Psychological Texts with Student-Centered Evaluation</b></td>
+    <td>Vimaleswar A et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10580">2507.10580</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -13142,6 +13235,28 @@ layout: default
 
 ## Model Privacy
 
+<h3>2025-07-15</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>What Should LLMs Forget? Quantifying Personal Data in LLMs for Right-to-Be-Forgotten Requests</b></td>
+    <td>Dimitri Staufer et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11128">2507.11128</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-10</h3>
 
 <table>
@@ -16430,6 +16545,161 @@ layout: default
 
 ## AIGC
 
+<h3>2025-07-15</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>How Many Instructions Can LLMs Follow at Once?</b></td>
+    <td>Daniel Jaroslawicz et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11538">2507.11538</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering</b></td>
+    <td>Yinsheng Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11527">2507.11527</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>LLM-based ambiguity detection in natural language instructions for collaborative surgical robots</b></td>
+    <td>Ana Davila et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11525">2507.11525</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air</b></td>
+    <td>Shiyi Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11515">2507.11515</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>Real-World Summarization: When Evaluation Reaches Its Limits</b></td>
+    <td>Patrícia Schmidtová et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11508">2507.11508</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>MIRAGE: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving</b></td>
+    <td>Ruihao Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11507">2507.11507</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>HUG-VAS: A Hierarchical NURBS-Based Generative Model for Aortic Geometry Synthesis and Controllable Editing</b></td>
+    <td>Pan Du et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11474">2507.11474</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>REVA: Supporting LLM-Generated Programming Feedback Validation at Scale Through User Attention-based Adaptation</b></td>
+    <td>Xiaohang Tang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11470">2507.11470</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>Modeling Code: Is Text All You Need?</b></td>
+    <td>Daniel Nichols et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11467">2507.11467</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer</b></td>
+    <td>Yaoxian Dong et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11457">2507.11457</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>Implementing Adaptations for Vision AutoRegressive Model</b></td>
+    <td>Kaif Shaikh et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11441">2507.11441</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>Towards Reliable Objective Evaluation Metrics for Generative Singing Voice Separation Models</b></td>
+    <td>Paul A. Bereuter et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11427">2507.11427</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?</b></td>
+    <td>Yanjian Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11423">2507.11423</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>Quantifying the Energy Consumption and Carbon Emissions of LLM Inference via Simulations</b></td>
+    <td>Miray Özcan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11417">2507.11417</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>Seq vs Seq: An Open Suite of Paired Encoders and Decoders</b></td>
+    <td>Orion Weller et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11412">2507.11412</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?</b></td>
+    <td>Soumadeep Saha et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11408">2507.11408</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>DCR: Quantifying Data Contamination in LLMs Evaluation</b></td>
+    <td>Cheng Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11405">2507.11405</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>Step-wise Policy for Rare-tool Knowledge (SPaRK): Offline RL that Drives Diverse Tool Use in LLMs</b></td>
+    <td>Gabriel Bo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11371">2507.11371</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>What is the Best Process Model Representation? A Comparative Analysis for Process Modeling with Large Language Models</b></td>
+    <td>Alexis Brissard et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11356">2507.11356</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-15</b></td>
+    <td><b>Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces</b></td>
+    <td>Yunhao Yang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11352">2507.11352</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-14</h3>
 
 <table>
