@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-07-16</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-16</b></td>
+    <td><b>Some remarks on gradient dominance and LQR policy optimization</b></td>
+    <td>Eduardo D. Sontag et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10452">2507.10452</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-15</h3>
 
 <table>
@@ -70,13 +92,6 @@ layout: default
     <td><b>BURN: Backdoor Unlearning via Adversarial Boundary Analysis</b></td>
     <td>Yanghao Su et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.10491">2507.10491</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-14</b></td>
-    <td><b>Some remarks on gradient dominance and LQR policy optimization</b></td>
-    <td>Eduardo D. Sontag et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.10452">2507.10452</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -5014,6 +5029,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-07-16</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-16</b></td>
+    <td><b>When and Where do Data Poisons Attack Textual Inversion?</b></td>
+    <td>Jeremy Styborski et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10578">2507.10578</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-15</h3>
 
 <table>
@@ -5099,13 +5136,6 @@ layout: default
        </tr>
    </thead>
    <tbody>
-       <tr>
-    <td><b>2025-07-11</b></td>
-    <td><b>When and Where do Data Poisons Attack Textual Inversion?</b></td>
-    <td>Jeremy Styborski et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.10578">2507.10578</a></td>
-    <td>null</td>
-       </tr>
        <tr>
     <td><b>2025-07-11</b></td>
     <td><b>Exploiting Leaderboards for Large-Scale Distribution of Malicious Models</b></td>
@@ -9326,6 +9356,28 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-07-16</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-16</b></td>
+    <td><b>MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping</b></td>
+    <td>Obaidullah Zaland et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.10158">2507.10158</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-15</h3>
 
 <table>
@@ -9373,13 +9425,6 @@ layout: default
     <td><b>Split Happens: Combating Advanced Threats with Split Learning and Function Secret Sharing</b></td>
     <td>Tanveer Khan et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.10494">2507.10494</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-14</b></td>
-    <td><b>MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping</b></td>
-    <td>Obaidullah Zaland et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.10158">2507.10158</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -16545,6 +16590,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-07-16</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-16</b></td>
+    <td><b>Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?</b></td>
+    <td>Yanjian Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.11423">2507.11423</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-15</h3>
 
 <table>
@@ -16640,13 +16707,6 @@ layout: default
     <td><b>Towards Reliable Objective Evaluation Metrics for Generative Singing Voice Separation Models</b></td>
     <td>Paul A. Bereuter et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.11427">2507.11427</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-15</b></td>
-    <td><b>Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?</b></td>
-    <td>Yanjian Zhang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.11423">2507.11423</a></td>
     <td>null</td>
        </tr>
        <tr>
