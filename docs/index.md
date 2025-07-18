@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -16704,7 +16704,7 @@ layout: default
 
 ## AIGC
 
-<h3>2025-07-16</h3>
+<h3>2025-07-17</h3>
 
 <table>
    <thead>
@@ -16718,12 +16718,41 @@ layout: default
    </thead>
    <tbody>
        <tr>
-    <td><b>2025-07-16</b></td>
+    <td><b>2025-07-17</b></td>
     <td><b>PhysX: Physical-Grounded 3D Asset Generation</b></td>
     <td>Ziang Cao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.12465">2507.12465</a></td>
     <td>null</td>
        </tr>
+       <tr>
+    <td><b>2025-07-17</b></td>
+    <td><b>MERA Code: A Unified Framework for Evaluating Code Generation Across Tasks</b></td>
+    <td>Artem Chervyakov et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.12284">2507.12284</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-17</b></td>
+    <td><b>Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot</b></td>
+    <td>Luca Garello et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.12273">2507.12273</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
+<h3>2025-07-16</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
        <tr>
     <td><b>2025-07-16</b></td>
     <td><b>LLM-Based Config Synthesis requires Disambiguation</b></td>
@@ -16817,23 +16846,9 @@ layout: default
        </tr>
        <tr>
     <td><b>2025-07-16</b></td>
-    <td><b>MERA Code: A Unified Framework for Evaluating Code Generation Across Tasks</b></td>
-    <td>Artem Chervyakov et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.12284">2507.12284</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-16</b></td>
     <td><b>FADE: Adversarial Concept Erasure in Flow Models</b></td>
     <td>Zixuan Fu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.12283">2507.12283</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-16</b></td>
-    <td><b>Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot</b></td>
-    <td>Luca Garello et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.12273">2507.12273</a></td>
     <td>null</td>
        </tr>
        <tr>
