@@ -19,6 +19,14 @@
 
 ## Adversarial attacks
 
+<h3>2025-07-17</h3>
+
+- 2025-07-17, **Training Transformers with Enforced Lipschitz Constants**, Laker Newhouse et.al., Paper: [http://arxiv.org/abs/2507.13338](http://arxiv.org/abs/2507.13338)
+- 2025-07-17, **SHIELD: A Secure and Highly Enhanced Integrated Learning for Robust Deepfake Detection against Adversarial Attacks**, Kutub Uddin et.al., Paper: [http://arxiv.org/abs/2507.13170](http://arxiv.org/abs/2507.13170)
+- 2025-07-17, **Adversarial attacks to image classification systems using evolutionary algorithms**, Sergio Nesmachnow et.al., Paper: [http://arxiv.org/abs/2507.13136](http://arxiv.org/abs/2507.13136)
+- 2025-07-17, **Detecting LLM-generated Code with Subtle Modification by Adversarial Training**, Xin Yin et.al., Paper: [http://arxiv.org/abs/2507.13123](http://arxiv.org/abs/2507.13123)
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
+
 <h3>2025-07-16</h3>
 
 - 2025-07-16, **Trustworthy Tree-based Machine Learning by $MoS_2$ Flash-based Analog CAM with Inherent Soft Boundaries**, Bo Wen et.al., Paper: [http://arxiv.org/abs/2507.12384](http://arxiv.org/abs/2507.12384)
@@ -958,6 +966,11 @@
 
 ## Poisoning attacks
 
+<h3>2025-07-17</h3>
+
+- 2025-07-17, **Architectural Backdoors in Deep Learning: A Survey of Vulnerabilities, Detection, and Defense**, Victoria Childress et.al., Paper: [http://arxiv.org/abs/2507.12919](http://arxiv.org/abs/2507.12919)
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
+
 <h3>2025-07-16</h3>
 
 - 2025-07-16, **A Bayesian Incentive Mechanism for Poison-Resilient Federated Learning**, Daniel Commey et.al., Paper: [http://arxiv.org/abs/2507.12439](http://arxiv.org/abs/2507.12439)
@@ -1860,6 +1873,13 @@
 
 ## Data privacy
 
+<h3>2025-07-17</h3>
+
+- 2025-07-17, **Privacy-Preserving Fusion for Multi-Sensor Systems Under Multiple Packet Dropouts**, Jie Huang et.al., Paper: [http://arxiv.org/abs/2507.13286](http://arxiv.org/abs/2507.13286)
+- 2025-07-17, **Investigating the Performance of Small Language Models in Detecting Test Smells in Manual Test Cases**, Keila Lucas et.al., Paper: [http://arxiv.org/abs/2507.13035](http://arxiv.org/abs/2507.13035)
+- 2025-07-17, **Best Practices and Considerations for Child Speech Corpus Collection and Curation in Educational, Clinical, and Forensic Scenarios**, John Hansen et.al., Paper: [http://arxiv.org/abs/2507.12870](http://arxiv.org/abs/2507.12870)
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
+
 <h3>2025-07-16</h3>
 
 - 2025-07-16, **A Bayesian Incentive Mechanism for Poison-Resilient Federated Learning**, Daniel Commey et.al., Paper: [http://arxiv.org/abs/2507.12439](http://arxiv.org/abs/2507.12439)
@@ -1870,6 +1890,7 @@
 
 <h3>2025-07-15</h3>
 
+- 2025-07-15, **Sporadic Federated Learning Approach in Quantum Environment to Tackle Quantum Noise**, Ratun Rahman et.al., Paper: [http://arxiv.org/abs/2507.12492](http://arxiv.org/abs/2507.12492)
 - 2025-07-15, **Efficient Private Inference Based on Helper-Assisted Malicious Security Dishonest Majority MPC**, Kaiwen Wang et.al., Paper: [http://arxiv.org/abs/2507.09607](http://arxiv.org/abs/2507.09607)
 <p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
@@ -2780,6 +2801,14 @@
 
 ## Forensics
 
+<h3>2025-07-17</h3>
+
+- 2025-07-17, **Leveraging Pre-Trained Visual Models for AI-Generated Video Detection**, Keerthi Veeramachaneni et.al., Paper: [http://arxiv.org/abs/2507.13224](http://arxiv.org/abs/2507.13224)
+- 2025-07-17, **SHIELD: A Secure and Highly Enhanced Integrated Learning for Robust Deepfake Detection against Adversarial Attacks**, Kutub Uddin et.al., Paper: [http://arxiv.org/abs/2507.13170](http://arxiv.org/abs/2507.13170)
+- 2025-07-17, **"What do you expect? You're part of the internet": Analyzing Celebrities' Experiences as Usees of Deepfake Technology**, John Twomey et.al., Paper: [http://arxiv.org/abs/2507.13065](http://arxiv.org/abs/2507.13065)
+- 2025-07-17, **Enkidu: Universal Frequential Perturbation for Real-Time Audio Privacy Protection against Voice Deepfakes**, Zhou Feng et.al., Paper: [http://arxiv.org/abs/2507.12932](http://arxiv.org/abs/2507.12932)
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
+
 <h3>2025-07-16</h3>
 
 - 2025-07-16, **MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM**, Tao Chen et.al., Paper: [http://arxiv.org/abs/2507.12232](http://arxiv.org/abs/2507.12232)
@@ -3361,6 +3390,26 @@
 
 <h3>2025-07-17</h3>
 
+- 2025-07-17, **VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**, Shihao Wang et.al., Paper: [http://arxiv.org/abs/2507.13353](http://arxiv.org/abs/2507.13353)
+- 2025-07-17, **Hierarchical Rectified Flow Matching with Mini-Batch Couplings**, Yichi Zhang et.al., Paper: [http://arxiv.org/abs/2507.13350](http://arxiv.org/abs/2507.13350)
+- 2025-07-17, **VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**, Senqiao Yang et.al., Paper: [http://arxiv.org/abs/2507.13348](http://arxiv.org/abs/2507.13348)
+- 2025-07-17, **Imbalance in Balance: Online Concept Balancing in Generation Models**, Yukai Shi et.al., Paper: [http://arxiv.org/abs/2507.13345](http://arxiv.org/abs/2507.13345)
+- 2025-07-17, **Comparing Apples to Oranges: A Dataset & Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes**, Tyler Loakman et.al., Paper: [http://arxiv.org/abs/2507.13335](http://arxiv.org/abs/2507.13335)
+- 2025-07-17, **A Survey of Context Engineering for Large Language Models**, Lingrui Mei et.al., Paper: [http://arxiv.org/abs/2507.13334](http://arxiv.org/abs/2507.13334)
+- 2025-07-17, **The Imitation Game: Turing Machine Imitator is Length Generalizable Reasoner**, Zhouqi Hua et.al., Paper: [http://arxiv.org/abs/2507.13332](http://arxiv.org/abs/2507.13332)
+- 2025-07-17, **GeoReg: Weight-Constrained Few-Shot Regression for Socio-Economic Estimation using LLM**, Kyeongjin Ahn et.al., Paper: [http://arxiv.org/abs/2507.13323](http://arxiv.org/abs/2507.13323)
+- 2025-07-17, **The Generative Energy Arena (GEA): Incorporating Energy Awareness in Large Language Model (LLM) Human Evaluations**, Carlos Arriaga et.al., Paper: [http://arxiv.org/abs/2507.13302](http://arxiv.org/abs/2507.13302)
+- 2025-07-17, **AbGen: Evaluating Large Language Models in Ablation Study Design and Evaluation for Scientific Research**, Yilun Zhao et.al., Paper: [http://arxiv.org/abs/2507.13300](http://arxiv.org/abs/2507.13300)
+- 2025-07-17, **Towards Formal Verification of LLM-Generated Code from Natural Language Prompts**, Aaron Councilman et.al., Paper: [http://arxiv.org/abs/2507.13290](http://arxiv.org/abs/2507.13290)
+- 2025-07-17, **QuestA: Expanding Reasoning Capacity in LLMs via Question Augmentation**, Jiazheng Li et.al., Paper: [http://arxiv.org/abs/2507.13266](http://arxiv.org/abs/2507.13266)
+- 2025-07-17, **RemVerse: Supporting Reminiscence Activities for Older Adults through AI-Assisted Virtual Reality**, Ruohao Li et.al., Paper: [http://arxiv.org/abs/2507.13247](http://arxiv.org/abs/2507.13247)
+- 2025-07-17, **HATS: Hindi Analogy Test Set for Evaluating Reasoning in Large Language Models**, Ashray Gupta et.al., Paper: [http://arxiv.org/abs/2507.13238](http://arxiv.org/abs/2507.13238)
+- 2025-07-17, **Enhancing Cross-task Transfer of Large Language Models via Activation Steering**, Xinyu Tang et.al., Paper: [http://arxiv.org/abs/2507.13236](http://arxiv.org/abs/2507.13236)
+- 2025-07-17, **VITA: Vision-to-Action Flow Matching Policy**, Dechen Gao et.al., Paper: [http://arxiv.org/abs/2507.13231](http://arxiv.org/abs/2507.13231)
+- 2025-07-17, **Automatically assessing oral narratives of Afrikaans and isiXhosa children**, R. Louw et.al., Paper: [http://arxiv.org/abs/2507.13205](http://arxiv.org/abs/2507.13205)
+- 2025-07-17, **Black Box Deployed -- Functional Criteria for Artificial Moral Agents in the LLM Era**, Matthew E. Brophy et.al., Paper: [http://arxiv.org/abs/2507.13175](http://arxiv.org/abs/2507.13175)
+- 2025-07-17, **SHIELD: A Secure and Highly Enhanced Integrated Learning for Robust Deepfake Detection against Adversarial Attacks**, Kutub Uddin et.al., Paper: [http://arxiv.org/abs/2507.13170](http://arxiv.org/abs/2507.13170)
+- 2025-07-17, **Prompt Injection 2.0: Hybrid AI Threats**, Jeremy McHugh et.al., Paper: [http://arxiv.org/abs/2507.13169](http://arxiv.org/abs/2507.13169)
 - 2025-07-17, **PhysX: Physical-Grounded 3D Asset Generation**, Ziang Cao et.al., Paper: [http://arxiv.org/abs/2507.12465](http://arxiv.org/abs/2507.12465)
 - 2025-07-17, **MERA Code: A Unified Framework for Evaluating Code Generation Across Tasks**, Artem Chervyakov et.al., Paper: [http://arxiv.org/abs/2507.12284](http://arxiv.org/abs/2507.12284)
 - 2025-07-17, **Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**, Luca Garello et.al., Paper: [http://arxiv.org/abs/2507.12273](http://arxiv.org/abs/2507.12273)
