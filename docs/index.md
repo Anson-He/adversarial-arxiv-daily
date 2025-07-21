@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -16855,6 +16855,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-07-18</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>Automatically assessing oral narratives of Afrikaans and isiXhosa children</b></td>
+    <td>Retief Louw et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.13205">2507.13205</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-17</h3>
 
 <table>
@@ -16978,13 +17000,6 @@ layout: default
     <td><b>VITA: Vision-to-Action Flow Matching Policy</b></td>
     <td>Dechen Gao et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.13231">2507.13231</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-17</b></td>
-    <td><b>Automatically assessing oral narratives of Afrikaans and isiXhosa children</b></td>
-    <td>R. Louw et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.13205">2507.13205</a></td>
     <td>null</td>
        </tr>
        <tr>
