@@ -23,6 +23,35 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-07-18</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>Innocence in the Crossfire: Roles of Skip Connections in Jailbreaking Visual Language Models</b></td>
+    <td>Palash Nandi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.13761">2507.13761</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>Adversarial Training Improves Generalization Under Distribution Shifts in Bioacoustics</b></td>
+    <td>René Heinrich et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.13727">2507.13727</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-17</h3>
 
 <table>
@@ -36,6 +65,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-17</b></td>
+    <td><b>IConMark: Robust Interpretable Concept-Based Watermark For AI Images</b></td>
+    <td>Vinu Sankar Sadasivan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.13407">2507.13407</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-17</b></td>
     <td><b>Training Transformers with Enforced Lipschitz Constants</b></td>
@@ -5115,6 +5151,13 @@ layout: default
    <tbody>
        <tr>
     <td><b>2025-07-17</b></td>
+    <td><b>Fake or Real: The Impostor Hunt in Texts for Space Operations</b></td>
+    <td>Agata Kaczmarek et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.13508">2507.13508</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-17</b></td>
     <td><b>Architectural Backdoors in Deep Learning: A Survey of Vulnerabilities, Detection, and Defense</b></td>
     <td>Victoria Childress et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.12919">2507.12919</a></td>
@@ -8163,6 +8206,28 @@ layout: default
 
 ## Generative models safety
 
+<h3>2025-07-17</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-17</b></td>
+    <td><b>Paper Summary Attack: Jailbreaking LLMs through LLM Safety Papers</b></td>
+    <td>Liang Lin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.13474">2507.13474</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-09</h3>
 
 <table>
@@ -16868,6 +16933,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining</b></td>
+    <td>Maksim Kuprashevich et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.14119">2507.14119</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning</b></td>
+    <td>Xiaoya Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.14111">2507.14111</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>Automated Interpretation of Non-Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment</b></td>
+    <td>Viraj Nishesh Darji et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.14107">2507.14107</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>Lessons from the TREC Plain Language Adaptation of Biomedical Abstracts (PLABA) track</b></td>
+    <td>Brian Ondov et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.14096">2507.14096</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration</b></td>
+    <td>Xiyun Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.14088">2507.14088</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>DENSE: Longitudinal Progress Note Generation with Temporal Modeling of Heterogeneous Clinical Notes Across Hospital Visits</b></td>
+    <td>Garapati Keerthana et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.14079">2507.14079</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>Evaluating the Effectiveness of Cost-Efficient Large Language Models in Benchmark Biomedical Tasks</b></td>
+    <td>Israt Jahan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.14045">2507.14045</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>TGIF: Talker Group-Informed Familiarization of Target Speaker Extraction</b></td>
+    <td>Tsun-An Hsieh et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.14044">2507.14044</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors</b></td>
+    <td>Jochen Wulf et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.14034">2507.14034</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>KROMA: Ontology Matching with Knowledge Retrieval and Large Language Models</b></td>
+    <td>Lam Nguyen et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.14032">2507.14032</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>Efficient Temporal Tokenization for Mobility Prediction with Large Language Models</b></td>
+    <td>Haoyu He et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.14017">2507.14017</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>Photonic Fabric Platform for AI Accelerators</b></td>
+    <td>Jing Ding et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.14000">2507.14000</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>DUALRec: A Hybrid Sequential and Language Model Framework for Context-Aware Movie Recommendation</b></td>
+    <td>Yitong Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.13957">2507.13957</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>Cross-modal Causal Intervention for Alzheimer's Disease Prediction</b></td>
+    <td>Yutao Jin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.13956">2507.13956</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>Exploiting Primacy Effect To Improve Large Language Models</b></td>
+    <td>Bianca Raimondi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.13949">2507.13949</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>Generalist Forecasting with Frozen Video Models via Latent Diffusion</b></td>
+    <td>Jacob C Walker et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.13942">2507.13942</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>Preprint: Did I Just Browse A Website Written by LLMs?</b></td>
+    <td>Sichang "Steven" He et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.13933">2507.13933</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>The Levers of Political Persuasion with Conversational AI</b></td>
+    <td>Kobi Hackenburg et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.13919">2507.13919</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>Using LLMs to identify features of personal and professional skills in an open-response situational judgment test</b></td>
+    <td>Cole Walsh et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.13881">2507.13881</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-18</b></td>
+    <td><b>Large Language Models as Innovators: A Framework to Leverage Latent Space Exploration for Novelty Discovery</b></td>
+    <td>Mateusz Bystroński et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.13874">2507.13874</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-18</b></td>
     <td><b>Automatically assessing oral narratives of Afrikaans and isiXhosa children</b></td>

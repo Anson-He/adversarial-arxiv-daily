@@ -19,8 +19,15 @@
 
 ## Adversarial attacks
 
+<h3>2025-07-18</h3>
+
+- 2025-07-18, **Innocence in the Crossfire: Roles of Skip Connections in Jailbreaking Visual Language Models**, Palash Nandi et.al., Paper: [http://arxiv.org/abs/2507.13761](http://arxiv.org/abs/2507.13761)
+- 2025-07-18, **Adversarial Training Improves Generalization Under Distribution Shifts in Bioacoustics**, René Heinrich et.al., Paper: [http://arxiv.org/abs/2507.13727](http://arxiv.org/abs/2507.13727)
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+
 <h3>2025-07-17</h3>
 
+- 2025-07-17, **IConMark: Robust Interpretable Concept-Based Watermark For AI Images**, Vinu Sankar Sadasivan et.al., Paper: [http://arxiv.org/abs/2507.13407](http://arxiv.org/abs/2507.13407)
 - 2025-07-17, **Training Transformers with Enforced Lipschitz Constants**, Laker Newhouse et.al., Paper: [http://arxiv.org/abs/2507.13338](http://arxiv.org/abs/2507.13338)
 - 2025-07-17, **SHIELD: A Secure and Highly Enhanced Integrated Learning for Robust Deepfake Detection against Adversarial Attacks**, Kutub Uddin et.al., Paper: [http://arxiv.org/abs/2507.13170](http://arxiv.org/abs/2507.13170)
 - 2025-07-17, **Adversarial attacks to image classification systems using evolutionary algorithms**, Sergio Nesmachnow et.al., Paper: [http://arxiv.org/abs/2507.13136](http://arxiv.org/abs/2507.13136)
@@ -968,6 +975,7 @@
 
 <h3>2025-07-17</h3>
 
+- 2025-07-17, **Fake or Real: The Impostor Hunt in Texts for Space Operations**, Agata Kaczmarek et.al., Paper: [http://arxiv.org/abs/2507.13508](http://arxiv.org/abs/2507.13508)
 - 2025-07-17, **Architectural Backdoors in Deep Learning: A Survey of Vulnerabilities, Detection, and Defense**, Victoria Childress et.al., Paper: [http://arxiv.org/abs/2507.12919](http://arxiv.org/abs/2507.12919)
 <p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
@@ -1589,6 +1597,11 @@
 
 
 ## Generative models safety
+
+<h3>2025-07-17</h3>
+
+- 2025-07-17, **Paper Summary Attack: Jailbreaking LLMs through LLM Safety Papers**, Liang Lin et.al., Paper: [http://arxiv.org/abs/2507.13474](http://arxiv.org/abs/2507.13474)
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 <h3>2025-07-09</h3>
 
@@ -3390,6 +3403,26 @@
 
 <h3>2025-07-18</h3>
 
+- 2025-07-18, **NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**, Maksim Kuprashevich et.al., Paper: [http://arxiv.org/abs/2507.14119](http://arxiv.org/abs/2507.14119)
+- 2025-07-18, **CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**, Xiaoya Li et.al., Paper: [http://arxiv.org/abs/2507.14111](http://arxiv.org/abs/2507.14111)
+- 2025-07-18, **Automated Interpretation of Non-Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment**, Viraj Nishesh Darji et.al., Paper: [http://arxiv.org/abs/2507.14107](http://arxiv.org/abs/2507.14107)
+- 2025-07-18, **Lessons from the TREC Plain Language Adaptation of Biomedical Abstracts (PLABA) track**, Brian Ondov et.al., Paper: [http://arxiv.org/abs/2507.14096](http://arxiv.org/abs/2507.14096)
+- 2025-07-18, **DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration**, Xiyun Li et.al., Paper: [http://arxiv.org/abs/2507.14088](http://arxiv.org/abs/2507.14088)
+- 2025-07-18, **DENSE: Longitudinal Progress Note Generation with Temporal Modeling of Heterogeneous Clinical Notes Across Hospital Visits**, Garapati Keerthana et.al., Paper: [http://arxiv.org/abs/2507.14079](http://arxiv.org/abs/2507.14079)
+- 2025-07-18, **Evaluating the Effectiveness of Cost-Efficient Large Language Models in Benchmark Biomedical Tasks**, Israt Jahan et.al., Paper: [http://arxiv.org/abs/2507.14045](http://arxiv.org/abs/2507.14045)
+- 2025-07-18, **TGIF: Talker Group-Informed Familiarization of Target Speaker Extraction**, Tsun-An Hsieh et.al., Paper: [http://arxiv.org/abs/2507.14044](http://arxiv.org/abs/2507.14044)
+- 2025-07-18, **Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors**, Jochen Wulf et.al., Paper: [http://arxiv.org/abs/2507.14034](http://arxiv.org/abs/2507.14034)
+- 2025-07-18, **KROMA: Ontology Matching with Knowledge Retrieval and Large Language Models**, Lam Nguyen et.al., Paper: [http://arxiv.org/abs/2507.14032](http://arxiv.org/abs/2507.14032)
+- 2025-07-18, **Efficient Temporal Tokenization for Mobility Prediction with Large Language Models**, Haoyu He et.al., Paper: [http://arxiv.org/abs/2507.14017](http://arxiv.org/abs/2507.14017)
+- 2025-07-18, **Photonic Fabric Platform for AI Accelerators**, Jing Ding et.al., Paper: [http://arxiv.org/abs/2507.14000](http://arxiv.org/abs/2507.14000)
+- 2025-07-18, **DUALRec: A Hybrid Sequential and Language Model Framework for Context-Aware Movie Recommendation**, Yitong Li et.al., Paper: [http://arxiv.org/abs/2507.13957](http://arxiv.org/abs/2507.13957)
+- 2025-07-18, **Cross-modal Causal Intervention for Alzheimer's Disease Prediction**, Yutao Jin et.al., Paper: [http://arxiv.org/abs/2507.13956](http://arxiv.org/abs/2507.13956)
+- 2025-07-18, **Exploiting Primacy Effect To Improve Large Language Models**, Bianca Raimondi et.al., Paper: [http://arxiv.org/abs/2507.13949](http://arxiv.org/abs/2507.13949)
+- 2025-07-18, **Generalist Forecasting with Frozen Video Models via Latent Diffusion**, Jacob C Walker et.al., Paper: [http://arxiv.org/abs/2507.13942](http://arxiv.org/abs/2507.13942)
+- 2025-07-18, **Preprint: Did I Just Browse A Website Written by LLMs?**, Sichang "Steven" He et.al., Paper: [http://arxiv.org/abs/2507.13933](http://arxiv.org/abs/2507.13933)
+- 2025-07-18, **The Levers of Political Persuasion with Conversational AI**, Kobi Hackenburg et.al., Paper: [http://arxiv.org/abs/2507.13919](http://arxiv.org/abs/2507.13919)
+- 2025-07-18, **Using LLMs to identify features of personal and professional skills in an open-response situational judgment test**, Cole Walsh et.al., Paper: [http://arxiv.org/abs/2507.13881](http://arxiv.org/abs/2507.13881)
+- 2025-07-18, **Large Language Models as Innovators: A Framework to Leverage Latent Space Exploration for Novelty Discovery**, Mateusz Bystroński et.al., Paper: [http://arxiv.org/abs/2507.13874](http://arxiv.org/abs/2507.13874)
 - 2025-07-18, **Automatically assessing oral narratives of Afrikaans and isiXhosa children**, Retief Louw et.al., Paper: [http://arxiv.org/abs/2507.13205](http://arxiv.org/abs/2507.13205)
 <p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
