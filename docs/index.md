@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -23,6 +23,28 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-07-19</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-19</b></td>
+    <td><b>3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving</b></td>
+    <td>Yixun Zhang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.09993">2507.09993</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-18</h3>
 
 <table>
@@ -220,13 +242,6 @@ layout: default
     <td><b>Explicit Vulnerability Generation with LLMs: An Investigation Beyond Adversarial Attacks</b></td>
     <td>Emir Bosnak et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.10054">2507.10054</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-14</b></td>
-    <td><b>3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving</b></td>
-    <td>Yixun Zhang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.09993">2507.09993</a></td>
     <td>null</td>
        </tr>
        <tr>
