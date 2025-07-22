@@ -19,6 +19,21 @@
 
 ## Adversarial attacks
 
+<h3>2025-07-21</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-21**|**Scaling Decentralized Learning with FLock**|Zehua Cheng et.al.|[2507.15349](http://arxiv.org/abs/2507.15349)|null|
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+
+<h3>2025-07-20</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-20**|**ROBAD: Robust Adversary-aware Local-Global Attended Bad Actor Detection Sequential Model**|Bing He et.al.|[2507.15067](http://arxiv.org/abs/2507.15067)|null|
+|**2025-07-20**|**DeRAG: Black-box Adversarial Attacks on Multiple Retrieval-Augmented Generation Applications via Prompt Injection**|Jerry Wang et.al.|[2507.15042](http://arxiv.org/abs/2507.15042)|null|
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+
 <h3>2025-07-19</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -30,6 +45,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Breaking the Illusion of Security via Interpretation: Interpretable Vision Transformer Systems under Attack**|Eldor Abdukhamidov et.al.|[2507.14248](http://arxiv.org/abs/2507.14248)|null|
 |**2025-07-18**|**Innocence in the Crossfire: Roles of Skip Connections in Jailbreaking Visual Language Models**|Palash Nandi et.al.|[2507.13761](http://arxiv.org/abs/2507.13761)|null|
 |**2025-07-18**|**Adversarial Training Improves Generalization Under Distribution Shifts in Bioacoustics**|René Heinrich et.al.|[2507.13727](http://arxiv.org/abs/2507.13727)|null|
 <p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
@@ -1217,11 +1233,26 @@
 
 ## Poisoning attacks
 
+<h3>2025-07-21</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-21**|**Scaling Decentralized Learning with FLock**|Zehua Cheng et.al.|[2507.15349](http://arxiv.org/abs/2507.15349)|null|
+|**2025-07-21**|**SOI Matters: Analyzing Multi-Setting Training Dynamics in Pretrained Language Models via Subsets of Interest**|Shayan Vassef et.al.|[2507.15236](http://arxiv.org/abs/2507.15236)|null|
+|**2025-07-21**|**Fake or Real: The Impostor Hunt in Texts for Space Operations**|Agata Kaczmarek et.al.|[2507.13508](http://arxiv.org/abs/2507.13508)|null|
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+
+<h3>2025-07-18</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-18**|**FedStrategist: A Meta-Learning Framework for Adaptive and Robust Aggregation in Federated Learning**|Md Rafid Haque et.al.|[2507.14322](http://arxiv.org/abs/2507.14322)|null|
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+
 <h3>2025-07-17</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-17**|**Fake or Real: The Impostor Hunt in Texts for Space Operations**|Agata Kaczmarek et.al.|[2507.13508](http://arxiv.org/abs/2507.13508)|null|
 |**2025-07-17**|**Architectural Backdoors in Deep Learning: A Survey of Vulnerabilities, Detection, and Defense**|Victoria Childress et.al.|[2507.12919](http://arxiv.org/abs/2507.12919)|null|
 <p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
@@ -2040,6 +2071,20 @@
 
 ## Generative models safety
 
+<h3>2025-07-21</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-21**|**LionGuard 2: Building Lightweight, Data-Efficient & Localised Multilingual Content Moderators**|Leanne Tan et.al.|[2507.15339](http://arxiv.org/abs/2507.15339)|null|
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+
+<h3>2025-07-19</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-19**|**Automated Safety Evaluations Across 20 Large Language Models: The Aymara LLM Risk and Responsibility Matrix**|Juan Manuel Contreras et.al.|[2507.14719](http://arxiv.org/abs/2507.14719)|null|
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+
 <h3>2025-07-17</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -2431,6 +2476,34 @@
 
 
 ## Data privacy
+
+<h3>2025-07-21</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-21**|**FollowUpBot: An LLM-Based Conversational Robot for Automatic Postoperative Follow-up**|Chen Chen et.al.|[2507.15502](http://arxiv.org/abs/2507.15502)|null|
+|**2025-07-21**|**Scaling Decentralized Learning with FLock**|Zehua Cheng et.al.|[2507.15349](http://arxiv.org/abs/2507.15349)|null|
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+
+<h3>2025-07-20</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-20**|**Design of an Edge-based Portable EHR System for Anemia Screening in Remote Health Applications**|Sebastian A. Cruz Romero et.al.|[2507.15146](http://arxiv.org/abs/2507.15146)|null|
+|**2025-07-20**|**AnalogFed: Federated Discovery of Analog Circuit Topologies with Generative AI**|Qiufeng Li et.al.|[2507.15104](http://arxiv.org/abs/2507.15104)|null|
+|**2025-07-20**|**FedWCM: Unleashing the Potential of Momentum-based Federated Learning in Long-Tailed Scenarios**|Tianle Li et.al.|[2507.14980](http://arxiv.org/abs/2507.14980)|null|
+|**2025-07-20**|**Redefining Elderly Care with Agentic AI: Challenges and Opportunities**|Ruhul Amin Khalil et.al.|[2507.14912](http://arxiv.org/abs/2507.14912)|null|
+|**2025-07-20**|**A Privacy-Centric Approach: Scalable and Secure Federated Learning Enabled by Hybrid Homomorphic Encryption**|Khoa Nguyen et.al.|[2507.14853](http://arxiv.org/abs/2507.14853)|null|
+|**2025-07-20**|**ACME: Adaptive Customization of Large Models via Distributed Systems**|Ziming Dai et.al.|[2507.14802](http://arxiv.org/abs/2507.14802)|null|
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+
+<h3>2025-07-19</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-19**|**FORTA: Byzantine-Resilient FL Aggregation via DFT-Guided Krum**|Usayd Shahul et.al.|[2507.14588](http://arxiv.org/abs/2507.14588)|null|
+|**2025-07-19**|**Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives**|Wenxuan Zeng et.al.|[2507.14519](http://arxiv.org/abs/2507.14519)|null|
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 <h3>2025-07-17</h3>
 
@@ -3449,6 +3522,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Let's Measure the Elephant in the Room: Facilitating Personalized Automated Analysis of Privacy Policies at Scale**|Rui Zhao et.al.|[2507.14214](http://arxiv.org/abs/2507.14214)|null|
 |**2025-07-15**|**What Should LLMs Forget? Quantifying Personal Data in LLMs for Right-to-Be-Forgotten Requests**|Dimitri Staufer et.al.|[2507.11128](http://arxiv.org/abs/2507.11128)|null|
 <p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
@@ -3644,10 +3718,33 @@
 
 ## Forensics
 
+<h3>2025-07-21</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-21**|**Uncovering Critical Features for Deepfake Detection through the Lottery Ticket Hypothesis**|Lisan Al Amin et.al.|[2507.15636](http://arxiv.org/abs/2507.15636)|null|
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+
+<h3>2025-07-20</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-20**|**Frame-level Temporal Difference Learning for Partial Deepfake Speech Detection**|Menglu Li et.al.|[2507.15101](http://arxiv.org/abs/2507.15101)|null|
+|**2025-07-20**|**Seeing Through Deepfakes: A Human-Inspired Framework for Multi-Face Detection**|Juan Hu et.al.|[2507.14807](http://arxiv.org/abs/2507.14807)|null|
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+
+<h3>2025-07-18</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-18**|**Rethinking Individual Fairness in Deepfake Detection**|Aryana Hou et.al.|[2507.14326](http://arxiv.org/abs/2507.14326)|null|
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+
 <h3>2025-07-17</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Culling Misinformation from Gen AI: Toward Ethical Curation and Refinement**|Prerana Khatiwada et.al.|[2507.14242](http://arxiv.org/abs/2507.14242)|null|
 |**2025-07-17**|**Leveraging Pre-Trained Visual Models for AI-Generated Video Detection**|Keerthi Veeramachaneni et.al.|[2507.13224](http://arxiv.org/abs/2507.13224)|null|
 |**2025-07-17**|**SHIELD: A Secure and Highly Enhanced Integrated Learning for Robust Deepfake Detection against Adversarial Attacks**|Kutub Uddin et.al.|[2507.13170](http://arxiv.org/abs/2507.13170)|null|
 |**2025-07-17**|**"What do you expect? You're part of the internet": Analyzing Celebrities' Experiences as Usees of Deepfake Technology**|John Twomey et.al.|[2507.13065](http://arxiv.org/abs/2507.13065)|null|
@@ -4432,6 +4529,32 @@
 
 
 ## AIGC
+
+<h3>2025-07-21</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-21**|**Latent Denoising Makes Good Visual Tokenizers**|Jiawei Yang et.al.|[2507.15856](http://arxiv.org/abs/2507.15856)|null|
+|**2025-07-21**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
+|**2025-07-21**|**The Other Mind: How Language Models Exhibit Human Temporal Cognition**|Lingyu Li et.al.|[2507.15851](http://arxiv.org/abs/2507.15851)|null|
+|**2025-07-21**|**3LM: Bridging Arabic, STEM, and Code through Benchmarking**|Basma El Amel Boussaha et.al.|[2507.15850](http://arxiv.org/abs/2507.15850)|null|
+|**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
+|**2025-07-21**|**FASTGEN: Fast and Cost-Effective Synthetic Tabular Data Generation with LLMs**|Anh Nguyen et.al.|[2507.15839](http://arxiv.org/abs/2507.15839)|null|
+|**2025-07-21**|**Investigating the Use of LLMs for Evidence Briefings Generation in Software Engineering**|Mauro Marcelino et.al.|[2507.15828](http://arxiv.org/abs/2507.15828)|null|
+|**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
+|**2025-07-21**|**ACS: An interactive framework for conformal selection**|Yu Gui et.al.|[2507.15825](http://arxiv.org/abs/2507.15825)|null|
+|**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Enes Sanli et.al.|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
+|**2025-07-21**|**Do AI models help produce verified bug fixes?**|Li Huang et.al.|[2507.15822](http://arxiv.org/abs/2507.15822)|null|
+|**2025-07-21**|**Just Put a Human in the Loop? Investigating LLM-Assisted Annotation for Subjective Tasks**|Hope Schroeder et.al.|[2507.15821](http://arxiv.org/abs/2507.15821)|null|
+|**2025-07-21**|**LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra**|Seth Karten et.al.|[2507.15815](http://arxiv.org/abs/2507.15815)|null|
+|**2025-07-21**|**Diffusion models for multivariate subsurface generation and efficient probabilistic inversion**|Roberto Miele et.al.|[2507.15809](http://arxiv.org/abs/2507.15809)|null|
+|**2025-07-21**|**Small LLMs Do Not Learn a Generalizable Theory of Mind via Reinforcement Learning**|Sneheel Sarangi et.al.|[2507.15788](http://arxiv.org/abs/2507.15788)|null|
+|**2025-07-21**|**Interleaved LLM and Motion Planning for Generalized Multi-Object Collection in Large Scene Graphs**|Ruochu Yang et.al.|[2507.15782](http://arxiv.org/abs/2507.15782)|null|
+|**2025-07-21**|**Reservoir Computing as a Language Model**|Felix Köster et.al.|[2507.15779](http://arxiv.org/abs/2507.15779)|null|
+|**2025-07-21**|**Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR**|Jiakang Wang et.al.|[2507.15778](http://arxiv.org/abs/2507.15778)|null|
+|**2025-07-21**|**Left Leaning Models: AI Assumptions on Economic Policy**|Maxim Chupilkin et.al.|[2507.15771](http://arxiv.org/abs/2507.15771)|null|
+|**2025-07-21**|**A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining**|Yifan Shen et.al.|[2507.15770](http://arxiv.org/abs/2507.15770)|null|
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 <h3>2025-07-18</h3>
 
