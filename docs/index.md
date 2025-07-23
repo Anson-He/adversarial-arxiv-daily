@@ -23,6 +23,42 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-07-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>The Cost of Compression: Tight Quadratic Black-Box Attacks on Sketches for $\ell_2$ Norm Estimation</b></td>
+    <td>Sara Ahmadian et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16345">2507.16345</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Quality Text, Robust Vision: The Role of Language in Enhancing Visual Robustness of Vision-Language Models</b></td>
+    <td>Futa Waseda et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16257">2507.16257</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Attacking interpretable NLP systems</b></td>
+    <td>Eldor Abdukhamidov et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16164">2507.16164</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-21</h3>
 
 <table>
@@ -36,6 +72,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-21</b></td>
+    <td><b>Disrupting Semantic and Abstract Features for Better Adversarial Transferability</b></td>
+    <td>Yuyang Luo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16052">2507.16052</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-21</b></td>
     <td><b>Scaling Decentralized Learning with FLock</b></td>
@@ -5209,6 +5252,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-07-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>DP2Guard: A Lightweight and Byzantine-Robust Privacy-Preserving Federated Learning Scheme for Industrial IoT</b></td>
+    <td>Baofu Han et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16134">2507.16134</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-21</h3>
 
 <table>
@@ -9696,6 +9761,35 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-07-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>FOGNITE: Federated Learning-Enhanced Fog-Cloud Architecture</b></td>
+    <td>Somayeh Sobati-M et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16668">2507.16668</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Design and Implementation of a Lightweight Object Detection System for Resource-Constrained Edge Environments</b></td>
+    <td>Jiyue Jiang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16155">2507.16155</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-21</h3>
 
 <table>
@@ -9709,6 +9803,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-21</b></td>
+    <td><b>Toward music-based stress management: Contemporary biosensing systems for affective regulation</b></td>
+    <td>Natasha Yamane et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16074">2507.16074</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-21</b></td>
     <td><b>FollowUpBot: An LLM-Based Conversational Robot for Automatic Postoperative Follow-up</b></td>
@@ -14432,6 +14533,35 @@ layout: default
 
 ## Forensics
 
+<h3>2025-07-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>A Multimodal Deviation Perceiving Framework for Weakly-Supervised Temporal Forgery Localization</b></td>
+    <td>Wenbo Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16596">2507.16596</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech</b></td>
+    <td>Xuechen Liu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16220">2507.16220</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-21</h3>
 
 <table>
@@ -17303,6 +17433,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Stellar Mass-Dispersion Measure Correlations Constrain Baryonic Feedback in Fast Radio Burst Host Galaxies</b></td>
+    <td>Calvin Leung et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16816">2507.16816</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning</b></td>
+    <td>Chi-Pin Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16815">2507.16815</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs</b></td>
+    <td>Da-Chen Lian et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16809">2507.16809</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis</b></td>
+    <td>Zhihao Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16808">2507.16808</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning</b></td>
+    <td>Yanjun Zheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16802">2507.16802</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent</b></td>
+    <td>Xiaoyu Zhan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16799">2507.16799</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Steering Out-of-Distribution Generalization with Concept Ablation Fine-Tuning</b></td>
+    <td>Helena Casademunt et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16795">2507.16795</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>ChatChecker: A Framework for Dialogue System Testing and Evaluation Through Non-cooperative User Simulation</b></td>
+    <td>Roman Mayr et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16792">2507.16792</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Enhancing Domain Diversity in Synthetic Data Face Recognition with Dataset Fusion</b></td>
+    <td>Anjith George et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16790">2507.16790</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning</b></td>
+    <td>Hongyin Luo et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16784">2507.16784</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Cooling Matters: Benchmarking Large Language Models and Vision-Language Models on Liquid-Cooled Versus Air-Cooled H100 GPU Systems</b></td>
+    <td>Imran Latif et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16781">2507.16781</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>When LLMs Copy to Think: Uncovering Copy-Guided Attacks in Reasoning LLMs</b></td>
+    <td>Yue Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16773">2507.16773</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>WGRAMMAR: Leverage Prior Knowledge to Accelerate Structured Decoding</b></td>
+    <td>Ran Wang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16768">2507.16768</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Never Come Up Empty: Adaptive HyDE Retrieval for Improving LLM Developer Support</b></td>
+    <td>Fangjian Lei et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16754">2507.16754</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges</b></td>
+    <td>Senyao Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16731">2507.16731</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with constraints</b></td>
+    <td>Zhenyun Yin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16727">2507.16727</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>RAVine: Reality-Aligned Evaluation for Agentic Search</b></td>
+    <td>Yilong Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16725">2507.16725</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation</b></td>
+    <td>Yiguo He et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16716">2507.16716</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Advancing Risk and Quality Assurance: A RAG Chatbot for Improved Regulatory Compliance</b></td>
+    <td>Lars Hillebrand et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16711">2507.16711</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Biases in LLM-Generated Musical Taste Profiles for Recommendation</b></td>
+    <td>Bruno Sguerra et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16708">2507.16708</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-22</b></td>
     <td><b>Gemini 2.5 Pro Capable of Winning Gold at IMO 2025</b></td>

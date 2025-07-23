@@ -19,10 +19,20 @@
 
 ## Adversarial attacks
 
+<h3>2025-07-22</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-22**|**The Cost of Compression: Tight Quadratic Black-Box Attacks on Sketches for $\ell_2$ Norm Estimation**|Sara Ahmadian et.al.|[2507.16345](http://arxiv.org/abs/2507.16345)|null|
+|**2025-07-22**|**Quality Text, Robust Vision: The Role of Language in Enhancing Visual Robustness of Vision-Language Models**|Futa Waseda et.al.|[2507.16257](http://arxiv.org/abs/2507.16257)|null|
+|**2025-07-22**|**Attacking interpretable NLP systems**|Eldor Abdukhamidov et.al.|[2507.16164](http://arxiv.org/abs/2507.16164)|null|
+<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+
 <h3>2025-07-21</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Disrupting Semantic and Abstract Features for Better Adversarial Transferability**|Yuyang Luo et.al.|[2507.16052](http://arxiv.org/abs/2507.16052)|null|
 |**2025-07-21**|**Scaling Decentralized Learning with FLock**|Zehua Cheng et.al.|[2507.15349](http://arxiv.org/abs/2507.15349)|null|
 <p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
 
@@ -1232,6 +1242,13 @@
 
 
 ## Poisoning attacks
+
+<h3>2025-07-22</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-22**|**DP2Guard: A Lightweight and Byzantine-Robust Privacy-Preserving Federated Learning Scheme for Industrial IoT**|Baofu Han et.al.|[2507.16134](http://arxiv.org/abs/2507.16134)|null|
+<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
 
 <h3>2025-07-21</h3>
 
@@ -2477,10 +2494,19 @@
 
 ## Data privacy
 
+<h3>2025-07-22</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-22**|**FOGNITE: Federated Learning-Enhanced Fog-Cloud Architecture**|Somayeh Sobati-M et.al.|[2507.16668](http://arxiv.org/abs/2507.16668)|null|
+|**2025-07-22**|**Design and Implementation of a Lightweight Object Detection System for Resource-Constrained Edge Environments**|Jiyue Jiang et.al.|[2507.16155](http://arxiv.org/abs/2507.16155)|null|
+<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+
 <h3>2025-07-21</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Toward music-based stress management: Contemporary biosensing systems for affective regulation**|Natasha Yamane et.al.|[2507.16074](http://arxiv.org/abs/2507.16074)|null|
 |**2025-07-21**|**FollowUpBot: An LLM-Based Conversational Robot for Automatic Postoperative Follow-up**|Chen Chen et.al.|[2507.15502](http://arxiv.org/abs/2507.15502)|null|
 |**2025-07-21**|**Scaling Decentralized Learning with FLock**|Zehua Cheng et.al.|[2507.15349](http://arxiv.org/abs/2507.15349)|null|
 <p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
@@ -3718,6 +3744,14 @@
 
 ## Forensics
 
+<h3>2025-07-22</h3>
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-07-22**|**A Multimodal Deviation Perceiving Framework for Weakly-Supervised Temporal Forgery Localization**|Wenbo Xu et.al.|[2507.16596](http://arxiv.org/abs/2507.16596)|null|
+|**2025-07-22**|**LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech**|Xuechen Liu et.al.|[2507.16220](http://arxiv.org/abs/2507.16220)|null|
+<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+
 <h3>2025-07-21</h3>
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -4534,6 +4568,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Stellar Mass-Dispersion Measure Correlations Constrain Baryonic Feedback in Fast Radio Burst Host Galaxies**|Calvin Leung et.al.|[2507.16816](http://arxiv.org/abs/2507.16816)|null|
+|**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
+|**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809](http://arxiv.org/abs/2507.16809)|null|
+|**2025-07-22**|**Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis**|Zhihao Xu et.al.|[2507.16808](http://arxiv.org/abs/2507.16808)|null|
+|**2025-07-22**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
+|**2025-07-22**|**Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent**|Xiaoyu Zhan et.al.|[2507.16799](http://arxiv.org/abs/2507.16799)|null|
+|**2025-07-22**|**Steering Out-of-Distribution Generalization with Concept Ablation Fine-Tuning**|Helena Casademunt et.al.|[2507.16795](http://arxiv.org/abs/2507.16795)|null|
+|**2025-07-22**|**ChatChecker: A Framework for Dialogue System Testing and Evaluation Through Non-cooperative User Simulation**|Roman Mayr et.al.|[2507.16792](http://arxiv.org/abs/2507.16792)|null|
+|**2025-07-22**|**Enhancing Domain Diversity in Synthetic Data Face Recognition with Dataset Fusion**|Anjith George et.al.|[2507.16790](http://arxiv.org/abs/2507.16790)|null|
+|**2025-07-22**|**Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning**|Hongyin Luo et.al.|[2507.16784](http://arxiv.org/abs/2507.16784)|null|
+|**2025-07-22**|**Cooling Matters: Benchmarking Large Language Models and Vision-Language Models on Liquid-Cooled Versus Air-Cooled H100 GPU Systems**|Imran Latif et.al.|[2507.16781](http://arxiv.org/abs/2507.16781)|null|
+|**2025-07-22**|**When LLMs Copy to Think: Uncovering Copy-Guided Attacks in Reasoning LLMs**|Yue Li et.al.|[2507.16773](http://arxiv.org/abs/2507.16773)|null|
+|**2025-07-22**|**WGRAMMAR: Leverage Prior Knowledge to Accelerate Structured Decoding**|Ran Wang et.al.|[2507.16768](http://arxiv.org/abs/2507.16768)|null|
+|**2025-07-22**|**Never Come Up Empty: Adaptive HyDE Retrieval for Improving LLM Developer Support**|Fangjian Lei et.al.|[2507.16754](http://arxiv.org/abs/2507.16754)|null|
+|**2025-07-22**|**Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges**|Senyao Li et.al.|[2507.16731](http://arxiv.org/abs/2507.16731)|null|
+|**2025-07-22**|**Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with constraints**|Zhenyun Yin et.al.|[2507.16727](http://arxiv.org/abs/2507.16727)|null|
+|**2025-07-22**|**RAVine: Reality-Aligned Evaluation for Agentic Search**|Yilong Xu et.al.|[2507.16725](http://arxiv.org/abs/2507.16725)|null|
+|**2025-07-22**|**Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation**|Yiguo He et.al.|[2507.16716](http://arxiv.org/abs/2507.16716)|null|
+|**2025-07-22**|**Advancing Risk and Quality Assurance: A RAG Chatbot for Improved Regulatory Compliance**|Lars Hillebrand et.al.|[2507.16711](http://arxiv.org/abs/2507.16711)|null|
+|**2025-07-22**|**Biases in LLM-Generated Musical Taste Profiles for Recommendation**|Bruno Sguerra et.al.|[2507.16708](http://arxiv.org/abs/2507.16708)|null|
 |**2025-07-22**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
 <p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
 
