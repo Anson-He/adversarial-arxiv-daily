@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -17290,6 +17290,28 @@ layout: default
 
 ## AIGC
 
+<h3>2025-07-22</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Gemini 2.5 Pro Capable of Winning Gold at IMO 2025</b></td>
+    <td>Yichen Huang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.15855">2507.15855</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-21</h3>
 
 <table>
@@ -17308,13 +17330,6 @@ layout: default
     <td><b>Latent Denoising Makes Good Visual Tokenizers</b></td>
     <td>Jiawei Yang et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.15856">2507.15856</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-21</b></td>
-    <td><b>Gemini 2.5 Pro Capable of Winning Gold at IMO 2025</b></td>
-    <td>Yichen Huang et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.15855">2507.15855</a></td>
     <td>null</td>
        </tr>
        <tr>
