@@ -23,6 +23,35 @@ layout: default
 
 ## Adversarial attacks
 
+<h3>2025-07-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>Boosting Ray Search Procedure of Hard-label Attacks with Transfer-based Priors</b></td>
+    <td>Chen Ma et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17577">2507.17577</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>An h-space Based Adversarial Attack for Protection Against Few-shot Personalization</b></td>
+    <td>Xide Xu et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17554">2507.17554</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-22</h3>
 
 <table>
@@ -36,6 +65,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Advancing Robustness in Deep Reinforcement Learning with an Ensemble Defense Approach</b></td>
+    <td>Adithya Mohan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17070">2507.17070</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-22</b></td>
     <td><b>The Cost of Compression: Tight Quadratic Black-Box Attacks on Sketches for $\ell_2$ Norm Estimation</b></td>
@@ -9776,6 +9812,35 @@ layout: default
 
 ## Data privacy
 
+<h3>2025-07-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>Enhancing Quantum Federated Learning with Fisher Information-Based Optimization</b></td>
+    <td>Amandeep Singh Bhatia et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17580">2507.17580</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>Frequency Estimation of Correlated Multi-attribute Data under Local Differential Privacy</b></td>
+    <td>Shafizur Rahman Seeam et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17516">2507.17516</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-22</h3>
 
 <table>
@@ -9789,6 +9854,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Finding Dori: Memorization in Text-to-Image Diffusion Models Is Less Local Than Assumed</b></td>
+    <td>Antoni Kowalczuk et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16880">2507.16880</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-22</b></td>
     <td><b>FOGNITE: Federated Learning-Enhanced Fog-Cloud Architecture</b></td>
@@ -13922,6 +13994,28 @@ layout: default
 
 ## Model Privacy
 
+<h3>2025-07-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>FedVLM: Scalable Personalized Vision-Language Models through Federated Learning</b></td>
+    <td>Arkajyoti Mitra et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17088">2507.17088</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-15</h3>
 
 <table>
@@ -14561,6 +14655,13 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-22</b></td>
+    <td><b>Towards Trustworthy AI: Secure Deepfake Detection using CNNs and Zero-Knowledge Proofs</b></td>
+    <td>H M Mohaimanul Islam et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17010">2507.17010</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-22</b></td>
     <td><b>A Multimodal Deviation Perceiving Framework for Weakly-Supervised Temporal Forgery Localization</b></td>
@@ -17448,6 +17549,146 @@ layout: default
        </tr>
    </thead>
    <tbody>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>Yume: An Interactive World Generation Model</b></td>
+    <td>Xiaofeng Mao et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17744">2507.17744</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>Flow Matching Meets Biology and Life Science: A Survey</b></td>
+    <td>Zihao Li et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17731">2507.17731</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems</b></td>
+    <td>Malsha Ashani Mahawatta Dona et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17722">2507.17722</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>AI Telephone Surveying: Automating Quantitative Data Collection with an AI Interviewer</b></td>
+    <td>Danny D. Leybzon et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17718">2507.17718</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>From Feedback to Checklists: Grounded Evaluation of AI-Generated Clinical Notes</b></td>
+    <td>Karen Zhou et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17717">2507.17717</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>HydraOpt: Navigating the Efficiency-Performance Trade-off of Adapter Merging</b></td>
+    <td>Taha Ceritli et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17706">2507.17706</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>Towards Greater Leverage: Scaling Laws for Efficient Mixture-of-Experts Language Models</b></td>
+    <td>Changxin Tian et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17702">2507.17702</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>Thinking Isn't an Illusion: Overcoming the Limitations of Reasoning Models via Tool Augmentations</b></td>
+    <td>Zhao Song et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17699">2507.17699</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks</b></td>
+    <td>Ilias Chatzistefanidis et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17695">2507.17695</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>CASCADE: LLM-Powered JavaScript Deobfuscator at Google</b></td>
+    <td>Shan Jiang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17691">2507.17691</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>Simulating multiple human perspectives in socio-ecological systems using large language models</b></td>
+    <td>Yongchao Zeng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17680">2507.17680</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>How Should We Meta-Learn Reinforcement Learning Algorithms?</b></td>
+    <td>Alexander David Goldie et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17668">2507.17668</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>CNS-Bench: Benchmarking Image Classifier Robustness Under Continuous Nuisance Shifts</b></td>
+    <td>Olaf Dünkel et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17651">2507.17651</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>Who Attacks, and Why? Using LLMs to Identify Negative Campaigning in 18M Tweets across 19 Countries</b></td>
+    <td>Victor Hartman et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17636">2507.17636</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>WSM: Decay-Free Learning Rate Schedule via Checkpoint Merging for LLM Pre-training</b></td>
+    <td>Changxin Tian et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17634">2507.17634</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>From Scan to Action: Leveraging Realistic Scans for Embodied Scene Understanding</b></td>
+    <td>Anna-Maria Halacheva et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17585">2507.17585</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>Synthetic Voice Data for Automatic Speech Recognition in African Languages</b></td>
+    <td>Brian DeRenzi et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17578">2507.17578</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning</b></td>
+    <td>Lingxiao Tang et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17548">2507.17548</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests</b></td>
+    <td>Lara Khatib et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17542">2507.17542</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>Enabling Cyber Security Education through Digital Twins and Generative AI</b></td>
+    <td>Vita Santa Barletta et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.17518">2507.17518</a></td>
+    <td>null</td>
+       </tr>
        <tr>
     <td><b>2025-07-23</b></td>
     <td><b>Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning</b></td>
