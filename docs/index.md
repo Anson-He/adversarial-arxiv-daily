@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <h2>Contents</h2>
@@ -5252,6 +5252,28 @@ layout: default
 
 ## Poisoning attacks
 
+<h3>2025-07-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>Fake or Real: The Impostor Hunt in Texts for Space Operations</b></td>
+    <td>Agata Kaczmarek et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.13508">2507.13508</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-22</h3>
 
 <table>
@@ -5299,13 +5321,6 @@ layout: default
     <td><b>SOI Matters: Analyzing Multi-Setting Training Dynamics in Pretrained Language Models via Subsets of Interest</b></td>
     <td>Shayan Vassef et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.15236">2507.15236</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-21</b></td>
-    <td><b>Fake or Real: The Impostor Hunt in Texts for Space Operations</b></td>
-    <td>Agata Kaczmarek et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.13508">2507.13508</a></td>
     <td>null</td>
        </tr>
    </tbody>
@@ -8395,6 +8410,28 @@ layout: default
 
 ## Generative models safety
 
+<h3>2025-07-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning</b></td>
+    <td>Gabriel J. Perin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2506.15606">2506.15606</a></td>
+    <td>**[link](https://github.com/vita-group/lox)**</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-21</h3>
 
 <table>
@@ -8531,28 +8568,6 @@ layout: default
     <td>Aldan Creo et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.08014">2507.08014</a></td>
     <td>null</td>
-       </tr>
-   </tbody>
-</table>
-<h3>2025-06-18</h3>
-
-<table>
-   <thead>
-       <tr>
-           <th>Publish Date</th>
-           <th>Title</th>
-           <th>Authors</th>
-           <th>PDF</th>
-           <th>Code</th>
-       </tr>
-   </thead>
-   <tbody>
-       <tr>
-    <td><b>2025-06-18</b></td>
-    <td><b>LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning</b></td>
-    <td>Gabrel J. Perin et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2506.15606">2506.15606</a></td>
-    <td>**[link](https://github.com/vita-group/lox)**</td>
        </tr>
    </tbody>
 </table>
@@ -17420,6 +17435,42 @@ layout: default
 
 ## AIGC
 
+<h3>2025-07-23</h3>
+
+<table>
+   <thead>
+       <tr>
+           <th>Publish Date</th>
+           <th>Title</th>
+           <th>Authors</th>
+           <th>PDF</th>
+           <th>Code</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning</b></td>
+    <td>Yanjun Zheng et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16802">2507.16802</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent</b></td>
+    <td>Xiaoyu Zhan et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16799">2507.16799</a></td>
+    <td>null</td>
+       </tr>
+       <tr>
+    <td><b>2025-07-23</b></td>
+    <td><b>Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with constraints</b></td>
+    <td>Zhenyun Yin et.al.</td>
+    <td><a href="#http://arxiv.org/abs/2507.16727">2507.16727</a></td>
+    <td>null</td>
+       </tr>
+   </tbody>
+</table>
 <h3>2025-07-22</h3>
 
 <table>
@@ -17459,20 +17510,6 @@ layout: default
     <td><b>Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis</b></td>
     <td>Zhihao Xu et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.16808">2507.16808</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-22</b></td>
-    <td><b>Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning</b></td>
-    <td>Yanjun Zheng et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.16802">2507.16802</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-22</b></td>
-    <td><b>Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent</b></td>
-    <td>Xiaoyu Zhan et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.16799">2507.16799</a></td>
     <td>null</td>
        </tr>
        <tr>
@@ -17536,13 +17573,6 @@ layout: default
     <td><b>Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges</b></td>
     <td>Senyao Li et.al.</td>
     <td><a href="#http://arxiv.org/abs/2507.16731">2507.16731</a></td>
-    <td>null</td>
-       </tr>
-       <tr>
-    <td><b>2025-07-22</b></td>
-    <td><b>Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with constraints</b></td>
-    <td>Zhenyun Yin et.al.</td>
-    <td><a href="#http://arxiv.org/abs/2507.16727">2507.16727</a></td>
     <td>null</td>
        </tr>
        <tr>
